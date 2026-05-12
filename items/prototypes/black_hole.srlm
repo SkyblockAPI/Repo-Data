@@ -1,0 +1,23 @@
+category = "deployable";
+type = "Hunting Tool";
+item = "player_head";
+
+abilities = [
+    {
+        name: "Black Hole",
+        trigger: "RIGHT CLICK",
+        text: [
+        {text: "Place the Black Hole for ", color: "gray", extra:[{text: "180s", color: "green"}, {text: ", and"}]},
+        {text: "it'll starting ", color: "gray", extra:[{text: "low HP", color: "red"}, {text: " monsters"}]},
+        {text: "towards it.", color: "gray"}
+        ],
+        cooldown: "2s"
+    }
+];
+
+lore.after_ability = [
+    {text: "Harness the power of Gravity!", color: "dark_gray", italic: true},
+    {},
+    {text: "Monsters below ", color: "gray", extra: [{text: "10% ", color: "lime"}, {text: "HP can get"}]},
+    {text: "their ", color: "gray", extra: [{text: "Shard ", color: "blue"}, {text: "captured!"}]}
+];

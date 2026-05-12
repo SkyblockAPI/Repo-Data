@@ -1,23 +1,9 @@
 meta {
+    include("items/prototypes/fishing_net");
+
     stats.pull = 25;
     rarity = "RARE";
-    category = "FISHING NET";
-    type = "Hunting Tool";
-    item = "cobweb";
     name = "Medium Fishing Net";#
-
-    abilities = [
-        {
-          name: "Yoink",
-          trigger: "RIGHT CLICK",
-          text: [
-            {text: "Throw your fishing net at swimming", color: "gray"},
-            {text: "fish to catch them!", color: "gray"}
-          ],
-          mana_cost: 10,
-          cooldown: "0.5s"
-        }
-    ];
 
     lore.after_ability = [
         {text: "Throw Distance: ", color: "gray", extra: [{text: "+50%", color: "lime"}]}

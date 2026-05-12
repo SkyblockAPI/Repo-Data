@@ -1,0 +1,16 @@
+category = "FISHING NET";
+type = "Hunting Tool";
+item = "cobweb";
+
+abilities = [
+    {
+        name: "Yoink",
+        trigger: "RIGHT CLICK",
+        text: [
+        {text: "Throw your fishing net at swimming", color: "gray"},
+        {text: "fish to catch them!", color: "gray"}
+        ],
+        mana_cost: 10,
+        cooldown: "0.5s"
+    }
+];

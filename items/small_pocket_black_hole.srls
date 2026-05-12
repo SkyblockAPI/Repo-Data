@@ -1,28 +1,7 @@
 meta {
     rarity = "UNCOMMON";
-    category = "deployable";
-    type = "Hunting Tool";
-    item = "player_head";
     name = "Small Pocket Black Hole";
     skin = "ewogICJ0aW1lc3RhbXAiIDogMTczNjE4NDg1MjkxMCwKICAicHJvZmlsZUlkIiA6ICI5OWY1MzhjMDhlN2E0NTg3YmU4MGJjNGVmNzU0ZmQyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb2xvV1MyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q2MWI4N2YxYTEwNDBhOGI5MjJjYTUxYmU5YzBiYzZkNmZjNzFiYTVkNzQ1YzZiZjY1OWNiZDBkOWE5Y2Y0ZmMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
 
-    abilities = [
-        {
-          name: "Black Hole",
-          trigger: "RIGHT CLICK",
-          text: [
-            {text: "Place the Black Hole for ", color: "gray", extra:[{text: "180s", color: "green"}, {text: ", and"}]},
-            {text: "it'll starting ", color: "gray", extra:[{text: "low HP", color: "red"}, {text: " monsters"}]},
-            {text: "towards it.", color: "gray"}
-          ],
-          cooldown: "2s"
-        }
-    ];
-
-    lore.after_ability = [
-        {text: "Harness the power of Gravity!", color: "dark_gray", italic: true},
-        {},
-        {text: "Monsters below ", color: "gray", extra: [{text: "10% ", color: "lime"}, {text: "HP can get"}]},
-        {text: "their ", color: "gray", extra: [{text: "Shard ", color: "blue"}, {text: "captured!"}]}
-    ];
+    include("items/prototypes/black_hole");
 }
