@@ -1,0 +1,23 @@
+temp.footer = {};
+
+if (Rarity.isRecombobulated()) {
+    temp.footer.left = {text: "a ", obfuscated: true};
+    temp.footer.right = {text: " a", obfuscated: true};
+};
+
+if ("category" in meta) {
+    temp.footer.category = {text: String.concat(" ", String.uppercase(meta.category))};
+};
+
+temp.rarity = Rarity.stack();
+
+stack.lore.add({
+    extra: [
+        temp.footer.left,
+        {text: Rarity.name(temp.rarity)},
+        temp.footer.category,
+        temp.footer.right
+    ],
+    color: Rarity.color(temp.rarity),
+    bold: true
+});

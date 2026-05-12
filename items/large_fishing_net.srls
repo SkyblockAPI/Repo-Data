@@ -1,0 +1,25 @@
+meta {
+    stats.pull = 50;
+    rarity = "EPIC";
+    category = "FISHING NET";
+    type = "Hunting Tool";
+    item = "cobweb";
+    name = "Large Fishing Net";
+
+    abilities = [
+        {
+          name: "Yoink",
+          trigger: "RIGHT CLICK",
+          text: [
+            {text: "Throw your fishing net at swimming", color: "gray"},
+            {text: "fish to catch them!", color: "gray"}
+          ],
+          mana_cost: 10,
+          cooldown: "0.5s"
+        }
+    ];
+
+    lore.after_ability = [
+        {text: "Throw Distance: ", color: "gray", extra: [{text: "+100%", color: "lime"}]}
+    ];
+}

@@ -1,0 +1,16 @@
+include("stats/farming/bonus_pest_chance");
+include("stats/farming/overbloom");
+include("stats/farming/farming_fortune");
+include("stats/farming/wheat_fortune");
+include("stats/farming/carrot_fortune");
+include("stats/farming/potato_fortune");
+include("stats/farming/pumpkin_fortune");
+include("stats/farming/sugar_cane_fortune");
+include("stats/farming/melon_fortune");
+include("stats/farming/cactus_fortune");
+include("stats/farming/cocoa_beans_fortune");
+include("stats/farming/mushroom_fortune");
+include("stats/farming/nether_wart_fortune");
+include("stats/farming/sunflower_fortune");
+include("stats/farming/moonflower_fortune");
+include("stats/farming/wildrose_fortune");

@@ -1,0 +1,31 @@
+meta {
+    rarity = "RARE";
+    category = "deployable";
+    type = "Hunting Tool";
+    item = "player_head";
+    name = "Medium Pocket Black Hole";
+    skin = "ewogICJ0aW1lc3RhbXAiIDogMTczNjE4NDg2Nzc3MywKICAicHJvZmlsZUlkIiA6ICJjNmViMzdjNmE4YjM0MDI3OGJjN2FmZGE3ZjMxOWJmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbFJleUNhbGFiYXphbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NWI3MGYwOTRlMDE2Nzk1MDhkZDViY2EzOTY0MGVkOWVjNWM2YzY3OTJmYmQ4ZjU3YzAzYjNhMTJmOWMwYTkyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+
+    abilities = [
+        {
+          name: "Black Hole",
+          trigger: "RIGHT CLICK",
+          text: [
+            {text: "Place the Black Hole for ", color: "gray", extra:[{text: "180s", color: "green"}, {text: ", and"}]},
+            {text: "it'll starting ", color: "gray", extra:[{text: "low HP", color: "red"}, {text: " monsters"}]},
+            {text: "towards it.", color: "gray"}
+          ],
+          cooldown: "2s"
+        }
+    ];
+
+    lore.after_ability = [
+        {text: "Harness the power of Gravity!", color: "dark_gray", italic: true},
+        {},
+        {text: "Monsters below ", color: "gray", extra: [{text: "10% ", color: "lime"}, {text: "HP can get"}]},
+        {text: "their ", color: "gray", extra: [{text: "Shard ", color: "blue"}, {text: "captured!"}]},
+        {},
+        {text: "Grant ", color: "gray", extra: [{text: "10% ", color: "lime"}, {text: "chance to gain a second"}]},
+        {text: "shard from the monster!", color: "gray"}
+    ];
+}

@@ -1,0 +1,24 @@
+category = "LASSO";
+type = "Hunting Tool";
+item = "lead";
+
+abilities = [
+    {
+      name: "Throw",
+      trigger: "RIGHT CLICK",
+      text: [
+        {text: "Throw the lasso at", color: "gray", extra: [{text: " Forest", color: "dark_green"}]},
+        {text: "creatures and holde them still until", color: "gray"},
+        {text: "they lost their ", color: "gray", extra: [{text: "Stamina", color: "blue"}, "."]}
+      ]
+    },
+    {
+      name: "Reel In",
+      trigger: "RIGHT CLICK",
+      text: [
+        {text: "Reel in creatures caught by the", color: "gray"},
+        {text: "Lasso each time their ", color: "gray", extra: [{text: "stamina", color: "blue"}]},
+        {text: "depletes.", color: "gray"}
+      ]
+    }
+];

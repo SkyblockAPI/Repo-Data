@@ -1,0 +1,7 @@
+
+items = list("items");
+
+for (temp.i = 0; Math.lt(i, items.length); temp.i = Math.add(temp.i, 1)) {
+    temp.item = items.get(temp.i);
+    id({id: temp.item.id});
+};

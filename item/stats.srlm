@@ -1,0 +1,15 @@
+
+if ("stats" in meta) {
+    stack.lore.beginSection();
+
+    include("stats/combat");
+    include("stats/mining");
+    include("stats/farming");
+    include("stats/foraging");
+    include("stats/fishing");
+    include("stats/misc");
+    include("stats/hunting");
+    include("stats/wisdom");
+
+    stack.lore.endSection();
+};

@@ -1,0 +1,10 @@
+meta {
+    include("items/prototypes/lasso");
+
+    rarity = "UNCOMMON";
+    name = "Vinesap Lasso";
+
+    lore.after_ability = [
+        {text: "Creatures use stamina ", color: "gray", extra: [{text: "20%", color: "dark_green"}, " faster."]}
+    ];
+}

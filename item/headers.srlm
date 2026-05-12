@@ -1,0 +1,5 @@
+
+
+if ("type" in meta) {
+    stack.lore.add({text: meta.type, color: "dark_gray"});
+};

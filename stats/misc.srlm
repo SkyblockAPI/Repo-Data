@@ -1,0 +1,9 @@
+include("stats/misc/speed");
+include("stats/misc/magic_find");
+include("stats/misc/pet_luck");
+include("stats/misc/heat_resistance");
+include("stats/misc/cold_resistance");
+include("stats/misc/respiration");
+include("stats/misc/pressure_resistance");
+include("stats/misc/fear");
+include("stats/misc/tracking");

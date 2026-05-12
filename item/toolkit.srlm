@@ -1,0 +1,8 @@
+if ("toolkit_type" in data) {
+    stack.lore.beginSection();
+
+    stack.lore.add({text: "❒", color: "red", extra: [{text: " Part of a Toolkit!", color: "gray"}]});
+    stack.lore.add({text: "Sneak + Right-click to switch tools!", color: "dark_gray"});
+
+    stack.lore.endSection();
+};

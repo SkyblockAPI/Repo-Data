@@ -1,0 +1,9 @@
+include("stats/mining/mining_speed");
+include("stats/mining/mining_spread");
+include("stats/mining/gemstone_spread");
+include("stats/mining/pristine");
+include("stats/mining/mining_fortune");
+include("stats/mining/ore_fortune");
+include("stats/mining/block_fortune");
+include("stats/mining/dwarven_metal_fortune");
+include("stats/mining/gemstone_fortune");

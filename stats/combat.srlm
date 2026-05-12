@@ -1,0 +1,14 @@
+include("stats/combat/health");
+include("stats/combat/defense");
+include("stats/combat/true_defense");
+include("stats/combat/strength");
+include("stats/combat/crit_chance");
+include("stats/combat/crit_damage");
+include("stats/combat/attack_speed");
+include("stats/combat/ferocity");
+include("stats/combat/swing_range");
+include("stats/combat/intelligence");
+include("stats/combat/ability_damage");
+include("stats/combat/health_regen");
+include("stats/combat/vitality");
+include("stats/combat/mending");

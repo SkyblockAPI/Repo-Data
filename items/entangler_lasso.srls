@@ -1,0 +1,10 @@
+meta {
+    include("items/prototypes/lasso");
+
+    rarity = "RARE";
+    name = "Entangler Lasso";
+
+    lore.after_ability = [
+        {text: "Creatures use stamina ", color: "gray", extra: [{text: "40%", color: "dark_green"}, " faster."]}
+    ];
+}

@@ -1,0 +1,2 @@
+include("stats/hunting/pull");
+include("stats/hunting/hunter_fortune");

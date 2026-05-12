@@ -1,0 +1,10 @@
+meta {
+    include("items/prototypes/lasso");
+
+    rarity = "EPIC";
+    name = "Everstretch Lasso";
+
+    lore.after_ability = [
+        {text: "Creatures use stamina ", color: "gray", extra: [{text: "60%", color: "dark_green"}, " faster."]}
+    ];
+}

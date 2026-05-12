@@ -1,0 +1,12 @@
+include("stats/wisdom/combat_wisdom");
+include("stats/wisdom/farming_wisdom");
+include("stats/wisdom/fishing_wisdom");
+include("stats/wisdom/mining_wisdom");
+include("stats/wisdom/foraging_wisdom");
+include("stats/wisdom/enchanting_wisdom");
+include("stats/wisdom/alchemy_wisdom");
+include("stats/wisdom/carpentry_wisdom");
+include("stats/wisdom/runecrafting_wisdom");
+include("stats/wisdom/taming_wisdom");
+include("stats/wisdom/social_wisdom");
+include("stats/wisdom/hunting_wisdom");

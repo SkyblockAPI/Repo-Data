@@ -1,0 +1,34 @@
+lore = {};
+
+if ("lore" in meta) {
+    lore = meta.lore;
+};
+
+include("item/name");
+include("item/headers");
+include("item/stats");
+
+if ("after_stats" in lore) {
+    stack.lore.beginSection();
+    stack.lore.addAll(lore.after_stats);
+    stack.lore.endSection();
+};
+
+include("item/ability");
+
+if ("after_ability" in lore) {
+    stack.lore.beginSection();
+    stack.lore.addAll(lore.after_ability);
+    stack.lore.endSection();
+};
+
+include("item/toolkit");
+include("item/footer");
+
+if ("item" in meta) {
+    stack.item = meta.item;
+};
+
+if ("skin" in meta) {
+    stack.skin = meta.skin;
+};

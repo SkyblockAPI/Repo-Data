@@ -1,0 +1,12 @@
+meta {
+    include("items/prototypes/lasso");
+
+    rarity = "COMMON";
+    name = "Abysmal Lasso";
+    soulbound = "SOLO";
+
+    lore.after_stats = [
+        {text: "This is barely holding together,", color: "gray", italic: true},
+        {text: "seriously who made this?", color: "gray", italic: true}
+    ];
+}
