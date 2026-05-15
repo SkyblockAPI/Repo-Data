@@ -1,0 +1,12 @@
+meta {
+    include("items/prototypes/hunting_trap");
+
+    rarity = "RARE";
+    name = "Large Huntrap";
+    abilities.add({
+        name: "Robusta",
+        text: {text: "Reduces the time to capture by", color: "gray", extra: [{text: " 20%", color: "red"}, "."]}
+    });
+    lore.after_ability = {text: "In robore, fiducia!", italic: true, color: "gray"};
+    skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxOTMyODMzODYzMywKICAicHJvZmlsZUlkIiA6ICI1ZTI1YzI0ZmIxMGI0MTlmOWIzYTQzMWIyOTYzYjQ2YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6MW5jcSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNTRkZDkzOTdiZDdlNjhiN2VmMmNjMWIzN2MzMzAxZWEwZWQwMGI0MzM3MWM2N2NiMjQwMzA2MzhhN2EzNTIwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+}

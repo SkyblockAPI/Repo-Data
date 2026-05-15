@@ -1,0 +1,15 @@
+category = "TRAP";
+type = "Hunting Tool";
+item = "player_head";
+
+abilities = [
+    {
+        name: "Retentio",
+        trigger: "RIGHT CLICK",
+        text: [
+            {color: "gray", extra: [{text: "Traps", color: "red"}, " can be placed near the spawn"]},
+            {text: "location of a ", color: "gray", extra: [{text: "Shard", color: "blue"}, " creature, with"]},
+            {text: "time it will eventually catch it.", color: "gray"},
+        ]
+    }
+];

@@ -1,0 +1,12 @@
+meta {
+    include("items/prototypes/hunting_trap");
+
+    rarity = "UNCOMMON";
+    name = "Medium Huntrap";
+    abilities.add({
+        name: "Meliora",
+        text: {text: "Reduces the time to capture by", color: "gray", extra: [{text: " 10%", color: "red"}, "."]}
+    });
+    lore.after_ability = {text: "Ubi ars naturam superat!", italic: true, color: "dark_gray"};
+    skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxOTMyODMxMDUwMSwKICAicHJvZmlsZUlkIiA6ICIzZWUxYWRlMzljZDI0ZjFkOWYwODliYjA2ZTkzNTY5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSdXNvR01SIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M1YWVlNTRlZWE3ZjI5MWRkODEzNDRmZTgzMWI0OTdlNjZmMGNiMzQ4NDA4YTE3NTM2MzZiMDliN2E3NWE2MmQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+}
