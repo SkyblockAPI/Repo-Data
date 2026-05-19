@@ -8,12 +8,17 @@ base_enchantments = [];
 debug;
 
 for (temp.enchantment = 0; Math.lt(temp.enchantment, enchantments.length); temp.enchantment = Math.add(temp.enchantment, 1)) {
+    enchantment = {};
     temp.current = enchantments.get(temp.enchantment);
     enchantment.level = temp.current.value;
     include(String.concat("enchantments/", temp.current.key));
 
     temp.enchantment_key = Component.asString(enchantment.name);
     enchantments[temp.enchantment_key] = enchantment;
+    if ("is_legacy" in enchantment) {
+        continue;
+    };
+
     if ("is_ultimate" in enchantment) {
         if (enchantment.is_ultimate) {
             ultimate = temp.enchantment_key;

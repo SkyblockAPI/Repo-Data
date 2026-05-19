@@ -31,7 +31,16 @@ for (temp.i = 0; Math.lt(temp.i, abilities.length); temp.i = Math.add(temp.i, 1)
     stack.lore.addAll(temp.ability.text);
 
     if ("mana_cost" in temp.ability) {
-        stack.lore.add({text: "Mana Cost: ", color: "dark_gray", extra: [{text: String.uFormatted(temp.ability.mana_cost), color: "cyan"}]});
+        temp.ability_mana_cost = temp.ability.mana_cost;
+        if ("enchantments" in data) {
+            if ("ultimate_wise" in data.enchantments) {
+                temp.reduction = Math.sub(1, Math.div(Math.mul(10, data.enchantments.ultimate_wise), 100));
+                debug;
+                temp.ability_mana_cost = Math.mul(temp.ability_mana_cost, temp.reduction);
+            };
+        };
+
+        stack.lore.add({text: "Mana Cost: ", color: "dark_gray", extra: [{text: String.uFormatted(temp.ability_mana_cost), color: "cyan"}]});
     };
 
     if ("soulflow_cost" in temp.ability) {

@@ -1,0 +1,17 @@
+enchantment.name = {text: "Ultimate Wise", color: "pink", bold: true};
+enchantment.is_ultimate = true;
+
+include("item/update_enchantment");
+
+temp.reduction = Math.mul(10, Math.clamp(enchantment.level, 1, 5));
+
+enchantment.description = [
+    {text: "Reduces the ability mana cost of this", color: "gray"},
+    {text: "item by ", extra: [{text: String.uFormatted(temp.reduction), color: "lime", extra: ["%"]}, "."], color: "gray"}
+];
+enchantment.applicable = [];
+
+enchantment.rarity = "COMMON";
+if (Math.gte(enchantment.level, 5)) {
+    enchantment.rarity = "UNCOMMON";
+};
