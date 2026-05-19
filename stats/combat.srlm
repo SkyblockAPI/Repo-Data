@@ -1,3 +1,4 @@
+include("stats/combat/damage");
 include("stats/combat/health");
 include("stats/combat/defense");
 include("stats/combat/true_defense");

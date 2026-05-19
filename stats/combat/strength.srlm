@@ -1,0 +1,3 @@
+if ("strength" in meta.stats) {
+    stack.lore.add({text: "Strength: ", color: "gray", extra: [{text: String.formatted(meta.stats.strength), color: "red"}]});
+};

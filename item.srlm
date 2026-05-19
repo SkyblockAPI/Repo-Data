@@ -8,6 +8,8 @@ include("item/name");
 include("item/headers");
 include("item/stats");
 
+include("item/enchantments");
+
 if ("after_stats" in lore) {
     stack.lore.beginSection();
     stack.lore.addAll(lore.after_stats);

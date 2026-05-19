@@ -1,0 +1,47 @@
+meta {
+    category = "SWORD";
+    item = "diamond_shovel";
+    stats = {
+        damage: 120,
+        strength: 100
+    };
+    name = "Aspect of the Void";
+    rarity = "EPIC";
+}
+
+script {
+    range = 8;
+
+    if ("tuned_transmission" in data) {
+        range = Math.add(range, Math.clamp(data.tuned_transmission, 0, 4));
+    };
+
+    include("format/stat/speed");
+    speed = format;
+    abilities = [
+        {
+            name: "Instant Transmission",
+            trigger: "RIGHT CLICK",
+            text: [
+                {text: "Teleport ", color: "gray", extra: [{text: String.uFormatted(range), color: "lime", extra: [" blocks"]}, " ahead of you and"]},
+                {text: "gain ", color: "gray", extra: [{text: "+50 ", color: "lime"}, speed, " for ", {text: "3 seconds", color: "lime"}, "."]}
+            ],
+            mana_cost: 45
+        }
+    ];
+
+    if ("ethermerge" in data) {
+        abilities.add({
+            name: "Ether Transmission",
+            trigger: "SNEAK RIGHT CLICK",
+            text: [
+                {text: "Teleport to your targeted block up", color: "gray"},
+                {text: "to ", color: "gray", extra: [{text: "61 blocks", color: "lime"}, " away."]}
+            ],
+            mana_cost: 180,
+            soulflow_cost: 1
+        });
+    };
+
+    include("item");
+}

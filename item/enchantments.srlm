@@ -1,0 +1,73 @@
+if ("enchantments" !in data) {
+    return;
+};
+
+enchantments = Objects.entries(data.enchantments);
+base_enchantments = [];
+
+debug;
+
+for (temp.enchantment = 0; Math.lt(temp.enchantment, enchantments.length); temp.enchantment = Math.add(temp.enchantment, 1)) {
+    temp.current = enchantments.get(temp.enchantment);
+    enchantment.level = temp.current.value;
+    include(String.concat("enchantments/", temp.current.key));
+
+    temp.enchantment_key = Component.asString(enchantment.name);
+    enchantments[temp.enchantment_key] = enchantment;
+    if ("is_ultimate" in enchantment) {
+        if (enchantment.is_ultimate) {
+            ultimate = temp.enchantment_key;
+            continue;
+        };
+    };
+
+    base_enchantments.add(temp.enchantment_key);
+};
+
+always_compact = false;
+if ("always_compact_enchants" in meta) {
+    always_compact = true;
+};
+
+base_enchantments = Array.sorted(base_enchantments);
+
+if ("ultimate" in this) {
+    base_enchantments.addFirst(ultimate);
+};
+
+stack.lore.beginSection();
+# ordered alphabetically, ultimate first
+if (Boolean.or(Math.gte(base_enchantments.length, 10), always_compact)) {
+
+    base_enchantments = base_enchantments.chunked(3);
+
+    for (temp.enchantment_line = 0; Math.lt(temp.enchantment_line, base_enchantments.length); temp.enchantment_line = Math.add(temp.enchantment_line, 1)) {
+
+        temp.enchantments = base_enchantments.get(temp.enchantment_line);
+        line = [];
+
+        for (temp.enchantment = 0; Math.lt(temp.enchantment, temp.enchantments.length); temp.enchantment = Math.add(temp.enchantment, 1)) {
+            entry = enchantments[temp.enchantments[temp.enchantment]].name;
+
+            if (Math.lt(Math.add(temp.enchantment, 1), temp.enchantments.length)) {
+                entry.extra = [{text: ", "}];
+            };
+            line.add(entry);
+        };
+
+        stack.lore.add(line);
+
+    };
+
+} else {
+    for (temp.enchantments = 0; Math.lt(temp.enchantments, base_enchantments.length); temp.enchantments = Math.add(temp.enchantments, 1)) {
+        debug;
+        temp.enchantment = enchantments[base_enchantments[temp.enchantments]];
+
+        stack.lore.add(temp.enchantment.name);
+        if (Math.lte(enchantments.length, 5)) {
+            stack.lore.addAll(temp.enchantment.description);
+        };
+    };
+};
+stack.lore.endSection();

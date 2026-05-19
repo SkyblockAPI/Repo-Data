@@ -1,0 +1,6 @@
+
+if (config.roman_numerals) {
+    enchantment.name.extra = [" ", Component.asRoman(enchantment.level)];
+} else {
+    enchantment.name.extra = [" ", String.uFormatted(enchantment.level)];
+};

@@ -1,37 +1,46 @@
 
 if ("abilities" in meta) {
+    abilities = meta.abilities;
+};
 
-    for (temp.i = 0; Math.lt(temp.i, meta.abilities.length); temp.i = Math.add(temp.i, 1)) {
-        temp.ability = meta.abilities.get(temp.i);
+if ("abilities" !in this) {
+    return;
+};
 
-        stack.lore.beginSection();
+for (temp.i = 0; Math.lt(temp.i, abilities.length); temp.i = Math.add(temp.i, 1)) {
+    temp.ability = abilities.get(temp.i);
 
-        if ("trigger" in temp.ability) {
-            temp.ability_trigger = {text: temp.ability.trigger, color: "yellow", bold: true};
-        } else {
-            temp.ability_trigger = {};
-        };
+    stack.lore.beginSection();
 
-        stack.lore.add({
-            text: "",
-            extra: [
-                {text: "Ability: ", color: "gold"},
-                {text: temp.ability.name, color: "gold"},
-                {text: "  "},
-                temp.ability_trigger
-            ]
-        });
-
-        stack.lore.addAll(temp.ability.text);
-
-        if ("mana_cost" in temp.ability) {
-            stack.lore.add({text: "Mana Cost: ", color: "dark_gray", extra: [{text: String.uFormatted(temp.ability.mana_cost), color: "cyan"}]});
-        };
-
-        if ("cooldown" in temp.ability) {
-            stack.lore.add({text: "Cooldown: ", color: "dark_gray", extra: [{text: temp.ability.cooldown, color: "green"}]});
-        };
-
-        stack.lore.endSection();
+    if ("trigger" in temp.ability) {
+        temp.ability_trigger = {text: temp.ability.trigger, color: "yellow", bold: true};
+    } else {
+        temp.ability_trigger = {};
     };
+
+    stack.lore.add({
+        text: "",
+        extra: [
+            {text: "Ability: ", color: "gold"},
+            {text: temp.ability.name, color: "gold"},
+            {text: "  "},
+            temp.ability_trigger
+        ]
+    });
+
+    stack.lore.addAll(temp.ability.text);
+
+    if ("mana_cost" in temp.ability) {
+        stack.lore.add({text: "Mana Cost: ", color: "dark_gray", extra: [{text: String.uFormatted(temp.ability.mana_cost), color: "cyan"}]});
+    };
+
+    if ("soulflow_cost" in temp.ability) {
+        stack.lore.add({text: "Soulflow Cost: ", color: "dark_gray", extra: [{text: String.uFormatted(temp.ability.soulflow_cost), color: "cyan"}]});
+    };
+
+    if ("cooldown" in temp.ability) {
+        stack.lore.add({text: "Cooldown: ", color: "dark_gray", extra: [{text: temp.ability.cooldown, color: "green"}]});
+    };
+
+    stack.lore.endSection();
 };
