@@ -1,8 +1,6 @@
 enchantment.name = {text: "Ultimate Wise", color: "pink", bold: true};
 enchantment.is_ultimate = true;
 
-include("item/update_enchantment");
-
 temp.reduction = Math.mul(10, Math.clamp(enchantment.level, 1, 5));
 
 enchantment.description = [

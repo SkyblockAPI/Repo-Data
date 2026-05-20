@@ -1,0 +1,23 @@
+enchantment.name = {text: "Critical", color: "blue"};
+
+temp.percentage = Math.add(Math.mul(10, enchantment.level), Math.clamp(Math.sub(Math.mul(20, Math.clamp(Math.sub(enchantment.level, 5), 0, 2)), 10), 0, 30));
+
+include("format/stat/crit_damage");
+
+enchantment.description = [{
+    text: "Increases ",
+    extra: [
+        format,
+        " by ",
+        {text: String.uFormatted(temp.percentage), color: "lime"},
+        {text: "%", color: "lime"},
+        "."
+    ],
+    color: "gray"
+}];
+enchantment.applicable = [];
+
+enchantment.rarity = "COMMON";
+if (Math.gte(enchantment.level, 5)) {
+    enchantment.rarity = Rarity.upgrade("COMMON", Math.sub(enchantment.level, 4));
+};

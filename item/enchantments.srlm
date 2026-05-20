@@ -19,6 +19,12 @@ for (temp.enchantment = 0; Math.lt(temp.enchantment, enchantments.length); temp.
         continue;
     };
 
+    if (config.roman_numerals) {
+        enchantment.name.extra = [" ", Component.asRoman(enchantment.level)];
+    } else {
+        enchantment.name.extra = [" ", String.uFormatted(enchantment.level)];
+    };
+
     if ("is_ultimate" in enchantment) {
         if (enchantment.is_ultimate) {
             ultimate = temp.enchantment_key;
