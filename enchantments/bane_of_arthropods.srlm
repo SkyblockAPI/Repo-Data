@@ -2,20 +2,13 @@ enchantment.name = {text: "Bane of Arthropods", color: "blue"};
 
 temp.percentage = Math.mul(5, Math.pow(2, Math.sub(enchantment.level, 1)));
 
-include("format/mobtype/arthropod/icon");
-temp.icon = format;
-include("format/mobtype/arthropod/name");
-temp.name = format;
+include("format/mobtype/arthropod");
 
 enchantment.description = [{
         text: "Increases damage dealt to ",
-        extra: [temp.icon],
-        color: "gray"
-    },
-    {
         color: "gray",
         extra: [
-            temp.name,
+            format,
             " mobs by ",
             {text: String.uFormatted(temp.percentage), color: "lime"},
             {text: "%", color: "lime"},

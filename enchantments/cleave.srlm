@@ -9,19 +9,10 @@ enchantment.description = [
         extra: [
             {text: String.uFormatted(temp.percentage), color: "lime"},
             {text: "%", color: "lime"},
-            " of your damage"
+            " of your damage dealt to other monsters within ",
+            {text: String.uFormatted(temp.range), color: "lime"},
+            {text: " blocks of the target."}
         ],
-        color: "gray"
-    },
-    {
-        color: "gray",
-        extra: [
-            "dealt to other monsters within ",
-            {text: String.uFormatted(temp.range), color: "lime"}
-        ]
-    },
-    {
-        text: "blocks of the target.",
         color: "gray"
     }
 ];

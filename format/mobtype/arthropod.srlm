@@ -3,4 +3,4 @@ temp.icon = format;
 include("format/mobtype/arthropod/name");
 temp.name = format;
 
-format = {extra: [icon, " ", name]};
+format = {extra: [temp.icon, " ", temp.name]};
