@@ -1,7 +1,9 @@
-enchantment.name = {text: "Knockback", color: "blue"};
+static {
+    levels: 1..2,
+    name: "Knockback"
+};
 
 temp.knock_amount = Math.mul(3, Math.clamp(enchantment.level, 1, 2));
 
 enchantment.description = [{text: "Increases knockback by ", extra: [{text: String.uFormatted(temp.knock_amount), color: "lime"}, " blocks."], color: "gray"}];
 enchantment.applicable = [];
-enchantment.rarity = "COMMON";

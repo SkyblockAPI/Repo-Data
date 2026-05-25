@@ -5,13 +5,16 @@ if ("enchantments" !in data) {
 enchantments = Objects.entries(data.enchantments);
 base_enchantments = [];
 
-debug;
-
 for (temp.enchantment = 0; Math.lt(temp.enchantment, enchantments.length); temp.enchantment = Math.add(temp.enchantment, 1)) {
     enchantment = {};
     temp.current = enchantments.get(temp.enchantment);
     enchantment.level = temp.current.value;
-    include(String.concat("enchantments/", temp.current.key));
+    include("enchantments/" + temp.current.key);
+    enchantment.static_data = static("enchantments/" + temp.current.key);
+
+    if ("name" !in enchantment) {
+        enchantment.name = enchantment.static_data.name;
+    };
 
     temp.enchantment_key = Component.asString(enchantment.name);
     enchantments[temp.enchantment_key] = enchantment;
@@ -19,15 +22,20 @@ for (temp.enchantment = 0; Math.lt(temp.enchantment, enchantments.length); temp.
         continue;
     };
 
+    enchantment.name = Component.asComponent(enchantment.name);
+    enchantment.name.color = "blue";
+
     if (config.roman_numerals) {
         enchantment.name.extra = [" ", Component.asRoman(enchantment.level)];
     } else {
         enchantment.name.extra = [" ", String.uFormatted(enchantment.level)];
     };
 
-    if ("is_ultimate" in enchantment) {
-        if (enchantment.is_ultimate) {
+    if ("is_ultimate" in enchantment.static_data) {
+        if (enchantment.static_data.is_ultimate) {
             ultimate = temp.enchantment_key;
+            enchantment.name.color = "pink";
+            enchantment.name.bold = true;
             continue;
         };
     };
@@ -77,7 +85,7 @@ if (Boolean.or(Math.gte(base_enchantments.length, 10), always_compact)) {
 
         stack.lore.add(temp.enchantment.name);
         if (Math.lte(enchantments.length, 5)) {
-            stack.lore.addAll(Component.splitToLength(temp.enchantment.description, 35));
+            stack.lore.addAll(Component.splitToLength(temp.enchantment.description, 37));
         };
     };
 };

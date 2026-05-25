@@ -1,4 +1,7 @@
-enchantment.name = {text: "Critical", color: "blue"};
+static {
+    levels: 1..7,
+    name: "Critical"
+};
 
 temp.percentage = Math.add(Math.mul(10, enchantment.level), Math.clamp(Math.sub(Math.mul(20, Math.clamp(Math.sub(enchantment.level, 5), 0, 2)), 10), 0, 30));
 
@@ -16,8 +19,3 @@ enchantment.description = [{
     color: "gray"
 }];
 enchantment.applicable = [];
-
-enchantment.rarity = "COMMON";
-if (Math.gte(enchantment.level, 5)) {
-    enchantment.rarity = Rarity.upgrade("COMMON", Math.sub(enchantment.level, 4));
-};

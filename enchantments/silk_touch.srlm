@@ -1,5 +1,7 @@
-enchantment.name = {text: "Silk Touch", color: "blue"};
+static {
+    levels: [1],
+    name: "Silk Touch"
+};
 
 enchantment.description = {text: "Allows you to collect normally unobtainable block drops.", color: "gray"};
 enchantment.applicable = ["Tools"];
-enchantment.rarity = "COMMON";

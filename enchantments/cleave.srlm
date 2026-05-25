@@ -1,4 +1,7 @@
-enchantment.name = {text: "Cleave", color: "blue"};
+static {
+    levels: 1..6,
+    name: "Cleave"
+};
 
 temp.percentage = Math.mul(5, enchantment.level);
 temp.range = Math.add(3, Math.mul(0.5, enchantment.level));
@@ -17,8 +20,3 @@ enchantment.description = [
     }
 ];
 enchantment.applicable = [];
-
-enchantment.rarity = "COMMON";
-if (Math.gte(enchantment.level, 5)) {
-    enchantment.rarity = Rarity.upgrade("COMMON", Math.sub(enchantment.level, 4));
-};
