@@ -1,0 +1,18 @@
+static {
+    name: "Tabasco",
+    levels: 1..2
+};
+
+temp.amount = (enchantment.level + 1);
+
+enchantment.description = {
+    color: "gray",
+    extra: [
+        "Grants ",
+        { text: "+", color: "white", extra: [String.uFormatted(temp.amount)] },
+        " weapon damage if you don't have a ",
+        { text: "Dragon ", color: "magenta" },
+        "pet equipped."
+    ]
+
+};

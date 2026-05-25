@@ -1,0 +1,12 @@
+static {
+    name: "Luck",
+    levels: 1..7
+};
+
+temp.amount = 5 * enchantment.level;
+
+enchantment.description = {extra: [
+    "Increases the chance for Monsters to drop their armor by ",
+    {text: String.uFormatted(temp.amount), color: "lime", extra: ["%"]},
+    "."
+], color: "gray"};

@@ -85,7 +85,7 @@ if (Boolean.or(Math.gte(base_enchantments.length, 10), always_compact)) {
 
         stack.lore.add(temp.enchantment.name);
         if (Math.lte(enchantments.length, 5)) {
-            stack.lore.addAll(Component.splitToLength(temp.enchantment.description, 37));
+            stack.lore.addAll(Component.splitToLength(temp.enchantment.description, 38));
         };
     };
 };

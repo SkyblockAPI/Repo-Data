@@ -13,9 +13,7 @@ enchantment.description = [{
     extra: [
         format,
         " mobs by ",
-        {text: String.uFormatted(temp.amount), color: "lime"},
-        {text: "%", color: "lime"},
-        "."
+        {text: String.uFormatted(temp.amount), color: "lime", extra: ["%", {text: ".", color: "gray"}]}
     ],
     color: "gray"
 }];

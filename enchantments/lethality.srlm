@@ -1,0 +1,21 @@
+static {
+    name: "Lethality",
+    levels: 1..6
+};
+
+include("format/stat/defense");
+
+temp.amount = 1.2 * enchantment.level;
+if (enchantment.level >= 6) {
+    temp.amount += 1.8;
+};
+enchantment.description = {extra: [
+    "Reduces the ",
+    format,
+    " of your target by ",
+    {text: String.uFormatted(temp.amount), color: "lime", extra: ["% for "]},
+    {text: "4s ", color: "gold"},
+    "each time you hit them with melee. Stacks up to ",
+    {text: "4 ", color: "lime"},
+    "times."
+], color: "gray"};

@@ -1,0 +1,12 @@
+static {
+    name: "Mana Steal",
+    levels: 1..3
+};
+
+temp.amount = 0.25 * enchantment.level;
+
+enchantment.description = {extra: [
+    "Regain ",
+    {text: String.uFormatted(temp.amount), color: "aqua", extra: ["% "]},
+    "of your mana on hit."
+], color: "gray"};

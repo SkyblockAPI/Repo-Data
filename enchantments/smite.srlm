@@ -1,0 +1,17 @@
+static {
+    name: "Smite",
+    levels: 1..7
+};
+
+
+temp.text = [];
+include("format/mobtype/undead");
+temp.text.add(format);
+temp.text.add(", ");
+include("format/mobtype/wither");
+temp.text.add(format);
+temp.text.add(" and ");
+include("format/mobtype/skeletal");
+temp.text.add(format);
+format = {color: "gray", extra: temp.text};
+include("enchantments/prototypes/mob_type_damage");

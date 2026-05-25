@@ -1,0 +1,15 @@
+static {
+    name: "Vampirism",
+    levels: 1..6
+};
+
+temp.amount = enchantment.level;
+
+enchantment.description = {
+    color: "gray",
+    extra: [
+        "Heales for ",
+        {text: String.uFormatted(temp.amount), color: "lime", extra: ["% "]},
+        "of your missing health whenever you kill an enemy."
+    ]
+};

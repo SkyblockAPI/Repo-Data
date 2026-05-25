@@ -1,0 +1,12 @@
+static {
+    name: "Looting",
+    levels: 1..5
+};
+
+temp.amount = 15 * enchantment.level;
+
+enchantment.description = {extra: [
+    "Increases the chance of a Monster dropping an item by ",
+    {text: String.uFormatted(temp.amount), color: "lime", extra: ["%"]},
+    "."
+], color: "gray"};

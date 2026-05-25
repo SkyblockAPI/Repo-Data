@@ -1,0 +1,16 @@
+static {
+    name: "Sharpness",
+    levels: 1..7
+};
+
+if (enchantment.level <= 4) {
+    temp.amount = 5 * enchantment.level;
+} else {
+    temp.amount = (10 * enchantment.level) - 20;
+};
+
+enchantment.description = {extra: [
+    "Increases melee damage dealt by ",
+    {text: String.uFormatted(temp.amount), color: "lime", extra: ["%"]},
+    "."
+], color: "gray"};

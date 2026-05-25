@@ -1,0 +1,7 @@
+static {
+    name: "Impaling",
+    levels: 1..5
+};
+
+include("format/mobtype/aquatic");
+include("enchantments/prototypes/mob_type_damage");

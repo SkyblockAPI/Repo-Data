@@ -1,0 +1,23 @@
+static {
+    name: "Thunderbolt",
+    levels: 1..7
+};
+
+if (enchantment.level >= 6) {
+    temp.amount = (enchantment.level * 5) - 5;
+} else {
+    temp.amount = (enchantment.level * 4);
+};
+
+enchantment.description = {
+    color: "gray",
+    extra: [
+        "Every ",
+        { text: "3 ", color: "red" },
+        "hits on a monster, strike ",
+        { text: "lightning", color: "yellow" },
+        ", dealing ",
+        {text: String.uFormatted(temp.amount), color: "lime", extra: ["% "]},
+        "of the hit's damage to up to 10 monsters within 2 blocks."
+    ]
+};

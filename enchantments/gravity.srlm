@@ -1,0 +1,7 @@
+static {
+    name: "Gravity",
+    levels: 1..6
+};
+
+include("format/mobtype/airborne");
+include("enchantments/prototypes/mob_type_damage");

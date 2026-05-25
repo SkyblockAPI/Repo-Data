@@ -1,0 +1,16 @@
+static {
+    name: "Vicious",
+    levels: 1..3
+};
+
+include("format/stat/ferocity");
+format = {color: format.color, extra: ["+", String.uFormatted(2 + enchantment.level), " ", format]};
+
+enchantment.description = {
+    color: "gray",
+    extra: [
+        "Grants ",
+        format,
+        "."
+    ]
+};

@@ -1,0 +1,7 @@
+static {
+    name: "Smoldering",
+    levels: 1..5
+};
+
+include("format/mobtype/infernal");
+include("enchantments/prototypes/mob_type_damage");
