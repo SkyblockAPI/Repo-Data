@@ -1,0 +1,21 @@
+
+match (enchantment.level) {
+    >= 4 -> {
+        temp.amount = 20 + 10 * (enchantment.level - 4);
+    };
+    else -> {
+        temp.amount = 5 * enchantment.level;
+    };
+};
+
+enchantment.description = [{
+    text: "Increases damage dealt to ",
+    extra: [
+        format,
+        " mobs by ",
+        {text: String.uFormatted(temp.amount), color: "lime"},
+        {text: "%", color: "lime"},
+        "."
+    ],
+    color: "gray"
+}];

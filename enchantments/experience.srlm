@@ -1,0 +1,12 @@
+static {
+    name: "Experience",
+    levels: 1..5
+};
+
+temp.amount = 12.5 * enchantment.level;
+
+enchantment.description = {extra: [
+    "Grants a ",
+    {text: String.uFormatted(temp.amount), color: "lime", extra: ["% "]},
+    "chance for mobs and ores to drop double experience."
+], color: "gray"};

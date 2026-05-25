@@ -1,0 +1,26 @@
+static {
+    levels: 1..7,
+    name: "Giant Killer"
+};
+
+temp.amount = 0.1 * enchantment.level;
+temp.health = 5 * enchantment.level;
+match (enchantment.level) {
+    5 -> temp.amount += 0.1;
+    6 -> temp.amount += 0.3;
+    7 -> temp.amount += 0.5;
+};
+
+match (enchantment.level) {
+    5 -> temp.health += 5;
+    6 -> temp.health += 15;
+    7 -> temp.health += 30;
+};
+
+enchantment.description = {extra: [
+    "Increases damage dealt by ",
+    {text: String.uFormatted(temp.amount), color: "lime", extra: ["% "]},
+    "for each percent of extra health that your target has above you up to ",
+    {text: String.uFormatted(temp.health), color: "lime", extra: ["%"]},
+    "."
+], color: "gray"};

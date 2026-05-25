@@ -3,8 +3,8 @@ static {
     name: "Cleave"
 };
 
-temp.percentage = Math.mul(5, enchantment.level);
-temp.range = Math.add(3, Math.mul(0.5, enchantment.level));
+temp.percentage = 5 * enchantment.level;
+temp.range = 3 + 0.5 * enchantment.level;
 
 enchantment.description = [
     {

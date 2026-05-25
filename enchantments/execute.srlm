@@ -1,0 +1,15 @@
+static {
+    name: "Execute",
+    levels: 1..6
+};
+
+match (enchantment.level) {
+    <= 5 -> temp.amount = 0.2 * enchantment.level;
+    6 -> temp.amount = 1.25;
+};
+
+enchantment.description = {extra: [
+    "Increases damge dealt by ",
+    {text: String.uFormatted(temp.amount), color: "lime", extra: ["% "]},
+    "for each percent of health missing on your target."
+], color: "gray"};

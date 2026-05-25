@@ -1,0 +1,20 @@
+static {
+    levels: 1..5,
+    name: "Drain"
+};
+
+include("format/stat/crit_damage");
+
+temp.first = {text: "100 ", color: format.color, extra: [format, " "]};
+temp.second = {text: "1,000 ", color: format.color, extra: [format]};
+temp.amount = 0.1 + enchantment.level / 10;
+
+enchantment.description = {extra: [
+    "Heals for ",
+    {text: String.uFormatted(temp.amount), color: "lime", extra: ["% "]},
+    "of your max health per ",
+    temp.first,
+    "you deal per hit, up to ",
+    temp.second,
+    "."
+], color: "gray"};

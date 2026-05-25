@@ -1,0 +1,12 @@
+static {
+    name: "First Strike",
+    levels: 1..5
+};
+
+temp.amount = 25 * enchantment.level;
+
+enchantment.description = {extra: [
+    "Increases melee damage dealt by ",
+    {text: String.uFormatted(temp.amount), color: "lime", extra: ["% "]},
+    "for the first hit on a mob."
+], color: "gray"};

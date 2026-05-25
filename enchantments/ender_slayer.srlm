@@ -1,0 +1,7 @@
+static {
+    name: "Ender Slayer",
+    levels: 1..6
+};
+
+include("format/mobtype/ender");
+include("enchantments/prototypes/mob_type_damage");

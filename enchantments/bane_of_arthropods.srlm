@@ -3,20 +3,5 @@ static {
     name: "Bane of Arthropods"
 };
 
-temp.percentage = Math.mul(5, Math.pow(2, Math.sub(enchantment.level, 1)));
-
 include("format/mobtype/arthropod");
-
-enchantment.description = [{
-        text: "Increases damage dealt to ",
-        color: "gray",
-        extra: [
-            format,
-            " mobs by ",
-            {text: String.uFormatted(temp.percentage), color: "lime"},
-            {text: "%", color: "lime"},
-            "."
-        ]
-    }
-];
-enchantment.applicable = [];
+include("enchantments/prototypes/mob_type_damage");
