@@ -11,9 +11,11 @@ meta {
 
 script {
     range = 8;
+    etherwarp_range = 57;
 
     if ("tuned_transmission" in data) {
         range = Math.add(range, Math.clamp(data.tuned_transmission, 0, 4));
+        etherwarp_range = etherwarp_range + Math.clamp(data.tuned_transmission, 0, 4);
     };
 
     include("format/stat/speed");
@@ -31,12 +33,13 @@ script {
     ];
 
     if ("ethermerge" in data) {
+
         abilities.add({
             name: "Ether Transmission",
             trigger: "SNEAK RIGHT CLICK",
             text: [
                 {text: "Teleport to your targeted block up", color: "gray"},
-                {text: "to ", color: "gray", extra: [{text: "61 blocks", color: "lime"}, " away."]}
+                {text: "to ", color: "gray", extra: [{text: String.uFormatted(range), extra: [" blocks"], color: "lime"}, " away."]}
             ],
             mana_cost: 180,
             soulflow_cost: 1
