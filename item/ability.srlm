@@ -28,7 +28,7 @@ for (temp.i = 0; Math.lt(temp.i, abilities.length); temp.i = Math.add(temp.i, 1)
         ]
     });
 
-    stack.lore.addAll(temp.ability.text);
+    stack.lore.addAll(Component.splitToLength(temp.ability.text, 35));
 
     if ("mana_cost" in temp.ability) {
         temp.ability_mana_cost = temp.ability.mana_cost;

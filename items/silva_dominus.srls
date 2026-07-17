@@ -1,0 +1,10 @@
+meta {
+    absorptio = 10;
+    vis_temperata = 20;
+
+    include("items/prototypes/huntaxe");
+
+    rarity = "UNCOMMON";
+    name = "Sharpened Huntaxe - Dominus";
+    lore.after_ability = {text: "Silva vocat, Dominus respondet.", italic: true, color: "dark_gray"};
+}

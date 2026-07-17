@@ -1,0 +1,10 @@
+meta {
+    absorptio = 5;
+    vis_temperata = 15;
+
+    include("items/prototypes/huntaxe");
+
+    rarity = "COMMON";
+    name = "Prime Huntaxe - Genesis";
+    lore.after_ability = {text: "Ex tenebris, primus venator surgit.", italic: true, color: "dark_gray"};
+}

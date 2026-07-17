@@ -1,0 +1,10 @@
+meta {
+    absorptio = 5;
+    vis_temperata = 15;
+
+    include("items/prototypes/huntaxe");
+
+    rarity = "LEGENDARY";
+    name = "Prime Huntaxe - Next Titanium";
+    lore.after_ability = {text: "Titanum ruina, mundi mutatio.", italic: true, color: "dark_gray"};
+}

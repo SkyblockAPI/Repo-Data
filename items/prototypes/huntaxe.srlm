@@ -1,0 +1,46 @@
+category = "AXE";
+type = "Hunting Tool";
+item = "golden_axe";
+
+abilities = [
+    {
+        name: "Absorptio",
+        trigger: "RIGHT CLICK",
+        text: [
+            {
+                color: "gray",
+                text: "This weapon lets you absorb ",
+                extra: [
+                    {
+                        text: String.uFormatted(absorptio),
+                        extra: [
+                            "%"
+                        ],
+                        color: "red"
+                    },
+                    " of the basic combat stats of any weapon."
+                ]
+            }
+        ]
+    },
+
+    {
+        name: "Vis Temperata",
+        text: [
+            {
+                color: "gray",
+                text: "Each strike of this weapon has its damage capped at ",
+                extra: [
+                    {
+                        text: String.uFormatted(vis_temperata),
+                        extra: [
+                            "%"
+                        ],
+                        color: "red"
+                    },
+                    " of the enemy's max Health. This weapon cannot cause a fatal blow."
+                ]
+            }
+        ]
+    }
+];
