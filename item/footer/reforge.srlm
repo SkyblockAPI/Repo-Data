@@ -1,0 +1,3 @@
+if ("can_be_reforged" in meta && meta.can_be_reforged) {
+    stack.lore.add({text: "This item can be reforged!", color: "dark_gray"});
+};

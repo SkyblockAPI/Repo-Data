@@ -7,6 +7,7 @@ meta {
     };
     name = "Aspect of the Void";
     rarity = "EPIC";
+    can_be_reforged = true;
 }
 
 script {
