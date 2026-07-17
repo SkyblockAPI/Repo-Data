@@ -69,7 +69,11 @@ if (Boolean.or(Math.gte(base_enchantments.length, 10), always_compact)) {
             entry = enchantments[temp.enchantments[temp.enchantment]].name;
 
             if (Math.lt(Math.add(temp.enchantment, 1), temp.enchantments.length)) {
-                entry.extra = [{text: ", "}];
+                if ("extra" in entry) {
+                    entry.extra = Component.join(entry.extra, ", ");
+                } else {
+                    entry.extra = [{text: ", "}];
+                };
             };
             line.add(entry);
         };
