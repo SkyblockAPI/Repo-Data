@@ -4,4 +4,6 @@ if ("soulbound" in meta) {
     } else if (String.eqIc(meta.soulbound, "coop")) {
         stack.lore.add({color: "dark_gray", extra: [{text: "* ", bold: true}, "Co-op Soulbound", {text: " *", bold: true}]});
     };
+} else if ("donated_museum" in data) {
+    stack.lore.add({color: "dark_gray", extra: [{text: "* ", bold: true}, "Co-op Soulbound", {text: " *", bold: true}]});
 };

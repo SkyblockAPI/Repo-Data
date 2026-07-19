@@ -40,7 +40,7 @@ script {
             trigger: "SNEAK RIGHT CLICK",
             text: [
                 {text: "Teleport to your targeted block up", color: "gray"},
-                {text: "to ", color: "gray", extra: [{text: String.uFormatted(range), extra: [" blocks"], color: "lime"}, " away."]}
+                {text: "to ", color: "gray", extra: [{text: String.uFormatted(etherwarp_range), extra: [" blocks"], color: "lime"}, " away."]}
             ],
             mana_cost: 180,
             soulflow_cost: 1

@@ -9,7 +9,7 @@ match (enchantment.level) {
 };
 
 enchantment.description = {extra: [
-    "Increases damge dealt by ",
+    "Increases damage dealt by ",
     {text: String.uFormatted(temp.amount), color: "lime", extra: ["% "]},
     "for each percent of health missing on your target."
 ], color: "gray"};
