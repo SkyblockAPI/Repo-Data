@@ -1,9 +1,7 @@
-if ("soulbound" in meta) {
-    if (String.eqIc(meta.soulbound, "solo")) {
-        stack.lore.add({color: "dark_gray", extra: [{text: "* ", bold: true}, "Soulbound", {text: " *", bold: true}]});
-    } else if (String.eqIc(meta.soulbound, "coop")) {
+if ("donated_museum" in data || "soulbound" in meta) {
+    if ("donated_museum" in data || String.eqIc(meta.soulbound, "coop")) {
         stack.lore.add({color: "dark_gray", extra: [{text: "* ", bold: true}, "Co-op Soulbound", {text: " *", bold: true}]});
+    } else if (String.eqIc(meta.soulbound, "solo")) {
+        stack.lore.add({color: "dark_gray", extra: [{text: "* ", bold: true}, "Soulbound", {text: " *", bold: true}]});
     };
-} else if ("donated_museum" in data) {
-    stack.lore.add({color: "dark_gray", extra: [{text: "* ", bold: true}, "Co-op Soulbound", {text: " *", bold: true}]});
 };
