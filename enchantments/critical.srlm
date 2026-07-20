@@ -5,12 +5,10 @@ static {
 
 temp.percentage = Math.add(Math.mul(10, enchantment.level), Math.clamp(Math.sub(Math.mul(20, Math.clamp(Math.sub(enchantment.level, 5), 0, 2)), 10), 0, 30));
 
-include("format/stat/crit_damage");
-
 enchantment.description = [{
     text: "Increases ",
     extra: [
-        format,
+        call("format/stat/crit_damage"),
         " by ",
         {text: String.uFormatted(temp.percentage), color: "lime"},
         {text: "%", color: "lime"},

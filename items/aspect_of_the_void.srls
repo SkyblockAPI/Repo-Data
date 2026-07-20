@@ -8,7 +8,6 @@ meta {
     name = "Aspect of the Void";
     rarity = "EPIC";
     can_be_reforged = true;
-    abilities = [];
 }
 
 script {
@@ -20,15 +19,13 @@ script {
         etherwarp_range = etherwarp_range + Math.clamp(data.tuned_transmission, 0, 4);
     };
 
-    include("format/stat/speed");
-    speed = format;
     abilities = [
         {
             name: "Instant Transmission",
             trigger: "RIGHT CLICK",
             text: [
                 {text: "Teleport ", color: "gray", extra: [{text: String.uFormatted(range), color: "lime", extra: [" blocks"]}, " ahead of you and"]},
-                {text: "gain ", color: "gray", extra: [{text: "+50 ", color: "lime"}, speed, " for ", {text: "3 seconds", color: "lime"}, "."]}
+                {text: "gain ", color: "gray", extra: [{text: "+50 ", color: "lime"}, call("format/stat/speed"), " for ", {text: "3 seconds", color: "lime"}, "."]}
             ],
             mana_cost: 45
         }

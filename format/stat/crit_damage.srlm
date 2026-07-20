@@ -1,1 +1,4 @@
-return {text: "☠ Crit Damage", color: "blue"};
+return call("format/stat", {
+    stat_name: "Crit Damage",
+    stat_color: "blue",
+});

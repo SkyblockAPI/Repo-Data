@@ -1,1 +1,4 @@
-return {text: "✦ Speed", color: "white"};
+return call("format/stat", {
+    stat_name: "Speed",
+    stat_color: "white",
+});

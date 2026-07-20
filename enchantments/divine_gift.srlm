@@ -5,10 +5,11 @@ static {
 
 temp.amount = 2 * enchantment.level;
 
-include("format/stat/magic_find");
+format = call("format/stat/magic_find");
 
 format = {text: "+", color: format.color, extra: [
     String.uFormatted(temp.amount),
+    " ",
     format
 ]};
 

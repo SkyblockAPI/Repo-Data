@@ -1,11 +1,10 @@
-
 abilities = match {
-  "abilities" in this -> abilities;
   "abilities" in meta -> meta.abilities;
+  "abilities" in this -> abilities;
   else -> return;
 };
 
-for (temp.i = 0; Math.lt(temp.i, abilities.length); temp.i = Math.add(temp.i, 1)) {
+for (temp.i = 0; (temp.i < abilities.length); temp.i += 1) {
     temp.ability = abilities.get(temp.i);
 
     stack.lore.beginSection();
@@ -32,7 +31,7 @@ for (temp.i = 0; Math.lt(temp.i, abilities.length); temp.i = Math.add(temp.i, 1)
         temp.ability_mana_cost = temp.ability.mana_cost;
         if ("enchantments" in data) {
             if ("ultimate_wise" in data.enchantments) {
-                temp.reduction = Math.sub(1, Math.div(Math.mul(10, data.enchantments.ultimate_wise), 100));
+                temp.reduction = 1 - ((10 * data.enchantments.ultimate_wise) / 100);
                 temp.ability_mana_cost = Math.mul(temp.ability_mana_cost, temp.reduction);
             };
         };

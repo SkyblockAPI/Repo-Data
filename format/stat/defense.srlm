@@ -1,1 +1,4 @@
-return {text: "❈ Defense", color: "lime"};
+return call("format/stat", {
+    stat_name: "Defense",
+    stat_color: "lime",
+});

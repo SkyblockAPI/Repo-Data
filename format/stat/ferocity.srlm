@@ -1,1 +1,4 @@
-return {text: "⫽ Ferocity", color: "red"};
+return call("format/stat", {
+    stat_name: "Ferocity",
+    stat_color: "red",
+});
