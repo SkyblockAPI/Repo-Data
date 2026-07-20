@@ -47,8 +47,5 @@ script {
             soulflow_cost: 1
         });
     };
-
-    include("item", {
-        abilities: abilities
-    });
+    include("item");
 }

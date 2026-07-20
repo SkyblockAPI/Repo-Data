@@ -84,7 +84,6 @@ if (Boolean.or(Math.gte(base_enchantments.length, 10), always_compact)) {
 
 } else {
     for (temp.enchantments = 0; Math.lt(temp.enchantments, base_enchantments.length); temp.enchantments = Math.add(temp.enchantments, 1)) {
-        debug;
         temp.enchantment = enchantments[base_enchantments[temp.enchantments]];
 
         stack.lore.add(temp.enchantment.name);

@@ -1,5 +1,4 @@
 lore = {};
-
 if ("lore" in meta) {
     lore = meta.lore;
 };
@@ -16,9 +15,7 @@ if ("after_stats" in lore) {
     stack.lore.endSection();
 };
 
-include("item/ability", {
-    abilities: abilities
-});
+include("item/ability");
 
 if ("after_ability" in lore) {
     stack.lore.beginSection();

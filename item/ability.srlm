@@ -33,7 +33,6 @@ for (temp.i = 0; Math.lt(temp.i, abilities.length); temp.i = Math.add(temp.i, 1)
         if ("enchantments" in data) {
             if ("ultimate_wise" in data.enchantments) {
                 temp.reduction = Math.sub(1, Math.div(Math.mul(10, data.enchantments.ultimate_wise), 100));
-                debug;
                 temp.ability_mana_cost = Math.mul(temp.ability_mana_cost, temp.reduction);
             };
         };
