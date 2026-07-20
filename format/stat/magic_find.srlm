@@ -1,1 +1,1 @@
-format = {text: "✯ Magic Find", color: "aqua"};
+return {text: "✯ Magic Find", color: "aqua"};

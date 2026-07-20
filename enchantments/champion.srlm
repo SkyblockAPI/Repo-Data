@@ -5,10 +5,10 @@ static {
 
 match (enchantment.level) {
     1 -> {
-        temp.combat = 3;
-        temp.coins = 1.4;
-        temp.xp = 7;
-        temp.until_next = "50k";
+        combat = 3;
+        coins = 1.4;
+        xp = 7;
+        until_next = "50k";
     };
     2 -> {
         temp.combat = 3.78;

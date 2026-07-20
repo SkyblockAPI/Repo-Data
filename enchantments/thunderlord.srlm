@@ -3,10 +3,10 @@ static {
     levels: 1..7
 };
 
-if (enchantment.level >= 6) {
-    temp.amount = (enchantment.level * 10) - 10;
+amount = if (enchantment.level >= 6) {
+    ((enchantment.level * 10) - 10);
 } else {
-    temp.amount = (enchantment.level * 8);
+    (enchantment.level * 8);
 };
 
 enchantment.description = {
@@ -17,7 +17,7 @@ enchantment.description = {
         "hits on a monster, strike ",
         { text: "lightning", color: "yellow" },
         ", dealing ",
-        {text: String.uFormatted(temp.amount), color: "lime", extra: ["% "]},
+        {text: String.uFormatted(amount), color: "lime", extra: ["% "]},
         "of the hit's damage."
     ]
 };

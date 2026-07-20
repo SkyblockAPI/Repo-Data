@@ -1,1 +1,1 @@
-format = {text: "✦ Speed", color: "white"};
+return {text: "✦ Speed", color: "white"};

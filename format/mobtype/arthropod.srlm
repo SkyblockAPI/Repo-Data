@@ -1,6 +1,4 @@
-include("format/mobtype/arthropod/icon");
-temp.icon = format;
-include("format/mobtype/arthropod/name");
-temp.name = format;
+icon = call("format/mobtype/arthropod/icon");
+name = call("format/mobtype/arthropod/name");
 
-format = {extra: [temp.icon, " ", temp.name]};
+return {extra: [icon, " ", name]};

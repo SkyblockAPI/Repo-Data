@@ -1,1 +1,1 @@
-format = {text: "Arthropod", color: "dark_red"};
+return {text: "Arthropod", color: "dark_red"};

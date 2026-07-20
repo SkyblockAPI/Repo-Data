@@ -1,1 +1,1 @@
-format = {text: "♨ Infernal", color: "dark_red"};
+return {text: "♨ Infernal", color: "dark_red"};

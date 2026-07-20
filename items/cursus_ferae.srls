@@ -2,7 +2,7 @@ meta {
     absorptio = 15;
     vis_temperata = 25;
 
-    include("items/prototypes/huntaxe");
+    include("items/prototypes/huntaxe", this);
 
     rarity = "RARE";
     name = "Reinforced Huntaxe - Cursus";

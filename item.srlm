@@ -16,7 +16,9 @@ if ("after_stats" in lore) {
     stack.lore.endSection();
 };
 
-include("item/ability");
+include("item/ability", {
+    abilities: abilities
+});
 
 if ("after_ability" in lore) {
     stack.lore.beginSection();

@@ -8,6 +8,7 @@ meta {
     name = "Aspect of the Void";
     rarity = "EPIC";
     can_be_reforged = true;
+    abilities = [];
 }
 
 script {
@@ -47,5 +48,7 @@ script {
         });
     };
 
-    include("item");
+    include("item", {
+        abilities: abilities
+    });
 }

@@ -3,15 +3,13 @@ static {
     levels: 1..7
 };
 
-
-temp.text = [];
-include("format/mobtype/undead");
-temp.text.add(format);
-temp.text.add(", ");
-include("format/mobtype/wither");
-temp.text.add(format);
-temp.text.add(" and ");
-include("format/mobtype/skeletal");
-temp.text.add(format);
-format = {color: "gray", extra: temp.text};
-include("enchantments/prototypes/mob_type_damage");
+include("enchantments/prototypes/mob_type_damage", {
+    enchantment: enchantment,
+    format: {color: "gray", extra: [
+        call("format/mobtype/undead"),
+        ", ",
+        call("format/mobtype/wither"),
+        " and ",
+        call("format/mobtype/skeletal")
+    ]}
+});

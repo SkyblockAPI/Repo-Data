@@ -3,5 +3,7 @@ static {
     name: "Bane of Arthropods"
 };
 
-include("format/mobtype/arthropod");
-include("enchantments/prototypes/mob_type_damage");
+include("enchantments/prototypes/mob_type_damage", {
+    enchantment: enchantment,
+    format: call("format/mobtype/arthropod")
+});

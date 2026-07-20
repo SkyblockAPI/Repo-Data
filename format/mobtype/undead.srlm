@@ -1,1 +1,1 @@
-format = {text: "༕ Undead", color: "dark_green"};
+return {text: "༕ Undead", color: "dark_green"};

@@ -1,10 +1,8 @@
 
-if ("abilities" in meta) {
-    abilities = meta.abilities;
-};
-
-if ("abilities" !in this) {
-    return;
+abilities = match {
+  "abilities" in this -> abilities;
+  "abilities" in meta -> meta.abilities;
+  else -> return;
 };
 
 for (temp.i = 0; Math.lt(temp.i, abilities.length); temp.i = Math.add(temp.i, 1)) {

@@ -1,1 +1,1 @@
-format = {text: "☠ Crit Damage", color: "blue"};
+return {text: "☠ Crit Damage", color: "blue"};

@@ -3,17 +3,17 @@ static {
     name: "Cleave"
 };
 
-temp.percentage = 5 * enchantment.level;
-temp.range = 3 + 0.5 * enchantment.level;
+percentage = 5 * enchantment.level;
+range = 3 + 0.5 * enchantment.level;
 
 enchantment.description = [
     {
         text: "Deals up to ",
         extra: [
-            {text: String.uFormatted(temp.percentage), color: "lime"},
+            {text: String.uFormatted(percentage), color: "lime"},
             {text: "%", color: "lime"},
             " of your damage dealt to other monsters within ",
-            {text: String.uFormatted(temp.range), color: "lime"},
+            {text: String.uFormatted(range), color: "lime"},
             {text: " blocks of the target."}
         ],
         color: "gray"

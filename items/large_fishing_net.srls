@@ -1,5 +1,5 @@
 meta {
-    include("items/prototypes/fishing_net");
+    include("items/prototypes/fishing_net", this);
 
     stats.pull = 50;
     rarity = "EPIC";

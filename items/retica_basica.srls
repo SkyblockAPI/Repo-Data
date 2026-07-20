@@ -1,5 +1,5 @@
 meta {
-    include("items/prototypes/hunting_trap");
+    include("items/prototypes/hunting_trap", this);
 
     rarity = "COMMON";
     name = "Small Huntrap";

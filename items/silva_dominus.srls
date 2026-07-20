@@ -2,7 +2,7 @@ meta {
     absorptio = 10;
     vis_temperata = 20;
 
-    include("items/prototypes/huntaxe");
+    include("items/prototypes/huntaxe", this);
 
     rarity = "UNCOMMON";
     name = "Sharpened Huntaxe - Dominus";

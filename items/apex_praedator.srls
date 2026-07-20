@@ -2,7 +2,7 @@ meta {
     absorptio = 20;
     vis_temperata = 33;
 
-    include("items/prototypes/huntaxe");
+    include("items/prototypes/huntaxe", this);
 
     rarity = "EPIC";
     name = "Savage Huntaxe - Praedator";

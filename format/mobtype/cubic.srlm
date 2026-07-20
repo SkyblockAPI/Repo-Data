@@ -1,1 +1,1 @@
-format = {text: "⚂ Cubic", color: "lime"};
+return {text: "⚂ Cubic", color: "lime"};

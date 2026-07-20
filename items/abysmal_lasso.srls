@@ -1,5 +1,5 @@
 meta {
-    include("items/prototypes/lasso");
+    include("items/prototypes/lasso", this);
 
     rarity = "COMMON";
     name = "Abysmal Lasso";

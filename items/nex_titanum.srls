@@ -2,7 +2,7 @@ meta {
     absorptio = 5;
     vis_temperata = 15;
 
-    include("items/prototypes/huntaxe");
+    include("items/prototypes/huntaxe", this);
 
     rarity = "LEGENDARY";
     name = "Prime Huntaxe - Next Titanium";
