@@ -4,6 +4,8 @@ if ("enchantments" !in data) {
 
 enchantments = Objects.entries(data.enchantments);
 base_enchantments = [];
+has_ultimate = false;
+ultimate = "";
 
 for (temp.enchantment = 0; Math.lt(temp.enchantment, enchantments.length); temp.enchantment = Math.add(temp.enchantment, 1)) {
     enchantment = {};
@@ -34,6 +36,7 @@ for (temp.enchantment = 0; Math.lt(temp.enchantment, enchantments.length); temp.
     if ("is_ultimate" in enchantment.static_data) {
         if (enchantment.static_data.is_ultimate) {
             ultimate = temp.enchantment_key;
+            has_ultimate = true;
             enchantment.name.color = "pink";
             enchantment.name.bold = true;
             continue;
@@ -50,7 +53,7 @@ if ("always_compact_enchants" in meta) {
 
 base_enchantments = Array.sorted(base_enchantments);
 
-if ("ultimate" in this) {
+if (has_ultimate) {
     base_enchantments.addFirst(ultimate);
 };
 
