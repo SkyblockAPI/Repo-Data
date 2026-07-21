@@ -1,0 +1,6 @@
+call("stats/prototype/base", {
+    name: "Swing Range",
+    color: "yellow",
+    stats,
+    bonus_stats
+});

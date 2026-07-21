@@ -1,7 +1,7 @@
-include("stats/combat/damage");
 include("stats/combat/health");
 include("stats/combat/defense");
 include("stats/combat/true_defense");
+include("stats/combat/damage");
 include("stats/combat/strength");
 include("stats/combat/crit_chance");
 include("stats/combat/crit_damage");

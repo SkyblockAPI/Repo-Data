@@ -1,0 +1,6 @@
+call("stats/prototype/base", {
+    name: "Defense",
+    color: "green",
+    stats,
+    bonus_stats
+});

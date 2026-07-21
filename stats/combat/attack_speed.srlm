@@ -1,0 +1,7 @@
+call("stats/prototype/base", {
+    name: "Attack Speed",
+    color: "yellow",
+    suffix: "%",
+    stats,
+    bonus_stats
+});

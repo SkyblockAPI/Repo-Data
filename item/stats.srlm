@@ -1,5 +1,5 @@
 
-if ("stats" in meta) {
+if ("stats" in this) {
     stack.lore.beginSection();
 
     include("stats/combat");

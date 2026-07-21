@@ -1,0 +1,6 @@
+call("stats/prototype/base", {
+    name: "Vitality",
+    color: "dark_red",
+    stats,
+    bonus_stats
+});

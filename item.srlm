@@ -2,6 +2,18 @@ lore = {};
 if ("lore" in meta) {
     lore = meta.lore;
 };
+stats = {};
+bonus_stats = {};
+call("stat_calc/init_base", {
+    stats: stats,
+    meta: meta
+});
+if ("gem_slots" in meta) {
+    call("stat_calc/gem_bonuses", {
+        bonus_stats: bonus_stats,
+        stats: stats
+    });
+};
 
 include("item/name");
 include("item/headers");

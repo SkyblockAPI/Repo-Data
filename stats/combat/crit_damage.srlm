@@ -1,0 +1,7 @@
+call("stats/prototype/base", {
+    name: "Crit Damage",
+    color: "blue",
+    suffix: "%",
+    stats,
+    bonus_stats
+});

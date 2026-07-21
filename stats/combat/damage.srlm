@@ -1,4 +1,6 @@
-
-if ("damage" in meta.stats) {
-    stack.lore.add({text: "Damage: ", color: "gray", extra: [{text: String.formatted(meta.stats.damage), color: "red"}]});
-};
+call("stats/prototype/base", {
+    name: "Damage",
+    color: "red",
+    stats,
+    bonus_stats
+});

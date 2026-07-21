@@ -1,0 +1,27 @@
+if (!name) return;
+
+stat = if (!stat) {
+  String.snake_case(name)
+} else stat;
+
+if (!stats[stat]) return;
+
+extra = [
+  name,
+  ": ",
+  {text: String.formatted(stats[stat]), color}
+];
+
+if (suffix) {
+  extra.add({text:suffix, color});
+}
+
+if (bonus_stats[stat]) {
+  extra.addAll(bonus_stats[stat]);
+};
+
+stack.lore.add({
+  text: "", 
+  color: "gray", 
+  extra
+});
