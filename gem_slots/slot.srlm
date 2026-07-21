@@ -4,7 +4,7 @@ gemstone_slot = call("gem_slots/" + type, {
 });
 color = match(tier) {
   "perfect" -> "gold";
-  "flawless" -> "purple";
+  "flawless" -> "dark_purple";
   "fine" -> "blue";
   "flawed" -> "green";
   "rough" -> "white";

@@ -1,0 +1,5 @@
+stat_icons = call("format/stat_icons");
+return {
+  color: "pink",
+  icon: stat_icons.strength
+};

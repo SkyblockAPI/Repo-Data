@@ -1,0 +1,5 @@
+stat_icons = call("format/stat_icons");
+return {
+  color: "green",
+  icon: stat_icons.farming_fortune
+};
