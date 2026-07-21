@@ -1,0 +1,6 @@
+include("stats/rift/rift_time");
+include("stats/rift/hearts");
+include("stats/rift/rift_intelligence");
+include("stats/rift/rift_damage");
+include("stats/rift/mana_regen");
+include("stats/rift/rift_speed");

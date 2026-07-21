@@ -1,0 +1,6 @@
+call("stats/prototype/base", {
+    name: "Cold Resistance",
+    color: "aqua",
+    stats,
+    bonus_stats
+});

@@ -1,0 +1,6 @@
+call("stats/prototype/base", {
+    name: "Moonflower Fortune",
+    color: "orange",
+    stats,
+    bonus_stats
+});

@@ -1,0 +1,7 @@
+call("stats/prototype/base", {
+    name: "Double Hook Chance",
+    color: "blue",
+    suffix: "%",
+    stats,
+    bonus_stats
+});

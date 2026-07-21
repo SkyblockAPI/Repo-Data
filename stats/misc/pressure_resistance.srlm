@@ -1,0 +1,6 @@
+call("stats/prototype/base", {
+    name: "Pressure Resistance",
+    color: "blue",
+    stats,
+    bonus_stats
+});

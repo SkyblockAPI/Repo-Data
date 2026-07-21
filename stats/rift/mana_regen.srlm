@@ -1,6 +1,7 @@
 call("stats/prototype/base", {
-    name: "Cocoa Beans Fortune",
-    color: "orange",
+    name: "Mana Regen",
+    color: "cyan",
+    suffix: "%",
     stats,
     bonus_stats
 });

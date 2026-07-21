@@ -1,0 +1,6 @@
+call("stats/prototype/base", {
+    name: "Pet Luck",
+    color: "pink",
+    stats,
+    bonus_stats
+});

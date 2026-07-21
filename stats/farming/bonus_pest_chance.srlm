@@ -1,0 +1,7 @@
+call("stats/prototype/base", {
+    name: "Bonus Pest Chance",
+    color: "dark_green",
+    suffix: "%",
+    stats,
+    bonus_stats
+});

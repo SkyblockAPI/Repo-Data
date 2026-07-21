@@ -13,4 +13,4 @@ include("stats/farming/mushroom_fortune");
 include("stats/farming/nether_wart_fortune");
 include("stats/farming/sunflower_fortune");
 include("stats/farming/moonflower_fortune");
-include("stats/farming/wildrose_fortune");
+include("stats/farming/wild_rose_fortune");

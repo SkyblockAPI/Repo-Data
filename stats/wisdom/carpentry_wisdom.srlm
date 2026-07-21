@@ -1,0 +1,6 @@
+call("stats/prototype/base", {
+    name: "Carpentry Wisdom",
+    color: "cyan",
+    stats,
+    bonus_stats
+});

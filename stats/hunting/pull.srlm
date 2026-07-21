@@ -1,4 +1,6 @@
-
-if ("pull" in meta.stats) {
-    stack.lore.add({text: "Pull: ", color: "gray", extra: [{text: String.formatted(meta.stats.pull), color: "aqua"}]});
-};
+call("stats/prototype/base", {
+    name: "Pull",
+    color: "aqua",
+    stats,
+    bonus_stats
+});

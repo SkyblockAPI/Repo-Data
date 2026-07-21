@@ -1,0 +1,7 @@
+call("stats/prototype/base", {
+    name: "Sea Creature Chance",
+    color: "cyan",
+    suffix: "%",
+    stats,
+    bonus_stats
+});

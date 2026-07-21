@@ -2,6 +2,7 @@
 if ("stats" in this) {
     stack.lore.beginSection();
 
+    include("stats/rift");
     include("stats/combat");
     include("stats/mining");
     include("stats/farming");

@@ -1,0 +1,6 @@
+call("stats/prototype/base", {
+    name: "Tracking",
+    color: "pink",
+    stats,
+    bonus_stats
+});

@@ -1,0 +1,7 @@
+call("stats/prototype/base", {
+    name: "Trophy Chance",
+    color: "gold",
+    suffix: "%",
+    stats,
+    bonus_stats
+});

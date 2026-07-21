@@ -1,0 +1,6 @@
+call("stats/prototype/base", {
+    name: "Dwarven Metal Fortune",
+    color: "gold",
+    stats,
+    bonus_stats
+});
