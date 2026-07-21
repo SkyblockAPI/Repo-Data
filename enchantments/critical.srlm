@@ -8,7 +8,7 @@ temp.percentage = Math.add(Math.mul(10, enchantment.level), Math.clamp(Math.sub(
 enchantment.description = [{
     text: "Increases ",
     extra: [
-        call("format/stat/crit_damage"),
+        call("format/stat/combat/crit_damage"),
         " by ",
         {text: String.uFormatted(temp.percentage), color: "lime"},
         {text: "%", color: "lime"},

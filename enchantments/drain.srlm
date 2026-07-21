@@ -3,7 +3,7 @@ static {
     name: "Drain"
 };
 
-format = call("format/stat/crit_damage");
+format = call("format/stat/combat/crit_damage");
 
 temp.first = {text: "100 ", color: format.color, extra: [format, " "]};
 temp.second = {text: "1,000 ", color: format.color, extra: [format]};

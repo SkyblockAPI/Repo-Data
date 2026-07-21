@@ -31,7 +31,7 @@ script {
             trigger: "RIGHT CLICK",
             text: [
                 {text: "Teleport ", color: "gray", extra: [{text: String.uFormatted(range), color: "lime", extra: [" blocks"]}, " ahead of you and"]},
-                {text: "gain ", color: "gray", extra: [{text: "+50 ", color: "lime"}, call("format/stat/speed"), " for ", {text: "3 seconds", color: "lime"}, "."]}
+                {text: "gain ", color: "gray", extra: [{text: "+50 ", color: "lime"}, call("format/stat/misc/speed"), " for ", {text: "3 seconds", color: "lime"}, "."]}
             ],
             mana_cost: 45
         }
