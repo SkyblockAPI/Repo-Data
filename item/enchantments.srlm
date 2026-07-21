@@ -17,6 +17,9 @@ for (temp.enchantment = 0; Math.lt(temp.enchantment, enchantments.length); temp.
     if ("name" !in enchantment) {
         enchantment.name = enchantment.static_data.name;
     };
+    if ("wrap_override" in enchantment.static_data) {
+        enchantment.wrap_override = enchantment.static_data.wrap_override;
+    };
 
     temp.enchantment_key = Component.asString(enchantment.name);
     enchantments[temp.enchantment_key] = enchantment;

@@ -1,15 +1,16 @@
 static {
     name: "Smite",
-    levels: 1..7
+    levels: 1..7,
+    wrap_override: 35
 };
 
 include("enchantments/prototypes/mob_type_damage", {
     enchantment: enchantment,
     format: {color: "gray", extra: [
-        call("format/mobtype/undead"),
+        call("format/mobtype/skeletal"),
         ", ",
-        call("format/mobtype/wither"),
+        call("format/mobtype/undead"),
         " and ",
-        call("format/mobtype/skeletal")
+        call("format/mobtype/wither"),
     ]}
 });

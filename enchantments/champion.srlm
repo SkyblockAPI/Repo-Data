@@ -1,6 +1,7 @@
 static {
     levels: 1..10,
-    name: "Champion"
+    name: "Champion",
+    wrap_override: 35
 };
 
 match (enchantment.level) {

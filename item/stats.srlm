@@ -10,6 +10,7 @@ if ("stats" in meta) {
     include("stats/misc");
     include("stats/hunting");
     include("stats/wisdom");
+    include("item/gem_slots");
 
     stack.lore.endSection();
 };

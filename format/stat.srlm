@@ -1,8 +1,14 @@
 stat_icons = call("format/stat_icons");
 
-stat_icon = match {
+stat_icon_key = match {
     "stat_icon" in this -> stat_icon;
     else -> String.snake_case(stat_name);
 };
 
-return {text: (stat_icons[stat_icon] + stat_name), color: stat_color };
+stat_icon = if (stat_icons[stat_icon_key]) {
+    stat_icons[stat_icon_key];
+} else {
+    "?";
+};
+
+return {text: (stat_icon + stat_name), color: stat_color };

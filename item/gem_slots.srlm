@@ -1,0 +1,32 @@
+
+if ("gem_slots" in meta) {
+  slot_text = [];
+  for (i = 0; (i < meta.gem_slots.length); i+=1) {
+    slot_key = meta.gem_slots[i].id;
+    if (!slot_key) continue;
+
+    slot_type = meta.gem_slots[i].type;
+    slot_tier = data.gems[slot_key];
+    if (!slot_tier) {
+      slot_tier = if ("unlocked_slots" in data.gems && data.gems.unlocked_slots.contains(slot_key)) {
+        "unlocked";
+      } else {
+        "locked";
+      };
+    };
+
+    slot_gem = data.gems[slot_key + "_gem"];
+    if (!slot_gem) slot_gem = slot_type;
+
+    slot_text.addAll(call("gem_slots/slot", {
+      tier: String.lowercase(slot_tier),
+      gem: String.lowercase(slot_gem),
+      type: String.lowercase(slot_type)
+    }));
+
+    if ((i + 1) < meta.gem_slots.length) {
+      slot_text.add(" ");
+    };
+  };
+  stack.lore.add({text: "Gemstones: ", color: "gray", extra: slot_text});
+};

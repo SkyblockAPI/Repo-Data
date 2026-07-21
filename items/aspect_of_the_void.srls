@@ -5,6 +5,12 @@ meta {
         damage: 120,
         strength: 100
     };
+    gem_slots = [
+        {
+            "id": "SAPPHIRE_0",
+            "type": "sapphire"
+        }
+    ];
     name = "Aspect of the Void";
     rarity = "EPIC";
     can_be_reforged = true;

@@ -1,0 +1,19 @@
+if (!tier) return ":c";
+gemstone_slot = call("gem_slots/" + type, {
+  gem: gem
+});
+color = match(tier) {
+  "perfect" -> "gold";
+  "flawless" -> "purple";
+  "fine" -> "blue";
+  "flawed" -> "green";
+  "rough" -> "white";
+  "unlocked" -> "dark_gray";
+  "locked" -> "dark_gray";
+};
+gem_color = match(tier) {
+  "locked" -> "dark_gray";
+  "unlocked" -> "gray";
+  else -> gemstone_slot.color;
+};
+return [{text: "[", color: color}, {text: gemstone_slot.icon, color: gem_color}, {text: "]", color: color}];
