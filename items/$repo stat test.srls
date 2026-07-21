@@ -4,53 +4,8 @@ meta {
     name = "Stat test";
 
     stats = {
+        ferocity: 51,
         damage: 15,
-        ability_damage: 15,
-        attack_speed: 15,
-        bonus_pest_chance: 15,
-        breaking_power: 15,
-        cold: 15,
-        cold_resistance: 15,
-        crit_chance: 15,
-        crit_damage: 15,
-        defense: 15,
-        double_hook_chance: 15,
-        fear: 15,
-        ferocity: 15,
-        fishing_speed: 15,
-        gemstone_spread: 15,
-        health: 15,
-        health_regen: 15,
-        heat: 15,
-        heat_resistance: 15,
-        intelligence: 15,
-        machine_fuel: 15,
-        magic_find: 15,
-        mana: 15,
-        mending: 15,
-        mining_speed: 15,
-        mining_spread: 15,
-        overbloom: 15,
-        overflow_mana: 15,
-        pest: 15,
-        pet_luck: 15,
-        pressure_resistance: 15,
-        pristine: 15,
-        pull: 15,
-        respiration: 15,
-        rift_damage: 15,
-        rift_health: 15,
-        rift_mana_regen: 15,
-        rift_time: 15,
-        sea_creature_chance: 15,
-        speed: 15,
-        strength: 15,
-        sweep: 15,
-        swing_range: 15,
-        treasure_chance: 15,
-        trophy_chance: 15,
-        true_defense: 15,
-        vitality: 16
     };
 
     gem_slots = [
@@ -76,4 +31,83 @@ meta {
         }
     ];
 
-};
+}
+
+
+script {
+    include("item");
+
+    stack.lore.add(call("format/stat/misc/speed"));
+    stack.lore.add(call("format/stat/misc/cold_resistance"));
+    stack.lore.add(call("format/stat/misc/respiration"));
+    stack.lore.add(call("format/stat/misc/heat_resistance"));
+    stack.lore.add(call("format/stat/misc/fear"));
+    stack.lore.add(call("format/stat/misc/tracking"));
+    stack.lore.add(call("format/stat/misc/pressure_resistance"));
+    stack.lore.add(call("format/stat/misc/pet_luck"));
+    stack.lore.add(call("format/stat/misc/magic_find"));
+    stack.lore.add(call("format/stat/foraging/fig_fortune"));
+    stack.lore.add(call("format/stat/foraging/foraging_fortune"));
+    stack.lore.add(call("format/stat/foraging/sweep"));
+    stack.lore.add(call("format/stat/foraging/mangrove_fortune"));
+    stack.lore.add(call("format/stat/farming/melon_fortune"));
+    stack.lore.add(call("format/stat/farming/cactus_fortune"));
+    stack.lore.add(call("format/stat/farming/cocoa_beans_fortune"));
+    stack.lore.add(call("format/stat/farming/moonflower_fortune"));
+    stack.lore.add(call("format/stat/farming/wheat_fortune"));
+    stack.lore.add(call("format/stat/farming/bonus_pest_chance"));
+    stack.lore.add(call("format/stat/farming/potato_fortune"));
+    stack.lore.add(call("format/stat/farming/farming_fortune"));
+    stack.lore.add(call("format/stat/farming/mushroom_fortune"));
+    stack.lore.add(call("format/stat/farming/overbloom"));
+    stack.lore.add(call("format/stat/farming/sugar_cane_fortune"));
+    stack.lore.add(call("format/stat/farming/wildrose_fortune"));
+    stack.lore.add(call("format/stat/farming/pumpkin_fortune"));
+    stack.lore.add(call("format/stat/farming/carrot_fortune"));
+    stack.lore.add(call("format/stat/farming/sunflower_fortune"));
+    stack.lore.add(call("format/stat/farming/nether_wart_fortune"));
+    stack.lore.add(call("format/stat/fishing/double_hook_chance"));
+    stack.lore.add(call("format/stat/fishing/trophy_fish_chance"));
+    stack.lore.add(call("format/stat/fishing/treasure_chance"));
+    stack.lore.add(call("format/stat/fishing/fishing_speed"));
+    stack.lore.add(call("format/stat/fishing/sea_creature_chance"));
+    stack.lore.add(call("format/stat/hunting/pull"));
+    stack.lore.add(call("format/stat/hunting/hunter_fortune"));
+    stack.lore.add(call("format/stat/combat/intelligence"));
+    stack.lore.add(call("format/stat/combat/crit_chance"));
+    stack.lore.add(call("format/stat/combat/defense"));
+    stack.lore.add(call("format/stat/combat/damage"));
+    stack.lore.add(call("format/stat/combat/mending"));
+    stack.lore.add(call("format/stat/combat/strength"));
+    stack.lore.add(call("format/stat/combat/ability_damage"));
+    stack.lore.add(call("format/stat/combat/health"));
+    stack.lore.add(call("format/stat/combat/crit_damage"));
+    stack.lore.add(call("format/stat/combat/vitality"));
+    stack.lore.add(call("format/stat/combat/true_defense"));
+    stack.lore.add(call("format/stat/combat/health_regen"));
+    stack.lore.add(call("format/stat/combat/swing_range"));
+    stack.lore.add(call("format/stat/combat/attack_speed"));
+    stack.lore.add(call("format/stat/combat/ferocity"));
+    stack.lore.add(call("format/stat/wisdom/foraging_wisdom"));
+    stack.lore.add(call("format/stat/wisdom/social_wisdom"));
+    stack.lore.add(call("format/stat/wisdom/farming_wisdom"));
+    stack.lore.add(call("format/stat/wisdom/combat_wisdom"));
+    stack.lore.add(call("format/stat/wisdom/fishing_wisdom"));
+    stack.lore.add(call("format/stat/wisdom/alchemy_wisdom"));
+    stack.lore.add(call("format/stat/wisdom/hunting_wisdom"));
+    stack.lore.add(call("format/stat/wisdom/enchanting_wisdom"));
+    stack.lore.add(call("format/stat/wisdom/taming_wisdom"));
+    stack.lore.add(call("format/stat/wisdom/carpentry_wisdom"));
+    stack.lore.add(call("format/stat/wisdom/runecrafting_wisdom"));
+    stack.lore.add(call("format/stat/wisdom/mining_wisdom"));
+    stack.lore.add(call("format/stat/mining/pristine"));
+    stack.lore.add(call("format/stat/mining/gemstone_spread"));
+    stack.lore.add(call("format/stat/mining/block_fortune"));
+    stack.lore.add(call("format/stat/mining/ore_fortune"));
+    stack.lore.add(call("format/stat/mining/mining_spread"));
+    stack.lore.add(call("format/stat/mining/mining_fortune"));
+    stack.lore.add(call("format/stat/mining/mining_speed"));
+    stack.lore.add(call("format/stat/mining/gemstone_fortune"));
+    stack.lore.add(call("format/stat/mining/breaking_power"));
+    stack.lore.add(call("format/stat/mining/dwarven_metal_fortune"));
+}
