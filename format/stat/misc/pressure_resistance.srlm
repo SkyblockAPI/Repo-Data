@@ -1,0 +1,4 @@
+call("format/stat", {
+    stat_name: "Pressure Resistance",
+    stat_color: "blue",
+})

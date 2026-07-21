@@ -1,0 +1,5 @@
+call("format/stat", {
+    stat_icon: "foraging_fortune",
+    stat_name: "Mangrove Fortune",
+    stat_color: "gold",
+})

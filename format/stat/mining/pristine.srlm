@@ -1,0 +1,4 @@
+call("format/stat", {
+    stat_name: "Pristine",
+    stat_color: "dark_purple",
+})

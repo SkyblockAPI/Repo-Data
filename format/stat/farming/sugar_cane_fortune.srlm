@@ -1,0 +1,5 @@
+call("format/stat", {
+    stat_icon: "farming_fortune",
+    stat_name: "Sugar Cane Fortune",
+    stat_color: "gold",
+})

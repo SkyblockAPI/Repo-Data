@@ -1,0 +1,4 @@
+call("format/stat", {
+    stat_name: "Mining Speed",
+    stat_color: "gold",
+})

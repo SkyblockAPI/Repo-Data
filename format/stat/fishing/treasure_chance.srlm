@@ -1,0 +1,4 @@
+call("format/stat", {
+    stat_name: "Treasure Chance",
+    stat_color: "gold",
+})

@@ -1,4 +1,4 @@
-return call("format/stat", {
+call("format/stat", {
     stat_name: "Ability Damage",
     stat_color: "red",
-});
+})

@@ -1,0 +1,4 @@
+call("format/stat", {
+    stat_name: "True Defense",
+    stat_color: "white",
+})

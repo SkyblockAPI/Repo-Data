@@ -1,0 +1,4 @@
+call("format/stat", {
+    stat_name: "Cold Resistance",
+    stat_color: "aqua",
+})

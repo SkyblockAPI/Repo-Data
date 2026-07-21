@@ -1,0 +1,4 @@
+call("format/stat", {
+    stat_name: "Respiration",
+    stat_color: "dark_aqua",
+})

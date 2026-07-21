@@ -1,0 +1,4 @@
+call("format/stat", {
+    stat_name: "Mending",
+    stat_color: "lime",
+})

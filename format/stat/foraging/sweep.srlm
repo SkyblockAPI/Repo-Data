@@ -1,0 +1,4 @@
+call("format/stat", {
+    stat_name: "Sweep",
+    stat_color: "dark_green",
+})

@@ -1,0 +1,4 @@
+call("format/stat", {
+    stat_name: "Breaking Power",
+    stat_color: "dark_green",
+})

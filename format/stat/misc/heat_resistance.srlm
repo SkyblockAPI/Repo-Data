@@ -1,0 +1,4 @@
+call("format/stat", {
+    stat_name: "Heat Resistance",
+    stat_color: "red",
+})

@@ -44,4 +44,12 @@ treasure_chance = "";
 trophy_chance = "";
 true_defense = "";
 vitality = "";
-return this;
+tracking = "";
+damage = "";
+farming_fortune = "";
+hunter_fortune = "";
+foraging_fortune = "";
+mining_fortune = "";
+wisdom = "☯";
+
+this

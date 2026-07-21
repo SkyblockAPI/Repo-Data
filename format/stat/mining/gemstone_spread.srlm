@@ -1,0 +1,4 @@
+call("format/stat", {
+    stat_name: "Gemstone Spread",
+    stat_color: "yellow",
+})

@@ -1,4 +1,4 @@
 call("format/stat", {
-    stat_name: "Mining Fortune",
+    stat_name: "Trophy Chance",
     stat_color: "gold",
 })

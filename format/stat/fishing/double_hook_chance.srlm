@@ -1,0 +1,4 @@
+call("format/stat", {
+    stat_name: "Double Hook Chance",
+    stat_color: "dark_blue",
+})

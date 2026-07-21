@@ -67,7 +67,7 @@ script {
     stack.lore.add(call("format/stat/farming/sunflower_fortune"));
     stack.lore.add(call("format/stat/farming/nether_wart_fortune"));
     stack.lore.add(call("format/stat/fishing/double_hook_chance"));
-    stack.lore.add(call("format/stat/fishing/trophy_fish_chance"));
+    stack.lore.add(call("format/stat/fishing/trophy_chance"));
     stack.lore.add(call("format/stat/fishing/treasure_chance"));
     stack.lore.add(call("format/stat/fishing/fishing_speed"));
     stack.lore.add(call("format/stat/fishing/sea_creature_chance"));

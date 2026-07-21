@@ -1,0 +1,5 @@
+call("format/stat", {
+    stat_icon: "mining_fortune",
+    stat_name: "Gemstone Fortune",
+    stat_color: "gold",
+})

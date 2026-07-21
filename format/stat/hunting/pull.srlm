@@ -1,0 +1,4 @@
+call("format/stat", {
+    stat_name: "Pull",
+    stat_color: "dark_aqua",
+})

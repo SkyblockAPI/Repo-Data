@@ -1,0 +1,4 @@
+call("format/stat", {
+    stat_name: "Strength",
+    stat_color: "red",
+})
