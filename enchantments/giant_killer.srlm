@@ -5,16 +5,16 @@ static {
 
 temp.amount = 0.1 * enchantment.level;
 temp.health = 5 * enchantment.level;
-match (enchantment.level) {
-    5 -> temp.amount += 0.1;
-    6 -> temp.amount += 0.3;
-    7 -> temp.amount += 0.5;
+temp.amount += match (enchantment.level) {
+    5 -> 0.1;
+    6 -> 0.3;
+    7 -> 0.5;
 };
 
-match (enchantment.level) {
-    5 -> temp.health += 5;
-    6 -> temp.health += 15;
-    7 -> temp.health += 30;
+temp.health += match (enchantment.level) {
+    5 -> 5;
+    6 -> 15;
+    7 -> 30;
 };
 
 enchantment.description = {extra: [

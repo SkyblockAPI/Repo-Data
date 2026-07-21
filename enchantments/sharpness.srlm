@@ -2,12 +2,10 @@ static {
     name: "Sharpness",
     levels: 1..7
 };
-
-if (enchantment.level <= 4) {
-    temp.amount = 5 * enchantment.level;
-} else {
-    temp.amount = (10 * enchantment.level) - 20;
-};
+amount = match (enchantment.level) {
+  <= 4 -> (5 * enchantment.level);
+  else -> ((10 * enchantment.level) - 20);
+}
 
 enchantment.description = {extra: [
     "Increases melee damage dealt by ",

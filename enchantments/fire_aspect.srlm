@@ -4,10 +4,10 @@ static {
 };
 
 temp.amount = 3 * enchantment.level;
-if (enchantment.level >= 2) {
-    temp.seconds = 4;
+temp.seconds = if (enchantment.level >= 2) {
+    4
 } else {
-    temp.seconds = 3;
+    3
 };
 
 enchantment.description = {extra: [

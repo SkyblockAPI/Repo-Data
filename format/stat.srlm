@@ -6,9 +6,9 @@ stat_icon_key = match {
 };
 
 stat_icon = if (stat_icons[stat_icon_key]) {
-    stat_icons[stat_icon_key];
+    stat_icons[stat_icon_key]
 } else {
-    "?";
+    "?"
 };
 
 return {text: (stat_icon + stat_name), color: stat_color };

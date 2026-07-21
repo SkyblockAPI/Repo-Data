@@ -3,9 +3,9 @@ static {
     levels: 1..6
 };
 
-match (enchantment.level) {
-    <= 5 -> temp.amount = 0.2 * enchantment.level;
-    6 -> temp.amount = 1.25;
+temp.amount = match (enchantment.level) {
+    <= 5 -> (0.2 * enchantment.level);
+    6 -> 1.25;
 };
 
 enchantment.description = {extra: [

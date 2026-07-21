@@ -3,11 +3,10 @@ static {
     levels: 1..7
 };
 
-amount = if (enchantment.level >= 6) {
-    ((enchantment.level * 10) - 10);
-} else {
-    (enchantment.level * 8);
-};
+amount = match (enchantment.level) {
+  >= 6 -> ((enchantment.level * 10) - 10);
+  else -> (enchantment.level * 8);
+}
 
 enchantment.description = {
     color: "gray",
