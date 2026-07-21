@@ -1,0 +1,12 @@
+if ("shot_cooldown" !in meta) return;
+
+extra = [
+  "Shot Cooldown: ",
+  {text: String.uFormatted(meta.shot_cooldown), color: "green"},
+  {text: "s", color: "green"}
+];
+
+stack.lore.add({
+  extra,
+  color: "gray"
+});

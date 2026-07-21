@@ -1,4 +1,4 @@
 call("format/stat", {
     stat_name: "Magic Find",
-    stat_color: "dark_aqua",
+    stat_color: "aqua",
 })
