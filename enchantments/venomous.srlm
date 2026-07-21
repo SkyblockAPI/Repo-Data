@@ -8,13 +8,13 @@ temp.damage = 0.3 * enchantment.level;
 match (enchantment.level) {
     <= 4 -> {
         temp.reduction = 2 * enchantment.level;
-    };
-    5 -> temp.reduction = 12;
-    6 -> temp.reduction = 15;
+    },
+    5 -> temp.reduction = 12,
+    6 -> temp.reduction = 15,
     >= 7 -> {
         temp.reduction = 15;
         temp.damage = 2;
-    };
+    },
 };
 
 enchantment.description = {

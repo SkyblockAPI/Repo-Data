@@ -1,6 +1,6 @@
 temp.amount = match (enchantment.level) {
-    >= 4 -> (20 + (10 * (enchantment.level - 4)));
-    else -> (5 * enchantment.level);
+    >= 4 -> (20 + (10 * (enchantment.level - 4))),
+    else -> (5 * enchantment.level),
 }
 
 enchantment.description = [{

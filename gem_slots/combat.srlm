@@ -1,8 +1,9 @@
 color = match(gem) {
-  "combat" -> "black";
-  else -> call("format/gems/"+gem);
+  "combat" -> "black",
+  else -> call("format/gems/"+gem),
 };
-return {
+
+{
   color: color,
   icon: "⚔"
-};
+}

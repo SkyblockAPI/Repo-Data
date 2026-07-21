@@ -1,8 +1,8 @@
 stat_icons = call("format/stat_icons");
 
 stat_icon_key = match {
-    "stat_icon" in this -> stat_icon;
-    else -> String.snake_case(stat_name);
+    "stat_icon" in this -> stat_icon,
+    else -> String.snake_case(stat_name),
 };
 
 stat_icon = if (stat_icons[stat_icon_key]) {

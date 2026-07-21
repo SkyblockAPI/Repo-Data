@@ -8,31 +8,31 @@ match (enchantment.level) {
     1 -> {
         temp.bonus = 2;
         temp.threshold = 6;
-    };
+    },
     2 -> {
         temp.bonus = 4;
         temp.threshold = 12;
-    };
+    },
     3 -> {
         temp.bonus = 6;
         temp.threshold = 18;
-    };
+    },
     4 -> {
         temp.bonus = 8;
         temp.threshold = 24;
-    };
+    },
     5 -> {
         temp.bonus = 12;
         temp.threshold = 40;
-    };
+    },
     6 -> {
         temp.bonus = 16;
         temp.threshold = 60;
-    };
+    },
     >= 7 -> {
         temp.bonus = 20;
         temp.threshold = 80;
-    };
+    },
 };
 
 enchantment.description = {

@@ -9,9 +9,9 @@ if ("gem_slots" in meta) {
     slot_tier = data.gems[slot_key];
     if (!slot_tier) {
       slot_tier = if ("unlocked_slots" in data.gems && data.gems.unlocked_slots.contains(slot_key)) {
-        "unlocked";
+        "unlocked"
       } else {
-        "locked";
+        "locked"
       };
     };
 

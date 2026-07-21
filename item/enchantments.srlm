@@ -95,8 +95,8 @@ if (Boolean.or(Math.gte(base_enchantments.length, 10), always_compact)) {
         stack.lore.add(temp.enchantment.name);
         if (enchantments.length <= 5) {
             stack.lore.addAll(Component.splitToLength(temp.enchantment.description, match {
-                "wrap_override" in temp.enchantment -> temp.enchantment.wrap_override;
-                else -> 38;
+                "wrap_override" in temp.enchantment -> temp.enchantment.wrap_override,
+                else -> 38,
             }));
         };
     };

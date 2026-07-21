@@ -1,5 +1,6 @@
 stat_icons = call("format/stat_icons");
-return {
+
+{
   color: "cyan",
   icon: stat_icons.fishing_speed
-};
+}

@@ -10,60 +10,60 @@ match (enchantment.level) {
         coins = 1.4;
         xp = 7;
         until_next = "50k";
-    };
+    },
     2 -> {
         temp.combat = 3.78;
         temp.coins = 1.8;
         temp.xp = 9;
         temp.until_next = "100k";
-    };
+    },
     3 -> {
         temp.combat = 4.56;
         temp.coins = 2.2;
         temp.xp = 11;
         temp.until_next = "250k";
-    };
+    },
     4 -> {
         temp.combat = 5.33;
         temp.coins = 2.6;
         temp.xp = 13;
         temp.until_next = "500k";
-    };
+    },
     5 -> {
         temp.combat = 6.11;
         temp.coins = 3;
         temp.xp = 15;
         temp.until_next = "1m";
-    };
+    },
     6 -> {
         temp.combat = 6.89;
         temp.coins = 3.4;
         temp.xp = 17;
         temp.until_next = "1.5m";
-    };
+    },
     7 -> {
         temp.combat = 7.67;
         temp.coins = 3.8;
         temp.xp = 19;
         temp.until_next = "2m";
-    };
+    },
     8 -> {
         temp.combat = 8.44;
         temp.coins = 4.2;
         temp.xp = 21;
         temp.until_next = "2.5m";
-    };
+    },
     9 -> {
         temp.combat = 9.22;
         temp.coins = 4.6;
         temp.xp = 23;
         temp.until_next = "3m";
-    };
+    },
     10 -> {
         temp.combat = 10;
         temp.coins = 5;
         temp.xp = 25;
-    };
+    },
 };
 
 

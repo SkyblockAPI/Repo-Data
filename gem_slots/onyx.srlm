@@ -1,5 +1,6 @@
 stat_icons = call("format/stat_icons");
-return {
+
+{
   color: "dark_gray",
   icon: stat_icons.crit_damage
-};
+}

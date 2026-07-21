@@ -1,5 +1,6 @@
 stat_icons = call("format/stat_icons");
-return {
+
+{
   color: "purple",
   icon: stat_icons.defence
-};
+}

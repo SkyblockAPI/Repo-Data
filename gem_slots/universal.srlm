@@ -1,8 +1,9 @@
 color = match(gem) {
-  "universal" -> "black";
-  else -> call("format/gems/"+gem);
-};
-return {
+  "universal" -> "black",
+  else -> call("format/gems/"+gem),
+}
+
+{
   color: color,
   icon: "❂"
-};
+}

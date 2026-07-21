@@ -1,5 +1,6 @@
 stat_icons = call("format/stat_icons");
-return {
+
+{
   color: "white",
   icon: stat_icons.true_defense
-};
+}

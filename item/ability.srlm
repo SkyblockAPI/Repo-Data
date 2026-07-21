@@ -1,7 +1,7 @@
 abilities = match {
-  "abilities" in meta -> meta.abilities;
-  "abilities" in this -> abilities;
-  else -> return;
+  "abilities" in meta -> meta.abilities,
+  "abilities" in this -> abilities,
+  else -> return,
 };
 
 for (temp.i = 0; (temp.i < abilities.length); temp.i += 1) {

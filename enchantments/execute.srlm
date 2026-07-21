@@ -4,8 +4,8 @@ static {
 };
 
 temp.amount = match (enchantment.level) {
-    <= 5 -> (0.2 * enchantment.level);
-    6 -> 1.25;
+    <= 5 -> (0.2 * enchantment.level),
+    6 -> 1.25,
 };
 
 enchantment.description = {extra: [
