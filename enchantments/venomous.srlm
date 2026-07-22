@@ -9,10 +9,10 @@ reduction = match (level) {
     <= 4 -> (2 * level),
     5 -> 12,
     6 -> 15,
-    >= 7 -> 2,
+    >= 7 -> 15,
 };
 
-if ((level >= 7) && (level <= 7)) reduction = 15;
+if ((level >= 7) && (level <= 7)) reduction = 2;
 
 description = {
     color: "gray",
