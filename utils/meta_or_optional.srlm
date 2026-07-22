@@ -1,0 +1,7 @@
+value = if (meta[field]) {
+    meta[field]
+} else {
+    this[field]
+};
+
+call("utils/optional", { value: value })

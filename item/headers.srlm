@@ -1,5 +1,3 @@
-
-
-if ("type" in meta) {
-    stack.lore.add({text: meta.type, color: "dark_gray"});
-};
+call("utils/meta_or_optional", { field: "type", ...this }).ifPresent(| x | {
+    stack.lore.add({text: x, color: "dark_gray"})
+});

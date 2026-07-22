@@ -1,19 +1,18 @@
-lore = {};
-if ("lore" in meta) {
-    lore = meta.lore;
-};
+lore = call("utils/meta_or_default", { field: "lore", default: {} });
 stats = {};
 bonus_stats = {};
+
 call("stat_calc/init_base", {
     stats: stats,
     meta: meta
 });
+
 if ("gem_slots" in meta) {
     call("stat_calc/gem_bonuses", {
         bonus_stats: bonus_stats,
         stats: stats
     });
-};
+}
 
 include("item/name");
 include("item/headers");
@@ -25,7 +24,7 @@ if ("after_stats" in lore) {
     stack.lore.beginSection();
     stack.lore.addAll(lore.after_stats);
     stack.lore.endSection();
-};
+}
 
 include("item/ability");
 
@@ -33,15 +32,21 @@ if ("after_ability" in lore) {
     stack.lore.beginSection();
     stack.lore.addAll(lore.after_ability);
     stack.lore.endSection();
-};
+}
+
+call("utils/meta_or_optional", { field: "is_ingredient", ...this }).ifPresent(|value| {
+    stack.lore.beginSection();
+    stack.lore.add({text: "Right-click to view recipes!", color: "yellow"});
+    stack.lore.endSection();
+});
 
 include("item/toolkit");
 include("item/footer");
 
 if ("item" in meta) {
     stack.item = meta.item;
-};
+}
 
 if ("skin" in meta) {
     stack.skin = meta.skin;
-};
+}

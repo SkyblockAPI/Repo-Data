@@ -1,0 +1,8 @@
+{
+  value,
+  ifPresent: |lambda| {
+    if (self.value) {
+        lambda(self.value)
+    }
+  }
+}

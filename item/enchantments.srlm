@@ -62,31 +62,22 @@ if (has_ultimate) {
 
 stack.lore.beginSection();
 # ordered alphabetically, ultimate first
-if (Boolean.or(Math.gte(base_enchantments.length, 10), always_compact)) {
+if ((base_enchantments.length >= 10) || always_compact) {
 
-    base_enchantments = base_enchantments.chunked(3);
+    base_enchantments.chunked(3).map(|base_enchantments| {
+        base_enchantments.mapIndexed(| enchantment, index | {
+            entry = enchantments[enchantment].name;
 
-    for (temp.enchantment_line = 0; Math.lt(temp.enchantment_line, base_enchantments.length); temp.enchantment_line = Math.add(temp.enchantment_line, 1)) {
-
-        temp.enchantments = base_enchantments.get(temp.enchantment_line);
-        line = [];
-
-        for (temp.enchantment = 0; Math.lt(temp.enchantment, temp.enchantments.length); temp.enchantment = Math.add(temp.enchantment, 1)) {
-            entry = enchantments[temp.enchantments[temp.enchantment]].name;
-
-            if (Math.lt(Math.add(temp.enchantment, 1), temp.enchantments.length)) {
+            if ((index + 1) < base_enchantments.length) {
                 if ("extra" in entry) {
                     entry.extra = Component.join(entry.extra, ", ");
                 } else {
                     entry.extra = [{text: ", "}];
                 };
             };
-            line.add(entry);
-        };
-
-        stack.lore.add(line);
-
-    };
+            entry
+        })
+    }).forEach(stack.lore.add);
 
 } else {
     base_enchantments.forEach(|enchantment_key| {
