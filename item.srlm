@@ -1,18 +1,12 @@
 lore = call("utils/meta_or_default", { field: "lore", default: {} });
 stats = {};
 bonus_stats = {};
-
-call("stat_calc/init_base", {
-    stats: stats,
-    meta: meta
+include("stat_calc/calculate", {
+    stats,
+    bonus_stats,
+    data,
+    meta
 });
-
-if ("gem_slots" in meta) {
-    call("stat_calc/gem_bonuses", {
-        bonus_stats: bonus_stats,
-        stats: stats
-    });
-}
 
 include("item/name");
 include("item/headers");
@@ -49,4 +43,6 @@ if ("item" in meta) {
 
 if ("skin" in meta) {
     stack.skin = meta.skin;
-}
+};
+
+print(stack);

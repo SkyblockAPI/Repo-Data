@@ -1,0 +1,43 @@
+static {
+  name: "Suspicious",
+  description: [
+    {
+      text: "Suspicious Bonus",
+      color: "blue"
+    },
+    {
+      extra: [
+        "Increases weapon damage by ",
+        {text: "+15", color: "red"},
+        "."
+      ],
+      color: "gray"
+    }
+  ],
+  stats: {
+    common: {
+      crit_chance: 1,
+      crit_damage: 30,
+    },
+    uncommon: {
+      crit_chance: 2,
+      crit_damage: 40,
+    },
+    rare: {
+      crit_chance: 3,
+      crit_damage: 50,
+    },
+    epic: {
+      crit_chance: 5,
+      crit_damage: 65,
+    },
+    legendary: {
+      crit_chance: 7,
+      crit_damage: 85,
+    },
+    mythic: {
+      crit_chance: 10,
+      crit_damage: 110,
+    },
+  }
+};

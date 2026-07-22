@@ -1,0 +1,26 @@
+if ("modifier" !in data) return;  
+
+reforge_data = static("reforges/"+data.modifier);
+
+all_reforge_stats = reforge_data.stats;
+
+item_rarity = String.lowercase(Rarity.stack());
+
+if (!all_reforge_stats[item_rarity]) return;
+
+reforge_stats = all_reforge_stats[item_rarity];
+
+for (stat : Objects.entries(reforge_stats)) {
+  if (stats[stat.key]) {
+    stats[stat.key] += stat.value;
+  } else {
+    stats[stat.key] = stat.value;
+  };
+
+  call("stat_calc/put_bonus", {
+    stat: stat.key,
+    amount: stat.value,
+    color: "blue",
+    bonus_stats
+  });
+};

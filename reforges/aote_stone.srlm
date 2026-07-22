@@ -1,0 +1,25 @@
+static {
+  name: "Warped",
+  stats: {
+    uncommon: {
+      damage: 165,
+      intelligence: 25,
+      strength: 165
+    },
+    rare: {
+      damage: 165,
+      intelligence: 65,
+      strength: 165
+    },
+    epic: {
+      damage: 165,
+      intelligence: 100,
+      strength: 165
+    },
+    legendary: {
+      damage: 165,
+      intelligence: 150,
+      strength: 165
+    }
+  }
+};

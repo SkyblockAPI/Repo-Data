@@ -2,4 +2,7 @@ if (!bonus_stats[stat]) {
   bonus_stats[stat] = [];
 };
 
-bonus_stats[stat] += entry;
+bonus_stats[stat] += {
+  amount,
+  color
+};

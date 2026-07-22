@@ -26,7 +26,8 @@ for (i = 0; (i < meta.gem_slots.length); i+=1) {
   };
 
   call("stat_calc/put_bonus", {
-    entry: { extra: [" (", String.formatted(gem_amount), ")"], color:"pink" },
+    amount: gem_amount, 
+    color: "pink",
     stat: gem_stat,
     bonus_stats
   });

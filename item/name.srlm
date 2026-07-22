@@ -1,1 +1,8 @@
-stack.name = {"text": meta.name, color: Rarity.color(Rarity.stack())};
+reforge_name = if ("modifier" in data) {
+  reforge_data = static("reforges/"+data.modifier);
+  (reforge_data.name + " ")
+} else {
+  ""
+};
+
+stack.name = {color: Rarity.color(Rarity.stack()), extra: [reforge_name, meta.name]};

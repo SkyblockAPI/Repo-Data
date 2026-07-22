@@ -1,0 +1,28 @@
+static {
+  name: "Gilded",
+  description: [
+    {
+      text: "Byron's Compassion",
+      color: "blue",
+      extra: [
+        {text: " (Gilded)", color: "dark_gray"}
+      ]
+    },
+    {
+      text: "Upon killing an enemy, you have a rare chance to grant coins to a player around you.",
+      color: "gray"
+    }
+  ],
+  stats: {
+    legendary: {
+      ability_damage: 8,
+      strength: 75,
+      damage: 75
+    },
+    mythic: {
+      ability_damage: 10,
+      strength: 90,
+      damage: 90
+    }
+  }
+};

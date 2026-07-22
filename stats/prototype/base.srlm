@@ -17,7 +17,17 @@ if (suffix) {
 }
 
 if (bonus_stats[stat]) {
-  extra.addAll(bonus_stats[stat]);
+  for (bonus_stat : bonus_stats[stat]) {
+    bonus_extra = [
+      " (",
+      String.formatted(bonus_stat.amount)
+    ];
+    if (suffix) {
+      bonus_extra += suffix;
+    };
+    bonus_extra += ")";
+    extra.add({extra: bonus_extra, color: bonus_stat.color});
+  }
 };
 
 stack.lore.add({

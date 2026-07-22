@@ -11,4 +11,4 @@ stat_icon = if (stat_icons[stat_icon_key]) {
     "?"
 };
 
-return {text: (stat_icon + stat_name), color: stat_color };
+return {text: (stat_icon + " " + stat_name), color: stat_color };
