@@ -12,7 +12,7 @@ reduction = match (level) {
     >= 7 -> 2,
 };
 
-if (level == 7) reduction = 15;
+if ((level >= 7) && (level <= 7)) reduction = 15;
 
 description = {
     color: "gray",

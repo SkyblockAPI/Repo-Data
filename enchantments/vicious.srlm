@@ -4,17 +4,21 @@ static {
 };
 
 ferocity_format = call("format/stat/combat/ferocity");
+ferocity_amount = 2 + level;
 
 description = {
     color: "gray",
     extra: [
         "Grants ",
-        {color: ferocity_format.color, extra: ["+", String.uFormatted(2 + level), " ", ferocity_format]},
+        {color: ferocity_format.color, extra: ["+", String.uFormatted(ferocity_amount), " ", ferocity_format]},
         "."
     ]
 };
 
 return {
     level,
-    description
+    description,
+    stat_bonus: {
+        ferocity: ferocity_amount
+    }
 };
