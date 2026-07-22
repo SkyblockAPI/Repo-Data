@@ -1,0 +1,30 @@
+type = "Farming Tool";
+
+farming_data = call("item/farming_tool/farming_data");
+
+gem_slots = [];
+
+if (farming_data.level >= 5) {
+    gem_slots.add({
+        "id": "PERIDOT_0",
+        "type": "peridot"
+    });
+}
+if (farming_data.level >= 15) {
+    gem_slots.add({
+        "id": "PERIDOT_1",
+        "type": "peridot"
+    });
+}
+if (farming_data.level >= 25) {
+    gem_slots.add({
+        "id": "PERIDOT_1",
+        "type": "peridot"
+    });
+}
+if (farming_data.level == 50) {
+    gem_slots.add({
+        "id": "PERIDOT_1",
+        "type": "peridot"
+    });
+}

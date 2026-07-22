@@ -1,12 +1,13 @@
 meta {
     item = "paper";
-    rarity = "UNCOMMON";
-    name = "Euclid's Wheat Sickle Mk. I";
+    rarity = "RARE";
+    name = "Euclid's Wheat Sickle Mk. II";
     is_farming_tool = true;
     include("items/prototypes/ingredient", this);
 }
 
 script {
-    include("items/prototypes/farming/hoe_1", this);
+    include("items/prototypes/farming/hoe_2", this);
+    farming_data = call("item/farming_tool/farming_data");
     include("item");
 }

@@ -1,2 +1,3 @@
-type = "Farming Tool";
 hoe_tier = 1;
+
+include("items/prototypes/farming/hoe_common", this);

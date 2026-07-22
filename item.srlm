@@ -36,7 +36,7 @@ call("utils/meta_or_optional", { field: "is_ingredient", ...this }).ifPresent(|v
 include("item/toolkit");
 
 call("utils/meta_or_optional", { field: "is_farming_tool", ...this }).ifPresent(|value| {
-    call("item/farming_tool/level_bar");
+    call("item/farming_tool/level_bar", farming_data);
 });
 
 include("item/footer");

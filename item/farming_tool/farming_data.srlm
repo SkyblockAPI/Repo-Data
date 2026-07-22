@@ -1,0 +1,29 @@
+levels = call("item/farming_tool/levels");
+
+overclockes_used = call("utils/data_or_default", { field: "levelable_overclocks", data, default: 0 });
+hoe_tier = call("utils/meta_or_field", { field: "hoe_tier", ...this });
+
+max_level_overclocked = match (hoe_tier) {
+   1 -> 14,
+   2 -> 29,
+   3 -> 40 + overclockes_used,
+};
+
+max_level = match (hoe_tier) {
+   1 -> 14,
+   2 -> 29,
+   3 -> 40,
+};
+
+level = Math.min(data.levelable_lvl, max_level_overclocked);
+
+exp = call("utils/data_or_default", { field: "levelable_exp", data, default: 0 });
+max = levels[level];
+
+is_max_level = level >= 50;
+needs_upgrade = (data.levelable_lvl >= max_level_overclocked) && !is_max_level;
+
+requires_overclock = needs_upgrade && (hoe_tier >= 3);
+requires_upgrade_no_overclock = needs_upgrade && (hoe_tier < 3);
+
+this

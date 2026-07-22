@@ -8,5 +8,6 @@ meta {
 
 script {
     include("items/prototypes/farming/hoe_3", this);
+    farming_data = call("item/farming_tool/farming_data");
     include("item");
 }

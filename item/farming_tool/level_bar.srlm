@@ -1,38 +1,13 @@
 
 stack.lore.beginSection();
 
-levels = call("item/farming_tool/levels");
-
-overclockes_used = call("utils/data_or_default", { field: "levelable_overclocks", data, default: 0 });
-hoe_tier = call("utils/meta_or_field", { field: "hoe_tier", ...this });
-
-max_level_overclocked = match (hoe_tier) {
-   1 -> 14,
-   2 -> 29,
-   3 -> 40 + overclockes_used,
-};
-
-max_level = match (hoe_tier) {
-   1 -> 14,
-   2 -> 29,
-   3 -> 40,
-};
-
-level = Math.min(data.levelable_lvl, max_level_overclocked);
-
-exp = call("utils/data_or_default", { field: "levelable_exp", data, default: 0 });
-max = levels[level];
-
-is_max_level = level >= 50;
-needs_upgrade = (data.levelable_lvl >= max_level) && !is_max_level;
-
 stack.lore.add({
     text: "Level ",
     color: "gray",
     extra: [
-        { text: String.uFormatted(level), color: if (needs_upgrade) { "white" } else { "green" } },
+        { text: String.uFormatted(level), color: if (requires_upgrade_no_overclock) { "white" } else { "green" } },
         { text: " -> ", color: "dark_gray" },
-        { text: String.uFormatted(level + 1), color: if (needs_upgrade) { "gray" } else { "gold" }  },
+        { text: String.uFormatted(level + 1), color: if (requires_upgrade_no_overclock) { "gray" } else { "gold" }  },
         "   ",
         {
             color: "dark_gray",
@@ -47,23 +22,25 @@ stack.lore.add({
     ]
 });
 
-progress = exp / max;
+progress = Math.clamp(exp / max, 0, 1);
 
 bar = [];
 
 for (i : 0..40) {
-    bar.add({ text: " ", strikethrough: true, color: "lime" });
+    current_progress = i / 40;
+
+    bar.add({ text: " ", strikethrough: true, color: if ((current_progress <= progress) && !needs_upgrade) { "lime" } else { "white" } });
 }
 
 bar.add({ text: " ", color: "white" });
-bar.add({ text: String.uFormatted(Math.floor(progress * 1000) / 10), extra: [ { text: "%", color: "gold" }], color: "yellow" });
+bar.add({ text: String.uFormatted(Math.floor(progress * 1000) / 10), extra: [ { text: "%", color: if (!needs_upgrade) { "gold" } else { "dark_gray" }}], color: if (!needs_upgrade) { "yellow" } else { "gray" } });
 
 stack.lore.add(bar);
 
 
 if (needs_upgrade && (hoe_tier >= 3)) {
     stack.lore.add({ text: "OVERCLOCK REQUIRED!", color: "dark_aqua", bold: true });
-} else {
+} else if (needs_upgrade) {
     stack.lore.add({ text: "UPGRADE REQUIRED!", color: "red", bold: true });
 }
 

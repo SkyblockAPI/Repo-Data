@@ -1,12 +1,12 @@
-if ("gem_slots" in meta) {
+call("utils/meta_or_optional", { field: "gem_slots", ...this }).ifPresent(| gem_slots | {
   has_data_gem = "gems" in data;
 
   slot_text = [];
-  for (i = 0; (i < meta.gem_slots.length); i+=1) {
-    slot_key = meta.gem_slots[i].id;
+  for (i = 0; (i < gem_slots.length); i+=1) {
+    slot_key = gem_slots[i].id;
     if (!slot_key) continue;
 
-    slot_type = meta.gem_slots[i].type;
+    slot_type = gem_slots[i].type;
     slot_tier = if (has_data_gem) data.gems[slot_key];
     if (!slot_tier) {
       slot_tier = if ((has_data_gem && "unlocked_slots" in data.gems) && data.gems.unlocked_slots.contains(slot_key)) {
@@ -27,4 +27,4 @@ if ("gem_slots" in meta) {
     }));
   };
   stack.lore.add({text: "Gemstones:", color: "gray", extra: slot_text});
-};
+});
