@@ -1,0 +1,11 @@
+# Art of War
+
+if ("art_of_war_count" !in data) return;
+
+call("stat_calc/put_bonus", {
+  stat: "strength",
+  amount: data.art_of_war_count * 5,
+  color: "gold",
+  prefix: "[", suffix: "]",
+  bonus_stats, stats
+});
