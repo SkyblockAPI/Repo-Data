@@ -8,7 +8,6 @@ if (Rarity.isRecombobulated()) {
 if ("category" in meta) {
     temp.footer.category = {text: String.concat(" ", String.uppercase(meta.category))};
 };
-
 temp.rarity = Rarity.stack();
 
 stack.lore.add({

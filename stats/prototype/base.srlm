@@ -19,13 +19,14 @@ if (suffix) {
 if (bonus_stats[stat]) {
   for (bonus_stat : bonus_stats[stat]) {
     bonus_extra = [
-      " (",
+      " ",
+      bonus_stat.prefix,
       String.formatted(bonus_stat.amount)
     ];
     if (suffix) {
       bonus_extra += suffix;
     };
-    bonus_extra += ")";
+    bonus_extra += bonus_stat.suffix;
     extra.add({extra: bonus_extra, color: bonus_stat.color});
   }
 };

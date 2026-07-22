@@ -4,5 +4,5 @@ stat_entries = Objects.entries(meta.stats);
 
 for (i = 0; (i < stat_entries.length); i+=1) {
   entry_kv = stat_entries[i];
-  stats[entry_kv.key] = entry_kv.value;
-};
+  stats[String.lowercase(entry_kv.key)] = entry_kv.value;
+}

@@ -1,9 +1,8 @@
 if (!stat) return;
 if (!amount) return;
-if (!stats) return;
 
 if (stats[stat]) {
   stats[stat] += amount;
 } else {
   stats[stat] = amount;
-};
+}

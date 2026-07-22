@@ -19,15 +19,10 @@ for (i = 0; (i < meta.gem_slots.length); i+=1) {
     rarity: item_rarity
   });
 
-  call("stat_calc/put_stat", {
-    amount: gem_amount,
-    stat: gem_stat,
-    stats
-  });
   call("stat_calc/put_bonus", {
     amount: gem_amount, 
     color: "pink",
     stat: gem_stat,
-    bonus_stats
+    bonus_stats, stats
   });
 };

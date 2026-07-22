@@ -3,9 +3,9 @@ static {
     levels: 1..7
 };
 
-amount = match (enchantment.level) {
-  >= 6 -> ((enchantment.level * 10) - 10),
-  else -> (enchantment.level * 8),
+amount = match (level) {
+  >= 6 -> ((level * 10) - 10),
+  else -> (level * 8),
 }
 
 description = {

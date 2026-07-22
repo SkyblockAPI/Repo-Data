@@ -12,6 +12,11 @@ call("stat_calc/enchant_bonus", {
     stats,
     data
 });
+call("stat_calc/hpb_bonus", {
+    bonus_stats,
+    stats,
+    data
+});
 if ("gem_slots" in meta) {
     call("stat_calc/gem_bonuses", {
         bonus_stats,

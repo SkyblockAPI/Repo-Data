@@ -1,8 +1,30 @@
+if (!stat) return;
+if (!color) return;
+
+call("stat_calc/put_stat", {
+  stat,
+  amount,
+  stats
+});
+
 if (!bonus_stats[stat]) {
   bonus_stats[stat] = [];
-};
+}
+
+prefix = if (prefix) {
+  prefix
+} else {
+  "("
+}
+suffix = if (suffix) {
+  suffix
+} else {
+  ")"
+}
 
 bonus_stats[stat] += {
   amount,
-  color
+  color,
+  prefix,
+  suffix
 };

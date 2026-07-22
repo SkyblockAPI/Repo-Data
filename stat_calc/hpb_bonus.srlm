@@ -1,0 +1,38 @@
+if ("hot_potato_count" !in data) return;
+
+category = if (meta.category_type) {
+  meta.category_type
+} else if (meta.category) {
+  meta.category
+}
+
+match (category) {
+  "SWORD" -> {
+    call("stat_calc/put_bonus", {
+      stat: "strength",
+      amount: data.hot_potato_count * 2,
+      color: "yellow",
+      bonus_stats, stats
+    });
+    call("stat_calc/put_bonus", {
+      stat: "damage",
+      amount: data.hot_potato_count * 2,
+      color: "yellow",
+      bonus_stats, stats
+    });
+  },
+  "ARMOR" -> {
+    call("stat_calc/put_bonus", {
+      stat: "defense",
+      amount: data.hot_potato_count * 2,
+      color: "yellow",
+      bonus_stats, stats
+    });
+    call("stat_calc/put_bonus", {
+      stat: "health",
+      amount: data.hot_potato_count * 2,
+      color: "yellow",
+      bonus_stats, stats
+    });
+  },
+}

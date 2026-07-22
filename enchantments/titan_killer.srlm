@@ -4,7 +4,7 @@ static {
 };
 
 
-match (enchantment.level) {
+match (level) {
     1 -> {
         temp.bonus = 2;
         temp.threshold = 6;

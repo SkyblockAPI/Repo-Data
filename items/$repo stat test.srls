@@ -2,10 +2,12 @@ meta {
     rarity = "UNCOMMON";
     item = "paper";
     name = "Stat test";
+    category = "ARMOR";
 
     stats = {
         ferocity: 51,
         damage: 15,
+        defense: -51
     };
 
     gem_slots = [
