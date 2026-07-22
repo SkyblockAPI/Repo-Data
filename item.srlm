@@ -44,5 +44,3 @@ if ("item" in meta) {
 if ("skin" in meta) {
     stack.skin = meta.skin;
 };
-
-print(stack);

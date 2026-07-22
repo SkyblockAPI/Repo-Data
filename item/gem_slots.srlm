@@ -2,7 +2,6 @@ if ("gem_slots" in meta) {
   has_data_gem = "gems" in data;
 
   slot_text = [];
-print(meta.gem_slots, meta.gem_slots.length);
   for (i = 0; (i < meta.gem_slots.length); i+=1) {
     slot_key = meta.gem_slots[i].id;
     if (!slot_key) continue;
