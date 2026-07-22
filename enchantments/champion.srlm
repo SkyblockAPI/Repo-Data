@@ -4,12 +4,12 @@ static {
     wrap_override: 35
 };
 
-match (enchantment.level) {
+match (level) {
     1 -> {
-        combat = 3;
-        coins = 1.4;
-        xp = 7;
-        until_next = "50k";
+        temp.combat = 3;
+        temp.coins = 1.4;
+        temp.xp = 7;
+        temp.until_next = "50k";
     },
     2 -> {
         temp.combat = 3.78;
@@ -67,18 +67,23 @@ match (enchantment.level) {
 };
 
 
-enchantment.description = [
-{color: "gray", extra: [
-    "Gain ",
-    {color: "lime", extra: [String.uFormatted(temp.combat), "% "]},
-    "extra Combat XP, The 2nd hit on a mob grants ",
-    {color: "gold", extra: ["+", String.uFormatted(temp.coins), " Coins"]},
-    " & ",
-    {color: "cyan", extra: ["+", String.uFormatted(temp.xp), " "]},
-    "exp orbs",
-]}
+description = [
+    {color: "gray", extra: [
+        "Gain ",
+        {color: "lime", extra: [String.uFormatted(temp.combat), "% "]},
+        "extra Combat XP, The 2nd hit on a mob grants ",
+        {color: "gold", extra: ["+", String.uFormatted(temp.coins), " Coins"]},
+        " & ",
+        {color: "cyan", extra: ["+", String.uFormatted(temp.xp), " "]},
+        "exp orbs",
+    ]}
 ];
 
 if ("until_next" in temp) {
-    enchantment.description.add({color: "dark_gray", extra: [temp.until_next, " Combat XP to tier up!"]});
+    description.add({color: "dark_gray", extra: [temp.until_next, " Combat XP to tier up!"]});
+};
+
+return {
+    level,
+    description
 };

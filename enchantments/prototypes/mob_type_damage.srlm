@@ -1,14 +1,19 @@
-temp.amount = match (enchantment.level) {
-    >= 4 -> (20 + (10 * (enchantment.level - 4))),
-    else -> (5 * enchantment.level),
+amount = match (level) {
+    >= 4 -> (20 + (10 * (level - 4))),
+    else -> (5 * level),
 }
 
-enchantment.description = [{
+description = [{
     text: "Increases damage dealt to ",
     extra: [
         format,
         " mobs by ",
-        {text: String.uFormatted(temp.amount), color: "lime", extra: ["%", {text: ".", color: "gray"}]}
+        {text: String.uFormatted(amount), color: "lime", extra: ["%", {text: ".", color: "gray"}]}
     ],
     color: "gray"
 }];
+
+return {
+    level,
+    description
+}

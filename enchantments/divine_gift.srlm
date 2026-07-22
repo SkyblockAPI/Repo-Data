@@ -3,14 +3,20 @@ static {
     name: "Divine Gift"
 };
 
-temp.amount = 2 * enchantment.level;
+amount = 2 * level;
 
-format = call("format/stat/misc/magic_find");
+magic_find_symbol = call("format/stat/misc/magic_find");
 
-format = {text: "+", color: format.color, extra: [
-    String.uFormatted(temp.amount),
+format = {text: "+", color: magic_find_symbol.color, extra: [
+    String.uFormatted(amount),
     " ",
-    format
+    magic_find_symbol
 ]};
 
-enchantment.description = {text: "Grants ", extra: [format, "."], color: "gray"};
+return {
+    level,
+    stat_bonus: {
+        magic_find: amount
+    },
+    description: {text: "Grants ", extra: [format, "."], color: "gray"}
+};

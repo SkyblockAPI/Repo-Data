@@ -3,10 +3,15 @@ static {
     levels: 1..7
 };
 
-temp.amount = 5 * enchantment.level;
+amount = 5 * level;
 
-enchantment.description = {extra: [
+description = {extra: [
     "Increases the chance for Monsters to drop their armor by ",
-    {text: String.uFormatted(temp.amount), color: "lime", extra: ["%"]},
+    {text: String.uFormatted(amount), color: "lime", extra: ["%"]},
     "."
 ], color: "gray"};
+
+return {
+    level,
+    description
+};

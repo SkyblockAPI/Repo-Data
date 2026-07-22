@@ -3,17 +3,24 @@ static {
     name: "Critical"
 };
 
-temp.percentage = Math.add(Math.mul(10, enchantment.level), Math.clamp(Math.sub(Math.mul(20, Math.clamp(Math.sub(enchantment.level, 5), 0, 2)), 10), 0, 30));
+percentage = Math.mul(10, level) + Math.clamp((20 * Math.clamp(level - 5, 0, 2)) - 10, 0, 30);
 
-enchantment.description = [{
+description = [{
     text: "Increases ",
     extra: [
         call("format/stat/combat/crit_damage"),
         " by ",
-        {text: String.uFormatted(temp.percentage), color: "lime"},
+        {text: String.uFormatted(percentage), color: "lime"},
         {text: "%", color: "lime"},
         "."
     ],
     color: "gray"
 }];
-enchantment.applicable = [];
+
+return {
+    level,
+    description,
+    stat_bonus: {
+        crit_damage: percentage
+    }
+};

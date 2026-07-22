@@ -3,14 +3,19 @@ static {
     levels: 1..6
 };
 
-match (enchantment.level) {
-    6 -> temp.amount = 1,
-    5 -> temp.amount = 0.7,
-    else -> temp.amount = 0.1 * enchantment.level,
+amount = match (level) {
+    6 -> 1,
+    5 -> 0.7,
+    else -> (0.1 * level),
 };
 
-enchantment.description = {extra: [
+description = {extra: [
     "Increases damage dealt by ",
-    {text: String.uFormatted(temp.amount), color: "lime", extra: ["% "]},
+    {text: String.uFormatted(amount), color: "lime", extra: ["% "]},
     "for each percent of health your target has."
 ], color: "gray"};
+
+return {
+    level,
+    description
+};

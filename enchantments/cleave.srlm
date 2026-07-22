@@ -3,10 +3,10 @@ static {
     name: "Cleave"
 };
 
-percentage = 5 * enchantment.level;
-range = 3 + 0.5 * enchantment.level;
+percentage = 5 * level;
+range = 3 + 0.5 * level;
 
-enchantment.description = [
+description = [
     {
         text: "Deals up to ",
         extra: [
@@ -19,4 +19,9 @@ enchantment.description = [
         color: "gray"
     }
 ];
-enchantment.applicable = [];
+applicable = [];
+
+return {
+    level,
+    description
+};

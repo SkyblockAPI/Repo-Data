@@ -1,1 +1,4 @@
-enchantment.is_legacy = true;
+return {
+  level,
+  is_legacy: true
+}

@@ -3,5 +3,10 @@ static {
     name: "Silk Touch"
 };
 
-enchantment.description = {text: "Allows you to collect normally unobtainable block drops.", color: "gray"};
-enchantment.applicable = ["Tools"];
+description = {text: "Allows you to collect normally unobtainable block drops.", color: "gray"};
+
+return {
+    level,
+    description,
+    applicable: ["Tools"]
+};

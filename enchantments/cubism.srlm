@@ -3,5 +3,7 @@ static {
     levels: 1..6
 };
 
-include("format/mobtype/cubic");
-include("enchantments/prototypes/mob_type_damage");
+return call("enchantments/prototypes/mob_type_damage", {
+    level,
+    format: call("format/mobtype/cubic")
+});

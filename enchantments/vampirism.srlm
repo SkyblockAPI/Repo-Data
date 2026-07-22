@@ -3,13 +3,18 @@ static {
     levels: 1..6
 };
 
-temp.amount = enchantment.level;
+amount = level;
 
-enchantment.description = {
+description = {
     color: "gray",
     extra: [
         "Heales for ",
-        {text: String.uFormatted(temp.amount), color: "lime", extra: ["% "]},
+        {text: String.uFormatted(amount), color: "lime", extra: ["% "]},
         "of your missing health whenever you kill an enemy."
     ]
+};
+
+return {
+    level,
+    description
 };

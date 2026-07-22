@@ -3,16 +3,20 @@ static {
     levels: 1..2
 };
 
-temp.amount = (enchantment.level + 1);
+amount = (level + 1);
 
-enchantment.description = {
+description = {
     color: "gray",
     extra: [
         "Grants ",
-        { text: "+", color: "white", extra: [String.uFormatted(temp.amount)] },
+        { text: "+", color: "white", extra: [String.uFormatted(amount)] },
         " weapon damage if you don't have a ",
         { text: "Dragon ", color: "magenta" },
         "pet equipped."
     ]
+};
 
+return {
+    level,
+    description
 };

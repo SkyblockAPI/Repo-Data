@@ -35,7 +35,7 @@ match (enchantment.level) {
     },
 };
 
-enchantment.description = {
+description = {
     color: "gray",
     extra: [
         "Increases damage dealt by ",
@@ -44,4 +44,9 @@ enchantment.description = {
         {text: String.uFormatted(temp.threshold), color: "lime", extra: ["%"]},
         "."
     ]
+};
+
+return {
+    level,
+    description
 };

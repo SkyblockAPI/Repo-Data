@@ -1,0 +1,17 @@
+if ("enchantments" !in data) return;
+
+for (enchantment_entry : Objects.entries(data.enchantments)) {
+  enchantment = call("enchantments/" + enchantment_entry.key, {
+    level: enchantment_entry.value
+  });
+  
+  if ("stat_bonus" !in enchantment) continue;
+
+  for (stat_bonus : Objects.entries(enchantment.stat_bonus)) {
+    call("stat_calc/put_stat", {
+      amount: stat_bonus.value,
+      stat: stat_bonus.key,
+      stats
+    });
+  }
+}

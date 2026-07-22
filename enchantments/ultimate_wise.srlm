@@ -4,15 +4,19 @@ static {
     name: "Ultimate Wise"
 };
 
-temp.reduction = Math.mul(10, Math.clamp(enchantment.level, 1, 5));
+reduction = 10 * Math.clamp(level, 1, 5);
 
-enchantment.description = {
+description = {
     text: "Reduces the ability mana cost of this item by ",
     color: "gray",
     extra: [
-        { text: String.uFormatted(temp.reduction), color: "lime", extra: ["%"] },
+        { text: String.uFormatted(reduction), color: "lime", extra: ["%"] },
         "."
     ]
 
 };
-enchantment.applicable = [];
+
+return {
+    level,
+    description
+};

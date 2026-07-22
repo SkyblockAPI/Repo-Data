@@ -3,17 +3,23 @@ static {
     levels: 1..6
 };
 
-temp.amount = 1.2 * enchantment.level;
-if (enchantment.level >= 6) {
-    temp.amount += 1.8;
+amount = 1.2 * level;
+if (level >= 6) {
+    amount += 1.8;
 };
-enchantment.description = {extra: [
+
+description = {extra: [
     "Reduces the ",
     call("format/stat/combat/defense"),
     " of your target by ",
-    {text: String.uFormatted(temp.amount), color: "lime", extra: ["% for "]},
+    {text: String.uFormatted(amount), color: "lime", extra: ["% for "]},
     {text: "4s ", color: "gold"},
     "each time you hit them with melee. Stacks up to ",
     {text: "4 ", color: "lime"},
     "times."
 ], color: "gray"};
+
+return {
+    level,
+    description
+};

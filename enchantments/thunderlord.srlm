@@ -8,7 +8,7 @@ amount = match (enchantment.level) {
   else -> (enchantment.level * 8),
 }
 
-enchantment.description = {
+description = {
     color: "gray",
     extra: [
         "Every ",
@@ -19,4 +19,9 @@ enchantment.description = {
         {text: String.uFormatted(amount), color: "lime", extra: ["% "]},
         "of the hit's damage."
     ]
+};
+
+return {
+    level,
+    description
 };

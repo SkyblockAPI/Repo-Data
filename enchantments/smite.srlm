@@ -4,8 +4,8 @@ static {
     wrap_override: 35
 };
 
-include("enchantments/prototypes/mob_type_damage", {
-    enchantment: enchantment,
+return call("enchantments/prototypes/mob_type_damage", {
+    level,
     format: {color: "gray", extra: [
         call("format/mobtype/skeletal"),
         ", ",

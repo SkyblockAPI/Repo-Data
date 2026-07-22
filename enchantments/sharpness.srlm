@@ -2,13 +2,19 @@ static {
     name: "Sharpness",
     levels: 1..7
 };
-amount = match (enchantment.level) {
-  <= 4 -> (5 * enchantment.level),
-  else -> ((10 * enchantment.level) - 20),
+
+amount = match (level) {
+  <= 4 -> (5 * level),
+  else -> ((10 * level) - 20),
 }
 
-enchantment.description = {extra: [
+description = {extra: [
     "Increases melee damage dealt by ",
-    {text: String.uFormatted(temp.amount), color: "lime", extra: ["%"]},
+    {text: String.uFormatted(amount), color: "lime", extra: ["%"]},
     "."
 ], color: "gray"};
+
+return {
+    level,
+    description
+};

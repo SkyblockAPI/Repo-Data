@@ -3,31 +3,33 @@ static {
     levels: 1..7
 };
 
-temp.damage = 0.3 * enchantment.level;
+temp.damage = 0.3 * level;
 
-match (enchantment.level) {
-    <= 4 -> {
-        temp.reduction = 2 * enchantment.level;
-    },
-    5 -> temp.reduction = 12,
-    6 -> temp.reduction = 15,
-    >= 7 -> {
-        temp.reduction = 15;
-        temp.damage = 2;
-    },
+reduction = match (level) {
+    <= 4 -> (2 * level),
+    5 -> 12,
+    6 -> 15,
+    >= 7 -> 2,
 };
 
-enchantment.description = {
+if (level == 7) reduction = 15;
+
+description = {
     color: "gray",
     extra: [
         "Reduces the target's walk speed by ",
-        {text: String.uFormatted(temp.reduction), color: "lime", extra: ["% "]},
+        {text: String.uFormatted(reduction), color: "lime", extra: ["% "]},
         "and deals ",
-        {text: String.formatted(temp.damage), color: "dark_green"},
+        {text: String.formatted(damage), color: "dark_green"},
         " of your damage per second per hit, stacking globally up to ",
         {text: "40 ", color: "dark_green"},
         "hits. Lasts ",
         {text: "5s", color: "gold"},
         "."
     ]
+};
+
+return {
+    level,
+    description
 };

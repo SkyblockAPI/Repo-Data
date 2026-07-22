@@ -3,10 +3,15 @@ static {
     levels: 1..5
 };
 
-temp.amount = 0.3 * enchantment.level;
+amount = 0.3 * level;
 
-enchantment.description = {extra: [
+description = {extra: [
     "Scavenge ",
-    {text: String.uFormatted(temp.amount), color: "gold", extra: [" Coins "]},
+    {text: String.uFormatted(amount), color: "gold", extra: [" Coins "]},
     "per monster level on kill."
 ], color: "gray"};
+
+return {
+    level,
+    description
+};

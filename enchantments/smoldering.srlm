@@ -3,7 +3,7 @@ static {
     levels: 1..5
 };
 
-include("enchantments/prototypes/mob_type_damage", {
-    enchantment: enchantment,
+return call("enchantments/prototypes/mob_type_damage", {
+    level,
     format: call("format/mobtype/infernal")
 });

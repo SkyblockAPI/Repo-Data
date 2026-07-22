@@ -11,11 +11,11 @@ if (!all_reforge_stats[item_rarity]) return;
 reforge_stats = all_reforge_stats[item_rarity];
 
 for (stat : Objects.entries(reforge_stats)) {
-  if (stats[stat.key]) {
-    stats[stat.key] += stat.value;
-  } else {
-    stats[stat.key] = stat.value;
-  };
+  call("stat_calc/put_stat", {
+    amount: stat.value,
+    stat: stat.key,
+    stats
+  });
 
   call("stat_calc/put_bonus", {
     stat: stat.key,

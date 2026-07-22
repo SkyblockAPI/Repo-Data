@@ -7,13 +7,15 @@ base_enchantments = [];
 has_ultimate = false;
 ultimate = "";
 
-for (temp.enchantment = 0; Math.lt(temp.enchantment, enchantments.length); temp.enchantment = Math.add(temp.enchantment, 1)) {
-    enchantment = {};
-    temp.current = enchantments.get(temp.enchantment);
-    enchantment.level = temp.current.value;
-    include("enchantments/" + temp.current.key);
-    enchantment.static_data = static("enchantments/" + temp.current.key);
+for (current : enchantments) {
+    enchantment = call("enchantments/" + current.key, {
+        level: current.value
+    });
+    enchantment.static_data = static("enchantments/" + current.key);
 
+    if ("level" !in enchantment) {
+        enchantment.level = current.value;
+    };
     if ("name" !in enchantment) {
         enchantment.name = enchantment.static_data.name;
     };
@@ -21,8 +23,8 @@ for (temp.enchantment = 0; Math.lt(temp.enchantment, enchantments.length); temp.
         enchantment.wrap_override = enchantment.static_data.wrap_override;
     };
 
-    temp.enchantment_key = Component.asString(enchantment.name);
-    enchantments[temp.enchantment_key] = enchantment;
+    enchantment_key = Component.asString(enchantment.name);
+    enchantments[enchantment_key] = enchantment;
     if ("is_legacy" in enchantment) {
         continue;
     };
@@ -38,7 +40,7 @@ for (temp.enchantment = 0; Math.lt(temp.enchantment, enchantments.length); temp.
 
     if ("is_ultimate" in enchantment.static_data) {
         if (enchantment.static_data.is_ultimate) {
-            ultimate = temp.enchantment_key;
+            ultimate = enchantment_key;
             has_ultimate = true;
             enchantment.name.color = "pink";
             enchantment.name.bold = true;
@@ -46,7 +48,7 @@ for (temp.enchantment = 0; Math.lt(temp.enchantment, enchantments.length); temp.
         };
     };
 
-    base_enchantments.add(temp.enchantment_key);
+    base_enchantments.add(enchantment_key);
 };
 
 always_compact = false;
@@ -87,7 +89,7 @@ if ((base_enchantments.length >= 10) || always_compact) {
         if (enchantments.length <= 5) {
             stack.lore.addAll(Component.splitToLength(enchantment.description, match {
                 "wrap_override" in enchantment -> enchantment.wrap_override,
-                else -> 20,
+                else -> 38,
             }));
         };
     });
