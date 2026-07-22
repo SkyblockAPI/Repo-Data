@@ -4,6 +4,7 @@ meta {
     name = "Euclid's Wheat Sickle Mk. I";
     is_farming_tool = true;
     include("items/prototypes/ingredient", this);
+    crop_type = "wheat";
 }
 
 script {

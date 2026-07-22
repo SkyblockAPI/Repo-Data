@@ -28,3 +28,6 @@ if (farming_data.level == 50) {
         "type": "peridot"
     });
 }
+
+call("stat_calc/put_stat", { stat: (call("utils/meta_or_field", { field: "crop_type", ...this }) + "_fortune"), amount: farming_data.crop_fortune, stats });
+call("stat_calc/put_stat", { stat: "farming_wisdom", amount: farming_data.farming_wisdom, stats });
