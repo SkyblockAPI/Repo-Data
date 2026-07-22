@@ -3,7 +3,7 @@ static {
     name: "Knockback"
 };
 
-te.knock_amount = Math.mul(3, Math.clamp(level, 1, 2));
+knock_amount = Math.mul(3, Math.clamp(level, 1, 2));
 
 description = [{text: "Increases knockback by ", extra: [{text: String.uFormatted(knock_amount), color: "lime"}, " blocks."], color: "gray"}];
 
