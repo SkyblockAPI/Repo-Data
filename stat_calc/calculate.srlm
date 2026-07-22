@@ -2,11 +2,6 @@ call("stat_calc/init_base", {
     stats,
     meta
 });
-call("stat_calc/reforge_bonus", {
-    bonus_stats,
-    stats,
-    data
-});
 call("stat_calc/enchant_bonus", {
     bonus_stats,
     stats,
@@ -18,6 +13,16 @@ call("stat_calc/hpb_bonus", {
     data
 });
 call("stat_calc/aow_bonus", {
+    bonus_stats,
+    stats,
+    data
+});
+call("stat_calc/aop_bonus", {
+    bonus_stats,
+    stats,
+    data
+});
+call("stat_calc/reforge_bonus", {
     bonus_stats,
     stats,
     data

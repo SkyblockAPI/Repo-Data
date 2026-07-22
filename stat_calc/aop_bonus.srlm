@@ -1,0 +1,11 @@
+# Art of Peace
+
+if ("art_of_peace_count" !in data) return;
+
+call("stat_calc/put_bonus", {
+  stat: "health",
+  amount: data.art_of_peace_count * 40,
+  color: "red",
+  prefix: "[", suffix: "]",
+  bonus_stats, stats
+});
