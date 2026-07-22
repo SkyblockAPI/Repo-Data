@@ -11,8 +11,8 @@ if ("stats" in this) {
     include("stats/misc");
     include("stats/hunting");
     include("stats/wisdom");
-    include("item/shot_cooldown");
-    include("item/gem_slots");
+    include("item/stats/shot_cooldown");
+    include("item/stats/gem_slots");
 
     stack.lore.endSection();
 };

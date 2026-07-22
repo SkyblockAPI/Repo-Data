@@ -1,1 +1,1 @@
-return {text: "✈ Airborne", color: "gray"};
+return {text: " Airborne", color: "gray"};
