@@ -8,7 +8,8 @@ meta {
     gem_slots = [
         {
             "id": "SAPPHIRE_0",
-            "type": "sapphire"
+            "type": "sapphire",
+            "unlocked": true
         }
     ];
     name = "Aspect of the Void";
