@@ -20,13 +20,13 @@ max_level = match (hoe_tier) {
 
 level = Math.min(data.levelable_lvl, max_level_overclocked);
 
-crop_fortune = crop_fortune_table[level];
-farming_wisdom = farming_wisdom_table[level];
+crop_fortune = crop_fortune_table[level - 1];
+farming_wisdom = farming_wisdom_table[level - 1];
 
 exp = call("utils/data_or_default", { field: "levelable_exp", data, default: 0 });
-max = levels[level];
-
 is_max_level = level >= 50;
+max = if (is_max_level) { 200000 } else { levels[level - 1] };
+
 needs_upgrade = (data.levelable_lvl >= max_level_overclocked) && !is_max_level;
 
 requires_overclock = needs_upgrade && (hoe_tier >= 3);

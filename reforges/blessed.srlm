@@ -1,0 +1,21 @@
+static {
+  name: "Blessed",
+  stats: {
+  },
+  description: [
+    {
+      text: "Blessed Bonus",
+      color: "blue"
+    },
+    {
+      text: "Grants a ",
+      extra: [
+        { text: "0.22%", color: "lime" },
+        " chance to drop an enchanted item when mining ",
+        { text: "Crops", color: "gold" },
+        "."
+      ],
+      color: "gray"
+    }
+  ],
+};

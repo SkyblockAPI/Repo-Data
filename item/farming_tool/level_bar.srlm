@@ -1,29 +1,44 @@
 
 stack.lore.beginSection();
 
-stack.lore.add({
+bar_title = {
     text: "Level ",
     color: "gray",
     extra: [
-        { text: String.uFormatted(level), color: if (requires_upgrade_no_overclock) { "white" } else { "green" } },
-        { text: " -> ", color: "dark_gray" },
-        { text: String.uFormatted(level + 1), color: if (requires_upgrade_no_overclock) { "gray" } else { "gold" }  },
-        "   ",
-        {
-            color: "dark_gray",
-            extra: [
-                "(",
-                String.compact(Math.min(max, exp)),
-                "/",
-                String.compact(max),
-                ")"
-            ]
-        }
+        { text: String.uFormatted(level), color: if (requires_upgrade_no_overclock) { "white" } else { "green" } }
+    ]
+};
+
+
+if (is_max_level) {
+    bar_title.extra.add({ text: " (MAX!)   ", color: "gold", bold: true });
+} else {
+    bar_title.addAll(
+        [
+             { text: " -> ", color: "dark_gray" },
+            { text: String.uFormatted(level + 1), color: if (requires_upgrade_no_overclock) { "gray" } else { "gold" }  },
+            "   ",
+        ]
+    );
+}
+
+
+bar_title.extra.add({
+    color: "dark_gray",
+    extra: [
+        "(",
+        String.compact(Math.min(max, exp)),
+        "/",
+        String.compact(max),
+        ")"
     ]
 });
 
+stack.lore.add(bar_title);
+
 progress = Math.clamp(exp / max, 0, 1);
 
+print(exp, max);
 bar = [];
 
 for (i : 0..40) {
