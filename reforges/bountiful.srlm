@@ -1,0 +1,43 @@
+static {
+  name: "Bountiful",
+  description: [
+    {
+      text: "Bountiful Bonus",
+      color: "blue"
+    },
+    {
+      text: "Grants ",
+      extra: [
+        { text: "+0.2 coins", color: "gold" },
+        " per crop."
+      ],
+      color: "gray"
+    }
+  ],
+  stats: {
+    common: {
+      speed: 1,
+      farming_fortune: 1
+    },
+    uncommon: {
+      speed: 2,
+      farming_fortune: 2
+    },
+    rare: {
+      speed: 3,
+      farming_fortune: 3
+    },
+    epic: {
+      speed: 5,
+      farming_fortune: 5
+    },
+    legendary: {
+      speed: 7,
+      farming_fortune: 7
+    },
+    mythic: {
+      speed: 10,
+      farming_fortune: 10
+    },
+  }
+};

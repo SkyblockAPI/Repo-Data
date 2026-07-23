@@ -9,4 +9,7 @@ reforge = static("reforges/" + data.modifier);
 if ("description" in reforge) {
     stack.lore.addAll(Component.splitToLength(reforge.description, 35));
     stack.lore.endSection();
+} else if ("description_provider" in reforge) {
+    stack.lore.addAll(Component.splitToLength(reforge.description_provider(Rarity.stack()), 35));
+    stack.lore.endSection();
 }

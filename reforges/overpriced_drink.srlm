@@ -1,0 +1,25 @@
+static {
+  name: "Overpriced",
+  stats: {
+    common: {
+      farming_fortune: 5,
+      overbloom: 1
+    },
+    uncommon: {
+      farming_fortune: 10,
+      overbloom: 2
+    },
+    rare: {
+      farming_fortune: 15,
+      overbloom: 3
+    },
+    epic: {
+      farming_fortune: 20,
+      overbloom: 5
+    },
+    legendary: {
+      farming_fortune: 25,
+      overbloom: 7
+    }
+  }
+};

@@ -1,0 +1,51 @@
+static {
+  name: "Deep Fried",
+  description_provider: | rarity | {
+    [
+        {
+          text: "Deep Fried Bonus",
+          color: "blue"
+        },
+        {
+          text: "Increases the odds of finding ",
+          extra: [
+            { text: "Seasonings", color: "dark_green" },
+            " by ",
+            {
+                text: "+",
+                color: "lime",
+                extra: [
+                    String.uFormatted(match (rarity) {
+                        "COMMON" -> 5,
+                        "UNCOMMON" -> 10,
+                        "RARE" -> 15,
+                        "EPIC" -> 20,
+                        "LEGENDARY" -> 25,
+                    }),
+                    "%"
+                ]
+            },
+            "."
+          ],
+          color: "gray"
+        }
+    ]
+  },
+  stats: {
+    common: {
+      farming_fortune: 3
+    },
+    uncommon: {
+      farming_fortune: 6
+    },
+    rare: {
+      farming_fortune: 10
+    },
+    epic: {
+      farming_fortune: 15
+    },
+    legendary: {
+      farming_fortune: 20
+    }
+  }
+};

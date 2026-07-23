@@ -1,7 +1,5 @@
 static {
   name: "Blessed",
-  stats: {
-  },
   description: [
     {
       text: "Blessed Bonus",

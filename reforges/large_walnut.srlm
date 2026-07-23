@@ -1,0 +1,37 @@
+static {
+  name: "Earthy",
+  description: [
+    {
+      text: "Earthy Bonus",
+      color: "blue"
+    },
+    {
+      text: "Earn ",
+      extra: [
+        { text: "+5% Sowdust", color: "dark_green" },
+        " from farming."
+      ],
+      color: "gray"
+    }
+  ],
+  stats: {
+    common: {
+      farming_fortune: 5
+    },
+    uncommon: {
+      farming_fortune: 10
+    },
+    rare: {
+      farming_fortune: 15
+    },
+    epic: {
+      farming_fortune: 20
+    },
+    legendary: {
+      farming_fortune: 25
+    },
+    mythic: {
+      farming_fortune: 30
+    }
+  }
+};
