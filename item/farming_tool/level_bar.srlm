@@ -5,7 +5,7 @@ bar_title = {
     text: "Level ",
     color: "gray",
     extra: [
-        { text: String.uFormatted(level), color: if (requires_upgrade_no_overclock) { "white" } else { "green" } }
+        { text: String.uFormatted(tool_level), color: if (requires_upgrade_no_overclock) { "white" } else { "green" } }
     ]
 };
 
@@ -16,7 +16,7 @@ if (is_max_level) {
     bar_title.extra.addAll(
         [
              { text: " -> ", color: "dark_gray" },
-            { text: String.uFormatted(level + 1), color: if (requires_upgrade_no_overclock) { "gray" } else { "gold" }  },
+            { text: String.uFormatted(tool_level + 1), color: if (requires_upgrade_no_overclock) { "gray" } else { "gold" }  },
             "   ",
         ]
     );

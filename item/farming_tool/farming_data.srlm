@@ -18,14 +18,14 @@ max_level = match (hoe_tier) {
 };
 
 
-level = Math.min(data.levelable_lvl, max_level_overclocked);
+tool_level = Math.min(data.levelable_lvl, max_level_overclocked);
 
-crop_fortune = crop_fortune_table[level - 1];
-farming_wisdom = farming_wisdom_table[level - 1];
+crop_fortune = crop_fortune_table[tool_level - 1];
+farming_wisdom = farming_wisdom_table[tool_level - 1];
 
 exp = call("utils/data_or_default", { field: "levelable_exp", data, default: 0 });
-is_max_level = level >= 50;
-max = if (is_max_level) { 200000 } else { levels[level - 1] };
+is_max_level = tool_level >= 50;
+max = if (is_max_level) { 200000 } else { levels[tool_level - 1] };
 
 needs_upgrade = (data.levelable_lvl >= max_level_overclocked) && !is_max_level;
 

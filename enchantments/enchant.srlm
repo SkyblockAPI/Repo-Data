@@ -33,8 +33,30 @@ static {
   vicious: "sword",
 
 
+  cultivating: "farming",
+  dedication: "farming",
+  delicate: "farming",
+  harvesting: "farming",
+  replenish: "farming",
+
+
+  turbo_wheat: "farming",
+  turbo_carrot: "farming",
+  turbo_potato: "farming",
+  turbo_pumpkin: "farming",
+  turbo_melon: "farming",
+  turbo_mushrooms: "farming",
+  turbo_coco: "farming",
+  turbo_cactus: "farming",
+  turbo_cane: "farming",
+  turbo_warts: "farming",
+  turbo_sunflower: "farming",
+  turbo_moonflower: "farming",
+  turbo_rose: "farming",
+
   telekinesis: "legacy",
 
+  ultimate_crop_fever: "ultimate",
   ultimate_wise: "ultimate"
 };
 

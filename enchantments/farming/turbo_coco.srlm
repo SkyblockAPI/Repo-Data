@@ -1,0 +1,9 @@
+static {
+    levels: 1..7,
+    name: "Turbo-Cocoa"
+};
+
+return call("enchantments/prototypes/turbo_crop", {
+    level,
+    crop_type: "cocoa_beans"
+});

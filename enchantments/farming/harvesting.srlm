@@ -1,0 +1,28 @@
+static {
+    levels: 1..6,
+    name: "Harvesting"
+};
+
+farming_fortune = level * 12.5;
+
+return {
+    level,
+    description: {
+        text: "Grants ",
+        extra: [
+            {
+                color: "gold",
+                extra: [
+                    "+",
+                    String.uFormatted(farming_fortune),
+                    call("format/stat/farming/farming_fortune")
+                ]
+            },
+            ", which increases your chance for multiple crops."
+        ],
+        color: "gray"
+    },
+    stat_bonus: {
+        farming_fortune
+    }
+};

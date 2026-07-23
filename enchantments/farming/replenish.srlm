@@ -1,0 +1,11 @@
+static {
+    levels: 1,
+    name: "Replenish"
+};
+
+return {
+    description: {
+        text: "Upon breaking crops, nether wart, cocoa, wild rose, or sunflower, automatically replant from materials in your inventory.",
+        color: "gray"
+    }
+};

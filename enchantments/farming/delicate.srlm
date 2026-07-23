@@ -1,0 +1,11 @@
+static {
+    levels: 5,
+    name: "Replenish"
+};
+
+return {
+    description: {
+        text: "Avoids breaking stems and baby crops.",
+        color: "gray"
+    }
+};

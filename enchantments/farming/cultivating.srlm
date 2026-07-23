@@ -1,0 +1,41 @@
+static {
+    levels: 1..10,
+    name: "Cultivating"
+};
+
+level = Math.clamp(level, 1, 10);
+
+farming_fortune = level * 2;
+farming_wisdom = level;
+
+return {
+    level,
+    description: {
+        text: "Gain ",
+        color: "gray",
+        extra: [
+            {
+                color: "dark_aqua",
+                extra: [
+                    "+",
+                    String.uFormatted(farming_wisdom),
+                    call("format/stat/wisdom/farming")
+                ]
+            },
+            " and ",
+            {
+                color: "gold",
+                extra: [
+                    "+",
+                    String.uFormatted(farming_fortune),
+                    call("format/stat/farming/farming_fortune")
+                ]
+            },
+            "."
+        ]
+    },
+    stat_bonus: {
+        farming_fortune,
+        farming_wisdom
+    }
+};

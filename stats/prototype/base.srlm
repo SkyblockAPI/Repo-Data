@@ -32,7 +32,7 @@ if (bonus_stats[stat]) {
 };
 
 stack.lore.add({
-  text: "", 
-  color: "gray", 
+  text: "",
+  color: "gray",
   extra
 });

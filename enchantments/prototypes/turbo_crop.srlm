@@ -1,0 +1,27 @@
+
+crop_fortune = Math.clamp(level, 1, 7) * 5;
+
+crop_fortune_name = crop_type + "_fortune";
+
+stat_bonus_thingy = {};
+stat_bonus_thingy[crop_fortune_name] = crop_fortune;
+
+{
+    description: {
+        text: "Grants ",
+        color: "gray",
+        extra: [
+            {
+                color: "gold",
+                extra: [
+                    "+",
+                    String.uFormatted(crop_fortune),
+                    call("format/stat/farming/" + crop_fortune_name)
+                ]
+            },
+            "."
+        ]
+    },
+    silly: [crop_fortune, crop_fortune_name],
+    stat_bonus: stat_bonus_thingy
+}

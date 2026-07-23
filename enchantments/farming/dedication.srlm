@@ -1,0 +1,35 @@
+static {
+    levels: 1..4,
+    name: "Dedication"
+};
+
+farming_fortune = match (level) {
+    1 -> 0.5,
+    2 -> 0.75,
+    3 -> 1,
+    4 -> 2,
+}
+
+return {
+    level,
+    description: {
+        text: "Grants ",
+        extra: [
+            {
+                color: "gold",
+                extra: [
+                    "+",
+                    String.uFormatted(farming_fortune),
+                    call("format/stat/farming/farming_fortune")
+                ]
+            },
+            " for crops, multiplied by your ",
+            { text: "Garden", color: "green" },
+            " milestone for that crop."
+        ],
+        color: "gray"
+    },
+    stat_bonus: {
+        farming_fortune
+    }
+};

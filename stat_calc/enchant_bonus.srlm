@@ -5,10 +5,11 @@ for (enchantment_entry : Objects.entries(data.enchantments)) {
     level: enchantment_entry.value,
     type: enchantment_entry.key
   });
-  
+
   if ("stat_bonus" !in enchantment) continue;
 
   for (stat_bonus : Objects.entries(enchantment.stat_bonus)) {
+
     call("stat_calc/put_stat", {
       amount: stat_bonus.value,
       stat: stat_bonus.key,
