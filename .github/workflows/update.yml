@@ -2,7 +2,7 @@ name: Update shas
 
 on:
   push:
-    branches: [ "master" ]
+    branches: ["master"]
 
 jobs:
   hash-updater:
@@ -14,7 +14,7 @@ jobs:
         with:
           token: ${{ secrets.BOT_TOKEN }}
 
-      - run: rm -rf index && find \( -name '*.srlm' -o -name '*.srls' \) -exec sh -c 'sha256sum "$1" >> index' _ '{}' \;
+      - run: rm -rf index && find \( -name '*.srlm' -o -name '*.srls' -o -name '*.srll' \) -exec sh -c 'sha256sum "$1" >> index' _ '{}' \;
       - run: sha256sum index > index.sha256
 
       - name: Check for breaking changes
