@@ -2,6 +2,8 @@ if (!data.gems) return;
 
 gem_stats = static("stat_calc/gem_stat_lut");
 
+gem_stat_accumulator = {};
+
 for (i = 0; (i < gem_slots.length); i+=1) {
   gem_slot = gem_slots[i];
   if (!data.gems[gem_slot.id]) continue;
@@ -19,10 +21,20 @@ for (i = 0; (i < gem_slots.length); i+=1) {
     rarity: item_rarity
   });
 
+  current = gem_stat_accumulator[gem_stat];
+
+  if (current) {
+    gem_stat_accumulator[gem_stat] += gem_amount;
+  } else {
+    gem_stat_accumulator[gem_stat] = gem_amount;
+  };
+};
+
+Objects.entries(gem_stat_accumulator).forEach(| entry | {
   call("stat_calc/put_bonus", {
-    amount: gem_amount,
+    amount: entry.value,
     color: "pink",
-    stat: gem_stat,
+    stat: entry.key,
     bonus_stats, stats
   });
-};
+});
