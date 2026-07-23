@@ -27,6 +27,11 @@ call("stat_calc/aop_bonus", {
     stats,
     data
 });
+call("stat_calc/ffd_bonus", {
+    bonus_stats,
+    stats,
+    data
+});
 call("stat_calc/reforge_bonus", {
     bonus_stats,
     stats,

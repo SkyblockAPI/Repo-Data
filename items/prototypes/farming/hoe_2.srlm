@@ -1,3 +1,4 @@
 hoe_tier = 2;
 
 include("items/prototypes/farming/hoe_common", this);
+include("items/prototypes/ingredient", this);

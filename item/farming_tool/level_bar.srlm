@@ -13,7 +13,7 @@ bar_title = {
 if (is_max_level) {
     bar_title.extra.add({ text: " (MAX!)   ", color: "gold", bold: true });
 } else {
-    bar_title.addAll(
+    bar_title.extra.addAll(
         [
              { text: " -> ", color: "dark_gray" },
             { text: String.uFormatted(level + 1), color: if (requires_upgrade_no_overclock) { "gray" } else { "gold" }  },
