@@ -38,7 +38,6 @@ stack.lore.add(bar_title);
 
 progress = Math.clamp(exp / max, 0, 1);
 
-print(exp, max);
 bar = [];
 
 for (i : 0..40) {

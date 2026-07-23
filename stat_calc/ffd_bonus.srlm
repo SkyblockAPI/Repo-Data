@@ -4,7 +4,7 @@ if ("farming_for_dummies_count" !in data) return;
 
 call("stat_calc/put_bonus", {
   stat: "farming_fortune",
-  amount: data.farming_for_dummies_count,
+  amount: Math.clamp(0, data.farming_for_dummies_count, 5),
   color: "lime",
   bonus_stats,
   stats
