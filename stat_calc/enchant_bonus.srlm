@@ -1,8 +1,9 @@
 if ("enchantments" !in data) return;
 
 for (enchantment_entry : Objects.entries(data.enchantments)) {
-  enchantment = call("enchantments/" + enchantment_entry.key, {
-    level: enchantment_entry.value
+  enchantment = call("enchantments/enchant", {
+    level: enchantment_entry.value,
+    type: enchantment_entry.key
   });
   
   if ("stat_bonus" !in enchantment) continue;

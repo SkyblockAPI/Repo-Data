@@ -1,0 +1,76 @@
+static {
+  bane_of_arthropods: "sword",
+  champion: "sword",
+  cleave: "sword",
+  critical: "sword",
+  cubism: "sword",
+  divine_gift: "sword",
+  drain: "sword",
+  ender_slayer: "sword",
+  execute: "sword",
+  experience: "sword",
+  fire_aspect: "sword",
+  giant_killer: "sword",
+  gravity: "sword",
+  impaling: "sword",
+  knockback: "sword",
+  lethality: "sword",
+  life_steal: "sword",
+  looting: "sword",
+  luck: "sword",
+  mana_steal: "sword",
+  prosecute: "sword",
+  scavenger: "sword",
+  sharpness: "sword",
+  smite: "sword",
+  smoldering: "sword",
+  tabasco: "sword",
+  thunderbolt: "sword",
+  thunderlord: "sword",
+  titan_killer: "sword",
+  vampirism: "sword",
+  venomous: "sword",
+  vicious: "sword",
+
+
+  telekinesis: "legacy",
+
+  ultimate_wise: "ultimate"
+};
+
+folder_map = static("enchantments/enchant");
+
+path = if (folder_map[type]) {
+  (folder_map[type] + "/")
+} else {
+  ""
+} + type;
+
+enchantment = call("enchantments/" + path, {
+  level,
+});
+
+if ("level" !in enchantment) {
+  enchantment.level = level;
+};
+
+call("utils/copy_into", {
+  from: static("enchantments/" + path),
+  to: enchantment
+});
+
+enchantment.name = Component.asComponent(enchantment.name);
+enchantment.name.color = "blue";
+
+if (config.roman_numerals) {
+  enchantment.name.extra = [" ", Component.asRoman(enchantment.level)];
+    } else {
+  enchantment.name.extra = [" ", String.uFormatted(enchantment.level)];
+};
+
+if (enchantment.is_ultimate) {
+  enchantment.name.color = "pink";
+  enchantment.name.bold = true;
+};
+
+return enchantment;

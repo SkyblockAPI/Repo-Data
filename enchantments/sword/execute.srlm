@@ -6,6 +6,7 @@ static {
 amount = match (level) {
     <= 5 -> (0.2 * level),
     6 -> 1.25,
+    else -> 0,
 };
 
 description = {extra: [

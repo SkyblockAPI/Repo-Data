@@ -8,16 +8,9 @@ has_ultimate = false;
 ultimate = "";
 
 for (current : enchantments) {
-    enchantment = call("enchantments/" + current.key, {
-        level: current.value
-    });
-
-    if ("level" !in enchantment) {
-        enchantment.level = current.value;
-    };
-    call("utils/copy_into", {
-        from: static("enchantments/" + current.key),
-        to: enchantment
+    enchantment = call("enchantments/enchant", {
+        level: current.value,
+        type: current.key
     });
 
     if ("is_legacy" in enchantment) {
@@ -26,24 +19,11 @@ for (current : enchantments) {
 
     enchantment_key = Component.asString(enchantment.name);
     enchantments[enchantment_key] = enchantment;
-    
-    enchantment.name = Component.asComponent(enchantment.name);
-    enchantment.name.color = "blue";
 
-    if (config.roman_numerals) {
-        enchantment.name.extra = [" ", Component.asRoman(enchantment.level)];
-    } else {
-        enchantment.name.extra = [" ", String.uFormatted(enchantment.level)];
-    };
-
-    if ("is_ultimate" in enchantment) {
-        if (enchantment.is_ultimate) {
-            ultimate = enchantment_key;
-            has_ultimate = true;
-            enchantment.name.color = "pink";
-            enchantment.name.bold = true;
-            continue;
-        };
+    if (enchantment.is_ultimate) {
+        ultimate = enchantment_key;
+        has_ultimate = true;
+        continue;
     };
 
     base_enchantments.add(enchantment_key);
