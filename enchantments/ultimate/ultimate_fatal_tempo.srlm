@@ -1,0 +1,27 @@
+static {
+    levels: 1..5,
+    is_ultimate: true,
+    name: "Fatal Tempo"
+};
+
+ferocity_format = call("format/stat/combat/ferocity");
+
+ferocity_limit = 10 * level;
+
+description = {
+    text: "Attacking increases your ",
+    color: "gray",
+    extra: [
+      ferocity_format,
+      " by ",
+      { text: String.uFormatted(ferocity_limit) + "%", color: ferocity_format.color},
+      " per hit, capped at ",
+      { text: "200%", color: ferocity_format.color},
+      " for 3 seconds after your last attack"
+    ]
+};
+
+return {
+    level,
+    description
+};

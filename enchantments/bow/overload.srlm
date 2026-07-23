@@ -1,0 +1,35 @@
+static {
+    levels: 1..5,
+    name: "Overload",
+    wrap_override: 38
+};
+
+percentage = 10 * level;
+crit_percent = 1 * level;
+
+crit_damage_format = call("format/stat/combat/crit_damage");
+crit_chance_format = call("format/stat/combat/crit_chance");
+
+description = [{
+  text: "Increases ",
+  extra: [
+    crit_damage_format,
+    " by ",
+    {text: String.uFormatted(crit_percent) + "%", color: "lime"},
+    " and ",
+    crit_chance_format,
+    " by ",
+    {text: String.uFormatted(crit_percent) + "%", color: "lime"},
+    ". Having a Critical chance above ",
+    {text: "100%", color: crit_chance_format.color},
+    " grants a chance to perform a Mega Critical Hit dealing ",
+    {text: String.uFormatted(percentage) + "%", color: crit_damage_format.color},
+    " extra damage."
+  ],
+  color: "gray"
+}];
+
+return {
+    level,
+    description
+};

@@ -1,0 +1,22 @@
+static {
+    levels: 1..10,
+    name: "Infinite Quiver",
+    wrap_override: 35
+};
+
+percentage = 3 * level;
+
+description = [{
+  text: "Saves arrows ",
+  extra: [
+    {text: String.uFormatted(percentage), color: "lime"},
+    {text: "%", color: "lime"},
+    " of the time when you fire your bow."
+  ],
+  color: "gray"
+}];
+
+return {
+    level,
+    description
+};

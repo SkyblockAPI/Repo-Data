@@ -33,6 +33,18 @@ static {
   vicious: "sword",
 
 
+  chance: "bow",
+  aiming: "bow",
+  flame: "bow",
+  infinite_quiver: "bow",
+  piercing: "bow",
+  overload: "bow",
+  power: "bow",
+  punch: "bow",
+  snipe: "bow",
+  toxophilite: "bow",
+
+
   cultivating: "farming",
   dedication: "farming",
   delicate: "farming",
@@ -59,7 +71,9 @@ static {
   telekinesis: "legacy",
 
   ultimate_crop_fever: "ultimate",
-  ultimate_wise: "ultimate"
+  ultimate_fatal_tempo: "ultimate",
+  ultimate_reiterate: "ultimate",
+  ultimate_wise: "ultimate",
 };
 
 folder_map = static("enchantments/enchant");
@@ -67,7 +81,8 @@ folder_map = static("enchantments/enchant");
 path = if (folder_map[type]) {
   (folder_map[type] + "/")
 } else {
-  ""
+  print("Could not find enchant " + type + ".");
+  return;
 } + type;
 
 enchantment = call("enchantments/" + path, {

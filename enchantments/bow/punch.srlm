@@ -1,0 +1,21 @@
+static {
+  levels: 1..2,
+  name: "Punch",
+  wrap_override: 35
+};
+
+knockback = 3 * level;
+
+description = [{
+  text: "Increases arrow knockback by ",
+  extra: [
+    {text: String.uFormatted(knockback), color: "lime"},
+    " blocks."
+  ],
+  color: "gray"
+}];
+
+return {
+  level,
+  description
+};

@@ -1,0 +1,25 @@
+static {
+  levels: 1..7,
+  name: "Power"
+};
+
+percentage = match (level) {
+  <= 5 -> level * 8,
+  >= 6 -> (level * 15) - 40,
+  else -> 1, 
+}
+
+description = [{
+  text: "Increases bow damage by ",
+  extra: [
+    {text: String.uFormatted(percentage), color: "lime"},
+    {text: "%", color: "lime"},
+    "."
+  ],
+  color: "gray"
+}];
+
+return {
+  level,
+  description
+};

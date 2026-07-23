@@ -1,0 +1,21 @@
+static {
+    levels: 1..5,
+    name: "Dragon Tracer",
+    wrap_override: 35
+};
+
+percentage = 2 * level;
+
+description = [{
+    text: "Arrows home towards dragons if they are within ",
+    extra: [
+        {text: String.uFormatted(percentage), color: "lime"},
+        " blocks."
+    ],
+    color: "gray"
+}];
+
+return {
+    level,
+    description
+};

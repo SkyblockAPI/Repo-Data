@@ -1,0 +1,50 @@
+static {
+    levels: 1..10,
+    name: "Toxophilite",
+    wrap_override: 35
+};
+
+lerp = (level - 1) / 9;
+
+combat_xp_bonus = 3 + (lerp * 7);
+crit_chancce_bonus = 3.7 + (lerp * 6.3);
+
+until_next = match (level) {
+    1 -> "50k",
+    2 -> "100k",
+    3 -> "250k",
+    4 -> "500k",
+    5 -> "1m",
+    6 -> "1.5m",
+    7 -> "2m",
+    8 -> "2.5m",
+    9 -> "3m",
+};
+
+crit_chance_format = call("format/stat/combat/crit_chance");
+
+description = [{
+  text: "Gain ",
+  extra: [
+    {text: String.uFormatted(combat_xp_bonus) + "%", color: "lime"},
+    " extra Combat XP. Grants ",
+    {text: String.formatted(crit_chancce_bonus), color: crit_chance_format.color},
+    crit_chance_format
+  ],
+  color: "gray"
+}];
+
+if (until_next) {
+  description += {
+    text: until_next + " Combat XP to tier up!",
+    color: "dark_gray"
+  }
+}
+
+return {
+    level,
+    description,
+    stat_bonus: {
+      crit_chance: crit_chancce_bonus
+    }
+};

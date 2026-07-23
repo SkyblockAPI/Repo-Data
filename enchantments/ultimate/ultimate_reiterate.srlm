@@ -1,0 +1,42 @@
+static {
+    levels: 1..5,
+    is_ultimate: true,
+    name: "Duplex",
+    wrap_override: 40
+};
+
+damage_format = call("format/stat/combat/damage");
+
+damage_increase = 4 * level;
+fire_damage_multiplier = 1 + (level * 0.1);
+
+description = [
+    {
+        text: "Shoot an extra arrow dealing ",
+        color: "gray",
+        extra: [
+            { text: String.uFormatted(damage_increase) + "%", color: damage_format.color},
+            " of the first arrow's damage.",
+        ]
+    },
+    {
+        text: "Targets hit take ",
+        color: "gray",
+        extra: [
+            { text: String.uFormatted(fire_damage_multiplier) + "x", color: damage_format.color},
+            " fire damage ",
+        ]
+    },
+    {
+        text: "for ",
+        color: "gray",
+        extra: [
+            { text: "60s", color: "lime"}
+        ]
+    }
+];
+
+return {
+    level,
+    description
+};
