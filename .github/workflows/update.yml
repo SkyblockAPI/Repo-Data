@@ -14,7 +14,8 @@ jobs:
         with:
           token: ${{ secrets.BOT_TOKEN }}
 
-      - run: rm -rf index.shas && find \( -name '*.srlm' -o -name '*.srls' \) -exec sh -c 'shasum "$1" >> index.shas' _ '{}' \;
+      - run: rm -rf index && find \( -name '*.srlm' -o -name '*.srls' \) -exec sh -c 'sha256sum "$1" >> index' _ '{}' \;
+      - run: sha256sum index.shas > index.sha256
 
       - name: Check for breaking changes
         env:
