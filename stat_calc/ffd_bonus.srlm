@@ -6,7 +6,6 @@ call("stat_calc/put_bonus", {
   stat: "farming_fortune",
   amount: data.farming_for_dummies_count,
   color: "lime",
-  prefix: "(", suffix: ")",
   bonus_stats,
   stats
 });
