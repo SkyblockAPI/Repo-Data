@@ -2,8 +2,8 @@ if (!data.gems) return;
 
 gem_stats = static("stat_calc/gem_stat_lut");
 
-for (i = 0; (i < meta.gem_slots.length); i+=1) {
-  gem_slot = meta.gem_slots[i];
+for (i = 0; (i < gem_slots.length); i+=1) {
+  gem_slot = gem_slots[i];
   if (!data.gems[gem_slot.id]) continue;
   slot_quality = String.lowercase(data.gems[gem_slot.id]);
   slot_contents = if (gem_stats[gem_slot.type]) {
@@ -20,7 +20,7 @@ for (i = 0; (i < meta.gem_slots.length); i+=1) {
   });
 
   call("stat_calc/put_bonus", {
-    amount: gem_amount, 
+    amount: gem_amount,
     color: "pink",
     stat: gem_stat,
     bonus_stats, stats
