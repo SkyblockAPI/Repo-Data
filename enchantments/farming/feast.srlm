@@ -21,8 +21,5 @@ return {
             "."
         ],
         color: "gray"
-    },
-    stat_bonus: {
-        overbloom
     }
 };

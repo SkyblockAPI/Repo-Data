@@ -50,8 +50,7 @@ static {
   delicate: "farming",
   harvesting: "farming",
   replenish: "farming",
-
-
+  feast: "farming",
   turbo_wheat: "farming",
   turbo_carrot: "farming",
   turbo_potato: "farming",
@@ -66,7 +65,8 @@ static {
   turbo_moonflower: "farming",
   turbo_rose: "farming",
 
-  feast: "farming",
+  efficiency: "tool",
+  silk_touch: "tool",
 
   telekinesis: "legacy",
 

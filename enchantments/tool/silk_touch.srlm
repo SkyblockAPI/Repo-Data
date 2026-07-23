@@ -1,0 +1,14 @@
+static {
+    levels: 1,
+    name: "Silk Touch"
+};
+
+description = {
+    text: "Allows you to collect normally unobtainable block drops.",
+    color: "gray"
+};
+
+return {
+    level,
+    description
+};

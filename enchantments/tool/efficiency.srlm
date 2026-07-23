@@ -1,0 +1,14 @@
+static {
+    levels: 1..10,
+    name: "Efficiency"
+};
+
+description = {
+    text: "Increases how quickly your tool breaks blocks.",
+    color: "gray"
+};
+
+return {
+    level,
+    description
+};
