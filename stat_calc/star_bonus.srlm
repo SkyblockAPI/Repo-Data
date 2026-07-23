@@ -1,0 +1,10 @@
+# todo: read from data 🥺
+return;
+
+total_star_count = 0;
+
+for (stat_entry : Objects.entries(stats)) {
+  stat = stat_entry.key;
+
+  stats[stat] *= 1 + (total_star_count * 0.02);
+}

@@ -1,0 +1,35 @@
+static {
+  name: "Heroic",
+  stats: {
+    common: {
+      strength: 15,
+      attack_speed: 1,
+      intelligence: 40
+    },
+    uncommon: {
+      strength: 20,
+      attack_speed: 2,
+      intelligence: 50
+    },
+    rare: {
+      strength: 25,
+      attack_speed: 2,
+      intelligence: 65
+    },
+    epic: {
+      strength: 32,
+      attack_speed: 3,
+      intelligence: 80
+    },
+    legendary: {
+      strength: 40,
+      attack_speed: 5,
+      intelligence: 100
+    },
+    mythic: {
+      strength: 50,
+      attack_speed: 7,
+      intelligence: 125
+    },
+  }
+};

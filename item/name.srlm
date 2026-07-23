@@ -5,4 +5,10 @@ reforge_name = if ("modifier" in data) {
   ""
 };
 
-stack.name = {color: Rarity.color(Rarity.stack()), extra: [reforge_name, meta.name]};
+name = [reforge_name, meta.name, stars];
+
+stars = call("format/stars");
+
+name.addAll(stars);
+
+stack.name = {color: Rarity.color(Rarity.stack()), extra: name};

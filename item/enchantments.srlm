@@ -11,24 +11,22 @@ for (current : enchantments) {
     enchantment = call("enchantments/" + current.key, {
         level: current.value
     });
-    enchantment.static_data = static("enchantments/" + current.key);
 
     if ("level" !in enchantment) {
         enchantment.level = current.value;
     };
-    if ("name" !in enchantment) {
-        enchantment.name = enchantment.static_data.name;
-    };
-    if ("wrap_override" in enchantment.static_data) {
-        enchantment.wrap_override = enchantment.static_data.wrap_override;
-    };
+    call("utils/copy_into", {
+        from: static("enchantments/" + current.key),
+        to: enchantment
+    });
 
-    enchantment_key = Component.asString(enchantment.name);
-    enchantments[enchantment_key] = enchantment;
     if ("is_legacy" in enchantment) {
         continue;
     };
 
+    enchantment_key = Component.asString(enchantment.name);
+    enchantments[enchantment_key] = enchantment;
+    
     enchantment.name = Component.asComponent(enchantment.name);
     enchantment.name.color = "blue";
 
@@ -38,8 +36,8 @@ for (current : enchantments) {
         enchantment.name.extra = [" ", String.uFormatted(enchantment.level)];
     };
 
-    if ("is_ultimate" in enchantment.static_data) {
-        if (enchantment.static_data.is_ultimate) {
+    if ("is_ultimate" in enchantment) {
+        if (enchantment.is_ultimate) {
             ultimate = enchantment_key;
             has_ultimate = true;
             enchantment.name.color = "pink";

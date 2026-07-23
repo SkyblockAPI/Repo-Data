@@ -2,6 +2,11 @@ call("stat_calc/init_base", {
     stats,
     meta
 });
+call("stat_calc/star_bonus", {
+    stats,
+    meta,
+    data
+});
 call("stat_calc/enchant_bonus", {
     bonus_stats,
     stats,

@@ -13,9 +13,28 @@ abilities.forEach(| ability | {
         {}
     };
 
+    power_scroll_text = if ((ability.trigger == "RIGHT CLICK") && ("power_ability_scroll" in data)) {
+        {
+            text: "⦾ ",
+            color: match (data.power_ability_scroll) {
+                "SAPPHIRE_POWER_SCROLL" -> "aqua",
+                "RUBY_POWER_SCROLL" -> "red",
+                "JASPER_POWER_SCROLL" -> "pink",
+                "AMETHYST_POWER_SCROLL" -> "purple",
+                "AMBER_POWER_SCROLL" -> "orange",
+                "OPAL_POWER_SCROLL" -> "white",
+                else -> "",
+            }
+        }
+    } else {
+        ""
+    };
+
+
     stack.lore.add({
         text: "",
         extra: [
+            power_scroll_text,
             {text: "Ability: ", color: "gold"},
             {text: ability.name, color: "gold"},
             {text: "  "},
@@ -25,20 +44,22 @@ abilities.forEach(| ability | {
 
     stack.lore.addAll(Component.splitToLength(ability.text, 35));
 
+    if ("soulflow_cost" in ability) {
+        stack.lore.add({text: "Soulflow Cost: ", color: "dark_gray", extra: [{text: String.uFormatted(ability.soulflow_cost), color: "cyan"}]});
+    };
+
     if ("mana_cost" in ability) {
         ability_mana_cost = ability.mana_cost;
         if ("enchantments" in data) {
             if ("ultimate_wise" in data.enchantments) {
                 reduction = 1 - ((10 * data.enchantments.ultimate_wise) / 100);
-                ability_mana_cost = (ability_mana_cost * reduction);
+                ability_mana_cost = ability_mana_cost * reduction;
             };
         };
 
-        stack.lore.add({text: "Mana Cost: ", color: "dark_gray", extra: [{text: String.uFormatted(ability_mana_cost), color: "cyan"}]});
-    };
+        intelligence_icon = call("format/stat_icons").intelligence;
 
-    if ("soulflow_cost" in ability) {
-        stack.lore.add({text: "Soulflow Cost: ", color: "dark_gray", extra: [{text: String.uFormatted(ability.soulflow_cost), color: "cyan"}]});
+        stack.lore.add({text: "Mana Cost: ", color: "dark_gray", extra: [{text: String.uFormatted(Math.round(ability_mana_cost)) + intelligence_icon, color: "aqua"}]});
     };
 
     if ("cooldown" in ability) {

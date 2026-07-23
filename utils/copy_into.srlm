@@ -1,0 +1,6 @@
+if (!from) return;
+if (!to) return;
+
+for (from_entry : Objects.entries(from)) {
+  if (!to[from_entry.key]) to[from_entry.key] = from_entry.value;
+};
