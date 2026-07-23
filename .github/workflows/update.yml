@@ -1,0 +1,27 @@
+name: API Baseline Updater
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  baseline-updater:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.BOT_TOKEN }}
+
+      - run: rm -rf index.shas && find \( -name '*.srlm' -o -name '*.srls' \) -exec sh -c 'shasum "$1" >> index.shas' _ '{}' \;
+
+      - name: Check for breaking changes
+        env:
+          GH_TOKEN: ${{ secrets.BOT_TOKEN }}
+        run: |
+          git config --global user.email "meowtomation@users.noreply.github.com"
+          git config --global user.name "meowtomation"
+          git add .
+          git commit -m "update api dump"
+          git push
