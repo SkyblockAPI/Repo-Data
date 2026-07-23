@@ -1,43 +1,59 @@
 static {
     levels: 1..5,
     is_ultimate: true,
-    name: "Crop Fever"
+    name: "Crop Fever",
+    wrap_override: 35
 };
 
 chance = level / 1000;
 
-description = {
-    text: "When breaking crops, there is a ",
-    color: "gray",
-    extra: [
-        { text: String.uFormatted(chance) + "% ", color: "lime" },
-        "chance to trigger ",
-        { text: "Crop ", extra: [ "Fever " ], color: "pink", bold: true },
-        "for ",
-        { text: "60s ", color: "lime" },
-        "which grants:                     ",
-        { text: "- ", color: "dark_gray" },
-        " Additional crop rolls             ",
-        { text: "- ", color: "dark_gray" },
+description = [
+    {
+        text: "When breaking crops, there is a ",
+        color: "gray",
+        extra: [
+            { text: String.uFormatted(chance) + "% ", color: "lime" },
+            "chance to trigger ",
+            { text: "Crop ", extra: [ "Fever " ], color: "pink", bold: true },
+            "for ",
+            { text: "60s ", color: "lime" },
+            "which grants:"
+        ]
+    },
+    {
+        text: "- ",
+        color: "dark_gray",
+        extra: [
+            {text: "Additional crop rolls", color: "gray"}
+        ]
+    },
+    {
+        text: "- ",
+        color: "dark_gray",
+        extra: [
+            {
+                color: "yellow",
+                extra: [
+                    "+15",
+                    call("format/stat/farming/overbloom")
+                ]
+            }
+        ]
+    },
+    {
+        text: "- ",
+        color: "dark_gray",
+        extra: [
         {
-            color: "yellow",
-            extra: [
-                "+15",
-                call("format/stat/farming/overbloom"),
-                "                      "
-            ]
-        },
-        { text: "- ", color: "dark_gray" },
-        {
-            color: "gold",
-            extra: [
-                "+100",
-                call("format/stat/farming/farming_fortune")
-            ]
-        }
-    ]
-
-};
+                color: "gold",
+                extra: [
+                    "+100",
+                    call("format/stat/farming/farming_fortune")
+                ]
+            }
+        ]
+    }
+];
 
 return {
     level,
