@@ -10,11 +10,9 @@ percentage = 3 * level;
 description = [{
   text: "Arrows ignite your enemise for ",
   extra: [
-    {text: String.uFormatted(seconds), color: "lime"},
-    {text: "s", color: "lime"},
+    {text: String.uFormatted(seconds) + "s", color: "lime"},
     ", dealing ",
-    {text: String.uFormatted(percentage), color: "lime"},
-    {text: "%", color: "lime"},
+    {text: String.uFormatted(percentage) + "%", color: "lime"},
     " of your damage per second."
   ],
   color: "gray"

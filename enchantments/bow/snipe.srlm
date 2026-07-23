@@ -4,18 +4,17 @@ static {
 };
 
 percentage = level * 1;
-description = [{
-  text: "Arrows deal ",
-  extra: [
-    {text: String.formatted(percentage) + "%", color: "lime"},
-    " damage for every ",
-    {text: "10", color: "lime"},
-    " blocks traveled."
-  ],
-  color: "gray"
-}];
 
 return {
   level,
-  description
+  description: {
+    text: "Arrows deal ",
+    extra: [
+      {text: String.formatted(percentage) + "%", color: "lime"},
+      " damage for every ",
+      {text: "10", color: "lime"},
+      " blocks traveled."
+    ],
+    color: "gray"
+  }
 };

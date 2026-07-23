@@ -5,17 +5,14 @@ static {
 
 percentage = 15 * level;
 
-description = [{
-  text: "Increases the chances of a Monster dropping an item by ",
-  extra: [
-    {text: String.uFormatted(percentage), color: "lime"},
-    {text: "%", color: "lime"},
-    "."
-  ],
-  color: "gray"
-}];
-
 return {
   level,
-  description
+  description: {
+    text: "Increases the chances of a Monster dropping an item by ",
+    extra: [
+      {text: String.uFormatted(percentage) + "%", color: "lime"},
+      "."
+    ],
+    color: "gray"
+  }
 };

@@ -1,19 +1,17 @@
 static {
-    levels: [1],
-    name: "Piercing",
-    wrap_override: 35
+  levels: [1],
+  name: "Piercing",
+  wrap_override: 35
 };
 
-description = [{
-  text: "Arrows traven through enemies. The extra targets hit take ",
-  extra: [
-    {text: "25%", color: "lime"},
-    " of the damage."
-  ],
-  color: "gray"
-}];
-
 return {
-    level,
-    description
+  level,
+  description: {
+    text: "Arrows traven through enemies. The extra targets hit take ",
+    extra: [
+      {text: "25%", color: "lime"},
+      " of the damage."
+    ],
+    color: "gray"
+  }
 };

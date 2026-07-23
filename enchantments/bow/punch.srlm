@@ -6,16 +6,14 @@ static {
 
 knockback = 3 * level;
 
-description = [{
-  text: "Increases arrow knockback by ",
-  extra: [
-    {text: String.uFormatted(knockback), color: "lime"},
-    " blocks."
-  ],
-  color: "gray"
-}];
-
 return {
   level,
-  description
+  description: {
+    text: "Increases arrow knockback by ",
+    extra: [
+      {text: String.uFormatted(knockback), color: "lime"},
+      " blocks."
+    ],
+    color: "gray"
+  }
 };
