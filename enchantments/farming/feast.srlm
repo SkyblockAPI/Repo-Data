@@ -1,0 +1,28 @@
+static {
+    levels: 1..5,
+    name: "Feast"
+};
+
+overbloom = level * 2;
+
+return {
+    level,
+    description: {
+        text: "Grants ",
+        extra: [
+            {
+                color: "yellow",
+                extra: [
+                    "+",
+                    String.uFormatted(overbloom),
+                    call("format/stat/farming/overbloom")
+                ]
+            },
+            "."
+        ],
+        color: "gray"
+    },
+    stat_bonus: {
+        overbloom
+    }
+};

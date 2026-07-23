@@ -54,6 +54,8 @@ static {
   turbo_moonflower: "farming",
   turbo_rose: "farming",
 
+  feast: "farming",
+
   telekinesis: "legacy",
 
   ultimate_crop_fever: "ultimate",
