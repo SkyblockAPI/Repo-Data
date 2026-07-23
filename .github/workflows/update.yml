@@ -1,4 +1,4 @@
-name: API Baseline Updater
+name: Update shas
 
 on:
   push:
@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         with:
           token: ${{ secrets.BOT_TOKEN }}
 
       - run: rm -rf index && find \( -name '*.srlm' -o -name '*.srls' \) -exec sh -c 'sha256sum "$1" >> index' _ '{}' \;
-      - run: sha256sum index.shas > index.sha256
+      - run: sha256sum index > index.sha256
 
       - name: Check for breaking changes
         env:
