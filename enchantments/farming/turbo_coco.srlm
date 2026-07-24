@@ -5,5 +5,5 @@ static {
 
 return call("enchantments/prototypes/turbo_crop", {
     level,
-    crop_type: "cocoa_beans"
+    crop_type: "Cocoa Beans"
 });
