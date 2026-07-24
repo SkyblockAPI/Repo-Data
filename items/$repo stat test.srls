@@ -63,7 +63,7 @@ script {
     stack.lore.add(call("format/stat/farming/mushroom_fortune"));
     stack.lore.add(call("format/stat/farming/overbloom"));
     stack.lore.add(call("format/stat/farming/sugar_cane_fortune"));
-    stack.lore.add(call("format/stat/farming/wildrose_fortune"));
+    stack.lore.add(call("format/stat/farming/wild_rose_fortune"));
     stack.lore.add(call("format/stat/farming/pumpkin_fortune"));
     stack.lore.add(call("format/stat/farming/carrot_fortune"));
     stack.lore.add(call("format/stat/farming/sunflower_fortune"));

@@ -1,0 +1,26 @@
+static {
+    levels: 3..5,
+    name: "Counter-Strike",
+    wrap_override: 35
+};
+
+defense_format = call("format/stat/combat/defense");
+
+defense_bonus = 2 * level;
+
+description = {
+    text: "Gain ",
+    extra: [
+      {text: String.formatted(defense_bonus), color: defense_format.color},
+      defense_format,
+      " for ",
+      {text: "7s", color: "lime"},
+      " on the first hit from an enemy."
+    ],
+    color: "gray"
+};
+
+return {
+    level,
+    description
+};

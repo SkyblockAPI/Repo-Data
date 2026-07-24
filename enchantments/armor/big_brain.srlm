@@ -1,0 +1,27 @@
+static {
+    levels: 3..5,
+    name: "Big Brain",
+    wrap_override: 35
+};
+
+intelligence_format = call("format/stat/combat/intelligence");
+
+intelligence_bonus = 5 * level;
+
+description = {
+    text: "Grants ",
+    extra: [
+      {text: String.formatted(intelligence_bonus), color: intelligence_format.color},
+      intelligence_format,
+      "."
+    ],
+    color: "gray"
+};
+
+return {
+    level,
+    description,
+    stat_bonus: {
+      intelligence: intelligence_bonus
+    }
+};

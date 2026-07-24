@@ -1,0 +1,15 @@
+static {
+    levels: 1,
+    name: "Aqua Affinity",
+    wrap_override: 35
+};
+
+description = {
+    text: "Increases your underwater mining rate.",
+    color: "gray"
+};
+
+return {
+    level,
+    description
+};

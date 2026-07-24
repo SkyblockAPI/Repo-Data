@@ -1,0 +1,35 @@
+static {
+    levels: 1..10,
+    name: "Vivacious Vitality",
+    wrap_override: 35
+};
+
+vitality_format = call("format/stat/combat/vitality");
+attack_speed_format = call("format/stat/combat/attack_speed");
+attack_speed_format.do_not_split = false;
+
+gray_attack_speed = {...attack_speed_format};
+gray_attack_speed.color = "dark_gray";
+
+vitality_meow = 1 * level;
+
+description = {
+    text: "Gain ",
+    extra: [
+      {text: String.uFormatted(vitality_meow) + "%", color: "lime"},
+      " of ",
+      vitality_format,
+      " used as ",
+      attack_speed_format,
+      " for ",
+      {text: "10s", color: "lime"},
+      ". ",
+      {text: "(Max 5", extra: [gray_attack_speed, ")."], color: "dark_gray"},
+    ],
+    color: "gray"
+};
+
+return {
+    level,
+    description
+};

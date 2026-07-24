@@ -1,0 +1,21 @@
+static {
+    levels: 1..3,
+    name: "Depth Strider",
+    wrap_override: 35
+};
+
+water_penalty_reduction = Math.round(33.3 * level);
+
+description = {
+    text: "Reduces how much you are slowed in the water by ",
+    extra: [
+      {text: String.uFormatted(water_penalty_reduction) + "%", color: "lime"},
+      "."
+    ],
+    color: "gray"
+};
+
+return {
+    level,
+    description
+};

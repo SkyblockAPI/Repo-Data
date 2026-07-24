@@ -1,0 +1,8 @@
+meta {
+    rarity = "UNCOMMON";
+    item = "paper";
+    name = "Enchant test";
+    category = "ARMOR";
+
+    never_compact_enchants = true;
+}

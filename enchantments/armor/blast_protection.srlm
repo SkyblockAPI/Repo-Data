@@ -1,0 +1,24 @@
+static {
+    levels: 1..9,
+    name: "Blast Protection",
+    wrap_override: 35
+};
+
+defense_format = call("format/stat/combat/defense");
+
+defense_bonus = 30 * level;
+
+description = {
+    text: "Grants ",
+    extra: [
+      {text: String.formatted(defense_bonus), color: defense_format.color},
+      defense_format,
+      " against explosions."
+    ],
+    color: "gray"
+};
+
+return {
+    level,
+    description
+};

@@ -12,6 +12,7 @@ for (current : enchantments) {
         level: current.value,
         type: current.key
     });
+    if (!enchantment) continue;
 
     if ("is_legacy" in enchantment) {
         continue;
@@ -34,6 +35,11 @@ if ("always_compact_enchants" in meta) {
     always_compact = true;
 };
 
+never_compact = false;
+if ("never_compact_enchants" in meta) {
+    never_compact = true;
+}
+
 enchantment_list = [];
 
 if (has_ultimate) {
@@ -44,7 +50,7 @@ enchantment_list.addAll(Array.sorted(base_enchantments));
 
 stack.lore.beginSection();
 # ordered alphabetically, ultimate first
-if ((enchantment_list.length >= 10) || always_compact) {
+if (!never_compact && ((enchantment_list.length >= 10) || always_compact)) {
 
     enchantment_list.chunked(3).map(|base_enchantments| {
         base_enchantments.mapIndexed(| enchantment, index | {
@@ -66,7 +72,7 @@ if ((enchantment_list.length >= 10) || always_compact) {
         enchantment = enchantments[enchantment_key];
 
         stack.lore.add(enchantment.name);
-        if (enchantments.length <= 5) {
+        if ((enchantments.length <= 5) || never_compact) {
             stack.lore.addAll(Component.splitToLength(enchantment.description, match {
                 "wrap_override" in enchantment -> enchantment.wrap_override,
                 else -> 38,
