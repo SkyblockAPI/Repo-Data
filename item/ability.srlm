@@ -10,6 +10,7 @@ abilities.forEach(| ability | {
     ability_trigger = if ("trigger" in ability) {
         {text: ability.trigger, color: "yellow", bold: true}
     } else {
+        ability.trigger = "";
         {}
     };
 

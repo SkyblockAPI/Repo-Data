@@ -1,0 +1,14 @@
+static {
+    levels: 1,
+    name: "Silk Touch"
+};
+
+description = {
+    text: "Automatically smelts broken blocks into their smelted form.",
+    color: "gray"
+};
+
+return {
+    level,
+    description
+};

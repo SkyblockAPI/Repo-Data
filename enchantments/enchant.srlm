@@ -67,7 +67,9 @@ static {
 
   efficiency: "tool",
   silk_touch: "tool",
+  smelting_touch: "tool",
 
+  sunder: "legacy",
   telekinesis: "legacy",
 
   ultimate_crop_fever: "ultimate",
