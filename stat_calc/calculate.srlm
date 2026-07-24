@@ -12,6 +12,16 @@ call("stat_calc/enchant_bonus", {
     stats,
     data
 });
+call("stat_calc/dpc_bonus", {
+    bonus_stats,
+    stats,
+    data
+});
+call("stat_calc/polarvoid_bonus", {
+    bonus_stats,
+    stats,
+    data
+});
 call("stat_calc/hpb_bonus", {
     bonus_stats,
     stats,

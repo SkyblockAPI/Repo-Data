@@ -1,4 +1,4 @@
 call("format/stat", {
     stat_name: "Vitality",
-    stat_color: "red",
+    stat_color: "dark_red",
 })

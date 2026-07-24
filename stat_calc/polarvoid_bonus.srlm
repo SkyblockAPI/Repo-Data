@@ -1,0 +1,17 @@
+# Polarvoid Book
+if ("polarvoid" !in data) return;
+
+call("stat_calc/put_bonus", {
+  stat: "mining_speed",
+  amount: data.polarvoid * 10,
+  prefix: "[", suffix: "]",
+  color: "blue",
+  bonus_stats, stats
+});
+if (data.polarvoid > 0) call("stat_calc/put_bonus", {
+  stat: "mining_fortune",
+  amount: 5,
+  prefix: "[", suffix: "]",
+  color: "blue",
+  bonus_stats, stats
+});

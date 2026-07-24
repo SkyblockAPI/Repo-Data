@@ -4,8 +4,7 @@ gem_stats = static("stat_calc/gem_stat_lut");
 
 gem_stat_accumulator = {};
 
-for (i = 0; (i < gem_slots.length); i+=1) {
-  gem_slot = gem_slots[i];
+for (gem_slot : gem_slots) {
   if (!data.gems[gem_slot.id]) continue;
   slot_quality = String.lowercase(data.gems[gem_slot.id]);
   slot_contents = if (gem_stats[gem_slot.type]) {

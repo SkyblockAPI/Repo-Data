@@ -3,12 +3,14 @@ static {
     levels: 1..5
 };
 
-amount = 0.5 * level;
+amount = 2.4 * level;
+
+stat_icons = call("format/stat_icons");
 
 description = {extra: [
-    "Heals for ",
-    {text: String.uFormatted(amount), color: "lime", extra: ["% "]},
-    "of your max health each time you hit a mob."
+    "Heal ",
+    {text: String.uFormatted(amount), color: "red", extra: [stat_icons.health]},
+    " every time you hit a mob."
 ], color: "gray"};
 
 return {

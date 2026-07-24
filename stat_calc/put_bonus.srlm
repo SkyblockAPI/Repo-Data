@@ -1,5 +1,6 @@
 if (!stat) return;
 if (!color) return;
+if (amount == 0) return;
 
 call("stat_calc/put_stat", {
   stat,

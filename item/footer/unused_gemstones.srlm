@@ -1,0 +1,27 @@
+if (!data.gems) return;
+
+gem_slots = call("utils/meta_or_optional", { field: "gem_slots", ...this });
+
+if (!gem_slots.value) return;
+
+used_gems = 0;
+for (gem_slot : gem_slots.value) {
+  if (!data.gems[gem_slot.id]) continue;
+  used_gems += 1;
+}
+
+for (gem_entry : Objects.entries(data.gems)) {
+  if (gem_entry.key == String.uppercase(gem_entry.key)) used_gems -= 1;
+}
+
+if (used_gems < 0) {
+  stack.lore.addAll(Component.splitToLength({
+    text: "This item has unused gemstones! Visit ",
+    extra: [
+      {text: "Geo", color: "lime"},
+      " to remove them!"
+    ],
+    color: "red"
+  }, 38));
+  stack.lore.endSection();
+}

@@ -1,3 +1,4 @@
 include("item/footer/reforge");
+include("item/footer/unused_gemstones");
 include("item/footer/soulbound");
 include("item/footer/rarity");

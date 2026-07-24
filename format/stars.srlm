@@ -1,9 +1,14 @@
-# todo: read star count from lore (i dont have anything to test :c)
-return [];
+if ("upgrade_level" !in data) return [];
 
-total_star_count = 0;
+total_star_count = data.upgrade_level;
+
 if (total_star_count == 0) return [];
 
+if ("dungeon_item" in data && !(data.dungeon_item == 0)) {
+  return call("format/dungeon_stars", {
+    total_star_count
+  })
+};
 remaining_stars = 5;
 stars = [" "];
 

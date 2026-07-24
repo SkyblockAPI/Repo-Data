@@ -1,0 +1,29 @@
+static {
+    levels: 1..5,
+    name: "Drain"
+};
+
+vitality_format = call("format/stat/combat/vitality");
+
+vitality_regen = 0.1 * level;
+
+description = [
+    {
+        extra: [
+            "Regen ",
+            {text: String.formatted(vitality_regen), color: vitality_format.color},
+            vitality_format,
+            " every time you hit a mob.",
+        ], 
+        color: "gray"
+    },
+    {
+        text: "(0.25s Cooldown)",
+        color: "dark_gray"
+    }
+];
+
+return {
+    level,
+    description
+};

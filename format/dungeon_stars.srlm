@@ -1,0 +1,28 @@
+if (!total_star_count) return [];
+
+stars = [" "];
+
+orange_star_count = Math.clamp(total_star_count, 0, 5);
+
+if (orange_star_count > 0) for (i : 1..orange_star_count) {
+  stars += {
+    text: "✪",
+    color: "orange"
+  };
+}
+
+remaining_stars = total_star_count - orange_star_count;
+
+if (remaining_stars > 0) stars.add({
+  text: match (remaining_stars) {
+    1 -> "➊",
+    2 -> "➋",
+    3 -> "➌",
+    4 -> "➍",
+    5 -> "➎",
+    else -> "?",
+  },
+  color: "red"
+});
+
+return stars;

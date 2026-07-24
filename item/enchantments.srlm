@@ -4,8 +4,8 @@ if ("enchantments" !in data) {
 
 enchantments = Objects.entries(data.enchantments);
 base_enchantments = [];
+ultimate_enchantments = [];
 has_ultimate = false;
-ultimate = "";
 
 for (current : enchantments) {
     enchantment = call("enchantments/enchant", {
@@ -21,7 +21,7 @@ for (current : enchantments) {
     enchantments[enchantment_key] = enchantment;
 
     if (enchantment.is_ultimate) {
-        ultimate = enchantment_key;
+        ultimate_enchantments += enchantment_key;
         has_ultimate = true;
         continue;
     };
@@ -34,17 +34,19 @@ if ("always_compact_enchants" in meta) {
     always_compact = true;
 };
 
-base_enchantments = Array.sorted(base_enchantments);
+enchantment_list = [];
 
 if (has_ultimate) {
-    base_enchantments.addFirst(ultimate);
+    enchantment_list.addAll(Array.sorted(ultimate_enchantments));
 };
+
+enchantment_list.addAll(Array.sorted(base_enchantments));
 
 stack.lore.beginSection();
 # ordered alphabetically, ultimate first
-if ((base_enchantments.length >= 10) || always_compact) {
+if ((enchantment_list.length >= 10) || always_compact) {
 
-    base_enchantments.chunked(3).map(|base_enchantments| {
+    enchantment_list.chunked(3).map(|base_enchantments| {
         base_enchantments.mapIndexed(| enchantment, index | {
             entry = enchantments[enchantment].name;
 
@@ -60,7 +62,7 @@ if ((base_enchantments.length >= 10) || always_compact) {
     }).forEach(stack.lore.add);
 
 } else {
-    base_enchantments.forEach(|enchantment_key| {
+    enchantment_list.forEach(|enchantment_key| {
         enchantment = enchantments[enchantment_key];
 
         stack.lore.add(enchantment.name);

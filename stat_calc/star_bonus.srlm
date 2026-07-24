@@ -1,7 +1,10 @@
-# todo: read from data 🥺
-return;
+if ("upgrade_level" !in data) return;
 
-total_star_count = 0;
+total_star_count = data.upgrade_level;
+
+if (total_star_count == 0) return;
+
+if (data.dungeon_item) total_star_count = Math.clamp(total_star_count, 0, 5);
 
 for (stat_entry : Objects.entries(stats)) {
   stat = stat_entry.key;
