@@ -1,8 +1,8 @@
 meta {
     item = "paper";
     rarity = "EPIC";
-    tool_name = "Euclid's Wheat Sickle";
-    crop_type = "wheat";
+    tool_name = "Fungi Cutter";
+    crop_type = "mushroom";
 }
 
 script {

@@ -1,8 +1,8 @@
 meta {
     item = "paper";
     rarity = "EPIC";
-    tool_name = "Euclid's Wheat Sickle";
-    crop_type = "wheat";
+    tool_name = "Turing Sugar Cane Cutter";
+    crop_type = "sugar_cane";
 }
 
 script {

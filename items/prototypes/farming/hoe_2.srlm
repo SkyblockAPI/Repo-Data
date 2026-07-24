@@ -1,4 +1,5 @@
 hoe_tier = 2;
 
-include("items/prototypes/farming/hoe_common", this);
+name = call("utils/meta_or_field", { field: "tool_name", ...this }) + " Mk. II";
 include("items/prototypes/ingredient", this);
+include("items/prototypes/farming/hoe_common", this);

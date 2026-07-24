@@ -1,0 +1,9 @@
+meta {
+    item = "paper";
+    rarity = "RARE";
+    include("items/prototypes/farming/cactus_knife", this);
+}
+
+script {
+    include("items/prototypes/farming/hoe_2", this);
+}

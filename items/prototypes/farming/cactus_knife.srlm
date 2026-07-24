@@ -1,0 +1,14 @@
+lore.after_stats = {text: "Slices through ", color: "gray", extra: [ { text: "cactus", color: "lime" }, " instantly." ]};
+
+abilities = [
+    {
+        name: "Swift Slicer",
+        text: [
+            {text: "Increases your speed cap by 100", color: "gray"},
+            {text: "while in ", color: "gray", extra: [ { text: "The Garden", color: "lime" }, "." ]}
+        ]
+    }
+];
+
+tool_name = "Cactus Knife";
+crop_type = "cactus";

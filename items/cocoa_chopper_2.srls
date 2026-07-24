@@ -1,0 +1,10 @@
+meta {
+    item = "paper";
+    rarity = "RARE";
+    tool_name = "Cocoa Chopper";
+    crop_type = "cocoa_beans";
+}
+
+script {
+    include("items/prototypes/farming/hoe_2", this);
+}

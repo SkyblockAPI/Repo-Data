@@ -1,3 +1,4 @@
 hoe_tier = 3;
 
+name = call("utils/meta_or_field", { field: "tool_name", ...this }) + " Mk. III";
 include("items/prototypes/farming/hoe_common", this);

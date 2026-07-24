@@ -1,9 +1,9 @@
-if (("can_be_reforged" in meta && meta.can_be_reforged) && "modifier" !in data) {
-    stack.lore.add({text: "This item can be reforged!", color: "dark_gray"});
+if ("modifier" !in data) {
+    call("utils/meta_or_optional", { field: "can_be_reforged", ...this }).ifPresent(| x | {
+        stack.lore.add({text: "This item can be reforged!", color: "dark_gray"});
+    });
+    return;
 };
-
-if ("modifier" !in data) return;
-
 reforge = static("reforges/" + data.modifier);
 
 if ("description" in reforge) {

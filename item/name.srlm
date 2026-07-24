@@ -5,7 +5,9 @@ reforge_name = if ("modifier" in data) {
   ""
 };
 
-name = [reforge_name, meta.name, stars];
+name = call("utils/meta_or_field", { field: "name", ...this });
+
+name = [reforge_name, name, stars];
 
 stars = call("format/stars");
 

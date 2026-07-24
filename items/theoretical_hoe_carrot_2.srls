@@ -1,8 +1,8 @@
 meta {
     item = "paper";
     rarity = "RARE";
-    tool_name = "Euclid's Wheat Sickle";
-    crop_type = "wheat";
+    tool_name = "Gauss Carrot Shovel";
+    crop_type = "carrot";
 }
 
 script {

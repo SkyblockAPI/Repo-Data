@@ -1,8 +1,8 @@
 meta {
     item = "paper";
     rarity = "UNCOMMON";
-    tool_name = "Euclid's Wheat Sickle";
-    crop_type = "wheat";
+    tool_name = "Melon Dicer";
+    crop_type = "melon";
 }
 
 script {
