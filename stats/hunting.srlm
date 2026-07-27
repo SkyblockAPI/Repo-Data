@@ -1,2 +1,2 @@
-include("stats/hunting/pull");
-include("stats/hunting/hunter_fortune");
+::stats::hunting::pull::(this);
+::stats::hunting::hunter_fortune::(this);

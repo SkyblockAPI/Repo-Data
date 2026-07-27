@@ -1,10 +1,7 @@
 lore = call("utils/meta_or_default", { field: "lore", default: {} });
 bonus_stats = {};
 include("stat_calc/calculate", {
-    stats,
-    bonus_stats,
-    data,
-    meta
+    ...this
 });
 
 include("item/name");
@@ -27,7 +24,10 @@ if ("after_ability" in lore) {
     stack.lore.endSection();
 }
 
-call("utils/meta_or_optional", { field: "is_ingredient", ...this }).ifPresent(|value| {
+::utils::meta_or_optional::({
+    field: "is_ingredient",
+    ...this
+}).ifPresent(|value| {
     stack.lore.beginSection();
     stack.lore.add({text: "Right-click to view recipes!", color: "yellow"});
     stack.lore.endSection();
@@ -35,7 +35,10 @@ call("utils/meta_or_optional", { field: "is_ingredient", ...this }).ifPresent(|v
 
 include("item/toolkit");
 
-call("utils/meta_or_optional", { field: "is_farming_tool", ...this }).ifPresent(|value| {
+::utils::meta_or_optional::({
+    field: "is_farming_tool",
+    ...this
+}).ifPresent(|value| {
     call("item/farming_tool/level_bar", farming_data);
 });
 

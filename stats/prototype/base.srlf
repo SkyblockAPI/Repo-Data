@@ -1,3 +1,5 @@
+|name, color, bonus_stats, stack, stats, stat?, suffix?|
+
 if (!name) return;
 
 stat = if (!stat) {

@@ -1,6 +1,5 @@
-call("stats/prototype/base", {
+::stats::prototype::base::{
     name: "Nether Wart Fortune",
     color: "orange",
-    stats,
-    bonus_stats
-});
+    ...this
+};

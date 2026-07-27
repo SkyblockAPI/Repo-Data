@@ -1,6 +1,5 @@
-call("stats/prototype/base", {
+::stats::prototype::base::{
     name: "Pristine",
     color: "dark_purple",
-    stats,
-    bonus_stats
-});
+    ...this
+};

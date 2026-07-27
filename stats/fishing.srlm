@@ -1,5 +1,5 @@
-include("stats/fishing/fishing_speed");
-include("stats/fishing/sea_creature_chance");
-include("stats/fishing/double_hook_chance");
-include("stats/fishing/trophy_fish_chance");
-include("stats/fishing/treasure_chance");
+::stats::fishing::fishing_speed::(this);
+::stats::fishing::sea_creature_chance::(this);
+::stats::fishing::double_hook_chance::(this);
+::stats::fishing::trophy_fish_chance::(this);
+::stats::fishing::treasure_chance::(this);

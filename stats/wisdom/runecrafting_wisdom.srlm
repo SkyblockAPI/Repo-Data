@@ -1,6 +1,5 @@
-call("stats/prototype/base", {
+::stats::prototype::base::{
     name: "Runecrafting Wisdom",
     color: "cyan",
-    stats,
-    bonus_stats
-});
+    ...this
+};

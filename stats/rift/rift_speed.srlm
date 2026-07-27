@@ -1,7 +1,5 @@
-call("stats/prototype/base", {
+::stats::prototype::base::{
     name: "Rift Speed",
-    stat: "rift_speed",
     color: "white",
-    stats,
-    bonus_stats
-});
+    ...this
+};

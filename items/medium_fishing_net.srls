@@ -3,7 +3,7 @@ meta {
 
     stats.pull = 25;
     rarity = "RARE";
-    name = "Medium Fishing Net";#
+    name = "Medium Fishing Net";
 
     lore.after_ability = [
         {text: "Throw Distance: ", color: "gray", extra: [{text: "+50%", color: "lime"}]}

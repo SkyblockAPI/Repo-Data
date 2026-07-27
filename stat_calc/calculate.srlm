@@ -48,7 +48,7 @@ call("stat_calc/reforge_bonus", {
     data
 });
 
-call("utils/meta_or_optional", { field: "gem_slots", ...this }).ifPresent(| gem_slots | {
+::utils::meta_or_optional::({ field: "gem_slots", ...this }).ifPresent(| gem_slots | {
     call("stat_calc/gem_bonuses", {
         bonus_stats,
         stats,

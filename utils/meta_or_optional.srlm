@@ -4,4 +4,4 @@ value = if (meta[field]) {
     this[field]
 };
 
-call("utils/optional", { value: value })
+::utils::optional::({value: value})

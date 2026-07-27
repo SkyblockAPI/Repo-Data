@@ -1,6 +1,6 @@
-include("stats/rift/rift_time");
-include("stats/rift/hearts");
-include("stats/rift/rift_intelligence");
-include("stats/rift/rift_damage");
-include("stats/rift/mana_regen");
-include("stats/rift/rift_speed");
+::stats::rift::rift_time::(this);
+::stats::rift::hearts::(this);
+::stats::rift::rift_intelligence::(this);
+::stats::rift::rift_damage::(this);
+::stats::rift::mana_regen::(this);
+::stats::rift::rift_speed::(this);
