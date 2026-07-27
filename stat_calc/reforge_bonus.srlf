@@ -1,4 +1,5 @@
-if ("modifier" !in data) return;  
+|bonus_stats, stats, data|
+if ("modifier" !in data) return;
 
 reforge_data = static("reforges/"+data.modifier);
 

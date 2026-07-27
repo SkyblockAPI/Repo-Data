@@ -1,3 +1,4 @@
+|bonus_stats, stats, data|
 if ("upgrade_level" !in data) return;
 
 total_star_count = data.upgrade_level;

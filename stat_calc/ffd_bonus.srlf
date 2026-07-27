@@ -1,3 +1,4 @@
+|bonus_stats, stats, data|
 # Farming for dummies
 
 if ("farming_for_dummies_count" !in data) return;

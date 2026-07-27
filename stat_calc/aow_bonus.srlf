@@ -1,3 +1,4 @@
+|bonus_stats, stats, data|
 # Art of War
 
 if ("art_of_war_count" !in data) return;

@@ -1,3 +1,4 @@
+|bonus_stats, stats, data|
 # Divan's Powder Coating
 if ("divan_powder_coating" !in data) return;
 
