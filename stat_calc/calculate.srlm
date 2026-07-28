@@ -1,7 +1,4 @@
-call("stat_calc/init_base", {
-    stats,
-    meta
-});
+::stat_calc::init_base::{ stats, meta };
 
 for (entry : [
     "star_bonus",
@@ -22,9 +19,5 @@ for (entry : [
 }
 
 ::utils::meta_or_optional::({ field: "gem_slots", ...this }).ifPresent(| gem_slots | {
-    call("stat_calc/gem_bonuses", {
-        bonus_stats,
-        stats,
-        gem_slots
-    });
+    ::stat_calc::gem_bonuses::{ ...this };
 });

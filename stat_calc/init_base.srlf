@@ -1,3 +1,4 @@
+|stats, meta|
 if ("stats" !in meta) return;
 
 stat_entries = Objects.entries(meta.stats);
