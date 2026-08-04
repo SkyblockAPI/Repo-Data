@@ -1,0 +1,10 @@
+|profile, crop_type, default?|
+
+default = if (default) { default } else { 0 };
+crop_level = ::utils::get_path::{instance: profile, path: ["garden", "crop_milestones", crop_type]};
+
+if (crop_level) {
+    return crop_level;
+} else {
+    return default;
+}

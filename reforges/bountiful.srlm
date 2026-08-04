@@ -32,11 +32,11 @@ static {
       farming_fortune: 5
     },
     legendary: {
-      speed: 7,
+      speed: 8,
       farming_fortune: 7
     },
     mythic: {
-      speed: 10,
+      speed: 13,
       farming_fortune: 10
     },
   }

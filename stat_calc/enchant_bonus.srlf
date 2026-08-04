@@ -7,7 +7,7 @@ for (enchantment_entry : Objects.entries(data.enchantments)) {
     type: enchantment_entry.key
   });
 
-  if (!enchant) continue;
+  if (!enchantment) continue;
   if ("stat_bonus" !in enchantment) continue;
 
   for (stat_bonus : Objects.entries(enchantment.stat_bonus)) {

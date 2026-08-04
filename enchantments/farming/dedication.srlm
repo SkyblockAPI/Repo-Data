@@ -10,6 +10,15 @@ farming_fortune = match (level) {
     4 -> 2,
 }
 
+extra_stats = {};
+
+Array.of(::utils::meta_or_field::({ field: "crop_type", ...this })).forEach(| crop_types | {
+    milestone = ::profile::garden::crop_milestone::{ crop_type: crop_types, ...this};
+    if (milestone > 0) {
+        extra_stats[crop_types + "_fortune"] = farming_fortune * milestone;
+    };
+});
+
 return {
     level,
     description: {
@@ -29,7 +38,5 @@ return {
         ],
         color: "gray"
     },
-    stat_bonus: {
-        farming_fortune
-    }
+    stat_bonus: extra_stats
 };
