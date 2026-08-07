@@ -1,0 +1,7 @@
+| input |
+
+sum = 0;
+
+Array.of(input).forEach(|entry| { sum += entry; });
+
+return sum;

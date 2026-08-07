@@ -1,5 +1,6 @@
 lore = call("utils/meta_or_default", { field: "lore", default: {} });
 bonus_stats = {};
+extra_stats = {};
 include("stat_calc/calculate", {
     stats,
     ...this

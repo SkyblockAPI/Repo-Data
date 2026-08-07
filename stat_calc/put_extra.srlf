@@ -1,0 +1,10 @@
+|extra_stats, stat, amount|
+
+if (!stat) return;
+if (amount == 0) return;
+
+if (!extra_stats[stat]) {
+  extra_stats[stat] = [];
+}
+
+extra_stats[stat] += { amount };

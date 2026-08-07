@@ -1,4 +1,4 @@
-|bonus_stats, stats, data|
+|extra_stats, bonus_stats, stats, data|
 if ("enchantments" !in data) return;
 
 for (enchantment_entry : Objects.entries(data.enchantments)) {
@@ -9,14 +9,24 @@ for (enchantment_entry : Objects.entries(data.enchantments)) {
   });
 
   if (!enchantment) continue;
-  if ("stat_bonus" !in enchantment) continue;
 
-  for (stat_bonus : Objects.entries(enchantment.stat_bonus)) {
+  if ("stat_bonus" in enchantment) {
+    for (stat_bonus : Objects.entries(enchantment.stat_bonus)) {
 
-    call("stat_calc/put_stat", {
-      amount: stat_bonus.value,
-      stat: stat_bonus.key,
-      stats
-    });
+      call("stat_calc/put_stat", {
+        amount: stat_bonus.value,
+        stat: stat_bonus.key,
+        stats
+      });
+    }
+  };
+  if ("extra_stats" in enchantment) {
+    for (extra_stat : Objects.entries(enchantment.extra_stats)) {
+      ::stat_calc::put_extra::{
+        amount: extra_stat.value,
+        stat: extra_stat.key,
+        extra_stats
+      };
+    };
   }
 }

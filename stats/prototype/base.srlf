@@ -1,4 +1,4 @@
-|name, color, bonus_stats, stack, stats, stat?, suffix?|
+|name, color, extra_stats, bonus_stats, stack, stats, stat?, suffix?|
 
 if (!name) return;
 
@@ -7,6 +7,10 @@ stat = if (!stat) {
 } else stat;
 
 if (!stats[stat]) return;
+
+if (extra_stats[stat]) {
+    stats[stat] += ::utils::sum::(extra_stats[stat].map(|x| { x.amount }));
+}
 
 extra = [
   name,

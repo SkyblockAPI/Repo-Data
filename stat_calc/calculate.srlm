@@ -13,6 +13,7 @@ for (entry : [
     "booster_bonus"
 ]) {
     ::stat_calc::<entry>::{
+        extra_stats,
         bonus_stats,
         stats,
         data
