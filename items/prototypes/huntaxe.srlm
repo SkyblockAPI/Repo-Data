@@ -1,4 +1,4 @@
-category = "AXE";
+include("types/axe", this);
 type = "Hunting Tool";
 item = "golden_axe";
 

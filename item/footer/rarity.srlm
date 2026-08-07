@@ -1,22 +1,25 @@
-temp.footer = {};
+footer = [];
 
 if (Rarity.isRecombobulated()) {
-    temp.footer.left = {text: "a ", obfuscated: true};
-    temp.footer.right = {text: " a", obfuscated: true};
+   footer += {text: "a ", obfuscated: true};
 };
+
+rarity = Rarity.stack();
+footer += rarity;
 
 if ("category" in meta) {
-    temp.footer.category = {text: String.concat(" ", String.uppercase(meta.category))};
+    if (data.dungeon_item) {
+        footer += " DUNGEON";
+    };
+    footer += " " + String.uppercase(meta.category);
 };
-temp.rarity = Rarity.stack();
+
+if (Rarity.isRecombobulated()) {
+   footer += {text: " a", obfuscated: true};
+};
 
 stack.lore.add({
-    extra: [
-        temp.footer.left,
-        {text: Rarity.name(temp.rarity)},
-        temp.footer.category,
-        temp.footer.right
-    ],
-    color: Rarity.color(temp.rarity),
+    extra: footer,
+    color: Rarity.color(rarity),
     bold: true
 });

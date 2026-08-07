@@ -1,5 +1,4 @@
 meta {
-    category = "SWORD";
     item = "diamond_shovel";
     stats = {
         damage: 120,
@@ -13,6 +12,7 @@ meta {
         }
     ];
     name = "Aspect of the Void";
+    include("types/sword", this);
     rarity = "EPIC";
     can_be_reforged = true;
 }

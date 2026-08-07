@@ -3,6 +3,7 @@ meta {
     rarity = "RARE";
     tool_name = "Pythagorean Potato Shovel";
     crop_type = "potato";
+    include("items/prototypes/farming/hoe", this);
 }
 
 script {

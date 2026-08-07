@@ -1,30 +1,20 @@
 |bonus_stats, stats, data|
 # Divan's Powder Coating
 if ("divan_powder_coating" !in data) return;
+is_armor = meta.categories.contains("armor");
+is_drill = meta.categories.contains("drill");
 
-category = if (meta.category_type) {
-  meta.category_type
-} else if (meta.category) {
-  meta.category
-}
-
-match (category) {
-  "ARMOR" -> {
-    call("stat_calc/put_bonus", {
-      stat: "mining_fortune",
-      amount: data.divan_powder_coating * 10,
-      prefix: "[", suffix: "]",
-      color: "gold",
-      bonus_stats, stats
-    });
-  },
-  "DRILL" -> {
-    call("stat_calc/put_bonus", {
-      stat: "mining_speed",
-      amount: data.divan_powder_coating * 50,
-      prefix: "[", suffix: "]",
-      color: "gold",
-      bonus_stats, stats
-    });
-  },
-}
+if (is_armor) call("stat_calc/put_bonus", {
+  stat: "mining_fortune",
+  amount: data.divan_powder_coating * 10,
+  prefix: "[", suffix: "]",
+  color: "gold",
+  bonus_stats, stats
+});
+if (is_drill) call("stat_calc/put_bonus", {
+  stat: "mining_speed",
+  amount: data.divan_powder_coating * 50,
+  prefix: "[", suffix: "]",
+  color: "gold",
+  bonus_stats, stats
+});

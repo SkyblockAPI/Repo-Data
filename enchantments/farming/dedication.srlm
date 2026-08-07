@@ -12,10 +12,11 @@ farming_fortune = match (level) {
 
 extra_stats = {};
 
-Array.of(::utils::meta_or_field::({ field: "crop_type", ...this })).forEach(| crop_types | {
-    milestone = ::profile::garden::crop_milestone::{ crop_type: crop_types, ...this};
+crop_types = ::utils::meta_or_field::({ field: "crop_type", ...this });
+if (crop_types) Array.of(crop_types).forEach(| crop_type | {
+    milestone = ::profile::garden::crop_milestone::{ crop_type, profile};
     if (milestone > 0) {
-        extra_stats[crop_types + "_fortune"] = farming_fortune * milestone;
+        extra_stats[crop_type + "_fortune"] = farming_fortune * milestone;
     };
 });
 

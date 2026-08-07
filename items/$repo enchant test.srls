@@ -2,7 +2,8 @@ meta {
     rarity = "UNCOMMON";
     item = "paper";
     name = "Enchant test";
-    category = "ARMOR";
+    include("types/axe", this);
 
     never_compact_enchants = true;
+    booster_applicable = true;
 }

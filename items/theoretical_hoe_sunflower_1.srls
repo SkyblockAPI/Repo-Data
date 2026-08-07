@@ -3,6 +3,7 @@ meta {
     rarity = "UNCOMMON";
     tool_name = "Eclipse Sickle";
     crop_type = ["sunflower", "moonflower"];
+    include("items/prototypes/farming/hoe", this);
 }
 
 script {

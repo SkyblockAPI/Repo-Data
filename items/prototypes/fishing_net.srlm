@@ -1,4 +1,4 @@
-category = "FISHING NET";
+include("types/fishing_net", this);
 type = "Hunting Tool";
 item = "cobweb";
 

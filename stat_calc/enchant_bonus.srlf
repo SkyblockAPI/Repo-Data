@@ -4,7 +4,8 @@ if ("enchantments" !in data) return;
 for (enchantment_entry : Objects.entries(data.enchantments)) {
   enchantment = call("enchantments/enchant", {
     level: enchantment_entry.value,
-    type: enchantment_entry.key
+    type: enchantment_entry.key,
+    meta
   });
 
   if (!enchantment) continue;

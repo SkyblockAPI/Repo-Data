@@ -1,0 +1,140 @@
+static {
+  fighting: {
+    symbol: "४",
+    description_generator: |stat_bonus, icon| {
+      return [
+        {
+          "text": " ",
+          "extra": [
+            icon,
+            ": Grants +",
+            {
+              "text": String.uFormatted(stat_bonus) + "% ",
+              "color": "red"
+            },
+            "Damage towards Foraging"
+          ],
+          "color": "gray"
+        },
+        {
+          "text": " Island Creatures.",
+          "color": "gray"
+        }
+      ]
+    },
+    tiers: [
+      {
+        axe: 5,
+        armor: 2,
+        equipment: 1
+      },
+      {
+        axe: 10,
+        armor: 5,
+        equipment: 2
+      }
+    ]
+  },
+  foraging_fortune: {
+    symbol: "⎋",
+    stat: "foraging_fortune",
+    tiers: [
+      {
+        axe: 10,
+        armor: 5,
+        equipment: 2
+      },
+      {
+        axe: 20,
+        armor: 10,
+        equipment: 5
+      }
+    ]
+  },
+  foraging_wisdom: {
+    symbol: "⸙",
+    stat: "foraging_wisdom",
+    tiers: [
+      {
+        axe: 2,
+        armor: 1,
+        equipment: 0.5
+      },
+      {
+        axe: 2,
+        armor: 1,
+        equipment: 0.5
+      }
+    ]
+  },
+  hunting_wisdom: {
+    symbol: "☯",
+    stat: "hunting_wisdom",
+    tiers: [
+      {
+        axe: 2,
+        armor: 1,
+        equipment: 0.5
+      },
+      {
+        axe: 2,
+        armor: 1,
+        equipment: 0.5
+      }
+    ]
+  },
+  sweep: {
+    symbol: "ꕮ",
+    stat: "sweep",
+    tiers: [
+      {
+        axe: 5,
+        armor: 2,
+        equipment: 1
+      },
+      {
+        axe: 10,
+        armor: 5,
+        equipment: 2
+      }
+    ]
+  }
+};
+
+if ("booster_applicable" !in meta || !meta.booster_applicable) return;
+
+if ("booster_tiers" !in data) return;
+
+boosters = [];
+booster_descriptions = [];
+
+add_slash = false;
+for (booster_type_entry : Objects.entries(static_data)) {
+  booster_key = booster_type_entry.key;
+  booster = booster_type_entry.value;
+  if (!data.booster_tiers[booster_key]) continue;
+  if (add_slash) boosters += {"text": "/", "color": "dark_gray"};
+  booster_tier = data.booster_tiers[booster_key];
+  color = match(booster_tier) {
+    1 -> "white",
+    2 -> "green",
+  };
+  booster_icon = {"text": booster.symbol, "color": color};
+  boosters += booster_icon;
+  if ("description_generator" in booster) {
+    tier_values = booster.tiers[booster_tier - 1];
+    booster_value = 0;
+    for (type_entry : Objects.entries(tier_values)) {
+      if (meta.categories.contains(type_entry.key)) {
+        booster_value = type_entry.value;
+        break;
+      };
+    };
+
+    booster_descriptions.addAll(booster.description_generator(booster_value, booster_icon));
+  };
+  add_slash = true;
+}
+
+stack.lore.add({text: "Boosters: ", color: "gray", extra: boosters});
+stack.lore.addAll(booster_descriptions);

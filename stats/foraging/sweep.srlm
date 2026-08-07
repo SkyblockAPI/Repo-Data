@@ -1,5 +1,5 @@
 ::stats::prototype::base::{
-    name: "Sweeep",
-    color: "green",
+    name: "Sweep",
+    color: "dark_green",
     ...this
 };

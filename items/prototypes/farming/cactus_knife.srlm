@@ -12,3 +12,5 @@ abilities = [
 
 tool_name = "Cactus Knife";
 crop_type = "cactus";
+
+include("items/prototypes/farming/hoe", this);

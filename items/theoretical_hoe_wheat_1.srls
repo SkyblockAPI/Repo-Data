@@ -3,6 +3,7 @@ meta {
     rarity = "UNCOMMON";
     tool_name = "Euclid's Wheat Sickle";
     crop_type = "wheat";
+    include("items/prototypes/farming/hoe", this);
 }
 
 script {

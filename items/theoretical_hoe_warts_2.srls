@@ -3,6 +3,7 @@ meta {
     rarity = "RARE";
     tool_name = "Newton Nether Wart Cutter";
     crop_type = "nether_wart";
+    include("items/prototypes/farming/hoe", this);
 }
 
 script {

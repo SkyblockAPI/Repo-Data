@@ -1,4 +1,4 @@
-category = "TRAP";
+include("types/trap", this);
 type = "Hunting Tool";
 item = "player_head";
 

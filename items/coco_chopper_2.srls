@@ -3,6 +3,7 @@ meta {
     rarity = "RARE";
     tool_name = "Cocoa Chopper";
     crop_type = "cocoa_beans";
+    include("items/prototypes/farming/hoe", this);
 }
 
 script {

@@ -1,0 +1,29 @@
+|bonus_stats, stats, data|
+# Booster Bonuses
+if ("booster_applicable" !in meta || !meta.booster_applicable) return;
+
+if ("booster_tiers" !in data) return;
+
+for (booster_type_entry : Objects.entries(static("item/stats/boosters"))) {
+  booster_key = booster_type_entry.key;
+  booster = booster_type_entry.value;
+  if (!data.booster_tiers[booster_key]) continue;
+  if ("stat" in booster) {
+    booster_tier = data.booster_tiers[booster_key];
+    tier_values = booster.tiers[booster_tier - 1];
+    booster_value = 0;
+    for (type_entry : Objects.entries(tier_values)) {
+      if (meta.categories.contains(type_entry.key)) {
+        booster_value = type_entry.value;
+        break;
+      };
+    };
+
+    call("stat_calc/put_bonus", {
+      stat: booster.stat,
+      amount: booster_value,
+      color: "dark_green",
+      bonus_stats, stats
+    });
+  };
+};

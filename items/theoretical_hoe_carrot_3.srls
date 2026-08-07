@@ -3,6 +3,7 @@ meta {
     rarity = "EPIC";
     tool_name = "Gauss Carrot Shovel";
     crop_type = "carrot";
+    include("items/prototypes/farming/hoe", this);
 }
 
 script {

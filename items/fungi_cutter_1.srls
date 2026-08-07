@@ -3,6 +3,7 @@ meta {
     rarity = "UNCOMMON";
     tool_name = "Fungi Cutter";
     crop_type = "mushroom";
+    include("items/prototypes/farming/hoe", this);
 }
 
 script {

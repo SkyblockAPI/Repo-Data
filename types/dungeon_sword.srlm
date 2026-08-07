@@ -1,0 +1,4 @@
+include("types/dungeon", this);
+include("types/sword", this);
+category = "DUNGEON SWORD";
+categories += "dungeon_sword";

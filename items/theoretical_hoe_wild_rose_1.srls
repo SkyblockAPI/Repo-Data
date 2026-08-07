@@ -3,6 +3,7 @@ meta {
     rarity = "UNCOMMON";
     tool_name = "Wild Rose Cutter";
     crop_type = "wild_rose";
+    include("items/prototypes/farming/hoe", this);
 }
 
 script {

@@ -3,6 +3,7 @@ meta {
     rarity = "UNCOMMON";
     tool_name = "Melon Dicer";
     crop_type = "melon";
+    include("items/prototypes/farming/hoe", this);
 }
 
 script {

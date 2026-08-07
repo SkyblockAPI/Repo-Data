@@ -1,4 +1,4 @@
-category = "LASSO";
+include("types/lasso", this);
 type = "Hunting Tool";
 item = "lead";
 

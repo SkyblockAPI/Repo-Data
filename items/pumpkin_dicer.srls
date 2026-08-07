@@ -3,6 +3,7 @@ meta {
     rarity = "UNCOMMON";
     tool_name = "Pumpkin Dicer";
     crop_type = "pumpkin";
+    include("items/prototypes/farming/hoe", this);
 }
 
 script {

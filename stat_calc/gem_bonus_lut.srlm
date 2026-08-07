@@ -522,8 +522,7 @@ static {
 if (!gem) return 0;
 if (!quality) return 0;
 if (!rarity) return 0;
-static_lut = static("stat_calc/gem_bonus_lut");
-gem_lut = static_lut[gem];
+gem_lut = static_data[gem];
 if (!gem_lut) return 0;
 quality_lut = gem_lut[quality];
 if (!quality_lut) return 0;

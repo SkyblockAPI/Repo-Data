@@ -1,4 +1,4 @@
-category = "deployable";
+include("types/deployable", this);
 type = "Hunting Tool";
 item = "player_head";
 
