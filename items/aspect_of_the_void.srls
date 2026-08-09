@@ -12,7 +12,7 @@ meta {
         }
     ];
     name = "Aspect of the Void";
-    include("types/sword", this);
+    ::types::sword::(this);
     rarity = "EPIC";
     can_be_reforged = true;
 }

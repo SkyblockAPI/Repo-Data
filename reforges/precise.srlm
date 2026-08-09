@@ -1,0 +1,49 @@
+static {
+  name: "Precise",
+  stats: {
+    common: {
+      strength: 3,
+      crit_chance: 8,
+      crit_damage: 5
+    },
+    uncommon: {
+      strength: 7,
+      crit_chance: 9,
+      crit_damage: 10
+    },
+    rare: {
+      strength: 12,
+      crit_chance: 10,
+      crit_damage: 18
+    },
+    epic: {
+      strength: 18,
+      crit_chance: 11,
+      crit_damage: 32
+    },
+    legendary: {
+      strength: 25,
+      crit_chance: 13,
+      crit_damage: 50
+    },
+    mythic: {
+      strength: 34,
+      crit_chance: 15,
+      crit_damage: 70
+    }
+  },
+  description: [
+    {
+      text: "Precise Bonus",
+      color: "blue"
+    },
+    {
+      extra: [
+        "Deal ",
+        {text: "+10%", color: "green"},
+        " extra damage when arrows hit the head of a mob."
+      ],
+      color: "gray"
+    }
+  ],
+};

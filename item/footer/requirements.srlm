@@ -1,0 +1,9 @@
+::utils::meta_or_optional::({ field: "requirements", ...this }).ifPresent(|requirements| {
+    if ("slayer" in requirements) {
+        ::data::slayer_types::().forEach(|slayer_type| {
+            if (requirements.slayer[slayer_type]) {
+                ::item::footer::requirements::slayer::<slayer_type>::{profile, stack, level: requirements.slayer[slayer_type]};
+            }
+        });
+    }
+});

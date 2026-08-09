@@ -1,0 +1,3 @@
+|profile, stack, level|
+
+::item::footer::requirements::slayer::base::{slayer_type: "Zombie", color: "purple", profile, stack, level};

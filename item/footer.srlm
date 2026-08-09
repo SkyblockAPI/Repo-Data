@@ -1,4 +1,5 @@
 include("item/footer/reforge");
+::item::footer::requirements::(this);
 include("item/footer/unused_gemstones");
 include("item/footer/soulbound");
 include("item/footer/rarity");

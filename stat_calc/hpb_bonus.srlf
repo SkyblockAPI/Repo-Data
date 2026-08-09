@@ -2,9 +2,10 @@
 if ("hot_potato_count" !in data) return;
 
 is_sword = meta.categories.contains("sword");
+is_bow = meta.categories.contains("bow");
 is_armor = meta.categories.contains("armor");
 
-if (is_sword) {
+if (is_sword || is_bow) {
   call("stat_calc/put_bonus", {
     stat: "strength",
     amount: data.hot_potato_count * 2,

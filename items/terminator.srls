@@ -1,0 +1,38 @@
+meta {
+    item = "bow";
+    rarity = "LEGENDARY";
+    name = "Terminator";
+
+    stats = {
+        damage: 310,
+        strength: 50,
+        crit_damage: 250,
+        attack_speed: 40
+    };
+
+    shot_cooldown = 0.5;
+    ::types::shortbow::(this);
+    ::item::tags::reforgable::(this);
+    requirements.slayer.enderman = 7;
+
+    lore.after_stats = [
+        { color: "gray", text: "Shoots ", extra: [{ color: "aqua", text: "3 "}, "arrows at once."]},
+        { color: "gray", text: "Can damage enderman" },
+        "",
+        { color: "red", text: "Divides your ", extra: [::format::stat::combat::crit_chance::(), " by 4!"]}
+    ];
+
+    abilities = [
+        {
+            name: "Salvation",
+            trigger: "LEFT CLICK",
+            text: [
+                { color: "gray", text: "Can be cast after landing ", extra: [ { color: "gold", text: "3" }, " hits." ]},
+                { color: "gray", text: "Shoot a beam, penetrating up to ", extra: [{ color: "yellow", text: "5" }] },
+                { color: "gray", text: "enemies." },
+                { color: "gray", text: "The beam always crists." },
+            ],
+            soulflow_cost: 1
+        }
+    ]
+}

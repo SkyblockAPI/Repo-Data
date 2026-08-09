@@ -1,0 +1,26 @@
+static {
+    levels: 1..5,
+    is_ultimate: true,
+    name: "Soul Eater"
+};
+
+chance = level / 1000;
+
+description = {
+    color: "gray",
+    extra: [
+        "Your weapon gains ",
+        { color: "red", text: (String.uFormatted(level * 2) + "x") },
+        " the Mob ",
+        ::format::stat::combat::damage::(),
+        " of the last monster killed and adds it as ",
+        ::format::stat::combat::strength::(),
+        " on your next critical hit. ",
+        { color: "dark_gray", text: "(Max 5k outside dungeons)." }
+    ]
+};
+
+return {
+    level,
+    description
+};

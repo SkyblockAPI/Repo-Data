@@ -20,6 +20,12 @@ if ("after_stats" in lore) {
 
 include("item/ability");
 
+if (meta.categories.contains("shortbow")) {
+    stack.lore.beginSection();
+    stack.lore.add({ color: "pink", text: "Shortbow: Instantly shoots!" });
+    stack.lore.endSection();
+}
+
 if ("after_ability" in lore) {
     stack.lore.beginSection();
     stack.lore.addAll(lore.after_ability);

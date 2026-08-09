@@ -1,0 +1,3 @@
+|profile, stack, level|
+
+::item::footer::requirements::slayer::base::{slayer_type: "Enderman", color: "purple", profile, stack, level};

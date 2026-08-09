@@ -1,0 +1,14 @@
+|profile, slayer_type, color, level, stack, slayer_name?|
+
+slayer_name = if (slayer_name) { slayer_name } else { slayer_type };
+
+slayer_type = String.snake_case(slayer_type);
+slayer_level = ::profile::slayer_level::{profile, slayer_type};
+
+if (slayer_level >= level) return;
+
+stack.lore.add([
+    { color: "dark_red", text: "☠" },
+    { color: "red", text: " Requires "},
+    { color: "dark_purple", text: (slayer_name + " Slayer " + String.uFormatted(level))}
+]);

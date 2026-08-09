@@ -1,0 +1,11 @@
+|profile, slayer_type, default?|
+
+default = if (default) { default } else { 0 };
+
+slayer_level = ::utils::get_path::{instance: profile, path: ["slayer", slayer_type]};
+
+if (slayer_level) {
+    return slayer_level;
+} else {
+    return default;
+}

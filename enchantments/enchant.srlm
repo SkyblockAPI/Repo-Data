@@ -84,6 +84,7 @@ static {
   ultimate_fatal_tempo: "ultimate",
   ultimate_reiterate: "ultimate",
   ultimate_wise: "ultimate",
+  ultimate_soul_eater: "ultimate",
 };
 
 folder_map = static("enchantments/enchant");
