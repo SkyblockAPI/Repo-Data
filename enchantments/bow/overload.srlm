@@ -29,5 +29,9 @@ return {
       " extra damage."
     ],
     color: "gray"
+  },
+  stat_bonus: {
+    crit_chance: crit_percent,
+    crit_damage: crit_percent
   }
 };

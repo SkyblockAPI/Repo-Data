@@ -17,7 +17,7 @@ meta {
 
     lore.after_stats = [
         { color: "gray", text: "Shoots ", extra: [{ color: "aqua", text: "3 "}, "arrows at once."]},
-        { color: "gray", text: "Can damage enderman" },
+        { color: "gray", text: "Can damage endermen." },
         "",
         { color: "red", text: "Divides your ", extra: [::format::stat::combat::crit_chance::(), " by 4!"]}
     ];
@@ -30,7 +30,7 @@ meta {
                 { color: "gray", text: "Can be cast after landing ", extra: [ { color: "gold", text: "3" }, " hits." ]},
                 { color: "gray", text: "Shoot a beam, penetrating up to ", extra: [{ color: "yellow", text: "5" }] },
                 { color: "gray", text: "enemies." },
-                { color: "gray", text: "The beam always crists." },
+                { color: "gray", text: "The beam always crits." },
             ],
             soulflow_cost: 1
         }

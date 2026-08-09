@@ -4,7 +4,7 @@ total_star_count = data.upgrade_level;
 
 if (total_star_count == 0) return [];
 
-if ("dungeon_item" in data && !(data.dungeon_item == 0)) {
+if (("dungeon_item" in data && !(data.dungeon_item == 0)) || meta.categories.contains("dungeon")) {
   return call("format/dungeon_stars", {
     total_star_count
   })

@@ -1,4 +1,5 @@
 ::stat_calc::init_base::{ stats, meta };
+::stat_calc::init_base::{ stats: dungeon_stats, meta };
 
 for (entry : [
     "star_bonus",
@@ -19,6 +20,28 @@ for (entry : [
         data
     };
 }
+
+for (entry : [
+    "enchant_bonus",
+    "dpc_bonus",
+    "polarvoid_bonus",
+    "hpb_bonus",
+    "aow_bonus",
+    "aop_bonus",
+    "ffd_bonus",
+    "reforge_bonus",
+    "booster_bonus",
+    "dungeon_bonus"
+]) {
+    ::stat_calc::<entry>::{
+        extra_stats: {},
+        bonus_stats: {},
+        stats: dungeon_stats,
+        data
+    };
+}
+
+print(dungeon_stats, stats);
 
 ::utils::meta_or_optional::({ field: "gem_slots", ...this }).ifPresent(| gem_slots | {
     ::stat_calc::gem_bonuses::{ ...this };

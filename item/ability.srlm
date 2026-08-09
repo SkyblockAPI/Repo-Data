@@ -46,7 +46,7 @@ abilities.forEach(| ability | {
     stack.lore.addAll(Component.splitToLength(ability.text, 35));
 
     if ("soulflow_cost" in ability) {
-        stack.lore.add({text: "Soulflow Cost: ", color: "dark_gray", extra: [{text: String.uFormatted(ability.soulflow_cost), color: "cyan"}]});
+        stack.lore.add({text: "Soulflow Cost: ", color: "dark_gray", extra: [{text: String.uFormatted(ability.soulflow_cost) + "⸎", color: "cyan"}]});
     };
 
     if ("mana_cost" in ability) {

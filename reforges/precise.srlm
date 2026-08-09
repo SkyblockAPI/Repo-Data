@@ -41,8 +41,12 @@ static {
       extra: [
         "Deal ",
         {text: "+10%", color: "green"},
-        " extra damage when arrows hit the head of a mob."
+        " extra damage when"
       ],
+      color: "gray"
+    },
+    {
+      text: "arrows hit the head of a mob.",
       color: "gray"
     }
   ],

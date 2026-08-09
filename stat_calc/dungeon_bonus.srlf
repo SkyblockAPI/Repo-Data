@@ -1,0 +1,20 @@
+|bonus_stats, stats, data|
+# Dungeon Item Stats
+if (("dungeon_item" !in data || (data.dungeon_item == 0)) && !meta.categories.contains("dungeon")) return;
+
+not_affected_by_cata_level = [
+  "magic_find", "true_defense", "crit_chance", "attack_speed", "ferocity", "ability_damage"
+];
+
+total_star_count = if ("upgrade_level" in data) {
+  Math.clamp(data.upgrade_level, 0, 5)
+} else 0;
+for (stat_entry : Objects.entries(stats)) {
+  stat = stat_entry.key;
+
+  stats[stat] *= 1 + ((total_star_count * 0.1) + if (not_affected_by_cata_level.contains(stat)) {
+    0
+  } else {
+    4.65
+  } + 0.05);
+}

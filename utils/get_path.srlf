@@ -3,7 +3,11 @@
 temp = instance;
 
 Array.of(path).forEach(| segment | {
-    temp = temp[segment];
+    if (!temp[segment]) {
+        temp = {};
+    } else {
+        temp = temp[segment];
+    }
 });
 
 return temp;
