@@ -2,7 +2,7 @@ static {
     prefix: "farming"
 };
 
-::utils::void::([
+::utils::void::{
     theoretical_hoe_sunflower_2,
     theoretical_hoe_wheat_3,
     theoretical_hoe_wild_rose_3,
@@ -39,4 +39,4 @@ static {
     cactus_knife,
     cactus_knife_3,
     cactus_knife_2,
-]);
+};
