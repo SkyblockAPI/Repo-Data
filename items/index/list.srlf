@@ -1,0 +1,9 @@
+| items |
+
+index = {};
+
+for (entry : Objects.entries(items)) {
+    index[entry.key] = entry.value;
+}
+
+return index;

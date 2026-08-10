@@ -8,6 +8,5 @@ static {
     ],
     getter: | entry | {
         ::items::index::slayer::<entry>::
-    },
-    index: this
+    }
 }

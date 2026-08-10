@@ -2,7 +2,7 @@ static {
     prefix: "enderman"
 };
 
-::utils::void::{
+::items::index::list::({
     terminator,
     aspect_of_the_void
-};
+})

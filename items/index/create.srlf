@@ -1,13 +1,12 @@
-| entries, getter, index? |
-index = if ("index" in this) { index } else { {} };
+| entries, getter |
+index = {};
 
 for (entry : entries) {
     file = getter(entry);
 
     prefix = static(file).prefix;
-    map = {};
 
-    file(map);
+    map = file(map);
 
     for (entry : Objects.entries(map)) {
         if (entry.value) {
