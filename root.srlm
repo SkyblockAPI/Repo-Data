@@ -1,4 +1,5 @@
 static eval {
+    print(::items::index::index::());
     ::items::index::index::()
 };
 

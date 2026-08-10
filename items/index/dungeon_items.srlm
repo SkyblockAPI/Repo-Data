@@ -2,5 +2,4 @@ static {
     prefix: "dungeon"
 };
 
-::utils::void::{
-};
+{}
