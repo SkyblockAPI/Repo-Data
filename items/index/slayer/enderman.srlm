@@ -1,0 +1,8 @@
+static {
+    prefix: "enderman"
+};
+
+::utils::void::([
+    terminator,
+    aspect_of_the_void
+]);

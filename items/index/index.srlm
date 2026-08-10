@@ -1,1 +1,10 @@
-::items::index::dungeon_items::(this);
+return ::items::index::create::{
+    entries: [
+        "dungeon_items",
+        "farming_items",
+        "slayer/index"
+    ],
+    getter: |entry| {
+        ::items::index::<entry>::
+    }
+};

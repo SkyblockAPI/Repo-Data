@@ -1,14 +1,12 @@
 static eval {
-    ::items::index::index::(this);
-
-    this
+    ::items::index::index::()
 };
 
 static_data = static(::root::);
 custom_path = data.id in static_data;
 
 file = if (custom_path) {
-    String.concat("items/", "meow")
+    String.concat("items/", static_data[data.id])
 } else {
     String.concat("items/", String.lowercase(data.id))
 }

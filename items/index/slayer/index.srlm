@@ -1,0 +1,13 @@
+static {
+    prefix: "slayer"
+};
+
+::items::index::create::{
+    entries: [
+        "enderman"
+    ],
+    getter: | entry | {
+        ::items::index::slayer::<entry>::
+    },
+    index: this
+}

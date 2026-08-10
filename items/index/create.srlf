@@ -1,0 +1,21 @@
+| entries, getter, index? |
+index = if ("index" in this) { index } else { {} };
+
+for (entry : entries) {
+    file = getter(entry);
+
+    prefix = static(file).prefix;
+    map = {};
+
+    file(map);
+
+    for (entry : Objects.entries(map)) {
+        if (entry.value) {
+            index[entry.key] = (prefix + "/" + entry.value);
+        } else {
+            index[entry.key] = (prefix + "/" + entry.key);
+        }
+    }
+}
+
+return index;
