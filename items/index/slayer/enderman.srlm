@@ -5,4 +5,6 @@ static {
 {
     terminator,
     aspect_of_the_void,
+    null_sphere,
+    null_atom,
 }

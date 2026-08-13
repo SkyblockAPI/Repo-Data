@@ -1,0 +1,7 @@
+meta {
+    item = "paper";
+    name = "Null Atom";
+    this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/enderman/null_atom";
+    ::items::prototypes::ingredient::(this);
+    rarity = "RARE";
+}
