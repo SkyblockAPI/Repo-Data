@@ -1,0 +1,24 @@
+static {
+    prefix: "hunting"
+};
+
+{
+    apex_praedator,
+    basic_fishing_net,
+    cursus_ferae,
+    entangler_lasso,
+    everstretch_lasso,
+    large_fishing_net,
+    medium_fishing_net,
+    medium_pocket_black_hole,
+    nex_titanum,
+    retica_basica,
+    retica_forta,
+    retica_meliora,
+    retica_robusta,
+    retica_suprema,
+    silva_dominus,
+    small_pocket_black_hole,
+    venator_genesis,
+    vinesap_lasso
+}

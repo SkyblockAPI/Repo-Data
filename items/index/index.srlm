@@ -3,6 +3,7 @@ return ::items::index::create::{
         "api_data_generated_items",
         "dungeon_items",
         "farming_items",
+        "hunting_items",
         "slayer/index"
     ],
     getter: |entry| {

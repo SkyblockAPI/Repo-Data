@@ -16,5 +16,4 @@ for (entry : entries) {
         }
     }
 }
-
 return index;

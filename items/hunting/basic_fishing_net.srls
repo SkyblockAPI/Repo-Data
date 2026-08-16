@@ -3,5 +3,5 @@ meta {
 
     stats.pull = 5;
     rarity = "UNCOMMON";
-    name = "Basic Fishing Nets";
+    name = "Basic Fishing Net";
 }
