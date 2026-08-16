@@ -1,0 +1,13 @@
+item = "leather_boots";
+name = "Infernal Hollow Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 13,
+  defense: 110,
+  health: 366,
+  intelligence: 214,
+  mending: 12
+};
+requirements.skill.combat = 42;
+requirements.kuudra.infernal = 1;

@@ -1,0 +1,11 @@
+item = "arrow";
+name = "Explosive Arrow";
+include("types/arrow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/explosive_arrow";
+rarity = "RARE";
+stats = {
+  damage: 3
+};
+requirements.skill.combat = 23;
+requirements.collection.coal = 7;
+requirements.target_practice = III;

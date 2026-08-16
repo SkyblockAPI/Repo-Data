@@ -1,0 +1,5 @@
+item = "paper";
+name = "Sapphire-Polished Drill Engine";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/sapphire_polished_drill_engine";
+rarity = "RARE";
+requirements.hotm = 6;

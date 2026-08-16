@@ -1,0 +1,5 @@
+item = "blaze_rod";
+name = "Wizard Wand";
+include("types/wand", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/wizard_wand";
+rarity = "EPIC";

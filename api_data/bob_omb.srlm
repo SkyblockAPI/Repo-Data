@@ -1,0 +1,4 @@
+item = "paper";
+name = "Bob-omb";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/bob_omb";
+rarity = "RARE";

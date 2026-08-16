@@ -1,0 +1,4 @@
+item = "red_rose";
+name = "Fel Rose";
+include("types/dungeon", this);
+rarity = "EPIC";

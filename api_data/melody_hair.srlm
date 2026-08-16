@@ -1,0 +1,9 @@
+item = "string";
+name = "Melody's Hair";
+include("types/accessory", this);
+rarity = "EPIC";
+stats = {
+  intelligence: 6
+};
+requirements.melody_hair = 1;
+soulbound = "SOLO";

@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Mythos Belt";
+include("types/belt", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc1Mjg2OTQ0NTU2NywKICAicHJvZmlsZUlkIiA6ICJiZTQxM2Y4M2Y4ZWE0MjE0OGMwMjk0YTJiYzIyN2U2NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaWdodGJveTEwMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zZjY3NTUxY2NlNzI5MzZjYWFmZWE0ZTg1ZTdmY2U2YTNiZTM2ZjkxMjU5MDkwYTIyYzE2NTc3NjhiYjg3NjkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "LEGENDARY";
+stats = {
+  strength: 15,
+  health: 25,
+  defense: 15
+};

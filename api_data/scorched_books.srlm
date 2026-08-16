@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Scorched Books";
+include("types/reforge_stone", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY1MDAyODQxNjk4MSwKICAicHJvZmlsZUlkIiA6ICIzNmMxODk4ZjlhZGE0NjZlYjk0ZDFmZWFmMjQ0MTkxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMdW5haWFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2ZWU3ZTkwNjY4NmFiZDVlYzE5MmIwNzkzMTRjNDVmMWZiODE3MWQ5ZTEzY2FhNGNmOWY2M2FmYzIyNjNmZDUiCiAgICB9CiAgfQp9";
+rarity = "MYTHIC";

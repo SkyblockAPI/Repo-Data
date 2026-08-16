@@ -1,0 +1,4 @@
+item = "paper";
+name = "Super Jacob Entertainment System";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/super_jacob_system";
+rarity = "EPIC";

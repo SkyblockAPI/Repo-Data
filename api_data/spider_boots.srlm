@@ -1,0 +1,10 @@
+item = "iron_boots";
+name = "Spider's Boots";
+include("types/boots", this);
+rarity = "RARE";
+stats = {
+  walk_speed: 5,
+  defense: 45,
+  intelligence: 50
+};
+requirements.dungeons.catacombs = 9;

@@ -1,0 +1,6 @@
+item = "stick";
+name = "Wand of Mending";
+include("types/wand", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/zombie/wands/wand_of_mending";
+rarity = "RARE";
+requirements.slayer.zombie = 3;

@@ -1,0 +1,4 @@
+item = "paper";
+name = "Flaming Heart";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/flaming_heart";
+rarity = "RARE";

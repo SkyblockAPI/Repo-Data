@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Precious Pearl";
+include("types/reforge_stone", this);
+skin = "eyJ0aW1lc3RhbXAiOjE1NTc0MTQ0MjcyODQsInByb2ZpbGVJZCI6ImNiZGViZGRjODNhNTQ0OWFiZDFiOThhNzBjY2E0ZDhlIiwicHJvZmlsZU5hbWUiOiJDaGVja2lkb2lzIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NGE1ZGI4ZWE3OTc3YzdmOTZhNjhkZmUxZmE0OWI2NmVhZmJlY2QzODExYTZiNmQzZDE3N2RkYTVmOTQyMzEzIn19fQ==";
+rarity = "EPIC";

@@ -1,0 +1,13 @@
+item = "diamond_sword";
+name = "Crypt Witherlord Sword";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/broken/broken_sword";
+rarity = "EPIC";
+requirements.dungeons.catacombs = 18;
+tiered_stats = {
+  damage: [62, 67, 72, 78, 83, 90, 97, 104, 112, 120],
+  strength: [50, 34, 36, 39, 42, 45, 48, 52, 56, 60],
+  weapon_ability_damage: [300],
+  intelligence: [113, 123, 134, 146, 158, 172, 187, 203, 221, 240]
+};

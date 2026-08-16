@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Red Claw Ring";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjAwMzI2NywKICAicHJvZmlsZUlkIiA6ICJiZmMyODE3ZWRhZWM0OWY5YTVmMWVkNTdjODZhMGFjOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFYm95UmV6YSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81OWQ5YjMyN2ZmODJmNmUxMDliODc0NmM0OGJmYjdmNjQxZTE1NTI4NTU0OTNkZDQxMThiZTI0ZDViMDJiYzBhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "RARE";
+stats = {
+  critical_damage: 3
+};
+requirements.slayer.wolf = 5;

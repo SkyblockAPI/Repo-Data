@@ -1,0 +1,4 @@
+item = "paper";
+name = "Magma Lord Fragment";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/magma_lord_fragment";
+rarity = "LEGENDARY";

@@ -1,0 +1,5 @@
+item = "empty_map";
+name = "Travel Scroll to Dwarven Mines";
+include("types/travel_scroll", this);
+rarity = "RARE";
+soulbound = "COOP";

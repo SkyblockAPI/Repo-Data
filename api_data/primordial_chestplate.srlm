@@ -1,0 +1,11 @@
+item = "leather_chestplate";
+name = "Primordial Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 115,
+  health: 150,
+  intelligence: 110,
+  critical_damage: 10
+};
+requirements.slayer.spider = 7;

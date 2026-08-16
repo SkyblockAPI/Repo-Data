@@ -1,0 +1,10 @@
+item = "fishing_rod";
+name = "Elle's Lava Rod";
+include("types/fishing_rod", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/crimson_isle/kuudra/elles_lava_rod";
+rarity = "SPECIAL";
+stats = {
+  damage: 50,
+  strength: 50,
+  fishing_speed: 8
+};

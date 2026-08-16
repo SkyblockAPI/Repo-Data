@@ -1,0 +1,12 @@
+item = "fishing_rod";
+name = "Rod of the Sea";
+include("types/fishing_rod", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/rod/rod_of_the_sea";
+rarity = "LEGENDARY";
+stats = {
+  damage: 150,
+  strength: 150,
+  fishing_speed: 80,
+  sea_creature_chance: 8
+};
+requirements.skill.fishing = 24;

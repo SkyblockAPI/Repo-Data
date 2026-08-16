@@ -1,0 +1,11 @@
+item = "fishing_rod";
+name = "Auger Rod";
+include("types/fishing_rod", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/rod/broken_rod";
+rarity = "LEGENDARY";
+stats = {
+  damage: 135,
+  strength: 90,
+  fishing_speed: 110
+};
+requirements.skill.fishing = 25;

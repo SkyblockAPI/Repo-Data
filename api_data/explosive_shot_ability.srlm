@@ -1,0 +1,4 @@
+item = "bedrock";
+name = "Explosive Shot";
+include("types/dungeon", this);
+rarity = "UNCOMMON";

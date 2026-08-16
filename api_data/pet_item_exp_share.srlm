@@ -1,0 +1,4 @@
+item = "yellow_flower";
+name = "Exp Share";
+include("types/pet_item", this);
+rarity = "EPIC";

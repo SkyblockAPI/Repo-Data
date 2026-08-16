@@ -1,0 +1,6 @@
+item = "player_head";
+name = "Catacombs Expert Ring";
+include("types/accessory", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYxOTk5NTQ4MTM1NywKICAicHJvZmlsZUlkIiA6ICI0NWY3YTJlNjE3ODE0YjJjODAwODM5MmRmN2IzNWY0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfSnVzdERvSXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGZjYzIxM2QzMzY5YjU1NzBlZGQzNTQ5ZDIyMjc3ZmM0OTZiZmNlNTM5ZDE5Zjc1ODNkNmQ2NGJiMTY0OWNiMyIKICAgIH0KICB9Cn0=";
+rarity = "EPIC";

@@ -1,0 +1,4 @@
+item = "paper";
+name = "Wriggling Larva";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/pests/wriggling_larva";
+rarity = "EPIC";

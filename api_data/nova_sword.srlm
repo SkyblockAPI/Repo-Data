@@ -1,0 +1,9 @@
+item = "gold_sword";
+name = "Sword of the Universe";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/rift/weapons/admin_sword";
+rarity = "UNOBTAINABLE";
+stats = {
+  damage: 99999999,
+  swing_range: 99999999
+};

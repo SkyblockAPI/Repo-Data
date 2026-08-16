@@ -1,0 +1,10 @@
+item = "iron_hoe";
+name = "Advanced Gardening Hoe";
+include("types/farming_tool", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/tools/advanced_gardening_hoe";
+rarity = "RARE";
+stats = {
+  farming_fortune: 15
+};
+requirements.garden = 3;
+requirements.skill.farming = 7;

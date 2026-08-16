@@ -1,0 +1,4 @@
+item = "gold_barding";
+name = "Eternal Hoof";
+include("types/accessory", this);
+rarity = "RARE";

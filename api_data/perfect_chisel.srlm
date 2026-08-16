@@ -1,0 +1,6 @@
+item = "armor_stand";
+name = "Perfect Chisel";
+include("types/chisel", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/chisel/perfect_chisel";
+rarity = "LEGENDARY";
+requirements.hotm = 10;

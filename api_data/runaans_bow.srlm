@@ -1,0 +1,9 @@
+item = "bow";
+name = "Runaan's Bow";
+include("types/bow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/runaans_bow";
+rarity = "LEGENDARY";
+stats = {
+  damage: 160,
+  strength: 50
+};

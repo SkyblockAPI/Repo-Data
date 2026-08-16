@@ -1,0 +1,6 @@
+item = "diamond_sword";
+name = "Sword of Live Reloading";
+stats = {
+  damage: 69,
+  ferocity: 600
+};

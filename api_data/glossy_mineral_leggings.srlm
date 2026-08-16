@@ -1,0 +1,9 @@
+item = "leather_leggings";
+name = "Glossy Mineral Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 25,
+  defense: 150,
+  block_fortune: 50
+};

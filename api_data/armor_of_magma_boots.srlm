@@ -1,0 +1,8 @@
+item = "leather_boots";
+name = "Armor of Magma Boots";
+include("types/boots", this);
+rarity = "EPIC";
+stats = {
+  defense: 15,
+  health: 45
+};

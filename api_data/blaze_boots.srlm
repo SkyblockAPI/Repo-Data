@@ -1,0 +1,10 @@
+item = "leather_boots";
+name = "Blaze Boots";
+include("types/boots", this);
+rarity = "EPIC";
+stats = {
+  walk_speed: 2,
+  defense: 80,
+  strength: 30
+};
+requirements.skill.combat = 22;

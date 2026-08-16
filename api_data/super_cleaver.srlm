@@ -1,0 +1,11 @@
+item = "gold_sword";
+name = "Super Cleaver";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/super_cleaver";
+rarity = "RARE";
+stats = {
+  damage: 105,
+  strength: 20,
+  critical_damage: 20
+};

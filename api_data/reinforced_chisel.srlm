@@ -1,0 +1,6 @@
+item = "armor_stand";
+name = "Reinforced Chisel";
+include("types/chisel", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/chisel/reinforced_chisel";
+rarity = "RARE";
+requirements.hotm = 8;

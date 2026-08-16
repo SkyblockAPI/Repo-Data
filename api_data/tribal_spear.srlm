@@ -1,0 +1,8 @@
+item = "stick";
+name = "Tribal Spear";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/tribal_spear";
+rarity = "RARE";
+stats = {
+  strength: 100
+};

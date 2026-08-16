@@ -1,0 +1,8 @@
+item = "gold_axe";
+name = "Reinforced Huntaxe - Cursus";
+include("types/axe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/hunting_weapons/reinforced_huntaxe";
+rarity = "RARE";
+stats = {
+  damage: 15
+};

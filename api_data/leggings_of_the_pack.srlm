@@ -1,0 +1,10 @@
+item = "iron_leggings";
+name = "Leggings of the Pack";
+include("types/leggings", this);
+rarity = "EPIC";
+rift_transferrable = true;
+stats = {
+  defense: 75,
+  health: 80
+};
+requirements.slayer.wolf = 6;

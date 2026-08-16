@@ -1,0 +1,12 @@
+item = "leather_helmet";
+name = "Skeleton Soldier Helmet";
+include("types/helmet", this);
+include("types/dungeon", this);
+rarity = "EPIC";
+requirements.dungeons.catacombs = 9;
+tiered_stats = {
+  defense: [26, 28, 30, 33, 36, 39, 42, 45, 50, 54],
+  health: [16, 17, 19, 21, 22, 24, 26, 29, 31, 34],
+  critical_damage: [16, 17, 19, 20, 22, 24, 26, 28, 31, 34],
+  critical_chance: [2, 2, 2, 2, 3, 3, 3, 3, 4, 4]
+};

@@ -1,0 +1,4 @@
+item = "raw_fish";
+name = "Sewer Fish";
+rarity = "UNCOMMON";
+soulbound = "COOP";

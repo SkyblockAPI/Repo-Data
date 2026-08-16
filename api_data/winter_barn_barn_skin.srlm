@@ -1,0 +1,4 @@
+item = "snow_block";
+name = "Winter Barn Skin";
+include("types/cosmetic", this);
+rarity = "UNCOMMON";

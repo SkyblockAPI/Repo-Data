@@ -1,0 +1,4 @@
+item = "paper";
+name = "Bingo Card";
+rarity = "SPECIAL";
+soulbound = "COOP";

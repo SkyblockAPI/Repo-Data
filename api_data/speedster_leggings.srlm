@@ -1,0 +1,8 @@
+item = "leather_leggings";
+name = "Speedster Leggings";
+include("types/leggings", this);
+rarity = "UNCOMMON";
+stats = {
+  walk_speed: 15,
+  defense: 60
+};

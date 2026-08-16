@@ -1,0 +1,6 @@
+item = "iron_boots";
+name = "Big Spring Boots";
+include("types/boots", this);
+stats = {
+  defense: 10
+};

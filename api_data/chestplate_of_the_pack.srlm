@@ -1,0 +1,9 @@
+item = "leather_chestplate";
+name = "Chestplate of the Pack";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  defense: 95,
+  health: 100
+};
+requirements.slayer.wolf = 6;

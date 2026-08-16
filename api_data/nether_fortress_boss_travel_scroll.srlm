@@ -1,0 +1,4 @@
+item = "empty_map";
+name = "Dusty Travel Scroll to the Kuudra Skull";
+include("types/travel_scroll", this);
+rarity = "EPIC";

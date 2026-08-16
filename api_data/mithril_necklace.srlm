@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Mithril Necklace";
+include("types/necklace", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU2NTYyNiwKICAicHJvZmlsZUlkIiA6ICJiZmQ3MjMxMGNmYWY0Yjc5OTNlYzhiYzU3ODg3YzU5ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHBoYVNwQW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjNkZDNhMzUzYWQ1ZmE3OGUyNDJlM2EyYjIwMjVlOTk0NDczMjVmMWYzZjQ3ZDU4YzE5MWZkMzA3MGExZTc3OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
+rarity = "UNCOMMON";
+stats = {
+  mining_speed: 20,
+  mining_fortune: 5
+};
+requirements.hotm = 2;

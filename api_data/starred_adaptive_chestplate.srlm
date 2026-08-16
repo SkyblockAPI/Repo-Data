@@ -1,0 +1,12 @@
+item = "leather_chestplate";
+name = "Adaptive Chestplate";
+include("types/chestplate", this);
+include("types/dungeon", this);
+rarity = "EPIC";
+stats = {
+  defense: 95,
+  health: 180,
+  strength: 15,
+  intelligence: 15
+};
+requirements.dungeon_completetion.catacombs = 3;

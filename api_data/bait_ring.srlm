@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Bait Ring";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzODkwMjczMSwKICAicHJvZmlsZUlkIiA6ICI5MWZlMTk2ODdjOTA0NjU2YWExZmMwNTk4NmRkM2ZlNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJoaGphYnJpcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81Y2VlYzUzNDJhY2QzZjIxYjJjMWM4ZDU5MTMyNzdlNDZjYWVjNmM4M2I4NjlhMjBjYTkxYmZkMmM4Njc1NzVhIgogICAgfQogIH0KfQ==";
+rarity = "RARE";

@@ -1,0 +1,12 @@
+item = "chainmail_leggings";
+name = "Flamebreaker Leggings";
+include("types/leggings", this);
+rarity = "EPIC";
+stats = {
+  defense: 60,
+  health: 60,
+  mining_fortune: 15,
+  mining_speed: 25,
+  heat_resistance: 5
+};
+requirements.collection.hard_stone = 5;

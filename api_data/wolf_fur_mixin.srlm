@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Wolf Fur Mixin";
+skin = "eyJ0aW1lc3RhbXAiOjE1MTc0MTU2OTU5NzksInByb2ZpbGVJZCI6IjdkYTJhYjNhOTNjYTQ4ZWU4MzA0OGFmYzNiODBlNjhlIiwicHJvZmlsZU5hbWUiOiJHb2xkYXBmZWwiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU5NTIzMTE0NzE4OWFjNGI5ZjUzNDg3Y2UzNWJhMDIwNWJmMzc3ZjM5ODZjMGU1Y2ViOTQyZTc3ZjFjMzljYyJ9fX0=";
+rarity = "RARE";
+requirements.slayer.wolf = 8;

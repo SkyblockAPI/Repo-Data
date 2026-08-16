@@ -1,0 +1,11 @@
+item = "paper";
+name = "Flower of Truth";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/flower_of_truth";
+rarity = "LEGENDARY";
+stats = {
+  damage: 160,
+  strength: 300
+};
+requirements.dungeon_completetion.catacombs = 6;

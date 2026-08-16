@@ -1,0 +1,4 @@
+item = "paper";
+name = "Lava Shell";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/lava_shell";
+rarity = "EPIC";

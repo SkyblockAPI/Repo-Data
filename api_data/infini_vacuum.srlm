@@ -1,0 +1,10 @@
+item = "paper";
+name = "InfiniVacuum™";
+include("types/vacuum", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/vacuum/infini_vacuum";
+rarity = "EPIC";
+stats = {
+  farming_fortune: 20,
+  damage: 300
+};
+requirements.garden = 5;

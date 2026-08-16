@@ -1,0 +1,10 @@
+item = "leather_helmet";
+name = "Rotten Helmet";
+include("types/helmet", this);
+include("types/dungeon", this);
+rarity = "RARE";
+requirements.dungeons.catacombs = 1;
+tiered_stats = {
+  health: [70, 76, 83, 90, 99, 108, 118, 128, 139, 152],
+  strength: [10, 11, 12, 13, 14, 15, 17, 18, 20, 22]
+};

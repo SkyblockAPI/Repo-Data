@@ -1,0 +1,10 @@
+item = "stick";
+name = "Wand of Strength";
+include("types/wand", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/wand_of_strength";
+rarity = "EPIC";
+stats = {
+  damage: 50,
+  strength: 20
+};
+requirements.skill.combat = 22;

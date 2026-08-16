@@ -1,0 +1,4 @@
+item = "paper";
+name = "Yellow Goblin Egg";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/mining_3/goblins/eggs/yellow_goblin_egg";
+rarity = "RARE";

@@ -1,0 +1,10 @@
+item = "leather_boots";
+name = "Heavy Boots";
+include("types/boots", this);
+include("types/dungeon", this);
+rarity = "RARE";
+requirements.dungeons.catacombs = 2;
+tiered_stats = {
+  walk_speed: [-5, -5, -5, -5, -5, -5, -5, -5, -5, -5],
+  defense: [57, 62, 67, 73, 79, 86, 94, 102, 110, 120]
+};

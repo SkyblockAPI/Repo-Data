@@ -1,0 +1,13 @@
+item = "leather_chestplate";
+name = "Infernal Crimson Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 164,
+  health: 580,
+  strength: 76,
+  critical_damage: 50,
+  intelligence: 13
+};
+requirements.skill.combat = 42;
+requirements.kuudra.infernal = 1;

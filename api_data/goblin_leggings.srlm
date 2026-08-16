@@ -1,0 +1,10 @@
+item = "leather_leggings";
+name = "Goblin Leggings";
+include("types/leggings", this);
+rarity = "RARE";
+stats = {
+  health: 125,
+  intelligence: -1,
+  mining_speed: 10,
+  mining_fortune: 4
+};

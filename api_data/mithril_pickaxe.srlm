@@ -1,0 +1,12 @@
+item = "diamond_pickaxe";
+name = "Mithril Pickaxe";
+include("types/pickaxe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/mithril_pickaxe";
+rarity = "UNCOMMON";
+stats = {
+  breaking_power: 5,
+  damage: 40,
+  mining_speed: 300,
+  mining_fortune: 7
+};
+requirements.hotm = 2;

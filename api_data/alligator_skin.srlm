@@ -1,0 +1,4 @@
+item = "ink_sack";
+name = "Alligator Skin";
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/alligator_skin";
+rarity = "EPIC";

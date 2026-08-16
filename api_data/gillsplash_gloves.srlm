@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Gillsplash Gloves";
+include("types/gloves", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY2MjU1OTQ2NDQzNiwKICAicHJvZmlsZUlkIiA6ICJiNTM5NTkyMjMwY2I0MmE0OWY5YTRlYmYxNmRlOTYwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXJpYW5hZmFnIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZmNWNiNDAxMjM5YTM0MTA2MzJjMWJmMDQwYzliNmIyNDkyZDI4MTliODhhMzYzMmYxZGUzZTBjZWVjMDg4MTIiCiAgICB9CiAgfQp9";
+rarity = "LEGENDARY";
+stats = {
+  health: 20,
+  health_regeneration: 2,
+  fishing_speed: 14
+};

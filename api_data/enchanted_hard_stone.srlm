@@ -1,0 +1,4 @@
+item = "stone";
+name = "Enchanted Hard Stone";
+rarity = "UNCOMMON";
+category = "BLOCK";

@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Maxor the Fish";
+include("types/dungeon", this);
+skin = "eyJ0aW1lc3RhbXAiOjE0ODEwNDc1OTIxMzAsInByb2ZpbGVJZCI6IjM5YWY2ODQ0NjgwOTRkMmY4YmE0N2U5MmQwODdiZTE4IiwicHJvZmlsZU5hbWUiOiJNSEZfV2l0aGVyIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jZGY3NGUzMjNlZDQxNDM2OTY1ZjVjNTdkZGYyODE1ZDUzMzJmZTk5OWU2OGZiYjlkNmNmNWM4YmQ0MTM5ZiJ9fX0=";
+rarity = "SPECIAL";

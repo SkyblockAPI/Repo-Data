@@ -1,0 +1,4 @@
+item = "bowl";
+name = "Caducous Feeder";
+rarity = "RARE";
+rift_transferrable = true;

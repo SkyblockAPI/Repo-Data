@@ -1,0 +1,4 @@
+item = "apple";
+name = "Orchard Greenhouse Skin";
+include("types/cosmetic", this);
+rarity = "UNCOMMON";

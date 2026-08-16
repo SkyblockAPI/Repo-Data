@@ -1,0 +1,4 @@
+item = "fence";
+name = "Trading Post Barn Skin";
+include("types/cosmetic", this);
+rarity = "UNCOMMON";

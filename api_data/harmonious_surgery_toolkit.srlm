@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Harmonious Surgery Toolkit";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTczMDMyNTg5MTM2NSwKICAicHJvZmlsZUlkIiA6ICJhNTdmZDE5MGZmM2U0YjBkYTEzMmY2OGUzOTU3ZjViMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4Y2VwdGlvbl9udWxsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc2NzkwZGFhNGQ0MmM4ZmRmODNmOWU4ZTk2ZTBjMDRkM2IxY2NhZTBiZjFkOTBhMzMwMmQyNjU1OTkyMWFjMjYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "UNCOMMON";
+stats = {
+  rift_walk_speed: 2,
+  rift_time: 10
+};

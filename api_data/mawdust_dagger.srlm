@@ -1,0 +1,11 @@
+item = "iron_sword";
+name = "Twilight Dagger";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/blaze/swords/twilight_dagger";
+rarity = "RARE";
+stats = {
+  damage: 90,
+  strength: 45,
+  critical_damage: 15
+};
+requirements.slayer.blaze = 2;

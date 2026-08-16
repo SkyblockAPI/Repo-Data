@@ -1,0 +1,5 @@
+item = "paper";
+name = "Rusty Ship Engine";
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/ship/rusty_ship_engine";
+rarity = "SPECIAL";
+soulbound = "SOLO";

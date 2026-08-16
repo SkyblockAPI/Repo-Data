@@ -1,0 +1,4 @@
+item = "melon";
+name = "Luscious Healing Melon";
+rarity = "LEGENDARY";
+requirements.slayer.vampire = 4;

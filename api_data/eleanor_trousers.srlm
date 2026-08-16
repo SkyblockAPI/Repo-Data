@@ -1,0 +1,10 @@
+item = "leather_leggings";
+name = "Eleanor's Trousers";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+rift_transferrable = true;
+stats = {
+  rift_time: 20,
+  health: 75
+};
+soulbound = "SOLO";

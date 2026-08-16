@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Tiki Mask";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTczOTYzMjQ0NTQ2MywKICAicHJvZmlsZUlkIiA6ICJiNjZiYTQ5ZWFiZWM0YmY5OWVhOWY5NDBjMTcxYTkzMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXRlaUxpa2VzTWluaW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzVmZDZiOWE1OWVjNWI5N2RiOGJkYzE1OGZiZDVmOTFlZjdiMzE3Yjg1OWZjZWJlNmQwOWU3YmQ4MGVhY2E5ZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
+rarity = "LEGENDARY";
+stats = {
+  health: 300,
+  defense: 100,
+  sea_creature_chance: 2
+};
+requirements.skill.fishing = 40;

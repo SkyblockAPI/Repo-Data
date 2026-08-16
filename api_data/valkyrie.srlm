@@ -1,0 +1,13 @@
+item = "iron_sword";
+name = "Valkyrie";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/valkyrie";
+rarity = "LEGENDARY";
+stats = {
+  damage: 270,
+  strength: 145,
+  ferocity: 60,
+  intelligence: 60
+};
+requirements.dungeon_completetion.catacombs = 7;

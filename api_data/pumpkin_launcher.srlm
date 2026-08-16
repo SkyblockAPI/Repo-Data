@@ -1,0 +1,6 @@
+item = "pumpkin";
+name = "Pumpkin Launcher";
+rarity = "EPIC";
+stats = {
+  weapon_ability_damage: 3000
+};

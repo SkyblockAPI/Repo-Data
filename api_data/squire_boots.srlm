@@ -1,0 +1,10 @@
+item = "leather_boots";
+name = "Squire Boots";
+include("types/boots", this);
+rarity = "UNCOMMON";
+stats = {
+  defense: 20,
+  health: 20,
+  strength: 5
+};
+requirements.skill.combat = 4;

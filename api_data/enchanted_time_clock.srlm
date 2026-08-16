@@ -1,0 +1,4 @@
+item = "watch";
+name = "Enchanted Clock";
+rarity = "LEGENDARY";
+requirements.collection.gold_ingot = 10;

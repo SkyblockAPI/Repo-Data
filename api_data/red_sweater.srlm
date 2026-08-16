@@ -1,0 +1,7 @@
+item = "leather_chestplate";
+name = "Red Sweater";
+include("types/chestplate", this);
+rarity = "RARE";
+stats = {
+  trophy_fish_chance: 4
+};

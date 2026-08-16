@@ -1,0 +1,4 @@
+item = "raw_fish";
+name = "Fishing Exp Boost";
+include("types/pet_item", this);
+rarity = "RARE";

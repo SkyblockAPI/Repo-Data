@@ -1,0 +1,7 @@
+item = "raw_fish";
+name = "Jinxed Voodoo Doll";
+rarity = "EPIC";
+stats = {
+  weapon_ability_damage: 2222
+};
+requirements.slayer.zombie = 5;

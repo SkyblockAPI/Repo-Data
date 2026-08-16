@@ -1,0 +1,4 @@
+item = "paper";
+name = "Sleeping Eye";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/sleeping_eye";
+rarity = "EPIC";

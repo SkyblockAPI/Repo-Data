@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Lynx Talisman";
+include("types/accessory", this);
+skin = "eyJ0aW1lc3RhbXAiOjE1NzEyNzg5NDI3NjYsInByb2ZpbGVJZCI6IjdkYTJhYjNhOTNjYTQ4ZWU4MzA0OGFmYzNiODBlNjhlIiwicHJvZmlsZU5hbWUiOiJHb2xkYXBmZWwiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzNjBmMWRlNzc3ZWZlMDVkMjcyYTYxY2ZlZWEwMDA2NDk2YWFjYWRmMTk0MzU3M2EzZjBkNzY1NTAxNmU2MDkifX19";
+rarity = "RARE";
+stats = {
+  walk_speed: 2
+};
+soulbound = "SOLO";

@@ -1,0 +1,5 @@
+item = "gold_spade";
+name = "Deific Spade";
+include("types/spade", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/diana/deific_spade";
+rarity = "LEGENDARY";

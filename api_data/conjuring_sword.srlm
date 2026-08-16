@@ -1,0 +1,12 @@
+item = "stone_sword";
+name = "Conjuring";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/conjuring";
+rarity = "RARE";
+requirements.dungeons.catacombs = 13;
+tiered_stats = {
+  damage: [68, 73, 78, 84, 90, 97, 105, 112, 121, 130],
+  strength: [36, 39, 42, 45, 49, 52, 56, 61, 65, 70],
+  intelligence: [85, 92, 100, 109, 119, 129, 140, 152, 166, 180]
+};

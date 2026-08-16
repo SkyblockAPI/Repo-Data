@@ -1,0 +1,9 @@
+item = "skeleton_skull";
+name = "Sea Archer Helmet";
+include("types/helmet", this);
+skin = "eyJ0aW1lc3RhbXAiOjE1NDAwMzY4MjY2NzIsInByb2ZpbGVJZCI6ImEyNjBjZDUyNjFmMzRhZDY4N2UxMTI4NzFlNjM2ZTIwIiwicHJvZmlsZU5hbWUiOiJTaHlOZW9zIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80OTg3MWZiZGE4MWU2ZDRmZjZhNWU4YTkyOTg1ZmI0YzdlNGZiM2QxNGVjZTc2YjA3NzQ0ZjY1NGE5NThiNmEzIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=";
+rarity = "UNCOMMON";
+stats = {
+  defense: 20,
+  health: 20
+};

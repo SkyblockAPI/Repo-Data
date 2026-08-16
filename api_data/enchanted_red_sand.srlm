@@ -1,0 +1,4 @@
+item = "sand";
+name = "Enchanted Red Sand";
+rarity = "UNCOMMON";
+category = "BLOCK";

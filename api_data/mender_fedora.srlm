@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Mender Fedora";
+include("types/helmet", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxOTg2Mjg3NDg0NiwKICAicHJvZmlsZUlkIiA6ICI1ZjU5NmViY2JlOTQ0NmQxYmI0M2JlNGYzZjRiOGJlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZWlsMHNzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUyZDBlN2I2MGZhZGY5YjA4MDVhYTg2NmVkN2JkMjk4MGFiZWEwODEyZGIyYjcxNTA3NTJhNzFmYmYyZTIwZWYiCiAgICB9CiAgfQp9";
+rarity = "EPIC";
+stats = {
+  health: 220
+};
+requirements.dungeon_completetion.catacombs = 3;

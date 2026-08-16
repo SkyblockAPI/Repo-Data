@@ -1,0 +1,11 @@
+item = "wood_pickaxe";
+name = "Zoom";
+include("types/pickaxe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/zoom";
+rarity = "UNOBTAINABLE";
+stats = {
+  breaking_power: 10,
+  damage: 99999999,
+  mining_speed: 99999999,
+  swing_range: 15
+};

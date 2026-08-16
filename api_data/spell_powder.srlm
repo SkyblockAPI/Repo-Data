@@ -1,0 +1,4 @@
+item = "glowstone_dust";
+name = "Spell Powder";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/spell_powder";
+rarity = "EPIC";

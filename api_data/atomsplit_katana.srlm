@@ -1,0 +1,12 @@
+item = "blaze_rod";
+name = "Atomsplit Katana";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/enderman/weapons/katanas/atomsplit_katana";
+rarity = "LEGENDARY";
+stats = {
+  damage: 305,
+  strength: 100,
+  critical_damage: 50,
+  intelligence: 300
+};
+requirements.slayer.enderman = 6;

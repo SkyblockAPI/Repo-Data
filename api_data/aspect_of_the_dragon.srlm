@@ -1,0 +1,11 @@
+item = "diamond_sword";
+name = "Aspect of the Dragons";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/aspect_of_the_dragon";
+rarity = "LEGENDARY";
+stats = {
+  damage: 225,
+  strength: 100,
+  weapon_ability_damage: 12000
+};
+requirements.skill.combat = 18;

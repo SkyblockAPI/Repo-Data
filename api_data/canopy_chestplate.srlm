@@ -1,0 +1,11 @@
+item = "leather_chestplate";
+name = "Canopy Shirt";
+include("types/chestplate", this);
+rarity = "UNCOMMON";
+stats = {
+  health: 120,
+  defense: 40,
+  sweep: 6
+};
+requirements.skill.foraging = 12;
+booster_applicable = true;

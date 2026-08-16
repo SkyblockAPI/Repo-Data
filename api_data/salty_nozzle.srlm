@@ -1,0 +1,4 @@
+item = "paper";
+name = "Salty Nozzle";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/pests/salty_nozzle";
+rarity = "EPIC";

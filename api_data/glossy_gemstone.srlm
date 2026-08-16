@@ -1,0 +1,4 @@
+item = "ink_sack";
+name = "Glossy Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/cole/glossy_gemstone";
+rarity = "EPIC";

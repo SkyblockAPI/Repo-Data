@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Student's Studies";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc0NTAxNDcwMjk1NiwKICAicHJvZmlsZUlkIiA6ICIzZmM3ZmRmOTM5NjM0YzQxOTExOTliYTNmN2NjM2ZlZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJZZWxlaGEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWY0NTI4OWM4YjEzNDZmYjI2NDRlMDhjMGM1NmYwOTZmMDExMjkxZjE5MDRkZDJlNTI2MTA5ZGNmMDlmMWM1MCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
+rarity = "UNCOMMON";
+stats = {
+  trophy_fish_chance: 2
+};
+requirements.trophy.FROG = "SILVER";
+soulbound = "SOLO";

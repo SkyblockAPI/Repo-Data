@@ -1,0 +1,7 @@
+item = "chainmail_chestplate";
+name = "Wyld Chain Top";
+include("types/chestplate", this);
+rarity = "UNCOMMON";
+stats = {
+  rift_time: 15
+};

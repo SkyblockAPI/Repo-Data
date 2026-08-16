@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Mole Hat";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTU5MDQ1OTI1MTYwOCwKICAicHJvZmlsZUlkIiA6ICI3M2ZkNzU2NWJkZTY0MGQzYWE4MGUxMWUwMTMwMjc3OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJHYUJySWVMVnR6IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YyMDc4M2UyNzQzYjg5NzZiMDBmODI3ZWUyODM2NzVkNzkxMTE0MGM5ODI4NDIzOWY2YmMxYzhkZDFkMjdjODEiCiAgICB9CiAgfQp9";
+rarity = "COMMON";
+stats = {
+  health: 35,
+  defense: 10,
+  foraging_fortune: 6
+};
+soulbound = "SOLO";

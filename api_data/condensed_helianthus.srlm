@@ -1,0 +1,4 @@
+item = "paper";
+name = "Condensed Helianthus";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/condensed_helianthus";
+rarity = "LEGENDARY";

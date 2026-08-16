@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Great Spook Necklace";
+include("types/necklace", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY2MzUxNzA5NTQzMiwKICAicHJvZmlsZUlkIiA6ICJhYzM2YmVkZGQxNGQ0YjVmYmQyYzc5OThlMWMwOTg3ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYWlzYWthIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RjZGUyZmY2MGU0ZjVjZDFjMmIxM2M2MDk3MDUzOWRiZGMzY2U5NDQyZTdlNjEyNDdkMWIxZjEyMmYwNDU4ZGQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "EPIC";
+stats = {
+  fear: 5
+};

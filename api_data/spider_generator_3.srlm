@@ -1,0 +1,4 @@
+item = "player_head";
+name = "Spider Minion III";
+skin = "eyJ0aW1lc3RhbXAiOjE1NTc5NDUyMTU4MjYsInByb2ZpbGVJZCI6ImU3NTMyNjk3ZTgwZjQ1NmU5ZjNhZjZiODIzNWU5YTgxIiwicHJvZmlsZU5hbWUiOiJNaW5lQWx0c19NU2tpbl8xIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82YmU1MTI4ZDYxMzcxYWNjNGVhYmQzNTkwMDEzYTViOGJmYzY3ODM2NmU2MWM1MzYzYmY0MWE4YjAxNTRlZmRjIn19fQ==";
+rarity = "RARE";

@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Gillsplash Belt";
+include("types/belt", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY2MjQ4Nzc5NTIwNSwKICAicHJvZmlsZUlkIiA6ICI4M2EwYjZmOGVjMWI0YTU3OGQ2NmJlZDE2MmQ4M2I4MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbmlwZWRfQnlfS2NhbHMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTJkYzViZTUxZWZiODI3ZmZjNjk4NGZiYjcyNDNiNzBjNTRlNDBiMTNjNGJhYzRjM2ZlNmQ4YWQzMmZhNWViOSIKICAgIH0KICB9Cn0=";
+rarity = "LEGENDARY";
+stats = {
+  health: 30,
+  health_regeneration: 2,
+  fishing_speed: 14
+};

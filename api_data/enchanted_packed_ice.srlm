@@ -1,0 +1,4 @@
+item = "packed_ice";
+name = "Enchanted Packed Ice";
+rarity = "RARE";
+category = "BLOCK";

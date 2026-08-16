@@ -1,0 +1,12 @@
+item = "leather_helmet";
+name = "Yog Helmet";
+include("types/helmet", this);
+rarity = "EPIC";
+stats = {
+  defense: 15,
+  health: 50,
+  mining_speed: 25,
+  mining_fortune: 20,
+  heat_resistance: 10
+};
+requirements.collection.hard_stone = 5;

@@ -1,0 +1,5 @@
+item = "paper";
+name = "Barrier";
+this["minecraft:item_model"] = "minecraft:barrier";
+rarity = "LEGENDARY";
+soulbound = "COOP";

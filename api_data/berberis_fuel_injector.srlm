@@ -1,0 +1,4 @@
+item = "trap_door";
+name = "Berberis Fuel Injector";
+rarity = "RARE";
+rift_transferrable = true;

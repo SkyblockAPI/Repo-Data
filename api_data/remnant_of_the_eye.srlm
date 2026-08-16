@@ -1,0 +1,4 @@
+item = "paper";
+name = "Remnant of the Eye";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/remnant_of_the_eye";
+rarity = "EPIC";

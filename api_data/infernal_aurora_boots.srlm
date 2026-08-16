@@ -1,0 +1,11 @@
+item = "leather_boots";
+name = "Infernal Aurora Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 101,
+  health: 328,
+  intelligence: 441
+};
+requirements.skill.combat = 42;
+requirements.kuudra.infernal = 1;

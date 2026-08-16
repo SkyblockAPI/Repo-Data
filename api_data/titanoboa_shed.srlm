@@ -1,0 +1,4 @@
+item = "paper";
+name = "Titanoboa Shed";
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/titanboa_shed";
+rarity = "LEGENDARY";

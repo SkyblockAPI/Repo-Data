@@ -1,0 +1,7 @@
+item = "iron_chestplate";
+name = "etalptsehC norI";
+include("types/chestplate", this);
+rarity = "RARE";
+stats = {
+  rift_time: 30
+};

@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Dwarven Metal Talisman";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcwOTA2MTQ1NjAxNSwKICAicHJvZmlsZUlkIiA6ICJlNzhjY2YyNjMxZTY0MjJkOGY1YzE3ZTliZGQ3N2RjOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEQU5JRUwxOTB5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRjMDFkOTljZmRkYzg3NGNiZjY4YzZhZjdjYzU5OWRlMDRlYzEwZjFlM2RkNWVhNzc5Nzk1Y2ZjZTc3YzdlMjMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "UNCOMMON";
+stats = {
+  dwarven_metal_fortune: 15
+};
+requirements.hotm = 8;

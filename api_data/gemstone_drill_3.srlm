@@ -1,0 +1,13 @@
+item = "diamond_pickaxe";
+name = "Topaz Drill KGR-12";
+include("types/drill", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/topaz_drill_kgr_12";
+rarity = "EPIC";
+stats = {
+  breaking_power: 9,
+  damage: 75,
+  mining_speed: 450,
+  gemstone_fortune: 100,
+  pristine: 1.5
+};
+requirements.hotm = 5;

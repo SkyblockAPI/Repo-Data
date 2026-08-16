@@ -1,0 +1,9 @@
+item = "leather_chestplate";
+name = "Berserker Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  strength: 60,
+  critical_damage: 60
+};
+requirements.skill.combat = 22;

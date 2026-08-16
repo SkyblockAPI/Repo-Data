@@ -1,0 +1,13 @@
+item = "leather_leggings";
+name = "Burning Hollow Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 8,
+  defense: 94,
+  health: 352,
+  intelligence: 135,
+  mending: 8
+};
+requirements.skill.combat = 32;
+requirements.kuudra.burning = 1;

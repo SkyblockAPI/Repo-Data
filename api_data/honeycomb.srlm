@@ -1,0 +1,4 @@
+item = "paper";
+name = "Honeycomb";
+this["minecraft:item_model"] = "minecraft:honeycomb";
+rarity = "COMMON";

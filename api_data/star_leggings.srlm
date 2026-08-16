@@ -1,0 +1,9 @@
+item = "gold_leggings";
+name = "Leggings of the Stars";
+include("types/leggings", this);
+rarity = "UNOBTAINABLE";
+stats = {
+  defense: 4000,
+  health: 15000,
+  intelligence: 1500
+};

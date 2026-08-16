@@ -1,0 +1,4 @@
+item = "paper";
+name = "Magmag";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/magmag";
+rarity = "UNCOMMON";

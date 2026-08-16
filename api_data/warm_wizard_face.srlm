@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Warm Wizard Face";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTczMzg4NTY4NDkzMywKICAicHJvZmlsZUlkIiA6ICJkMWRkMDJlOWQwN2E0YWU1YWRjYWQyYzI5YTZhYmIyMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYW5pd2lzXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81ZDk4YTEyZjMyYTAyODRiNzRmZWZiOWU5ODJhMWU5ZWMyNDg3NzY2NDcwYWExMjMwZjZmMjZmOWFhY2UzZGU2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0";
+rarity = "LEGENDARY";
+stats = {
+  rift_time: 130,
+  rift_intelligence: 26,
+  rift_health: 1
+};
+requirements.slayer.vampire = 1;

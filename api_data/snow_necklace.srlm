@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Snow Necklace";
+include("types/necklace", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY2OTM4OTk5MzM4NSwKICAicHJvZmlsZUlkIiA6ICJkMmM1MThjMzJjNTY0OGJmOTM2ZjY0YjhmZDQ1ZThjZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEcmFjb0JlbGxzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IxMmZhYTJlNzk4OTg5ZDkxMGVmYmY5MjgxYjhjYmEyNDE4NTYyMmU5YWEzNTdjNzUyODVhYTRiN2UzMzE0YmMiCiAgICB9CiAgfQp9";
+rarity = "RARE";
+stats = {
+  health: 5,
+  intelligence: 5,
+  walk_speed: 2
+};

@@ -1,0 +1,5 @@
+item = "firework";
+name = "SOS Flare";
+include("types/deployable", this);
+rarity = "EPIC";
+requirements.slayer.blaze = 7;

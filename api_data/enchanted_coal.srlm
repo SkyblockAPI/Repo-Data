@@ -1,0 +1,4 @@
+item = "coal";
+name = "Enchanted Coal";
+rarity = "UNCOMMON";
+category = "ORE";

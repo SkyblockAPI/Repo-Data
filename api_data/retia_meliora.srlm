@@ -1,0 +1,6 @@
+item = "paper";
+name = "Medium Huntrap";
+include("types/trap", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/traps/medium_huntrap";
+rarity = "UNCOMMON";
+requirements.skill.hunting = 5;

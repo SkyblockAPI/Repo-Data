@@ -1,0 +1,11 @@
+item = "gold_sword";
+name = "Florid Zombie Sword";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/florid_zombie_sword";
+rarity = "LEGENDARY";
+stats = {
+  damage: 150,
+  strength: 80,
+  intelligence: 100
+};
+requirements.dungeons.catacombs = 18;

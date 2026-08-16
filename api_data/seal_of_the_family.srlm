@@ -1,0 +1,6 @@
+item = "player_head";
+name = "Seal of the Family";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwNjMzMzIyNzk2OCwKICAicHJvZmlsZUlkIiA6ICIyZTZjZTU3MDUzMTE0ZmRiYjc1OWM4NTJkY2VlOWU2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICI3T2ZDbHVicyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83YWI4Mzg1OGViYzhlZTg1YzNlNTRhYjEzYWFiZmNjMWVmMmFkNDQ2ZDZhOTAwZTQ3MWMzZjMzYjc4OTA2YTViIgogICAgfQogIH0KfQ==";
+rarity = "EPIC";
+soulbound = "SOLO";

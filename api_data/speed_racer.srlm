@@ -1,0 +1,8 @@
+item = "player_head";
+name = "The Fast";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTU5MDY5NzY2OTc4MywKICAicHJvZmlsZUlkIiA6ICJiMGQ3MzJmZTAwZjc0MDdlOWU3Zjc0NjMwMWNkOThjYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPUHBscyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jN2Q2ZDRjOGI5YTIxM2U5NDMxYjMxNWRjNWJiODZiMmEyZDZlNGI5YzgwNjM4NWY2ZWY5YjczNjE5MTQ1NmMwIgogICAgfQogIH0KfQ==";
+rarity = "UNOBTAINABLE";
+stats = {
+  walk_speed: 1000
+};

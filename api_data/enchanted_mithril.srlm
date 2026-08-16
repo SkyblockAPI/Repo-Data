@@ -1,0 +1,5 @@
+item = "prismarine_crystals";
+name = "Enchanted Mithril";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/mithril";
+rarity = "RARE";
+category = "DWARVEN METAL";

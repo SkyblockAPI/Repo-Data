@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Haste Artifact";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY3NzExMDk2MzI5MSwKICAicHJvZmlsZUlkIiA6ICI5MWYwNGZlOTBmMzY0M2I1OGYyMGUzMzc1Zjg2ZDM5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdG9ybVN0b3JteSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yZmU3YTg4MmZmZTBkMGRkMjQ1ZDkxYmQ4ZTZkY2MxZWQ0NTBhZTEzODgwYjEyMjc2ZmJhZjY2ZDRhNDE2NGM5IgogICAgfQogIH0KfQ==";
+rarity = "EPIC";
+stats = {
+  mining_speed: 25
+};

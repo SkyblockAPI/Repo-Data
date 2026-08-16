@@ -1,0 +1,4 @@
+item = "paper";
+name = "Compacted Moonflower";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/greenhouse/moonflower/compacted_moonflower";
+rarity = "RARE";

@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Wise Dragon Helmet";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcwODQ4MDQzMDY1NywKICAicHJvZmlsZUlkIiA6ICJmZjQ3NzI5YmQwZDI0YWYwOThiMTFjMGE3ZTFiMGVlZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXRzY2FuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3OTdjNzdjY2VlM2MwNGMzZGVlZDc3MDU5NWVhODNlYTFlODRjOWE0NjI5Yjc1M2FmNWQzNTFjMGNjMTFhNzQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "LEGENDARY";
+stats = {
+  defense: 110,
+  health: 70,
+  intelligence: 125
+};
+requirements.skill.combat = 16;

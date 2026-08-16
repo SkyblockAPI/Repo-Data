@@ -1,0 +1,11 @@
+item = "arrow";
+name = "Nansorb Arrow";
+include("types/arrow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/nansorb_arrow";
+rarity = "RARE";
+stats = {
+  damage: 5
+};
+requirements.skill.combat = 25;
+requirements.collection.cactus = 7;
+requirements.target_practice = III;

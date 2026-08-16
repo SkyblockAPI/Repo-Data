@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Blaze Helmet";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzE4ODMwMSwKICAicHJvZmlsZUlkIiA6ICIzZDU1OGQ3Y2NmZjk0ODdkYWE1MzhkMjM4NGE3OWFkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnlwdGljTG9zZXIxMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MzFiMjE4MzM5MmViY2ZmZTIxN2E5ODNjOTZhNTczY2Y5MGRkNTg2ODdkMThmZDYzMDM2Y2NjNTllYjJmNDdkIgogICAgfQogIH0KfQ==";
+rarity = "EPIC";
+stats = {
+  walk_speed: 2,
+  defense: 90,
+  strength: 30
+};
+requirements.skill.combat = 22;

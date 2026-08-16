@@ -1,0 +1,12 @@
+item = "leather_chestplate";
+name = "Burning Fervor Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 222,
+  health: 421,
+  intelligence: 8,
+  true_defense: 8
+};
+requirements.skill.combat = 32;
+requirements.kuudra.burning = 1;

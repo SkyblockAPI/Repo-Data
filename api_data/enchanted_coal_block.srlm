@@ -1,0 +1,4 @@
+item = "coal_block";
+name = "Enchanted Coal Block";
+rarity = "RARE";
+category = "ORE";

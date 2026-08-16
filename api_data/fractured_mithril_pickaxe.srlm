@@ -1,0 +1,11 @@
+item = "stone_pickaxe";
+name = "Fractured Mithril Pickaxe";
+include("types/pickaxe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/fractured_mithril_pickaxe";
+rarity = "UNCOMMON";
+stats = {
+  breaking_power: 5,
+  damage: 30,
+  mining_speed: 225,
+  mining_fortune: 2
+};

@@ -1,0 +1,11 @@
+item = "diamond_sword";
+name = "Reaper Falchion";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/zombie/weapons/reaper_falchion";
+rarity = "EPIC";
+stats = {
+  damage: 120,
+  strength: 100,
+  intelligence: 200
+};
+requirements.slayer.zombie = 6;

@@ -1,0 +1,8 @@
+item = "leather_boots";
+name = "Ugly Boots";
+include("types/boots", this);
+rarity = "MYTHIC";
+stats = {
+  rift_time: 80,
+  rift_walk_speed: 9
+};

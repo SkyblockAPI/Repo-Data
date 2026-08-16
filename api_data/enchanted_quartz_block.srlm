@@ -1,0 +1,4 @@
+item = "quartz_block";
+name = "Enchanted Quartz Block";
+rarity = "RARE";
+category = "ORE";

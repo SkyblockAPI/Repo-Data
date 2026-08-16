@@ -1,0 +1,4 @@
+item = "paper";
+name = "Flawed Topaz Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/topaz/flawed_topaz_gem";
+rarity = "UNCOMMON";

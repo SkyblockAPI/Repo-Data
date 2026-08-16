@@ -1,0 +1,11 @@
+item = "leather_leggings";
+name = "Glacite Leggings";
+include("types/leggings", this);
+rarity = "EPIC";
+stats = {
+  walk_speed: 15,
+  defense: 125,
+  true_defense: 10,
+  mining_speed: 10,
+  mining_fortune: 5
+};

@@ -1,0 +1,13 @@
+item = "leather_chestplate";
+name = "Hot Terror Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 15,
+  defense: 82,
+  health: 290,
+  critical_damage: 63,
+  intelligence: 6
+};
+requirements.skill.combat = 27;
+requirements.kuudra.hot = 1;

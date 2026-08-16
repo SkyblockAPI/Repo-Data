@@ -1,0 +1,7 @@
+item = "iron_helmet";
+name = "Skeleton's Helmet";
+include("types/helmet", this);
+rarity = "RARE";
+stats = {
+  defense: 75
+};

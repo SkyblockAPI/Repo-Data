@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Scarf's Studies";
+include("types/accessory", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYxOTAyMzI3MzU3MCwKICAicHJvZmlsZUlkIiA6ICI5MWYwNGZlOTBmMzY0M2I1OGYyMGUzMzc1Zjg2ZDM5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdG9ybVN0b3JteSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMzQ1M2Q2YTVhYWNhNjdhZmZhMDFmNDMyYWZkOWM0Y2ZlZmY0NTgyZDcyNTFjY2EzM2M1MzRlNzgyYzAzYWIxIgogICAgfQogIH0KfQ==";
+rarity = "RARE";
+rift_transferrable = true;
+stats = {
+  rift_time: 10
+};

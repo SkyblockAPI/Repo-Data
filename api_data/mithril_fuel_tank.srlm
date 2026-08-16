@@ -1,0 +1,4 @@
+item = "paper";
+name = "Mithril-Infused Fuel Tank";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/mithril_infused_fuel_tank";
+rarity = "RARE";

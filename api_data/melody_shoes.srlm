@@ -1,0 +1,10 @@
+item = "leather_boots";
+name = "Melody's Shoes";
+include("types/boots", this);
+rarity = "COMMON";
+stats = {
+  health: 90,
+  defense: 20,
+  foraging_fortune: 6
+};
+soulbound = "SOLO";

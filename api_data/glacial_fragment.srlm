@@ -1,0 +1,5 @@
+item = "paper";
+name = "Glacial Fragment";
+include("types/none", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/winter/glacial_fragment";
+rarity = "EPIC";

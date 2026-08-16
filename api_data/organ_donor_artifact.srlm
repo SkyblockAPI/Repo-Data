@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Organ Donor Artifact";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc3MDczOTk2MzY5NCwKICAicHJvZmlsZUlkIiA6ICI2M2VkZjY1ZDcxNmE0NGZmYmUzOWU5MWVkMmNiMjM3YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2aWxlX3NsYXZlbWFzdGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVjZTE1NTE2YjJmYjQ3MWMwMzU1NzdhMzUxNWVlYmE0YTJlMzU3NjJiZmMyYjk3NTRiOTY5OWU0YzQ4NzA0Y2MiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "RARE";
+stats = {
+  cold_resistance: 1.5
+};
+soulbound = "SOLO";

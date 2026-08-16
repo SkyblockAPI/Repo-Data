@@ -1,0 +1,4 @@
+item = "paper";
+name = "Abiphone Basic";
+this["minecraft:item_model"] = "hypixel_skyblock:item/abiphones/abiphone_basic";
+rarity = "COMMON";

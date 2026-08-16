@@ -1,0 +1,10 @@
+item = "iron_helmet";
+name = "Mercenary Helmet";
+include("types/helmet", this);
+rarity = "RARE";
+stats = {
+  defense: 40,
+  health: 40,
+  strength: 10
+};
+requirements.skill.combat = 8;

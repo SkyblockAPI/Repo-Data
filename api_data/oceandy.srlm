@@ -1,0 +1,5 @@
+item = "paper";
+name = "Oceandy";
+include("types/salt", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/salts/oceandy";
+rarity = "RARE";

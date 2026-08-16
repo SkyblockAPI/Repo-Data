@@ -1,0 +1,6 @@
+item = "wood_spade";
+name = "Wooden Shovel";
+include("types/spade", this);
+stats = {
+  damage: 15
+};

@@ -1,0 +1,8 @@
+item = "chainmail_boots";
+name = "Dashing Boots";
+include("types/boots", this);
+rarity = "UNCOMMON";
+stats = {
+  walk_speed: 30,
+  defense: 1
+};

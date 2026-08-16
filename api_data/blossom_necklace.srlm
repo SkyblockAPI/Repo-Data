@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Blossom Necklace";
+include("types/necklace", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc2MTY5NTAxOTE2MSwKICAicHJvZmlsZUlkIiA6ICI2YWVmMjM3Y2RhNDY0Y2QzYTdiZDcxYjg3YzFlMDEwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb25raWl6IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlOGUyMGYxNTM0YzJhOWQ5NDBiYWM5N2M0YzRiMjliNjhkYjZhMjg2YWQ5YzkyYWU4NWFlZTc4ZTA0ODYwNDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "EPIC";
+stats = {
+  farming_fortune: 7,
+  health: 15
+};
+requirements.garden = 8;
+requirements.skill.farming = 20;

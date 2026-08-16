@@ -1,0 +1,4 @@
+item = "gold_block";
+name = "Enchanted Gold Block";
+rarity = "RARE";
+category = "ORE";

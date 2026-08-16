@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Speed Relic";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYzNDYxNjE2OTAxNywKICAicHJvZmlsZUlkIiA6ICI3NWQ3OTQxMjI0OTM0OTI4YTE1Njc3NjYyODhjN2I1ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYWdpY01hamVzdGljIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJhMmM4N2FlNWZhMDMzNDVkZjQyYzEyZGZjOTU3MTc3YzY3YzY5ZTE0MDBlYmVmNzAwNWViMTNiNThiZTY3NTkiCiAgICB9CiAgfQp9";
+rarity = "EPIC";
+stats = {
+  walk_speed: 7,
+  attack_speed: 1,
+  mining_speed: 1,
+  fishing_speed: 1
+};

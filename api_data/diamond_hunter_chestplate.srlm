@@ -1,0 +1,9 @@
+item = "diamond_chestplate";
+name = "Diamond Hunter Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  health: 175
+};
+requirements.trophy.LAVA = "DIAMOND";
+soulbound = "SOLO";

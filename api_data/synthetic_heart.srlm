@@ -1,0 +1,4 @@
+item = "paper";
+name = "Synthetic Heart";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/synthetic_heart";
+rarity = "RARE";

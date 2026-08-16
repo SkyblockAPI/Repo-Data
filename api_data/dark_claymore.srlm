@@ -1,0 +1,13 @@
+item = "stone_sword";
+name = "Dark Claymore";
+include("types/longsword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/dark_claymore";
+rarity = "LEGENDARY";
+stats = {
+  damage: 500,
+  strength: 100,
+  critical_damage: 100,
+  swing_range: 2
+};
+requirements.dungeon_completetion.master_catacombs = 7;

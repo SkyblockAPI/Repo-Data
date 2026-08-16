@@ -1,0 +1,8 @@
+item = "leather_chestplate";
+name = "Farmhand Chestplate";
+include("types/chestplate", this);
+stats = {
+  defense: 10,
+  farming_fortune: 5
+};
+requirements.skill.farming = 3;

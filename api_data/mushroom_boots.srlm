@@ -1,0 +1,7 @@
+item = "leather_boots";
+name = "Mushroom Boots";
+include("types/boots", this);
+stats = {
+  health: 15
+};
+requirements.skill.farming = 7;

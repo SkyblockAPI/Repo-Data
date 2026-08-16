@@ -1,0 +1,5 @@
+item = "cooked_fish";
+name = "Ribbit the Fish";
+rarity = "SPECIAL";
+requirements.trophy.FROG = "DIAMOND";
+soulbound = "SOLO";

@@ -1,0 +1,7 @@
+item = "player_head";
+name = "Wallet";
+include("types/none", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyODQwMTc3MTYyOCwKICAicHJvZmlsZUlkIiA6ICIzY2I3YTA3YWY3ZjM0ZWZiYTlkNGI4ODQ3NDM4Mzc0ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVfUmVubmllX1lUIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JiNTdhZWI3YTg2ODE4ZTNmYWI2Mzk4MjFjMGY3NmRlMDI0YjQzYTM1ZTdmMDAwMmZiNDg0NDRiOGJjNzdmMTkiCiAgICB9CiAgfQp9";
+rarity = "EPIC";
+rift_transferrable = true;
+soulbound = "SOLO";

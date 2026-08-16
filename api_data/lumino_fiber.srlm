@@ -1,0 +1,4 @@
+item = "paper";
+name = "Lumino Fiber";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/lumino_fiber";
+rarity = "EPIC";

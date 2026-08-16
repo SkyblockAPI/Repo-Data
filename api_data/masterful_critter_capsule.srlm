@@ -1,0 +1,5 @@
+item = "paper";
+name = "Masterful Critter Capsule";
+include("types/capsule", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/safari/masterful_critter_capsule";
+rarity = "SPECIAL";

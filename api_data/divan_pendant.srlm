@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Pendant of Divan";
+include("types/necklace", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcwOTA2MTI2MjE1NywKICAicHJvZmlsZUlkIiA6ICI2ZjhlYWI1MTVmNTc0MmRhOWYxZDYzMzY1ODAxMDU4YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaW5kZXJGb3hfMjAwNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YWM3MTM0ZmI1YWJmMGE0OGM5ZTk5Y2I3OWQyY2Y3NTk4YzljZTI4NTkxMWMxOTMxZDQ1ZjgyODhiOGEyMGJjIgogICAgfQogIH0KfQ==";
+rarity = "LEGENDARY";
+stats = {
+  mining_speed: 100,
+  mining_fortune: 25,
+  cold_resistance: 10
+};
+requirements.hotm = 10;

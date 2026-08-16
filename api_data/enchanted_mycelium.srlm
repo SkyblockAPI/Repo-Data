@@ -1,0 +1,4 @@
+item = "mycel";
+name = "Enchanted Mycelium";
+rarity = "UNCOMMON";
+category = "BLOCK";

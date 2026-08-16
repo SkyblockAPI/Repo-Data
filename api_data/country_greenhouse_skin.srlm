@@ -1,0 +1,4 @@
+item = "fence_gate";
+name = "Country Greenhouse Skin";
+include("types/cosmetic", this);
+rarity = "UNCOMMON";

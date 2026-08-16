@@ -1,0 +1,4 @@
+item = "paper";
+name = "Peridot Crystal";
+this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/crystal/peridot_crystal";
+rarity = "SPECIAL";

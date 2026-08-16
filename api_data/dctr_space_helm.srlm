@@ -1,0 +1,4 @@
+item = "stained_glass";
+name = "Space Helmet";
+include("types/helmet", this);
+rarity = "SPECIAL";

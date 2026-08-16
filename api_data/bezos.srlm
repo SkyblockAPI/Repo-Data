@@ -1,0 +1,4 @@
+item = "paper";
+name = "Bezos";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/bezos";
+rarity = "RARE";

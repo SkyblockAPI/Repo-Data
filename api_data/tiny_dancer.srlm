@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Tiny Dancer";
+include("types/accessory", this);
+skin = "eyJ0aW1lc3RhbXAiOjE1NjI5ODQ5MTMyNDgsInByb2ZpbGVJZCI6ImIwZDRiMjhiYzFkNzQ4ODlhZjBlODY2MWNlZTk2YWFiIiwicHJvZmlsZU5hbWUiOiJ4RmFpaUxlUiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTExZjY5M2Y3ZmJhYzU3ZWNhOGEzMTE5MzNiN2RlZDE3NTYxNjk1ZDdmZmI4ZTlhNjJmMDRiOTI0YTRkNTJkZiJ9fX0=";
+rarity = "UNCOMMON";
+rift_transferrable = true;
+stats = {
+  critical_damage: 1
+};
+soulbound = "SOLO";

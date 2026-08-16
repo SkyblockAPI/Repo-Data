@@ -1,0 +1,4 @@
+item = "hay_block";
+name = "Spring Barn Skin";
+include("types/cosmetic", this);
+rarity = "UNCOMMON";

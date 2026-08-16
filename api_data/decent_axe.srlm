@@ -1,0 +1,12 @@
+item = "wood_axe";
+name = "Decent Axe";
+include("types/axe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/axes/decent_axe";
+rarity = "RARE";
+stats = {
+  foraging_fortune: 5,
+  sweep: 24,
+  damage: 20
+};
+requirements.skill.foraging = 15;
+booster_applicable = true;

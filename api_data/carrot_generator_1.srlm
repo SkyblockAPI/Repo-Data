@@ -1,0 +1,4 @@
+item = "player_head";
+name = "Carrot Minion I";
+skin = "eyJ0aW1lc3RhbXAiOjE1NTc5MTkwOTgyNTEsInByb2ZpbGVJZCI6IjVkMjRiYTBiMjg4YzQyOTM4YmExMGVjOTkwNjRkMjU5IiwicHJvZmlsZU5hbWUiOiIxbnYzbnQxdjN0NGwzbnQiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRiYWVhOTkwYjQ1ZDMzMDk5OGNiMGMxZjg1MTVjMjdiMjRmOTNiZmYxZGYwZGIwNTZlNjQ3ZjgyMDBkMDNiOWQifX19";
+rarity = "RARE";

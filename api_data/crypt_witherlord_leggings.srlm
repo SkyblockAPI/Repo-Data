@@ -1,0 +1,10 @@
+item = "leather_leggings";
+name = "Crypt Witherlord Leggings";
+include("types/leggings", this);
+include("types/dungeon", this);
+rarity = "EPIC";
+stats = {
+  walk_speed: 5,
+  defense: 95
+};
+requirements.dungeons.catacombs = 18;

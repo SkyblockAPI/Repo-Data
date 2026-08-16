@@ -1,0 +1,9 @@
+item = "diamond_leggings";
+name = "Zombie Leggings";
+include("types/leggings", this);
+rarity = "EPIC";
+stats = {
+  defense: 30,
+  health: 160
+};
+requirements.dungeons.catacombs = 16;

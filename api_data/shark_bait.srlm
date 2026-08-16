@@ -1,0 +1,5 @@
+item = "paper";
+name = "Shark Bait";
+include("types/bait", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/marina/shark_bait";
+rarity = "UNCOMMON";

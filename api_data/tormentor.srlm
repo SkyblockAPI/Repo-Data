@@ -1,0 +1,12 @@
+item = "iron_sword";
+name = "Tormentor";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/crimson_isle/tormentor";
+rarity = "LEGENDARY";
+stats = {
+  damage: 525,
+  strength: 30,
+  critical_damage: 100
+};
+requirements.skill.combat = 42;
+requirements.kuudra.infernal = 1;

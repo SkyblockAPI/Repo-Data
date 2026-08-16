@@ -1,0 +1,10 @@
+item = "yellow_flower";
+name = "Fire Freeze Staff";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/fire_freeze_staff";
+rarity = "EPIC";
+stats = {
+  damage: 50,
+  strength: 20
+};
+requirements.skill.combat = 22;

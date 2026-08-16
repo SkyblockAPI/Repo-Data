@@ -1,0 +1,4 @@
+item = "log";
+name = "Tavern Barn Skin";
+include("types/cosmetic", this);
+rarity = "UNCOMMON";

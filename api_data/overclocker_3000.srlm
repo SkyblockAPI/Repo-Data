@@ -1,0 +1,4 @@
+item = "paper";
+name = "Overclocker 3000";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/greenhouse/overclocker_3000";
+rarity = "LEGENDARY";

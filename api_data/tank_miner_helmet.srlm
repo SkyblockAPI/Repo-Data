@@ -1,0 +1,8 @@
+item = "diamond_helmet";
+name = "Miner Helmet";
+include("types/helmet", this);
+rarity = "RARE";
+stats = {
+  defense: 15,
+  mining_speed: 10
+};

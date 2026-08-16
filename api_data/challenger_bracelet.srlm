@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Challenger's Bracelet";
+include("types/bracelet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc1MjUyMjI1MDg4MiwKICAicHJvZmlsZUlkIiA6ICJkYjQwYmNjNWUzMDE0ZmZjOGVlOWQxNDU5MTcyYjdhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJhWGUxOCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lYWJlNTIxNDJjOTYyZDNhZDhlZGZjOTZkNTI4Y2E3MjU0NjMxNDZlNDY5NWZlY2JmMDJjODYzMjI2ZTQ1OTM2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "EPIC";
+stats = {
+  strength: 5,
+  health: 20,
+  defense: 10
+};

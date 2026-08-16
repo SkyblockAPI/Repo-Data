@@ -1,0 +1,4 @@
+item = "paper";
+name = "Gazing Pearl";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/gazing_pearl";
+rarity = "RARE";

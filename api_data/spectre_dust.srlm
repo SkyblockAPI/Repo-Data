@@ -1,0 +1,4 @@
+item = "paper";
+name = "Spectre Dust";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/spectre_dust";
+rarity = "UNCOMMON";

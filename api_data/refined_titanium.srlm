@@ -1,0 +1,5 @@
+item = "paper";
+name = "Refined Titanium";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/refined_titanium";
+rarity = "LEGENDARY";
+category = "DWARVEN METAL";

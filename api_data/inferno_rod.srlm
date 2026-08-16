@@ -1,0 +1,13 @@
+item = "fishing_rod";
+name = "Inferno Rod";
+include("types/fishing_rod", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/rod/inferno_rod";
+rarity = "EPIC";
+stats = {
+  damage: 200,
+  strength: 200,
+  fishing_speed: 50,
+  sea_creature_chance: 10,
+  trophy_fish_chance: 20
+};
+requirements.skill.fishing = 30;

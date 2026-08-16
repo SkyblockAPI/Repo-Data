@@ -1,0 +1,4 @@
+item = "dead_bush";
+name = "Umber Key";
+this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/umber/umber_key";
+rarity = "EPIC";

@@ -1,0 +1,4 @@
+item = "player_head";
+name = "Undead Minion Skin";
+include("types/cosmetic", this);
+skin = "eyJ0aW1lc3RhbXAiOjE1NjgzNDE1ODczODksInByb2ZpbGVJZCI6IjVmODMyZGMzNWM4MTQ4YjI5ZmQ1MTJjOTBjYmI0OTQ5IiwicHJvZmlsZU5hbWUiOiJ0b29nZXIiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQyY2VmZDAyYjc0OThhM2UwYmY5ZDA1OTY0ZTFjNTIxYmU3ZmIyNjNhMjcyYTdlMTYxNzdkYTM1YTkzNjhiM2IifX19";

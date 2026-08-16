@@ -1,0 +1,4 @@
+item = "iron_block";
+name = "Enchanted Iron Block";
+rarity = "RARE";
+category = "ORE";

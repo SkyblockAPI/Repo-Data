@@ -1,0 +1,8 @@
+item = "diamond_hoe";
+name = "Horseman's Scythe";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/broken/broken_hoe";
+rarity = "LEGENDARY";
+stats = {
+  damage: 100
+};

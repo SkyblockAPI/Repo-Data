@@ -1,0 +1,4 @@
+item = "paper";
+name = "Fine Amber Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/amber/fine_amber_gem";
+rarity = "RARE";

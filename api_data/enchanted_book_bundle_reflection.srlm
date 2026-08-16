@@ -1,0 +1,6 @@
+item = "player_head";
+name = "Enchanted Book Bundle";
+skin = "eyJ0aW1lc3RhbXAiOjE1MTgyODYwODY3MjUsInByb2ZpbGVJZCI6IjQzYTgzNzNkNjQyOTQ1MTBhOWFhYjMwZjViM2NlYmIzIiwicHJvZmlsZU5hbWUiOiJTa3VsbENsaWVudFNraW42Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MmFlMTkxMDcwODZkZDMxNGRhZjMxZDg2NjE4ZTUxOTQ4YTZlM2UyMGQ5NmRjYTE3ZDIxYjI1ZDQyZDJiMjQifX19";
+rarity = "UNCOMMON";
+rift_transferrable = true;
+soulbound = "SOLO";

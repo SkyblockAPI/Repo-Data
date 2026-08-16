@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Bat Ring";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDAyMjMyOTU2MSwKICAicHJvZmlsZUlkIiA6ICJjYmYxNGIxMGJhNWU0NzgwYjIyNmFiNmQzOTUxODk4YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJFZ2d5QnV0dG9uMjQxMSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYzc4MzE0MjU1ZDg4NjRhNzUzZmU5NTYyMjU2NDA0NmYwZGVlMmE4MmM2ZTRlMmU3ZjQ1MmZjYjk1YWYzMThjIgogICAgfQogIH0KfQ==";
+rarity = "EPIC";
+stats = {
+  walk_speed: 2,
+  health: 3,
+  intelligence: 2
+};

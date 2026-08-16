@@ -1,0 +1,4 @@
+item = "paper";
+name = "Null Ovoid";
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/enderman/null_ovoid";
+rarity = "RARE";

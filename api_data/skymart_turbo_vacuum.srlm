@@ -1,0 +1,10 @@
+item = "paper";
+name = "SkyMart Turbo Vacuum";
+include("types/vacuum", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/vacuum/skymart_turbo_vacuum";
+rarity = "UNCOMMON";
+stats = {
+  farming_fortune: 10,
+  damage: 150
+};
+requirements.garden = 5;

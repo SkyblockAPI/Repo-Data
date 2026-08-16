@@ -1,0 +1,7 @@
+item = "dead_bush";
+name = "Great Spook Staff";
+this["minecraft:item_model"] = "hypixel_skyblock:item/great_spook/great_spook_staff";
+rarity = "LEGENDARY";
+stats = {
+  fear: 10
+};

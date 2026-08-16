@@ -1,0 +1,4 @@
+item = "player_head";
+name = "Bear Chair";
+skin = "eyJ0aW1lc3RhbXAiOjE1ODcwNzEzODc5OTEsInByb2ZpbGVJZCI6IjgyYzYwNmM1YzY1MjRiNzk4YjkxYTEyZDNhNjE2OTc3IiwicHJvZmlsZU5hbWUiOiJOb3ROb3RvcmlvdXNOZW1vIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMTAwZTE3N2UyNjI0YmE5NDk1ODhlZmY4MTM4OTMzMmVlYzFkMzkwODVhYTExYzA1YjNmNDFjNzAyNDE2ZTg5In19fQ==";
+rarity = "EPIC";

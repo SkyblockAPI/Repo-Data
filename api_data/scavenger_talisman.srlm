@@ -1,0 +1,4 @@
+item = "player_head";
+name = "Scavenger Talisman";
+include("types/accessory", this);
+skin = "eyJ0aW1lc3RhbXAiOjE1MTExODcxOTA2NjgsInByb2ZpbGVJZCI6IjIzZjFhNTlmNDY5YjQzZGRiZGI1MzdiZmVjMTA0NzFmIiwicHJvZmlsZU5hbWUiOiIyODA3Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMTFhYjNhMTEzMmM5ZDFlZjgzNWVhODFkOTcyZWQ5YjVjZDhkZGZmMGEwN2M1NWE3NDliY2ZjZjhkZjUifX19";

@@ -1,0 +1,4 @@
+item = "glowstone";
+name = "Enchanted Glowstone";
+rarity = "UNCOMMON";
+category = "BLOCK";

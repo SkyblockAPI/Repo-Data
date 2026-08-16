@@ -1,0 +1,6 @@
+item = "player_head";
+name = "%%light_purple%%Rift Necklace";
+include("types/necklace", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY0Nzg2ODQ3MDQxOCwKICAicHJvZmlsZUlkIiA6ICIwNjNhMTc2Y2RkMTU0ODRiYjU1MjRhNjQyMGM1YjdhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXZpcGF0dXJ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzljMDg5NDkzMWE1MTAzODdlNGY2MTM4MjhmMDIzOWNhNGQ5MDg1MzQ5OTYzN2Y2MDc5ZDM5MzI3ZjE0NmYwZTkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "MYTHIC";
+soulbound = "SOLO";

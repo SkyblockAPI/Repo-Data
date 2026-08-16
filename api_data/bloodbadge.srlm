@@ -1,0 +1,4 @@
+item = "ink_sack";
+name = "Bloodbadge";
+rarity = "RARE";
+requirements.slayer.vampire = 3;

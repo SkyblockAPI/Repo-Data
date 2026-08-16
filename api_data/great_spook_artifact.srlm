@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Great Spook Artifact";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY2Mzk1OTY1MDI2OSwKICAicHJvZmlsZUlkIiA6ICIwMzdlNzQwNGMyMjk0OTIxOTdkZjBlZWJmYWIyNTNjMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMX0FfWl9FX1JfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E4OWNjMWVkZTc1NTcwOWRlYmI3ZDFmZTdhYjgxMjlhYzg5MDE3ODhkOGQ4NjEzYjAzZWFjMTU3YzIzY2M0OWMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "RARE";
+stats = {
+  fear: 6
+};

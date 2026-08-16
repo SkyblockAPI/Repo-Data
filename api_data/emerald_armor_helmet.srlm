@@ -1,0 +1,7 @@
+item = "leather_helmet";
+name = "Emerald Armor Helmet";
+include("types/helmet", this);
+rarity = "EPIC";
+stats = {
+  defense: 50
+};

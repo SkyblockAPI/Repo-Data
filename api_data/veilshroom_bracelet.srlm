@@ -1,0 +1,11 @@
+item = "paper";
+name = "Veilshroom Bracelet";
+include("types/bracelet", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/equipment/veilshroom_bracelet";
+rarity = "EPIC";
+stats = {
+  foraging_fortune: 25,
+  sweep: 5
+};
+requirements.skill.foraging = 30;
+booster_applicable = true;

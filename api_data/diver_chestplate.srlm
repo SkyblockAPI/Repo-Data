@@ -1,0 +1,12 @@
+item = "gold_chestplate";
+name = "Diver's Shirt";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  health: 200,
+  defense: 100,
+  sea_creature_chance: 2,
+  pressure_resistance: 15,
+  respiration: 3
+};
+requirements.skill.fishing = 20;

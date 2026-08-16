@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Candy Talisman";
+include("types/accessory", this);
+skin = "eyJ0aW1lc3RhbXAiOjE1NzE2OTY2MjM2MzYsInByb2ZpbGVJZCI6ImZkNjBmMzZmNTg2MTRmMTJiM2NkNDdjMmQ4NTUyOTlhIiwicHJvZmlsZU5hbWUiOiJSZWFkIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNmFlOGM0Yzk4M2FjMjRkOTNjNDg0MTdhOTViZWViMWNhMDU1YjliNDk3NjQxNDNjYzk4YzEzOTI1NDhlZWQzIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=";
+rarity = "UNCOMMON";

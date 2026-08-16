@@ -1,0 +1,4 @@
+item = "raw_fish";
+name = "Singing Fish";
+rarity = "SPECIAL";
+soulbound = "COOP";

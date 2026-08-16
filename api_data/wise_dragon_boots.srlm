@@ -1,0 +1,10 @@
+item = "leather_boots";
+name = "Wise Dragon Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 90,
+  health: 60,
+  intelligence: 75
+};
+requirements.skill.combat = 16;

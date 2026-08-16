@@ -1,0 +1,6 @@
+item = "player_head";
+name = "Zombie Ring";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwMjQ3NTQ3MzkxOSwKICAicHJvZmlsZUlkIiA6ICJlZDUzZGQ4MTRmOWQ0YTNjYjRlYjY1MWRjYmE3N2U2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMTAwMDExMDAxMDAwMDExIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU1ZDk5NmNiNWE4ZTVhNzFhMjc0Mjc1ZjQ2OTQ0Yjk0NGVlZWFjZDJlMWNhZGVmOTE4YjA1Yjg3OWEwMzMzNmYiCiAgICB9CiAgfQp9";
+rarity = "UNCOMMON";
+requirements.slayer.zombie = 2;

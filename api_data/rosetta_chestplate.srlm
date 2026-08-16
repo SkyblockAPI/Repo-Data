@@ -1,0 +1,7 @@
+item = "diamond_chestplate";
+name = "Rosetta's Chestplate";
+include("types/chestplate", this);
+rarity = "UNCOMMON";
+stats = {
+  defense: 40
+};

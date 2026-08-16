@@ -1,0 +1,4 @@
+item = "nether_star";
+name = "Nether Star";
+rarity = "LEGENDARY";
+soulbound = "COOP";

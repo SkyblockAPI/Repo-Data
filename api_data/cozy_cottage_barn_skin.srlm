@@ -1,0 +1,4 @@
+item = "hay_block";
+name = "Cozy Cottage Barn Skin";
+include("types/cosmetic", this);
+rarity = "UNCOMMON";

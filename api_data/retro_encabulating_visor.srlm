@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Retro-Encabulating Visor";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY0OTMxNDYyOTc2NSwKICAicHJvZmlsZUlkIiA6ICJlZjJlZDE2NDA4YjU0NWQyYjAwMGM5YmE2Y2Y0MTJhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiYXNlbmVzcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ZTIxYTMxNTEyMWRmMDE5OWFjODMxNjQyZThhNTQ2YWRiYjVlZDM2MTY1MWZmYTRkNjk0NjZkOTkyNzk2MTI4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "MYTHIC";
+stats = {
+  rift_intelligence: -50
+};

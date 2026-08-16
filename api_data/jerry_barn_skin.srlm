@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Jerry Barn Skin";
+include("types/cosmetic", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwOTgxMDIwNzcxMSwKICAicHJvZmlsZUlkIiA6ICI0ZDcwNDg2ZjUwOTI0ZDMzODZiYmZjOWMxMmJhYjRhZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaXJGYWJpb3pzY2hlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ1ZjcyOTczNjk5NmEzOGUxODZmZTlmZTdmNWEwNGIzODdlZDAzZjM4NzFlY2M4MmZhNzhkOGEyYmRkMzExMDkiCiAgICB9CiAgfQp9";
+rarity = "LEGENDARY";

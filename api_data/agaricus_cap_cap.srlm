@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Agaricus Cap Cap";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY2NjAwMjI2MjUyMywKICAicHJvZmlsZUlkIiA6ICJmZTE0M2FhZTVmNGE0YTdiYjM4MzcxM2U1Mjg0YmIxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJKZWZveHk0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE4NDQ2ZDQ5ZTJmZTQ1MzM3Yzg1ODc1NzQzN2YwNDg2OTlhMGRmMzUxMDUxODdhMTk3NDEyMmVhZTliZjdlY2MiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "RARE";
+stats = {
+  rift_time: 50,
+  rift_intelligence: 15
+};

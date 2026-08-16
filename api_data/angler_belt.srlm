@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Angler Belt";
+include("types/belt", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc0MDQxOTM1MDA3MywKICAicHJvZmlsZUlkIiA6ICI5N2VmNDYyMzdhNGY0ZTQxYWY2ZTljYjg2MTdmNzc2OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJZdWthcmlLYXplIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM0NTFhYmQxNWJlZmE5YTQwNDYzODIxNDk5YmY0N2YxMTUzOWYyYzAwZGUwMWJhNDdjMGEwOWU0ZTBlZDhlZjkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "COMMON";
+stats = {
+  fishing_speed: 1,
+  sea_creature_chance: 0.5
+};

@@ -1,0 +1,4 @@
+item = "record_3";
+name = "Firefly in the Hole Vinyl";
+this["minecraft:item_model"] = "minecraft:music_disc_pigstep";
+rarity = "UNCOMMON";

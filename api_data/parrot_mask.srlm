@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Parrot Mask";
+include("types/carnival_mask", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxNDI0NjI2NDM0OCwKICAicHJvZmlsZUlkIiA6ICJmYjZkM2E5Zjk3MWY0ZTdlYmQ0MjE2Yjk0MjE5NDA3NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXJjaXhkZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NGI0M2ZhMzAwMThiMjc5NGNiODJjM2VhYzhhODllODdiMWEyMzA4MGZjZTgwYzUyMjQ2ZTMxYzUzOTQ3YzBkIgogICAgfQogIH0KfQ==";
+rarity = "RARE";
+stats = {
+  health: 1
+};

@@ -1,0 +1,9 @@
+item = "iron_axe";
+name = "Basic Gardening Axe";
+include("types/farming_tool", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/tools/basic_gardening_axe";
+rarity = "UNCOMMON";
+stats = {
+  farming_fortune: 10
+};
+requirements.garden = 4;

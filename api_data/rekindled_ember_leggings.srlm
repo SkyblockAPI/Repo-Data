@@ -1,0 +1,12 @@
+item = "chainmail_leggings";
+name = "Rekindled Ember Leggings";
+include("types/leggings", this);
+rarity = "EPIC";
+stats = {
+  defense: 70,
+  health: 220,
+  intelligence: 5,
+  strength: 30,
+  critical_damage: 20
+};
+requirements.skill.combat = 22;

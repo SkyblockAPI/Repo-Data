@@ -1,0 +1,4 @@
+item = "paper";
+name = "Gemstone Fuel Tank";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/gemstone_fuel_tank";
+rarity = "RARE";

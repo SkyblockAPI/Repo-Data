@@ -1,0 +1,8 @@
+item = "bow";
+name = "Aiming Bow";
+include("types/bow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/broken/broken_bow";
+rarity = "EPIC";
+stats = {
+  damage: 100
+};

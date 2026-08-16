@@ -1,0 +1,7 @@
+item = "player_head";
+name = "Sea Creature Talisman";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MDMzNjU1NiwKICAicHJvZmlsZUlkIiA6ICJlMDc4ODcyZDhmMmM0ODQ1ODlhODg1YjdiZWJmMzA5YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb21pZnRtYyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lYjdhZTRkZDAzODQ1NDNiMzE2MjNlZjE5YzFiM2Y4ODY2Mjk0MjRlZmFlMDA0YjZlYTc1MTk0ZWU5YjlhYTMyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+stats = {
+  sea_creature_chance: 0.1
+};

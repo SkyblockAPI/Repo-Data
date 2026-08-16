@@ -1,0 +1,9 @@
+item = "wood_sword";
+name = "Sword of Revelations";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/diana/sword_of_revelations";
+rarity = "EPIC";
+stats = {
+  damage: 180,
+  strength: 50
+};

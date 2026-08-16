@@ -1,0 +1,11 @@
+item = "arrow";
+name = "Icy Arrow";
+include("types/arrow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/icy_arrow";
+rarity = "RARE";
+stats = {
+  damage: 24
+};
+requirements.skill.combat = 21;
+requirements.collection.ice = 7;
+requirements.target_practice = II;

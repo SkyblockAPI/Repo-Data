@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Coins on Fire!";
+include("types/memento", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY4MjM4NjgxNjMyOCwKICAicHJvZmlsZUlkIiA6ICJkYjJmMTJhMmU5MTI0ZThiODZjZmQyNzU2MDk1N2JhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYWxpYnJlcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81M2U5N2ZhYjQ3NTNiNzViYTViMGMwMzhiZWQzNzdiMTYyYmEyOGI3YTVlMjkwYWJmZDAxOGE1NTgxYWM1Mzg4IgogICAgfQogIH0KfQ==";
+rarity = "SPECIAL";

@@ -1,0 +1,8 @@
+item = "diamond_sword";
+name = "End Sword";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/combat_3/weapons/end_sword";
+rarity = "UNCOMMON";
+stats = {
+  damage: 35
+};

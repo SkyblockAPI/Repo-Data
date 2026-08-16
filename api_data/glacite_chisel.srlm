@@ -1,0 +1,6 @@
+item = "armor_stand";
+name = "Glacite-Plated Chisel";
+include("types/chisel", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/chisel/glacite_plated_chisel";
+rarity = "EPIC";
+requirements.hotm = 9;

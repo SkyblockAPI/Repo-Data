@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Mythos Cloak";
+include("types/cloak", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc1Mjg2OTQ0ODA4MSwKICAicHJvZmlsZUlkIiA6ICJkNGUwNTFjZGRhNDU0NTUxYjk1ZWRiZjdkNTM1ZTA3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGVtZW50YWxfTWF4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ0MjdhNTk4OGUwZjcyMWUyOTRjZmY3ZWNiM2IwOTNmNzlhODRlNWNhZTg4ZGZiZjNlYjYxMWFlMGFhMDQ3MDciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "LEGENDARY";
+stats = {
+  strength: 15,
+  health: 25,
+  defense: 15
+};

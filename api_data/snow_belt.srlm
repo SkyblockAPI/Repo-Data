@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Snow Belt";
+include("types/belt", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY2OTM4OTk2Nzc3NSwKICAicHJvZmlsZUlkIiA6ICJmZTE0M2FhZTVmNGE0YTdiYjM4MzcxM2U1Mjg0YmIxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJKZWZveHk0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JjMDNlODdmYmZhOTAzMjQ4OTRlOTY4YmU5NmI5OTMwZDk5OGVjY2NmNjYzMmRlMDQ3YjNlOWNjNjkxMTFjYzciCiAgICB9CiAgfQp9";
+rarity = "RARE";
+stats = {
+  health: 5,
+  intelligence: 5,
+  walk_speed: 2
+};

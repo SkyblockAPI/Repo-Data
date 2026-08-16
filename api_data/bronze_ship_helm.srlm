@@ -1,0 +1,5 @@
+item = "paper";
+name = "Bronze Ship Helm";
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/ship/bronze_ship_helm";
+rarity = "UNCOMMON";
+soulbound = "SOLO";

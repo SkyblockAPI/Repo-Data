@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Shadow Goggles";
+include("types/helmet", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTU5NTg2NTE2MjgwMiwKICAicHJvZmlsZUlkIiA6ICI3MzgyZGRmYmU0ODU0NTVjODI1ZjkwMGY4OGZkMzJmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4cWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzQ2NWE4NDdlMTE0ZWY2MmU3ODMzY2JmYjJmZTVkZTU3NjRiYWI1ZjEwYWYxMjVmZDJkMzE2MjM4MjY4Mjc5ZiIKICAgIH0KICB9Cn0=";
+rarity = "EPIC";
+stats = {
+  ability_damage_percent: 35,
+  intelligence: 200
+};
+requirements.dungeon_completetion.catacombs = 3;

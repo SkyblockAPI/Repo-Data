@@ -1,0 +1,4 @@
+item = "paper";
+name = "Iridium";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/iridium";
+rarity = "LEGENDARY";

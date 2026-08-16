@@ -1,0 +1,4 @@
+item = "diamond_ore";
+name = "Diamond Ore";
+rarity = "UNCOMMON";
+category = "ORE";

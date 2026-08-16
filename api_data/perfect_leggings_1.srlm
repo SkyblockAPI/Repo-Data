@@ -1,0 +1,7 @@
+item = "diamond_leggings";
+name = "Perfect Leggings - Tier I";
+include("types/leggings", this);
+rarity = "RARE";
+stats = {
+  defense: 140
+};

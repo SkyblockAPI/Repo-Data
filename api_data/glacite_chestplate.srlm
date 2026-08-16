@@ -1,0 +1,11 @@
+item = "leather_chestplate";
+name = "Glacite Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  walk_speed: 15,
+  defense: 150,
+  true_defense: 10,
+  mining_speed: 10,
+  mining_fortune: 5
+};

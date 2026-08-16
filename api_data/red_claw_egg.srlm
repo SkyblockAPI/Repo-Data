@@ -1,0 +1,4 @@
+item = "paper";
+name = "Red Claw Egg";
+this["minecraft:item_model"] = "minecraft:mooshroom_spawn_egg";
+rarity = "EPIC";

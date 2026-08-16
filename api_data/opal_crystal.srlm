@@ -1,0 +1,4 @@
+item = "paper";
+name = "Opal Crystal";
+this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/crystal/opal_crystal";
+rarity = "SPECIAL";

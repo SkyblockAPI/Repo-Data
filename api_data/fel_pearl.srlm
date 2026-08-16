@@ -1,0 +1,5 @@
+item = "paper";
+name = "Fel Pearl";
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/fel_pearl";
+rarity = "RARE";

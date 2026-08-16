@@ -1,0 +1,3 @@
+item = "diamond";
+name = "All Skills Exp Boost";
+include("types/pet_item", this);

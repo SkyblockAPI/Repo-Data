@@ -1,0 +1,4 @@
+item = "paper";
+name = "Flawed Amethyst Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/amethyst/flawed_amethyst_gem";
+rarity = "UNCOMMON";

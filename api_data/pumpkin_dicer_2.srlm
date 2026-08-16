@@ -1,0 +1,7 @@
+item = "gold_axe";
+name = "Pumpkin Dicer Mk. II";
+include("types/farming_tool", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/pumpkin_dicer_2";
+rarity = "RARE";
+requirements.skill.farming = 15;
+requirements.garden = 4;

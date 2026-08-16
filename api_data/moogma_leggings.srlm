@@ -1,0 +1,11 @@
+item = "leather_leggings";
+name = "Moogma Leggings";
+include("types/leggings", this);
+rarity = "RARE";
+stats = {
+  health: 200,
+  defense: 175,
+  sea_creature_chance: 3,
+  critical_damage: 15
+};
+requirements.skill.fishing = 28;

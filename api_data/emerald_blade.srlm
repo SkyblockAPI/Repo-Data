@@ -1,0 +1,8 @@
+item = "emerald";
+name = "Emerald Blade";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/emerald_blade";
+rarity = "EPIC";
+stats = {
+  damage: 130
+};

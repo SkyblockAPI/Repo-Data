@@ -1,0 +1,9 @@
+item = "diamond_pickaxe";
+name = "Diamond Pickaxe";
+include("types/pickaxe", this);
+rarity = "UNCOMMON";
+stats = {
+  breaking_power: 4,
+  damage: 30,
+  mining_speed: 220
+};

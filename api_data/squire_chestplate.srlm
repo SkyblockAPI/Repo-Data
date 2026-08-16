@@ -1,0 +1,10 @@
+item = "iron_chestplate";
+name = "Squire Chestplate";
+include("types/chestplate", this);
+rarity = "UNCOMMON";
+stats = {
+  defense: 40,
+  health: 40,
+  strength: 5
+};
+requirements.skill.combat = 4;

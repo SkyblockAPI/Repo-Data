@@ -1,0 +1,13 @@
+item = "leather_chestplate";
+name = "Hot Crimson Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 82,
+  health: 290,
+  strength: 38,
+  critical_damage: 25,
+  intelligence: 6
+};
+requirements.skill.combat = 27;
+requirements.kuudra.hot = 1;

@@ -1,0 +1,3 @@
+item = "paper";
+name = "Rough Sapphire Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/sapphire/rough_sapphire_gem";

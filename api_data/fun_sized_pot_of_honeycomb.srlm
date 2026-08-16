@@ -1,0 +1,6 @@
+item = "paper";
+name = "Fun-Sized Pot of Honeycomb";
+include("types/consumable", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_fun_sized";
+rarity = "UNCOMMON";
+requirements.collection.honeycomb = 1;

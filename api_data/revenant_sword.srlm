@@ -1,0 +1,11 @@
+item = "diamond_sword";
+name = "Revenant Falchion";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/zombie/weapons/revenant_falchion";
+rarity = "RARE";
+stats = {
+  damage: 90,
+  strength: 50,
+  intelligence: 100
+};
+requirements.slayer.zombie = 3;

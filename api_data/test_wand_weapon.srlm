@@ -1,0 +1,7 @@
+item = "stick";
+name = "Test Rift Wand";
+include("types/wand", this);
+rarity = "RARE";
+stats = {
+  rift_damage: 20
+};

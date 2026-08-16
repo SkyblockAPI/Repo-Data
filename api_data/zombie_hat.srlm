@@ -1,0 +1,6 @@
+item = "zombie_head";
+name = "Zombie Hat";
+include("types/helmet", this);
+stats = {
+  defense: 10
+};

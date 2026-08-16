@@ -1,0 +1,10 @@
+item = "leather_boots";
+name = "Final Destination Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 100,
+  health: 100,
+  intelligence: 100
+};
+requirements.slayer.enderman = 3;

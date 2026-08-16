@@ -1,0 +1,4 @@
+item = "paper";
+name = "Omega Enchanted Egg";
+this["minecraft:item_model"] = "minecraft:ghast_spawn_egg";
+rarity = "EPIC";

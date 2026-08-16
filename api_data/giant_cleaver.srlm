@@ -1,0 +1,12 @@
+item = "gold_sword";
+name = "Giant Cleaver";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/giant_cleaver";
+rarity = "LEGENDARY";
+stats = {
+  damage: 235,
+  strength: 120,
+  critical_damage: 120
+};
+requirements.dungeon_completetion.catacombs = 6;

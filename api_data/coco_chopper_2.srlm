@@ -1,0 +1,7 @@
+item = "gold_axe";
+name = "Cocoa Chopper Mk. II";
+include("types/farming_tool", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/jacob/coco_chopper_2";
+rarity = "RARE";
+requirements.skill.farming = 15;
+requirements.garden = 8;

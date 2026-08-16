@@ -1,0 +1,4 @@
+item = "empty_map";
+name = "Travel Scroll to Howling Cave";
+include("types/travel_scroll", this);
+rarity = "EPIC";

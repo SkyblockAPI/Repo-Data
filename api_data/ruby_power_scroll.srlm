@@ -1,0 +1,4 @@
+item = "paper";
+name = "Ruby Power Scroll";
+this["minecraft:item_model"] = "minecraft:writable_book";
+rarity = "EPIC";

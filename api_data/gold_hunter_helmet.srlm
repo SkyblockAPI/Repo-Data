@@ -1,0 +1,9 @@
+item = "gold_helmet";
+name = "Gold Hunter Helmet";
+include("types/helmet", this);
+rarity = "EPIC";
+stats = {
+  health: 100
+};
+requirements.trophy.LAVA = "GOLD";
+soulbound = "SOLO";

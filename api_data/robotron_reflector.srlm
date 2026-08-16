@@ -1,0 +1,4 @@
+item = "paper";
+name = "Robotron Reflector";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/robotron_reflector";
+rarity = "RARE";

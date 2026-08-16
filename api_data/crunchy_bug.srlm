@@ -1,0 +1,5 @@
+item = "paper";
+name = "Crunchy Bug";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/crunchy_bug";
+rarity = "RARE";
+soulbound = "SOLO";

@@ -1,0 +1,4 @@
+item = "paper";
+name = "Null Blade";
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/enderman/crafts/null_blade";
+rarity = "LEGENDARY";

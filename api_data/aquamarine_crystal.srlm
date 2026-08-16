@@ -1,0 +1,4 @@
+item = "paper";
+name = "Aquamarine Crystal";
+this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/crystal/aquamarine_crystal";
+rarity = "SPECIAL";

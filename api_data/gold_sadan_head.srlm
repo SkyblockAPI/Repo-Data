@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Golden Sadan Head";
+include("types/helmet", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYyNDEyNDIxMTUxNiwKICAicHJvZmlsZUlkIiA6ICJiNTM5NTkyMjMwY2I0MmE0OWY5YTRlYmYxNmRlOTYwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXJpYW5hZmFnIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3NjZhMGQyMWQyNjFjODc4NzYzY2E4MjY0Y2QyZGQwYjE3ZWNmYWMzNDI0MTFkYjA3ODg2YjA3OGU2Y2IwMTMiCiAgICB9CiAgfQp9";
+rarity = "SPECIAL";
+stats = {
+  defense: 35,
+  health: 70,
+  strength: 15
+};
+requirements.dungeon_completetion.catacombs = 6;
+soulbound = "COOP";

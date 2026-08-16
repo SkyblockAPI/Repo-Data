@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Helix Helmet";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjkyODQwNiwKICAicHJvZmlsZUlkIiA6ICJkODYwY2JiYWM0Njg0ODhjOWI4MTY3MGVjZjQ5OGRmMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDb2FzdGxpbmVDcmVhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IyYWQyMzViOTQ1OGNjMjZjOWRkNzk0YTM1YzExMDBlMWI1YmJlNGEwYzZjM2RhNmZmZDQ4MzAwMDY2ODNjYjkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "EPIC";
+stats = {
+  health: 100,
+  defense: 35,
+  foraging_fortune: 45,
+  sweep: 20
+};
+requirements.skill.foraging = 25;
+booster_applicable = true;

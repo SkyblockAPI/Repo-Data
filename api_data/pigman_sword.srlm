@@ -1,0 +1,14 @@
+item = "gold_sword";
+name = "Pigman Sword";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/pigman_sword";
+rarity = "LEGENDARY";
+stats = {
+  damage: 200,
+  strength: 100,
+  critical_damage: 30,
+  critical_chance: 5,
+  weapon_ability_damage: 30000,
+  intelligence: 300
+};
+requirements.dungeons.catacombs = 18;

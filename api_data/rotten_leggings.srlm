@@ -1,0 +1,10 @@
+item = "leather_leggings";
+name = "Rotten Leggings";
+include("types/leggings", this);
+include("types/dungeon", this);
+rarity = "RARE";
+requirements.dungeons.catacombs = 1;
+tiered_stats = {
+  health: [110, 120, 131, 142, 155, 169, 184, 201, 219, 239],
+  strength: [15, 16, 18, 19, 21, 23, 25, 27, 30, 33]
+};

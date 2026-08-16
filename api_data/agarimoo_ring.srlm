@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Agarimoo Ring";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY3OTc3MzU2MjMwOCwKICAicHJvZmlsZUlkIiA6ICJiNTAwOGEyMGJkY2U0YjJlOTU5NWZlNzY2MDlmYjUzNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNT1JJU3hTVE9QQkFOIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QzZWJmMzhiNGE3MDhlYjAwNzQ1ZDFmYjg3YTUzY2I4MWE3YWY2Y2MxNzhkOWEyYzExMTZjMmNiY2ZmOTRmZWEiCiAgICB9CiAgfQp9";
+rarity = "UNCOMMON";
+stats = {
+  fishing_wisdom: 1,
+  fishing_speed: 2
+};

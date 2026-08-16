@@ -1,0 +1,7 @@
+item = "diamond_pickaxe";
+name = "Dungeonbreaker";
+rarity = "SPECIAL";
+stats = {
+  walk_speed: 20
+};
+category = "%%red%%%%bold%%DUNGEON PICKAXE";

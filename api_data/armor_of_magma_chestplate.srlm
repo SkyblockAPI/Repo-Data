@@ -1,0 +1,8 @@
+item = "leather_chestplate";
+name = "Armor of Magma Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  defense: 30,
+  health: 100
+};

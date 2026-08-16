@@ -1,0 +1,5 @@
+item = "ender_pearl";
+name = "Spirit Leap";
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/dungeons/spirit_leap";
+rarity = "RARE";

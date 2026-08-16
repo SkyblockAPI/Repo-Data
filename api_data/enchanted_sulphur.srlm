@@ -1,0 +1,5 @@
+item = "glowstone_dust";
+name = "Enchanted Sulphur";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/sulphur";
+rarity = "RARE";
+category = "ORE";

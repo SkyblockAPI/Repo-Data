@@ -1,0 +1,9 @@
+item = "leather_leggings";
+name = "Wizardman Leggings";
+include("types/leggings", this);
+rarity = "MYTHIC";
+stats = {
+  rift_time: 100,
+  rift_health: 1,
+  rift_mana_regen: 8
+};

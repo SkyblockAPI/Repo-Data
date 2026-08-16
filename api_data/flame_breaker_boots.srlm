@@ -1,0 +1,12 @@
+item = "chainmail_boots";
+name = "Flamebreaker Boots";
+include("types/boots", this);
+rarity = "EPIC";
+stats = {
+  defense: 35,
+  health: 35,
+  mining_fortune: 15,
+  mining_speed: 25,
+  heat_resistance: 5
+};
+requirements.collection.hard_stone = 5;

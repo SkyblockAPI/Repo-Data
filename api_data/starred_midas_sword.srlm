@@ -1,0 +1,9 @@
+item = "gold_sword";
+name = "Midas' Sword";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/midas_sword_fragged";
+rarity = "LEGENDARY";
+stats = {
+  damage: 170
+};
+requirements.skill.combat = 20;

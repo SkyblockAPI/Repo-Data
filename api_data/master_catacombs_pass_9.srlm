@@ -1,0 +1,6 @@
+item = "player_head";
+name = "Master Catacombs Pass IX";
+include("types/dungeon_pass", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYxNzExMDc4MTM4OCwKICAicHJvZmlsZUlkIiA6ICJmZDYwZjM2ZjU4NjE0ZjEyYjNjZDQ3YzJkODU1Mjk5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FjM2Q0NWZmNjcyOTg4YjQ2MzU4MTM3YmUzMmMzYzlhZGZkOWE2MjkxOTVjMmI2NDgxNGE5MzQ5OWRkNjYwNiIKICAgIH0KICB9Cn0=";
+rarity = "LEGENDARY";

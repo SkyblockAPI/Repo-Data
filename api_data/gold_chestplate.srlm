@@ -1,0 +1,6 @@
+item = "gold_chestplate";
+name = "Golden Chestplate";
+include("types/chestplate", this);
+stats = {
+  defense: 25
+};

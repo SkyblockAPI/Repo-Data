@@ -1,0 +1,11 @@
+item = "leather_boots";
+name = "Skeleton Grunt Boots";
+include("types/boots", this);
+include("types/dungeon", this);
+rarity = "EPIC";
+requirements.dungeons.catacombs = 1;
+tiered_stats = {
+  defense: [20, 23, 23, 26, 29, 31, 34, 37, 40, 43],
+  health: [23, 24, 24, 26, 27, 29, 31, 33, 34, 36],
+  critical_damage: [15, 16, 18, 19, 21, 23, 24, 27, 29, 32]
+};

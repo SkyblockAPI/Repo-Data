@@ -1,0 +1,4 @@
+item = "paper";
+name = "Fine Flour";
+this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/finnegan/fine_flour";
+rarity = "UNCOMMON";

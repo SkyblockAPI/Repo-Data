@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Anguish Ring";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc1MTU4MDI5MDA1MywKICAicHJvZmlsZUlkIiA6ICI4MWU4ZWU1MTE1ZmE0NzU5OTU1YTAzMThkNTNhNjViYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDb25zaWRlclRoYXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzNkZTNkMGUwZDdkMjM0NWE5MDIzMDUxOTYwMTI4NzQ0MTEwNDBlYmUyYzRlOTVmYjI1ODdkZDRkMWMwOWYzNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
+rarity = "EPIC";
+stats = {
+  magic_find: 2,
+  true_defense: 1
+};

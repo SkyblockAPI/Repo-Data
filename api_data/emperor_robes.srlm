@@ -1,0 +1,6 @@
+item = "leather_chestplate";
+name = "Emperor Robes";
+include("types/chestplate", this);
+stats = {
+  defense: 500
+};

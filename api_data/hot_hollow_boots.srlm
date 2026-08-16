@@ -1,0 +1,13 @@
+item = "leather_boots";
+name = "Hot Hollow Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 6,
+  defense: 56,
+  health: 188,
+  intelligence: 107,
+  mending: 6
+};
+requirements.skill.combat = 27;
+requirements.kuudra.hot = 1;

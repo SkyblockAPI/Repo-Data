@@ -1,0 +1,5 @@
+item = "cooked_fish";
+name = "Dead Cat Food";
+include("types/pet_item", this);
+rarity = "RARE";
+rift_transferrable = true;

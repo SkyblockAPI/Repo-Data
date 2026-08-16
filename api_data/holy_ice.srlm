@@ -1,0 +1,4 @@
+item = "diamond";
+name = "Holy Ice";
+rarity = "RARE";
+requirements.slayer.vampire = 1;

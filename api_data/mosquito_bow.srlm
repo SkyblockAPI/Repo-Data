@@ -1,0 +1,12 @@
+item = "bow";
+name = "Mosquito Shortbow";
+include("types/bow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/spider/weapons/mosquito_shortbow";
+rarity = "LEGENDARY";
+stats = {
+  damage: 319,
+  strength: 151,
+  critical_damage: 39,
+  vitality: 20
+};
+requirements.slayer.spider = 7;

@@ -1,0 +1,9 @@
+item = "bow";
+name = "Slime Bow";
+include("types/bow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/slime_bow";
+rarity = "EPIC";
+stats = {
+  damage: 100,
+  critical_damage: 50
+};

@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Gravity Talisman";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzNzU0Mjc1MywKICAicHJvZmlsZUlkIiA6ICJiNzQ3OWJhZTI5YzQ0YjIzYmE1NjI4MzM3OGYwZTNjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTeWxlZXgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjE2ZjRhYzhhMDY5OGFiMDdiYjBhNWVmNjlkYzA4ZGFlZGQ4ZjU5NzJlN2ExMjM3YzhjNTYzNjFlM2YyMDRjYSIKICAgIH0KICB9Cn0=";
+rarity = "UNCOMMON";

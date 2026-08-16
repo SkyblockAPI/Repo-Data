@@ -1,0 +1,10 @@
+item = "leather_leggings";
+name = "Charlie's Trousers";
+include("types/leggings", this);
+rarity = "COMMON";
+stats = {
+  health: 45,
+  defense: 15,
+  foraging_fortune: 6
+};
+soulbound = "SOLO";

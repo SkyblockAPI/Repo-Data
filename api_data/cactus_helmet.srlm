@@ -1,0 +1,8 @@
+item = "leather_helmet";
+name = "Cactus Helmet";
+include("types/helmet", this);
+stats = {
+  defense: 10,
+  health: 5
+};
+requirements.skill.farming = 5;

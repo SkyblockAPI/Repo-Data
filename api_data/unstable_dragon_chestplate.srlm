@@ -1,0 +1,11 @@
+item = "leather_chestplate";
+name = "Unstable Dragon Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 160,
+  health: 120,
+  critical_damage: 15,
+  critical_chance: 5
+};
+requirements.skill.combat = 16;

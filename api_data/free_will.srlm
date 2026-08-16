@@ -1,0 +1,5 @@
+item = "blaze_powder";
+name = "Free Will";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/rift/zones/mountaintop/misc/free_will";
+rarity = "LEGENDARY";
+rift_transferrable = true;

@@ -1,0 +1,4 @@
+item = "paper";
+name = "Frogspawn Bucket";
+this["minecraft:item_model"] = "minecraft:tadpole_bucket";
+rarity = "MYTHIC";

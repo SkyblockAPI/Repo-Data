@@ -1,0 +1,3 @@
+item = "gold_plate";
+name = "Parkour Start/End";
+requirements.skill.social = 1;

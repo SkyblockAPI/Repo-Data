@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Vampire Dentist Relic";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY2NTU0NTY1NDAyNywKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlkMDZkOWEwNGE1YTc3MjA2MTRlOTM0Yzc1YzZiNjUxZjBlYmFiZWEzYTc0NjFmMWM3NDEwNWM3YTJhMGU2NzIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "LEGENDARY";
+rift_transferrable = true;
+stats = {
+  health_regeneration: 5,
+  vitality: 1,
+  rift_time: 30,
+  rift_health: 1
+};
+requirements.slayer.vampire = 5;

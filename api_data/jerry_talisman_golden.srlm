@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Golden Jerry Artifact";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYxMDU4NTg0NjQ0MSwKICAicHJvZmlsZUlkIiA6ICI2OTBkMDM2OGM2NTE0OGM5ODZjMzEwN2FjMmRjNjFlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5emZyXzciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzk2NGY2MDZmZWNjMzI0NTFmYmRlZDFiNmY1ZDRmMjJkYjhmMDE4ZjdkOGRiNzhiMTIyY2E3NWY5ZDFjMDU3NCIKICAgIH0KICB9Cn0=";
+rarity = "LEGENDARY";
+stats = {
+  intelligence: -4
+};

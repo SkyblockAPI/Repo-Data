@@ -1,0 +1,11 @@
+item = "leather_chestplate";
+name = "Reaper Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 70,
+  health: 180,
+  strength: 25,
+  intelligence: 250
+};
+requirements.slayer.zombie = 7;

@@ -1,0 +1,11 @@
+item = "iron_sword";
+name = "Golem Sword";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/golem_sword";
+rarity = "RARE";
+stats = {
+  defense: 25,
+  damage: 80,
+  strength: 125,
+  weapon_ability_damage: 250
+};

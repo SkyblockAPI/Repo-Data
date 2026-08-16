@@ -1,0 +1,8 @@
+item = "leather_boots";
+name = "Squid Boots";
+include("types/boots", this);
+rarity = "UNCOMMON";
+stats = {
+  health: 100,
+  sea_creature_chance: 1
+};

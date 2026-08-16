@@ -1,0 +1,9 @@
+item = "bow";
+name = "Venom's Touch";
+include("types/bow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/venoms_touch";
+rarity = "EPIC";
+stats = {
+  damage: 250,
+  strength: 100
+};

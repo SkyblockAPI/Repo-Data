@@ -1,0 +1,8 @@
+item = "diamond_boots";
+name = "Miner Boots";
+include("types/boots", this);
+rarity = "RARE";
+stats = {
+  defense: 15,
+  mining_speed: 10
+};

@@ -1,0 +1,11 @@
+item = "leather_boots";
+name = "Fiery Aurora Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 80,
+  health: 260,
+  intelligence: 350
+};
+requirements.skill.combat = 37;
+requirements.kuudra.fiery = 1;

@@ -1,0 +1,4 @@
+item = "redstone";
+name = "Enchanted Redstone Dust";
+rarity = "UNCOMMON";
+category = "ORE";

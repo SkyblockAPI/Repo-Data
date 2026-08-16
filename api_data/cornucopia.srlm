@@ -1,0 +1,4 @@
+item = "paper";
+name = "Cornucopia";
+this["minecraft:item_model"] = "minecraft:nautilus_shell";
+rarity = "UNCOMMON";

@@ -1,0 +1,5 @@
+item = "gold_hoe";
+name = "Wand of Farming";
+include("types/wand", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/rift/zones/dreadfarm/wand_of_farming";
+rarity = "RARE";

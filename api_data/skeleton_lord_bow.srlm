@@ -1,0 +1,12 @@
+item = "bow";
+name = "Skeleton Lord Bow";
+include("types/bow", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/broken/broken_bow";
+rarity = "EPIC";
+requirements.dungeons.catacombs = 30;
+tiered_stats = {
+  damage: [109, 119, 129, 140, 152, 166, 180, 135, 146, 159],
+  strength: [18, 20, 21, 23, 25, 28, 30, 37, 40, 44],
+  critical_damage: [36, 40, 43, 47, 51, 55, 60, 22, 24, 26]
+};

@@ -1,0 +1,11 @@
+item = "leather_chestplate";
+name = "Hot Aurora Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 82,
+  health: 290,
+  intelligence: 221
+};
+requirements.skill.combat = 27;
+requirements.kuudra.hot = 1;

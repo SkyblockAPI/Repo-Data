@@ -1,0 +1,12 @@
+item = "player_head";
+name = "Wither Helmet";
+include("types/helmet", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY4OTY4MzY3MDM4NywKICAicHJvZmlsZUlkIiA6ICJkNzU2OTc4MWUyYjY0OWIyYjVlMjVlYTJhNDZkOGQxOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEckthcGRvciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82OTExMjk0MDk3ODk1ODlhZTFiNDNlMWQ4MjhjMDZmYzlhMjEzYjc4MzQ4YTY4YjczMTNiZGQ0MDFkNzQ4NWNjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "LEGENDARY";
+stats = {
+  defense: 100,
+  health: 200,
+  intelligence: 30
+};
+requirements.dungeon_completetion.catacombs = 7;

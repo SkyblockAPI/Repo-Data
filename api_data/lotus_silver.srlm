@@ -1,0 +1,4 @@
+item = "paper";
+name = "Silver Lotus";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/lotus/silver_lotus";
+rarity = "RARE";

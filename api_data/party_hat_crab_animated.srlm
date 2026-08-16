@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Crab Hat of Celebration - 2022 Edition";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYzMjY5NDY2OTQ2MCwKICAicHJvZmlsZUlkIiA6ICJiNzVjZDRmMThkZjg0MmNlYjJhY2MxNTU5MTNiMjA0YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLcmlzdGlqb25hczEzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJkODdhNTlhYmRjMTJmZDlhNWVjODY1YmU2ZmM0ZDU3MWM4YzlhMjc4ZjQzNDIxNGE0NDJiMThlZDdiMDQ1N2MiCiAgICB9CiAgfQp9";
+rarity = "SPECIAL";
+stats = {
+  magic_find: 1
+};

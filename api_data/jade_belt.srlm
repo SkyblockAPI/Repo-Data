@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Jade Belt";
+include("types/belt", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU0NjYzMSwKICAicHJvZmlsZUlkIiA6ICJiZDNhNWRmY2ZkZjg0NDczOTViZDJiZmUwNGY0YzAzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJwcmVja3Jhc25vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdlZDMwYmEwNDM1MzA3YmYwNGExNTA0YzU4NmE4ZmZkNzk0OWMwNjg0YjBmMDE1NmFhOTNmYjkyMWNjNmRmMDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "EPIC";
+stats = {
+  mining_speed: 30,
+  mining_fortune: 10
+};
+requirements.hotm = 5;

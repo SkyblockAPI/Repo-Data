@@ -1,0 +1,5 @@
+item = "paper";
+name = "Gateway Wand";
+include("types/wand", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/broken/broken_wand";
+rarity = "RARE";

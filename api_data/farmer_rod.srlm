@@ -1,0 +1,11 @@
+item = "fishing_rod";
+name = "Farmer's Rod";
+include("types/fishing_rod", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/rod/broken_rod";
+rarity = "UNCOMMON";
+stats = {
+  damage: 50,
+  strength: 20,
+  fishing_speed: 60
+};
+requirements.skill.fishing = 8;

@@ -1,0 +1,9 @@
+item = "iron_boots";
+name = "Silver Hunter Boots";
+include("types/boots", this);
+rarity = "RARE";
+stats = {
+  health: 50
+};
+requirements.trophy.LAVA = "SILVER";
+soulbound = "SOLO";

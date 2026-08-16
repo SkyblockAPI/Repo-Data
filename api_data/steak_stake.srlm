@@ -1,0 +1,6 @@
+item = "cooked_mutton";
+name = "Steak Stake";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/rift/zones/castle/steak_stake";
+rarity = "RARE";
+requirements.slayer.vampire = 2;

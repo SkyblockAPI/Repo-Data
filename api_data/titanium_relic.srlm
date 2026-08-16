@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Titanium Relic";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYxMDQ4MDgxMjk0NSwKICAicHJvZmlsZUlkIiA6ICI0ZTMwZjUwZTdiYWU0M2YzYWZkMmE3NDUyY2ViZTI5YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJfdG9tYXRvel8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDJmMjQwNWE3YjhkZWZkZGIwYjgyNjhiZWE4ZjJlMTJmYzA5YmJjN2RlMTI5ODFmODVkYjJhNzAwMWFjODFlYiIKICAgIH0KICB9Cn0=";
+rarity = "LEGENDARY";
+stats = {
+  mining_speed: 60
+};
+requirements.hotm = 5;

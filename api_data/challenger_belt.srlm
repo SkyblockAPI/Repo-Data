@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Challenger's Belt";
+include("types/belt", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc1MjUyMjI0ODcyMSwKICAicHJvZmlsZUlkIiA6ICI5MjI1NDBlMTRjZjI0NDI3YmExYmZjOTk3NWVmNGQ0YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfRmxhbnR5XyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMzIxYTRjMjhjNmM0MDYyMmU5NzI0MmViNjY1ZDY4YmIwN2I4OGNjMTM3MTBhNjM4OGMyNTMzMjNkZjJlZDBkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "EPIC";
+stats = {
+  strength: 5,
+  health: 20,
+  defense: 10
+};

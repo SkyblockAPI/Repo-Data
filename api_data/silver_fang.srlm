@@ -1,0 +1,5 @@
+item = "ghast_tear";
+name = "Silver Fang";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/silver_fang";
+rarity = "UNCOMMON";
+rift_transferrable = true;

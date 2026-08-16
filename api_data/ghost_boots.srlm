@@ -1,0 +1,4 @@
+item = "leather_boots";
+name = "Ghostly Boots";
+include("types/boots", this);
+rarity = "RARE";

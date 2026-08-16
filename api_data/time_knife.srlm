@@ -1,0 +1,6 @@
+item = "nether_star";
+name = "Time Shuriken";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/rift/weapons/time_shuriken";
+rarity = "SPECIAL";
+soulbound = "SOLO";

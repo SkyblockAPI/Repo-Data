@@ -1,0 +1,4 @@
+item = "nether_star";
+name = "Eternal Crystal";
+include("types/accessory", this);
+rarity = "EPIC";

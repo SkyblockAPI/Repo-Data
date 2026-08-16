@@ -1,0 +1,12 @@
+item = "leather_boots";
+name = "Helix Boots";
+include("types/boots", this);
+rarity = "EPIC";
+stats = {
+  health: 85,
+  defense: 30,
+  foraging_fortune: 45,
+  sweep: 20
+};
+requirements.skill.foraging = 25;
+booster_applicable = true;

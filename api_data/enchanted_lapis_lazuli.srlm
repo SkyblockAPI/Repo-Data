@@ -1,0 +1,4 @@
+item = "ink_sack";
+name = "Enchanted Lapis Lazuli";
+rarity = "UNCOMMON";
+category = "ORE";

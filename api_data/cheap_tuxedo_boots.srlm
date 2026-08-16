@@ -1,0 +1,8 @@
+item = "leather_boots";
+name = "Cheap Tuxedo Oxfords";
+include("types/boots", this);
+rarity = "EPIC";
+stats = {
+  critical_damage: 25,
+  intelligence: 25
+};

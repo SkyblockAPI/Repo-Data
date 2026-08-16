@@ -1,0 +1,9 @@
+item = "iron_boots";
+name = "Boots of the Pack";
+include("types/boots", this);
+rarity = "EPIC";
+stats = {
+  defense: 45,
+  health: 50
+};
+requirements.slayer.wolf = 6;

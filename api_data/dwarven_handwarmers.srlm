@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Dwarven Handwarmers";
+include("types/gloves", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcwOTA2MTI0Njg1MywKICAicHJvZmlsZUlkIiA6ICJjYTU4NzNhYmY0Y2U0YWUxODAxZmVmODgzNjhlMWExNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZXRocm9uZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzMwMWQ5ZjliNmYxOGRkZWVjYzU3YjUyMjkxNmNjNzU2NmMzOTdkNjQ5ZjIzYzMxOGUzZjVlZjY3Y2JjZjI2NiIKICAgIH0KICB9Cn0=";
+rarity = "EPIC";
+stats = {
+  mining_speed: 45,
+  mining_fortune: 30,
+  cold_resistance: 5
+};
+requirements.hotm = 8;

@@ -1,0 +1,13 @@
+item = "leather_boots";
+name = "Fiery Crimson Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 80,
+  health: 260,
+  strength: 60,
+  critical_damage: 40,
+  intelligence: 10
+};
+requirements.skill.combat = 37;
+requirements.kuudra.fiery = 1;

@@ -1,0 +1,11 @@
+item = "bow";
+name = "Spider Shortbow";
+include("types/bow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/spider/weapons/spider_shortbow";
+rarity = "EPIC";
+stats = {
+  damage: 50,
+  strength: 25,
+  critical_chance: 10
+};
+requirements.slayer.spider = 3;

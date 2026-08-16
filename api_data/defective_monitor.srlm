@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Defective Monitor";
+include("types/accessory", this);
+skin = "eyJ0aW1lc3RhbXAiOjE1NjAxMDA0NTg2ODMsInByb2ZpbGVJZCI6ImZkNjBmMzZmNTg2MTRmMTJiM2NkNDdjMmQ4NTUyOTlhIiwicHJvZmlsZU5hbWUiOiJSZWFkIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMDFhOWNhMzEwZmI5NmU2YzBhYWEzZWExZDA1ODVmMmY0MTc2NWQ2YWE5OTcwM2JmODYxZjJlNzY5ZDI0ZGM1In19fQ==";
+rarity = "EPIC";
+stats = {
+  rift_intelligence: 6,
+  rift_time: 60
+};

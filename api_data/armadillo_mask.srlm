@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Armadillo Mask";
+include("types/carnival_mask", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxNDI0NjIwMjU0NSwKICAicHJvZmlsZUlkIiA6ICIyNDc2OWQ0ODM1MDU0N2JmYjg4OThiZTJlYzQ5ODZiMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBaXJidXNfQTM4TyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MjU5YTM0MmJlNGYxMzk5MzM0YzlhNDBlYzI1MDBiODFkMWU3M2FmZThmMjk2ZmU3NjcxMjVkZWRlYzM4ZTRmIgogICAgfQogIH0KfQ==";
+rarity = "RARE";
+stats = {
+  health: 1
+};

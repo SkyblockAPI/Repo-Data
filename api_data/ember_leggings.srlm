@@ -1,0 +1,10 @@
+item = "chainmail_leggings";
+name = "Ember Leggings";
+include("types/leggings", this);
+rarity = "EPIC";
+stats = {
+  defense: 55,
+  health: 60,
+  intelligence: 5
+};
+requirements.skill.combat = 8;

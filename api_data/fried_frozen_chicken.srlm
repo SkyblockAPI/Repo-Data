@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Fried Frozen Chicken";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTczOTY2NjM2NDgyNCwKICAicHJvZmlsZUlkIiA6ICI1OWJlOTUyY2EyNjc0OWE4OTM1YmQ5MGQxNmMyN2M4OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVQZW5zcGlubmV1ciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZGYzMDExNmYyNTRmNjAxNjdjZWU0MTM3MTIyNzgzZDJiNGE0Y2NjMzYzNzMwNzdkNTA3MzUyNDI0MDQ1Y2U0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "EPIC";
+stats = {
+  walk_speed: 1,
+  heat_resistance: 1,
+  cold_resistance: 1
+};
+soulbound = "SOLO";

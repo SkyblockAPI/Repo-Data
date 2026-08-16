@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Diver's Mask";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwNTgzMzM4NTA4OSwKICAicHJvZmlsZUlkIiA6ICJmMjc0YzRkNjI1MDQ0ZTQxOGVmYmYwNmM3NWIyMDIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJIeXBpZ3NlbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kOGYxMWMyYjFlYjA1NjhjYWM2NGY5NzZlNTBlMGU0NWYzYzA5YTY1ODAxZTdlZDcyNzM0YjFhOTlmMTYwNmNhIgogICAgfQogIH0KfQ==";
+rarity = "EPIC";
+stats = {
+  health: 150,
+  defense: 60,
+  sea_creature_chance: 2,
+  pressure_resistance: 15,
+  respiration: 3
+};
+requirements.skill.fishing = 20;

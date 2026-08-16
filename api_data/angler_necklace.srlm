@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Angler Necklace";
+include("types/necklace", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc0MDQxOTM0NjU2MywKICAicHJvZmlsZUlkIiA6ICJhNzdkNmQ2YmFjOWE0NzY3YTFhNzU1NjYxOTllYmY5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwOEJFRDUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTFiM2Q3OTgzODg1Nzg4NzY5YzkwMTMyYjQzNDNmMzQ0MmRkYjQyMGQ0NmJjODBkMWEzNzEzYTRiMjFmZjk5YyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
+rarity = "COMMON";
+stats = {
+  fishing_speed: 1,
+  sea_creature_chance: 0.5
+};

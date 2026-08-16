@@ -1,0 +1,10 @@
+item = "leather_chestplate";
+name = "Zombie Soldier Chestplate";
+include("types/chestplate", this);
+include("types/dungeon", this);
+rarity = "EPIC";
+requirements.dungeons.catacombs = 9;
+tiered_stats = {
+  defense: [81, 89, 98, 108, 119, 130, 143, 157, 173, 190],
+  health: [43, 47, 52, 57, 62, 69, 75, 83, 91, 100]
+};

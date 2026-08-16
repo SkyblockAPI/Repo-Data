@@ -1,0 +1,12 @@
+item = "bow";
+name = "Terminator";
+include("types/bow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/enderman/weapons/terminator";
+rarity = "LEGENDARY";
+stats = {
+  damage: 310,
+  strength: 50,
+  attack_speed: 40,
+  critical_damage: 250
+};
+requirements.slayer.enderman = 7;

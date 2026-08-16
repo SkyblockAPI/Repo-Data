@@ -1,0 +1,9 @@
+item = "bow";
+name = "Hurricane Bow";
+include("types/bow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/hurricane_bow";
+rarity = "EPIC";
+stats = {
+  damage: 120,
+  strength: 50
+};

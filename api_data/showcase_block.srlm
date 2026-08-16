@@ -1,0 +1,4 @@
+item = "glass";
+name = "Showcase Block";
+rarity = "UNCOMMON";
+requirements.skill.social = 10;

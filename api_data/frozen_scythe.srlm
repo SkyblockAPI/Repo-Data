@@ -1,0 +1,9 @@
+item = "iron_hoe";
+name = "Frozen Scythe";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/winter/weapons/frozen_scythe";
+rarity = "RARE";
+stats = {
+  damage: 80,
+  weapon_ability_damage: 1000
+};

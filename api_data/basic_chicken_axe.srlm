@@ -1,0 +1,8 @@
+item = "wood_axe";
+name = "Basic Chicken Axe";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/basic_chicken_axe";
+rarity = "COMMON";
+stats = {
+  damage: 10
+};

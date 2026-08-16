@@ -1,0 +1,12 @@
+item = "leather_boots";
+name = "Tater Boots";
+include("types/boots", this);
+rarity = "UNCOMMON";
+stats = {
+  farming_fortune: 15,
+  walk_speed: 2,
+  health: 100,
+  defense: 25,
+  bonus_pest_chance: 10
+};
+requirements.skill.farming = 20;

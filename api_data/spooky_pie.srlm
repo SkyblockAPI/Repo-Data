@@ -1,0 +1,4 @@
+item = "pumpkin_pie";
+name = "Spooky Pie";
+rarity = "SPECIAL";
+soulbound = "COOP";

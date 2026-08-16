@@ -1,0 +1,8 @@
+item = "leather_boots";
+name = "Snow Suit Boots";
+include("types/boots", this);
+rarity = "EPIC";
+stats = {
+  defense: 25,
+  health: 65
+};

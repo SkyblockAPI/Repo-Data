@@ -1,0 +1,14 @@
+item = "player_head";
+name = "Hot Terror Helmet";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDEyNzczOCwKICAicHJvZmlsZUlkIiA6ICJmYzUwMjkzYTVkMGI0NzViYWYwNDJhNzIwMWJhMzBkMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JkZWEzMGUzMDU0ODM3MTNhYzlhNTI5NWFlNjk4ZDQxMDk3NjZjOWFlMmJjNzQ0YWM1OGY2YmI0Y2Y5M2E5ZjEiCiAgICB9CiAgfQp9";
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 15,
+  defense: 63,
+  health: 202,
+  critical_damage: 63,
+  intelligence: 19
+};
+requirements.skill.combat = 27;
+requirements.kuudra.hot = 1;

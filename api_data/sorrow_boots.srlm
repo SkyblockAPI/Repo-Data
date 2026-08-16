@@ -1,0 +1,10 @@
+item = "chainmail_boots";
+name = "Sorrow Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  magic_find: 5,
+  mining_fortune: 20,
+  true_defense: 40,
+  mining_speed: 50
+};

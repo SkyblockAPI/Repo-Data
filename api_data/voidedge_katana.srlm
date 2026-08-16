@@ -1,0 +1,12 @@
+item = "blaze_rod";
+name = "Voidedge Katana";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/enderman/weapons/katanas/voidedge_katana";
+rarity = "RARE";
+stats = {
+  damage: 155,
+  strength: 60,
+  critical_damage: 25,
+  intelligence: 50
+};
+requirements.slayer.enderman = 3;

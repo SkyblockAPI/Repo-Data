@@ -1,0 +1,11 @@
+item = "bow";
+name = "Spirit Shortbow";
+include("types/bow", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/dungeons/spirit_shortbow";
+rarity = "LEGENDARY";
+stats = {
+  damage: 210,
+  strength: 100
+};
+requirements.dungeon_completetion.catacombs = 4;

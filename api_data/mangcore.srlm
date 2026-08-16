@@ -1,0 +1,4 @@
+item = "paper";
+name = "Mangcore";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/logs/stacked/mangcore";
+rarity = "RARE";

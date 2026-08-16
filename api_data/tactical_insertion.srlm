@@ -1,0 +1,4 @@
+item = "blaze_rod";
+name = "Tactical Insertion";
+rarity = "EPIC";
+requirements.slayer.blaze = 5;

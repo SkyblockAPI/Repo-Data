@@ -1,0 +1,12 @@
+item = "chainmail_chestplate";
+name = "Skeletor Chestplate";
+include("types/chestplate", this);
+include("types/dungeon", this);
+rarity = "EPIC";
+requirements.dungeons.catacombs = 15;
+tiered_stats = {
+  defense: [40, 42, 45, 49, 54, 58, 63, 69, 74, 81],
+  health: [25, 26, 29, 31, 34, 37, 40, 44, 47, 51],
+  critical_damage: [20, 22, 24, 26, 28, 31, 33, 36, 40, 43],
+  critical_chance: [2, 2, 2, 2, 2, 3, 3, 3, 3, 4]
+};

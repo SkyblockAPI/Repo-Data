@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Soul Campfire Initiate Badge II";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxNjM5NzU0NjA4MiwKICAicHJvZmlsZUlkIiA6ICI3NmM4Y2ZlYjE1N2U0MGEwYmNlNjQ4NTgwZGEwNmQwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTcGlrZWhpZGRlbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NWM0MDhhZGVlMjNjNjA3ZThkMTgzZGZiZTYwMmI5ZmE1NjJmMzY5MzM3MjJlM2Y3Mzc4NDk4MzgyNDI1Yjg4IgogICAgfQogIH0KfQ==";
+soulbound = "SOLO";

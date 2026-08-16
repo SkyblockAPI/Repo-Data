@@ -1,0 +1,13 @@
+item = "leather_leggings";
+name = "Hot Hollow Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 6,
+  defense: 75,
+  health: 281,
+  intelligence: 107,
+  mending: 6
+};
+requirements.skill.combat = 27;
+requirements.kuudra.hot = 1;

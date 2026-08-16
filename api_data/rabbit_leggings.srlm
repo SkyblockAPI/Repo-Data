@@ -1,0 +1,7 @@
+item = "leather_leggings";
+name = "Rabbit Leggings";
+include("types/leggings", this);
+stats = {
+  defense: 30,
+  walk_speed: 5
+};

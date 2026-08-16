@@ -1,0 +1,4 @@
+item = "empty_map";
+name = "Travel Scroll to the Blaze Farm";
+include("types/travel_scroll", this);
+rarity = "EPIC";

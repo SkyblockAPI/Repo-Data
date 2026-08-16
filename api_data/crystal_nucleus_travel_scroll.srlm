@@ -1,0 +1,5 @@
+item = "empty_map";
+name = "Travel Scroll to the Crystal Nucleus";
+include("types/travel_scroll", this);
+rarity = "RARE";
+soulbound = "SOLO";

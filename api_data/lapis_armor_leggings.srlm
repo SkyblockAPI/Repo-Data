@@ -1,0 +1,10 @@
+item = "leather_leggings";
+name = "Lapis Armor Leggings";
+include("types/leggings", this);
+rarity = "UNCOMMON";
+stats = {
+  defense: 35,
+  mining_speed: 20,
+  mining_fortune: 2
+};
+requirements.skill.mining = 5;

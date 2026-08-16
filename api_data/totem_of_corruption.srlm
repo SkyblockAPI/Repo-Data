@@ -1,0 +1,4 @@
+item = "banner";
+name = "Totem of Corruption";
+include("types/deployable", this);
+rarity = "UNCOMMON";

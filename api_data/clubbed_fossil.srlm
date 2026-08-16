@@ -1,0 +1,4 @@
+item = "paper";
+name = "Clubbed Fossil";
+this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/fossils/clubbed_fossil";
+rarity = "LEGENDARY";

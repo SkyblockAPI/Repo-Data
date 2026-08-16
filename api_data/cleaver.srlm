@@ -1,0 +1,9 @@
+item = "gold_sword";
+name = "Cleaver";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/cleaver";
+rarity = "UNCOMMON";
+stats = {
+  damage: 40,
+  strength: 10
+};

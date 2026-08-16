@@ -1,0 +1,11 @@
+item = "wheat";
+name = "Staff of the Volcano";
+include("types/wand", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/staff_of_the_volcano";
+rarity = "RARE";
+stats = {
+  damage: 60,
+  weapon_ability_damage: 24000,
+  intelligence: 150
+};
+requirements.skill.combat = 22;

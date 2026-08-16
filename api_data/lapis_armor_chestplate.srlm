@@ -1,0 +1,10 @@
+item = "leather_chestplate";
+name = "Lapis Armor Chestplate";
+include("types/chestplate", this);
+rarity = "UNCOMMON";
+stats = {
+  defense: 40,
+  mining_speed: 20,
+  mining_fortune: 2
+};
+requirements.skill.mining = 5;

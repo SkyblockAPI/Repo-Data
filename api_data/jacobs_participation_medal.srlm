@@ -1,0 +1,4 @@
+item = "paper";
+name = "Jacob's Participation Medal";
+this["minecraft:item_model"] = "minecraft:mangrove_hanging_sign";
+rarity = "EPIC";

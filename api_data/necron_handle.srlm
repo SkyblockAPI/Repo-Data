@@ -1,0 +1,4 @@
+item = "stick";
+name = "Necron's Handle";
+include("types/dungeon", this);
+rarity = "LEGENDARY";

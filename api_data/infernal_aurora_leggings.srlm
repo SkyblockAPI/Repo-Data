@@ -1,0 +1,11 @@
+item = "leather_leggings";
+name = "Infernal Aurora Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 139,
+  health: 517,
+  intelligence: 441
+};
+requirements.skill.combat = 42;
+requirements.kuudra.infernal = 1;

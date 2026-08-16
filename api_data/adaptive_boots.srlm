@@ -1,0 +1,12 @@
+item = "leather_boots";
+name = "Adaptive Boots";
+include("types/boots", this);
+include("types/dungeon", this);
+rarity = "EPIC";
+stats = {
+  defense: 45,
+  health: 90,
+  strength: 15,
+  intelligence: 15
+};
+requirements.dungeon_completetion.catacombs = 3;

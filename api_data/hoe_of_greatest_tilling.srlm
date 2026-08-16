@@ -1,0 +1,5 @@
+item = "iron_hoe";
+name = "Hoe of Greatest Tilling";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/hoe_of_greatest_tilling";
+rarity = "EPIC";
+requirements.skill.farming = 10;

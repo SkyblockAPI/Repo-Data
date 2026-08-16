@@ -1,0 +1,11 @@
+item = "leather_leggings";
+name = "Backwater Leggings";
+include("types/leggings", this);
+rarity = "UNCOMMON";
+stats = {
+  health: 40,
+  defense: 20,
+  sea_creature_chance: 2,
+  treasure_chance: 0.1
+};
+requirements.skill.fishing = 5;

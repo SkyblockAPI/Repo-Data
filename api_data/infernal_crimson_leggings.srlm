@@ -1,0 +1,13 @@
+item = "leather_leggings";
+name = "Infernal Crimson Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 139,
+  health: 517,
+  strength: 76,
+  critical_damage: 50,
+  intelligence: 13
+};
+requirements.skill.combat = 42;
+requirements.kuudra.infernal = 1;

@@ -1,0 +1,4 @@
+item = "dropper";
+name = "Personal Compactor 4000";
+include("types/accessory", this);
+rarity = "UNCOMMON";

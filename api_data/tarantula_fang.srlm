@@ -1,0 +1,11 @@
+item = "stone_sword";
+name = "Tarantula Fang";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/spider/weapons/tarantula_fang";
+rarity = "RARE";
+stats = {
+  damage: 90,
+  strength: 45,
+  critical_damage: 20
+};
+requirements.slayer.spider = 4;

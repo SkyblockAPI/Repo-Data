@@ -1,0 +1,4 @@
+item = "paper";
+name = "Hunk of Blue Ice";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/hunk_of_blue_ice";
+rarity = "RARE";

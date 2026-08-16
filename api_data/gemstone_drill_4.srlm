@@ -1,0 +1,13 @@
+item = "diamond_pickaxe";
+name = "Jasper Drill X";
+include("types/drill", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/jasper_drill_x";
+rarity = "EPIC";
+stats = {
+  breaking_power: 9,
+  damage: 75,
+  mining_speed: 600,
+  gemstone_fortune: 120,
+  pristine: 2
+};
+requirements.hotm = 6;

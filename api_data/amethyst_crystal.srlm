@@ -1,0 +1,4 @@
+item = "paper";
+name = "Amethyst Crystal";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/amethyst_crystal";
+rarity = "SPECIAL";

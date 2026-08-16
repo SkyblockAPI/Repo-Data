@@ -1,0 +1,12 @@
+item = "fishing_rod";
+name = "Flaming Flay";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/flaming_flay";
+rarity = "LEGENDARY";
+stats = {
+  damage: 200,
+  strength: 250,
+  ferocity: 25
+};
+requirements.dungeons.catacombs = 23;
+requirements.skill.fishing = 47;

@@ -1,0 +1,9 @@
+item = "leather_boots";
+name = "Berserker Boots";
+include("types/boots", this);
+rarity = "EPIC";
+stats = {
+  strength: 25,
+  critical_damage: 25
+};
+requirements.skill.combat = 22;

@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Blood Donor Talisman";
+include("types/accessory", this);
+skin = "eyJ0aW1lc3RhbXAiOjE1ODUzMTE2MTEzNjAsInByb2ZpbGVJZCI6IjkxOGEwMjk1NTlkZDRjZTZiMTZmN2E1ZDUzZWZiNDEyIiwicHJvZmlsZU5hbWUiOiJCZWV2ZWxvcGVyIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NDYzZTUzMzRlY2Q5YjNiOTg2ZjZlOWNiMDRkYmEzYjY0M2E2M2YzOWU5MzRlYWQ3NmVjZTUxOGY4MmY4NjUifX19";
+rarity = "COMMON";
+rift_transferrable = true;
+stats = {
+  health_regeneration: 1,
+  rift_time: 5
+};

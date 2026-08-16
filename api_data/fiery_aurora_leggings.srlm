@@ -1,0 +1,11 @@
+item = "leather_leggings";
+name = "Fiery Aurora Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 110,
+  health: 410,
+  intelligence: 350
+};
+requirements.skill.combat = 37;
+requirements.kuudra.fiery = 1;

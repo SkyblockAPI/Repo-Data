@@ -1,0 +1,4 @@
+item = "paper";
+name = "Broken Radar";
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/broken_radar";
+rarity = "RARE";

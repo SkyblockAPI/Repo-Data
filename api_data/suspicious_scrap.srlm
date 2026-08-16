@@ -1,0 +1,4 @@
+item = "paper";
+name = "Suspicious Scrap";
+this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/suspicious_scrap";
+rarity = "RARE";

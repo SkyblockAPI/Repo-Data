@@ -1,0 +1,7 @@
+item = "iron_hoe";
+name = "Fungi Cutter Mk. III";
+include("types/farming_tool", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/jacob/fungi_cutter_3";
+rarity = "EPIC";
+requirements.skill.farming = 20;
+requirements.garden = 9;

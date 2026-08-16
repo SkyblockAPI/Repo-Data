@@ -1,0 +1,3 @@
+item = "paper";
+name = "Rough Onyx Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/onyx/rough_onyx_gem";

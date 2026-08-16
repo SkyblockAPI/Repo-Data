@@ -1,0 +1,12 @@
+item = "leather_boots";
+name = "Primordial Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 15,
+  defense: 90,
+  health: 75,
+  intelligence: 75,
+  critical_damage: 10
+};
+requirements.slayer.spider = 7;

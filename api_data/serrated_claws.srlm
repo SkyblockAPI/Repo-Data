@@ -1,0 +1,4 @@
+item = "prismarine_shard";
+name = "Serrated Claws";
+include("types/pet_item", this);
+rarity = "RARE";

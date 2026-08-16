@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Respiration Ring";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc0NjcwMDUyMTgwOCwKICAicHJvZmlsZUlkIiA6ICI2MDJiNzM0ZDcyZjI0YWI3ODFhYmEyODdlMGU5ZTk5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGF0Q29yb25hIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFjMjhiZGY2MTY1YjU5N2ExYjc2NTY5MmFiOGNkMDIzMzUyNTRlYjI1OGJjNWU5MWNlNjE4MzZiNTZmZWNiOTAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "UNCOMMON";
+rift_transferrable = true;
+stats = {
+  respiration: 10
+};

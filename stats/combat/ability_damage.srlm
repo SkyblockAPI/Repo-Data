@@ -1,5 +1,6 @@
 ::stats::prototype::base::{
     name: "Ability Damage",
+    stat: "ability_damage_percent",
     color: "red",
     suffix: "%",
     ...this

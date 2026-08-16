@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Scarf's Grimoire";
+include("types/accessory", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxNjgyNjMzNTIyNywKICAicHJvZmlsZUlkIiA6ICJhMmI1ZjhlM2MxZDI0ZmUzYTlkMzNiZTFhNzEzYTUwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYXBpb0dvZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kZTM3ZDQ3ZTAzODUyMTYwOTk3NjI5ZDIyYTVlZDVlYTFhNmNiZjMxZTMzNTgxZDk4NzY3NzJhZDYwNWMyMjY5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "LEGENDARY";
+rift_transferrable = true;
+stats = {
+  rift_time: 12
+};

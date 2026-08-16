@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Campfire God Badge IX";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc0NDE5OTg4NjY3NCwKICAicHJvZmlsZUlkIiA6ICIxNTY3ODg4YTAwYWY0ODc2YjYyNTI3YTNiOGY3YTdlYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb3NoaW9YdHJlbWUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjA2ODE4YzIzNjhkZGE4NzMyZTI2YjQ4NWFjZjE4OTdlZmE0YWZhZGM0MzkwY2VhMzM1OWFiMTA0ZDczYWQ1ZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
+rarity = "LEGENDARY";
+stats = {
+  health_regeneration: 5
+};
+soulbound = "SOLO";

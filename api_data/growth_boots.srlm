@@ -1,0 +1,8 @@
+item = "leather_boots";
+name = "Boots of Growth";
+include("types/boots", this);
+rarity = "RARE";
+stats = {
+  defense: 25,
+  health: 50
+};

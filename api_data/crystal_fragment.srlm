@@ -1,0 +1,4 @@
+item = "quartz";
+name = "Crystal Fragment";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/crystal_fragment";
+rarity = "EPIC";

@@ -1,0 +1,6 @@
+item = "player_head";
+name = "Catacombs Pass III";
+include("types/dungeon_pass", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1OTIzNjI3NywKICAicHJvZmlsZUlkIiA6ICIzOTVkZTJlYjVjNjU0ZmRkOWQ2NDAwY2JhNmNmNjFhNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGFyZXN0ZXZlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVhMmY2NzUwMGE2NWYzY2U3OWQzNGVjMTUwZGU5M2RmOGY2MGViZTUyZTI0OGY1ZTFjZGI2OWIwNzI2MjU2ZjciCiAgICB9CiAgfQp9";
+rarity = "UNCOMMON";

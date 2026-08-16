@@ -1,0 +1,12 @@
+item = "player_head";
+name = "Zorro's Cape";
+include("types/cloak", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxMjAyNDY1Mzc0MSwKICAicHJvZmlsZUlkIiA6ICI0MDNlYmEzYjhkODg0MDVlYjhjMDlkNTQ4NmFjYzdiZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWb3J0ZXh0dHYiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODFmNzIyNmE5Mjc1NThkMDY5YTZhZTM0M2I0ZTA4OWZiZDYwZmM2MDM3MTkwMDk3Yzc3MTMyMDhlOTg4ZmFhZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
+rarity = "LEGENDARY";
+stats = {
+  farming_fortune: 10,
+  farming_wisdom: 1,
+  strength: 10,
+  ferocity: 2
+};
+requirements.rabbit.zorro = 1;

@@ -1,0 +1,12 @@
+item = "gold_leggings";
+name = "Leggings of Divan";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 170,
+  health: 130,
+  mining_fortune: 30,
+  mining_speed: 80,
+  heat_resistance: 10
+};
+requirements.hotm = 6;

@@ -1,0 +1,13 @@
+item = "leather_leggings";
+name = "Fiery Crimson Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 110,
+  health: 410,
+  strength: 60,
+  critical_damage: 40,
+  intelligence: 10
+};
+requirements.skill.combat = 37;
+requirements.kuudra.fiery = 1;

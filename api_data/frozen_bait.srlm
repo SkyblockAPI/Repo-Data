@@ -1,0 +1,5 @@
+item = "paper";
+name = "Frozen Bait";
+include("types/bait", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/bait/frozen_bait";
+rarity = "RARE";

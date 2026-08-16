@@ -1,0 +1,5 @@
+item = "cookie";
+name = "Fang-tastic Chocolate Chip";
+include("types/reforge_stone", this);
+rarity = "LEGENDARY";
+rift_transferrable = true;

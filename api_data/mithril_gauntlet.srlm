@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Mithril Gauntlet";
+include("types/gloves", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjYwODA0OCwKICAicHJvZmlsZUlkIiA6ICJmYjNhZTU0OTU3ODQ0MGVlODIzODJlMDY2MzlhYTkzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJXZWx0ZXJ3ZWlnaHQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDFmYTJiOTcxZGNhMTU3Yjc0MmEwZTM3ZGY1ZTIyZDYxMTkyMTQ1NmZkZWM0MjU4ZGQxYWQwZmUwODBlZGM0NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
+rarity = "UNCOMMON";
+stats = {
+  mining_speed: 20,
+  mining_fortune: 5
+};
+requirements.hotm = 2;

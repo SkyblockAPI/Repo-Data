@@ -1,0 +1,4 @@
+item = "vine";
+name = "Ethereal Vine";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/greenhouse/ethereal_vine";
+rarity = "EPIC";

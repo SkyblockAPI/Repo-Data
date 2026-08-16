@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Lush Talisman";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY1NzY0MDExODc1NCwKICAicHJvZmlsZUlkIiA6ICI1NTZjNDNmOWJmZjU0MjI1OTI0NDU5M2EwN2QyYzE1MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHaW50b2tsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFmNGY2NWQ4YTQ5ZWI1MTg3MjE4OTA4Y2RlNDNjNTg5ZDExMzk0MmViYzQzYzVkMTJlZWE3YzgxZjM1OWM3NjkiCiAgICB9CiAgfQp9";
+rarity = "UNCOMMON";
+stats = {
+  health: 1
+};

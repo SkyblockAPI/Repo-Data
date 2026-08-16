@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Seal Ring";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTczNjQyNzU4NDM4OSwKICAicHJvZmlsZUlkIiA6ICIyZDUxZmI0ZmJjM2Y0MjJjOTMyYzIzMDg5NGU2YmM1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJGR0ZTX3N0dWRpbyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NzdkMTUzNjM2MjZiYmRmNDNiYzM0NWVhMjBjNDI1MjkwNzQzNDIwMjhkZjU3MjgwMmI2ZWEzODZiYzU2NmExIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0";
+rarity = "RARE";
+stats = {
+  sea_creature_chance: 1,
+  treasure_chance: 0.2
+};

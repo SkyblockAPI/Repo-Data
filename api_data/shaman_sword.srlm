@@ -1,0 +1,11 @@
+item = "iron_sword";
+name = "Shaman Sword";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/wolf/weapons/shaman_sword";
+rarity = "EPIC";
+stats = {
+  walk_speed: 5,
+  damage: 100,
+  strength: 20
+};
+requirements.slayer.wolf = 3;

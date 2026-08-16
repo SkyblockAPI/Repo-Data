@@ -1,0 +1,11 @@
+item = "leather_leggings";
+name = "Primordial Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 105,
+  health: 135,
+  intelligence: 105,
+  critical_damage: 10
+};
+requirements.slayer.spider = 7;

@@ -1,0 +1,4 @@
+item = "paper";
+name = "Magma Cream Distillate";
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/blaze/minion/fuel/distillate/magma_cream_distillate";
+rarity = "RARE";

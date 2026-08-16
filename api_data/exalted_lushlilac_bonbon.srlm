@@ -1,0 +1,5 @@
+item = "paper";
+name = "Exalted Lushlilac Bonbon";
+include("types/salt", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/salts/exalted_lushlilac_bonbon";
+rarity = "UNCOMMON";

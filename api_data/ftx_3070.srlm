@@ -1,0 +1,4 @@
+item = "paper";
+name = "FTX 3070";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/ftx_3070";
+rarity = "RARE";

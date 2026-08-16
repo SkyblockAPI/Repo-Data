@@ -1,0 +1,5 @@
+item = "paper";
+name = "Architect's First Draft";
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/dungeons/architects_first_draft";
+rarity = "EPIC";

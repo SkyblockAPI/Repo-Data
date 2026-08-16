@@ -1,0 +1,4 @@
+item = "paper";
+name = "White Banner";
+this["minecraft:item_model"] = "minecraft:white_banner";
+soulbound = "COOP";

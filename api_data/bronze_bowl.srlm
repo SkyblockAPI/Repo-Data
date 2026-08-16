@@ -1,0 +1,4 @@
+item = "paper";
+name = "Bronze Bowl";
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/bronze_bowl";
+rarity = "UNCOMMON";

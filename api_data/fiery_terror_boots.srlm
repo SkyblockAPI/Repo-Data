@@ -1,0 +1,13 @@
+item = "leather_boots";
+name = "Fiery Terror Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 24,
+  defense: 80,
+  health: 260,
+  critical_damage: 100,
+  intelligence: 10
+};
+requirements.skill.combat = 37;
+requirements.kuudra.fiery = 1;

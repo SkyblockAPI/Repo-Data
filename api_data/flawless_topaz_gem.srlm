@@ -1,0 +1,4 @@
+item = "paper";
+name = "Flawless Topaz Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/topaz/flawless_topaz_gem";
+rarity = "EPIC";

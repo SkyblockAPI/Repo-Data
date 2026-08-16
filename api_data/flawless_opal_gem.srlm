@@ -1,0 +1,4 @@
+item = "paper";
+name = "Flawless Opal Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/blaze/gemstones/flawless_opal_gem";
+rarity = "EPIC";

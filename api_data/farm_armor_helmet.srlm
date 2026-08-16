@@ -1,0 +1,9 @@
+item = "hay_block";
+name = "Haymaker Helmet";
+include("types/helmet", this);
+rarity = "COMMON";
+stats = {
+  defense: 15,
+  farming_fortune: 10
+};
+requirements.skill.farming = 10;

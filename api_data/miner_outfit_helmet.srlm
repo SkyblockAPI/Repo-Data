@@ -1,0 +1,8 @@
+item = "leather_helmet";
+name = "Prospecting Helmet";
+include("types/helmet", this);
+rarity = "UNCOMMON";
+stats = {
+  defense: 15,
+  mining_speed: 15
+};

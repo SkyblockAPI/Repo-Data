@@ -1,0 +1,4 @@
+item = "red_rose";
+name = "Antique Remedies";
+include("types/pet_item", this);
+rarity = "EPIC";

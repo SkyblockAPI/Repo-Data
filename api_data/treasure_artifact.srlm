@@ -1,0 +1,6 @@
+item = "player_head";
+name = "Treasure Artifact";
+include("types/accessory", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTU5NTk1Mzc5NjAxNywKICAicHJvZmlsZUlkIiA6ICJmMzA1ZjA5NDI0NTg0ZjU4YmEyYjY0ZjAyZDcyNDYyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJqcm9ja2EzMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMTBmMjBhNTViNmUxODhlYmU3NTc4NDU5YjY0YTZmYmQ4MjUwNjdiYzQ5N2I5MjVjYTQzYzI2NDNkMDU5MDI1IgogICAgfQogIH0KfQ==";
+rarity = "LEGENDARY";

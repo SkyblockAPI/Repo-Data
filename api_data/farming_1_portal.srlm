@@ -1,0 +1,4 @@
+item = "player_head";
+name = "Portal to The Barn";
+include("types/portal", this);
+skin = "eyJ0aW1lc3RhbXAiOjE1MjMzNjY1ODU2MzUsInByb2ZpbGVJZCI6IjIzZjFhNTlmNDY5YjQzZGRiZGI1MzdiZmVjMTA0NzFmIiwicHJvZmlsZU5hbWUiOiIyODA3Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZDNhNmJkOThhYzE4MzNjNjY0YzQ5MDlmZjhkMmRjNjJjZTg4N2JkY2YzY2M1YjM4NDg2NTFhZTVhZjZiIn19fQ==";

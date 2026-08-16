@@ -1,0 +1,13 @@
+item = "leather_chestplate";
+name = "Fiery Terror Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 24,
+  defense: 130,
+  health: 460,
+  critical_damage: 100,
+  intelligence: 10
+};
+requirements.skill.combat = 37;
+requirements.kuudra.fiery = 1;

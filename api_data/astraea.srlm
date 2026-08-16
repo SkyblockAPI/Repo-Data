@@ -1,0 +1,15 @@
+item = "iron_sword";
+name = "Astraea";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/astraea";
+rarity = "LEGENDARY";
+stats = {
+  defense: 250,
+  damage: 270,
+  strength: 150,
+  ferocity: 30,
+  true_defense: 20,
+  intelligence: 50
+};
+requirements.dungeon_completetion.catacombs = 7;

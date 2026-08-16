@@ -1,0 +1,6 @@
+item = "player_head";
+name = "Tarantula Talisman";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzOTM2NTg4NiwKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJmMGYxMjNmMTBjOWExOTY2NWQ1NTYxNzkyZDJjOWFlYTA2NzQxOGEwZjkyZGMyMDQ5MGRhZGU3MGVkMzhjYjEiCiAgICB9CiAgfQp9";
+rarity = "EPIC";
+requirements.slayer.spider = 6;

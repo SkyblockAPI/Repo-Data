@@ -1,0 +1,7 @@
+item = "stone_axe";
+name = "Rookie Foraging Axe";
+include("types/axe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/rookie_axe";
+stats = {
+  damage: 20
+};

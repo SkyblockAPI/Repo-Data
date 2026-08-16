@@ -1,0 +1,4 @@
+item = "ink_sack";
+name = "Mite Gel";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/combat_3/mite_gel";
+rarity = "EPIC";

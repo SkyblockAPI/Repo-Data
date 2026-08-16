@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Diamond Atom";
+include("types/reforge_stone", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY0MTA0NDY1OTg5MywKICAicHJvZmlsZUlkIiA6ICIyMWFlMDM2OWJhMDM0NGFkOGY1ZjhlM2JlYTMwOTQ3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaXJhbF9BbmdlbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yODNjZjlhMjE5MWQ1NjlkMTdiZjRiYWJkMDFmNDNhMTdiZThkMzJmMTE1YzZjNDc1MTg2ZTNlYzE4YzJlZmNmIgogICAgfQogIH0KfQ==";
+rarity = "RARE";

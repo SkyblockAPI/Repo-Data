@@ -1,0 +1,4 @@
+item = "leaves";
+name = "Autumn Hut Barn Skin";
+include("types/cosmetic", this);
+rarity = "UNCOMMON";

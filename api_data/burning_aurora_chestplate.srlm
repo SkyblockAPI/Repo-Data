@@ -1,0 +1,11 @@
+item = "leather_chestplate";
+name = "Burning Aurora Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 103,
+  health: 365,
+  intelligence: 278
+};
+requirements.skill.combat = 32;
+requirements.kuudra.burning = 1;

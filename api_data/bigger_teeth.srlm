@@ -1,0 +1,4 @@
+item = "ghast_tear";
+name = "Bigger Teeth";
+include("types/pet_item", this);
+rarity = "UNCOMMON";

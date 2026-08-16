@@ -1,0 +1,4 @@
+item = "dispenser";
+name = "Personal Deletor 5000";
+include("types/accessory", this);
+rarity = "RARE";

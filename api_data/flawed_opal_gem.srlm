@@ -1,0 +1,4 @@
+item = "paper";
+name = "Flawed Opal Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/blaze/gemstones/flawed_opal_gem";
+rarity = "UNCOMMON";

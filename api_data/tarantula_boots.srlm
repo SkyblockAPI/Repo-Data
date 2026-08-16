@@ -1,0 +1,11 @@
+item = "leather_boots";
+name = "Tarantula Boots";
+include("types/boots", this);
+rarity = "EPIC";
+stats = {
+  walk_speed: 5,
+  defense: 70,
+  health: 70,
+  intelligence: 50
+};
+requirements.slayer.spider = 4;

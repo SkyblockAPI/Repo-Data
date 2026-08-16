@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Blood Donor Ring";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjE2NDMxNSwKICAicHJvZmlsZUlkIiA6ICJiYWRkZjIxZTFmNWE0ZGYzOGVjZmNkOTYwY2E0YzA5YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbmRlckJUIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UzZTk1YzgzZjU0ZTI2NjJmMGIwZGYyODdhZmI1YzQ4ZDljYWQyZWFjNDZjYjgwYzhjYjRjNGY0NjhlMTNjMzMiCiAgICB9CiAgfQp9";
+rarity = "UNCOMMON";
+rift_transferrable = true;
+stats = {
+  health_regeneration: 2,
+  rift_time: 10,
+  rift_mana_regen: 5
+};

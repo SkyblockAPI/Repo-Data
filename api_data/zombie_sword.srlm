@@ -1,0 +1,11 @@
+item = "iron_sword";
+name = "Zombie Sword";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/zombie_sword";
+rarity = "RARE";
+stats = {
+  damage: 100,
+  strength: 50,
+  intelligence: 50
+};
+requirements.dungeons.catacombs = 18;

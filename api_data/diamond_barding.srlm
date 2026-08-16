@@ -1,0 +1,4 @@
+item = "diamond_barding";
+name = "Diamond Horse Armor";
+rarity = "EPIC";
+soulbound = "COOP";

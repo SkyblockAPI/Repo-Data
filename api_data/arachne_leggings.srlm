@@ -1,0 +1,9 @@
+item = "leather_leggings";
+name = "Arachne's Leggings";
+include("types/leggings", this);
+rarity = "RARE";
+stats = {
+  defense: 50,
+  health: 75
+};
+soulbound = "COOP";

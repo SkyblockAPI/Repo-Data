@@ -1,0 +1,8 @@
+item = "bow";
+name = "Decent Bow";
+include("types/bow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/decent_bow";
+rarity = "UNCOMMON";
+stats = {
+  damage: 45
+};

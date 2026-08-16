@@ -1,0 +1,4 @@
+item = "potion";
+name = "Red Cross Potion";
+include("types/dungeon", this);
+rarity = "RARE";

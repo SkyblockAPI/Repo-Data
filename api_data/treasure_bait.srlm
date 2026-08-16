@@ -1,0 +1,5 @@
+item = "paper";
+name = "Treasure Bait";
+include("types/bait", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/bait/treasure_bait";
+rarity = "RARE";

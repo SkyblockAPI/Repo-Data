@@ -1,0 +1,7 @@
+item = "empty_map";
+name = "Travel Scroll to the Lotus Atoll";
+include("types/travel_scroll", this);
+rarity = "RARE";
+requirements.skill.fishing = 10;
+requirements.trophy.FROG = "SILVER";
+soulbound = "SOLO";

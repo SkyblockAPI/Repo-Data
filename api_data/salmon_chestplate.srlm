@@ -1,0 +1,10 @@
+item = "leather_chestplate";
+name = "Salmon Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  health: 130,
+  defense: 55,
+  sea_creature_chance: 1.5
+};
+requirements.skill.fishing = 13;

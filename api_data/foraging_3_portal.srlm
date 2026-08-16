@@ -1,0 +1,4 @@
+item = "player_head";
+name = "Portal to Jungle Island";
+include("types/portal", this);
+skin = "eyJ0aW1lc3RhbXAiOjE1MTc5ODAxMDIxNDcsInByb2ZpbGVJZCI6ImFkMWM2Yjk1YTA5ODRmNTE4MWJhOTgyMzY0OTllM2JkIiwicHJvZmlsZU5hbWUiOiJGdXJrYW5iejAwIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xY2VmYzE5MzgwNjgzMDE1ZTQ3YzY2NmU1OTI2YjE1ZWU1N2FiMzMxOTJmNmE3ZTQyOTI0NGNkZmZjYzI2MiJ9fX0=";

@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Mythos Bracelet";
+include("types/bracelet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc1Mjg2OTQ0Njc1OSwKICAicHJvZmlsZUlkIiA6ICJkNDAwODgyZmY3OGQ0ZGVhYjliMGNlMTc2YmQ1ZTQyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJQcmF4aWJldGwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzZkMGJmMDVlM2UyMGY0MjRiZWI4OWJhZWUyM2JiMGEwNTAxMGIxYjUzYzU5YjE1MWVjMGI5NGViZDMzZWRkYyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
+rarity = "LEGENDARY";
+stats = {
+  strength: 15,
+  health: 25,
+  defense: 15
+};

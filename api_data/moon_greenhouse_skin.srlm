@@ -1,0 +1,4 @@
+item = "ender_stone";
+name = "Moon Greenhouse Skin";
+include("types/cosmetic", this);
+rarity = "RARE";

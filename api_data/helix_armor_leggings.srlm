@@ -1,0 +1,12 @@
+item = "leather_leggings";
+name = "Helix Leggings";
+include("types/leggings", this);
+rarity = "EPIC";
+stats = {
+  health: 165,
+  defense: 45,
+  foraging_fortune: 45,
+  sweep: 20
+};
+requirements.skill.foraging = 25;
+booster_applicable = true;

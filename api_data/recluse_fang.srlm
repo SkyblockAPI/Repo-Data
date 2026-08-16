@@ -1,0 +1,11 @@
+item = "iron_sword";
+name = "Recluse Fang";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/spider/weapons/recluse_fang";
+rarity = "UNCOMMON";
+stats = {
+  damage: 60,
+  strength: 30,
+  critical_damage: 10
+};
+requirements.slayer.spider = 2;

@@ -1,0 +1,4 @@
+item = "iron_barding";
+name = "Iron Horse Armor";
+rarity = "RARE";
+soulbound = "COOP";

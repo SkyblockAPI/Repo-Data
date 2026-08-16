@@ -1,0 +1,13 @@
+item = "diamond_pickaxe";
+name = "Gemstone Drill LT-522";
+include("types/drill", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/gemstone_drill_lt_522";
+rarity = "RARE";
+stats = {
+  breaking_power: 8,
+  damage: 75,
+  mining_speed: 300,
+  gemstone_fortune: 80,
+  pristine: 1
+};
+requirements.hotm = 4;

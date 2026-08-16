@@ -1,0 +1,10 @@
+item = "leather_boots";
+name = "Fairy's Galoshes";
+include("types/boots", this);
+rarity = "RARE";
+stats = {
+  walk_speed: 10,
+  defense: 1,
+  health: 1,
+  intelligence: -1
+};

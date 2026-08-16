@@ -1,0 +1,13 @@
+item = "leather_leggings";
+name = "Necron's Leggings";
+include("types/leggings", this);
+include("types/dungeon", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 125,
+  health: 230,
+  strength: 40,
+  critical_damage: 30,
+  intelligence: 10
+};
+requirements.dungeon_completetion.catacombs = 7;

@@ -1,0 +1,7 @@
+item = "iron_hoe";
+name = "Newton Nether Wart Cutter Mk. II";
+include("types/farming_tool", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/jacob/hoes/theoretical_hoe_warts_2";
+rarity = "RARE";
+requirements.skill.farming = 15;
+requirements.garden = 10;

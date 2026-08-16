@@ -1,0 +1,4 @@
+item = "diamond_block";
+name = "Collection Display";
+include("types/cosmetic", this);
+rarity = "UNCOMMON";

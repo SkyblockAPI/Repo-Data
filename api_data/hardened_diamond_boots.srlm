@@ -1,0 +1,7 @@
+item = "diamond_boots";
+name = "Hardened Diamond Boots";
+include("types/boots", this);
+rarity = "RARE";
+stats = {
+  defense: 55
+};

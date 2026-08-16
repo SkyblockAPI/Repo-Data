@@ -1,0 +1,11 @@
+item = "leather_boots";
+name = "Slug Boots";
+include("types/boots", this);
+rarity = "RARE";
+stats = {
+  health: 150,
+  defense: 125,
+  sea_creature_chance: 3,
+  strength: 20
+};
+requirements.skill.fishing = 27;

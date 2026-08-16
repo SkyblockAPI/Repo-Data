@@ -1,0 +1,9 @@
+item = "leather_leggings";
+name = "Berserker Leggings";
+include("types/leggings", this);
+rarity = "EPIC";
+stats = {
+  strength: 50,
+  critical_damage: 50
+};
+requirements.skill.combat = 22;

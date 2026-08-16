@@ -1,0 +1,11 @@
+item = "bow";
+name = "Sniper Bow";
+include("types/bow", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/sniper_bow";
+rarity = "RARE";
+requirements.dungeons.catacombs = 10;
+tiered_stats = {
+  damage: [94, 103, 112, 121, 132, 143, 156, 169, 184, 200],
+  critical_damage: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+};

@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Blaze Talisman";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYxMjE4NTU4Mzc3NiwKICAicHJvZmlsZUlkIiA6ICIzZmM3ZmRmOTM5NjM0YzQxOTExOTliYTNmN2NjM2ZlZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJZZWxlaGEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWRlM2E0MDdkMmJlMzg3YjQ1YmViZGQ1MmQzZDRkNzVhNmExYjQ3OWUyYjhjMDMyNjdkMDIxZDRhZjMxZTA3MiIKICAgIH0KICB9Cn0=";
+rarity = "RARE";
+stats = {
+  true_defense: 3
+};

@@ -1,0 +1,9 @@
+item = "bow";
+name = "Prismarine Bow";
+include("types/bow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/prismarine_bow";
+rarity = "UNCOMMON";
+stats = {
+  damage: 50,
+  strength: 25
+};

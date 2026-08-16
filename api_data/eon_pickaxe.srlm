@@ -1,0 +1,8 @@
+item = "gold_pickaxe";
+name = "Eon Pickaxe";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/rift/zones/mountaintop/timite_collection/eon_pickaxe";
+rarity = "EPIC";
+stats = {
+  rift_damage: 5
+};

@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Potion Affinity Ring";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY1MjMzNTcxNTIzMCwKICAicHJvZmlsZUlkIiA6ICIwNTVhOTk2NTk2M2E0YjRmOGMwMjRmMTJmNDFkMmNmMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVWb3hlbGxlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2YjVjZmRkODA0ZDc2MjQ5ZTdjNjk0NmIxZDlhZmEyMmU5YmRjNzIxNDlmNjgyZTcxNjU0YWVlODg1ZGZmYmIiCiAgICB9CiAgfQp9";
+rarity = "UNCOMMON";

@@ -1,0 +1,12 @@
+item = "blaze_rod";
+name = "Bonzo's Staff";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/dungeons/bonzos_staff_fragged";
+rarity = "RARE";
+stats = {
+  damage: 160,
+  weapon_ability_damage: 1100,
+  intelligence: 300
+};
+requirements.dungeon_completetion.catacombs = 1;

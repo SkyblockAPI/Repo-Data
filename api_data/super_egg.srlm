@@ -1,0 +1,4 @@
+item = "paper";
+name = "Super Enchanted Egg";
+this["minecraft:item_model"] = "minecraft:turtle_egg";
+rarity = "RARE";

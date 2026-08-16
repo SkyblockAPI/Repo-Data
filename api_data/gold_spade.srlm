@@ -1,0 +1,6 @@
+item = "gold_spade";
+name = "Golden Shovel";
+include("types/spade", this);
+stats = {
+  damage: 15
+};

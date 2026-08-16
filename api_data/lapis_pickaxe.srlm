@@ -1,0 +1,10 @@
+item = "diamond_pickaxe";
+name = "Lapis Pickaxe";
+include("types/pickaxe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/lapis_pickaxe";
+rarity = "UNCOMMON";
+stats = {
+  breaking_power: 4,
+  damage: 20,
+  mining_speed: 200
+};

@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Shark Scale Helmet";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYxNzEyMDgyNjk2NCwKICAicHJvZmlsZUlkIiA6ICIzYTNmNzhkZmExZjQ0OTllYjE5NjlmYzlkOTEwZGYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb19jcmVyYXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDM4ZTNmMTE1MmI0ODU1ZmVhNTg2NTM1N2UwM2VjYjRkODBjNTI4ODlkNjQxY2M1ZjAyM2U2ZDE2OTk2ZDhmMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
+rarity = "LEGENDARY";
+stats = {
+  health: 150,
+  defense: 125,
+  sea_creature_chance: 2.5
+};
+requirements.skill.fishing = 24;

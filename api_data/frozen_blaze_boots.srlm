@@ -1,0 +1,10 @@
+item = "leather_boots";
+name = "Frozen Blaze Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 2,
+  defense: 95,
+  strength: 40
+};
+requirements.skill.combat = 22;

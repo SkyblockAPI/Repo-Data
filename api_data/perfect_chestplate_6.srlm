@@ -1,0 +1,7 @@
+item = "diamond_chestplate";
+name = "Perfect Chestplate - Tier VI";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  defense: 260
+};

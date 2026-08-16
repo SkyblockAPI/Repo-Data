@@ -1,0 +1,4 @@
+item = "paper";
+name = "Abiphone XII Amethyst";
+this["minecraft:item_model"] = "hypixel_skyblock:item/abiphones/xii/abiphone_xii_amethyst";
+rarity = "RARE";

@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Dwarven O's Block Bran";
+include("types/consumable", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQ5MTE0NDQzMSwKICAicHJvZmlsZUlkIiA6ICJhMmI1ZjhlM2MxZDI0ZmUzYTlkMzNiZTFhNzEzYTUwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYXBpb0dvZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZjZiZGRiYTFlM2QwMTRmYzc1ZTcwZTI3MjIzY2EzMGNiZmE0Mjk5MGQ0NDhkOWE5NDBlNTAwYTY0MzViZWMiCiAgICB9CiAgfQp9";
+rarity = "RARE";

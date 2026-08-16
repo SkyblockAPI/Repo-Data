@@ -1,0 +1,10 @@
+item = "leather_chestplate";
+name = "Shark Scale Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  health: 200,
+  defense: 175,
+  sea_creature_chance: 2.5
+};
+requirements.skill.fishing = 24;

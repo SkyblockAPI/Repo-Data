@@ -1,0 +1,11 @@
+item = "gold_spade";
+name = "Midas Staff";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/scorpius/midas_staff";
+rarity = "LEGENDARY";
+stats = {
+  damage: 130,
+  strength: 150,
+  weapon_ability_damage: 6000,
+  intelligence: 50
+};

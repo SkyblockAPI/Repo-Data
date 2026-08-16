@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Grizzly Paw";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzA2Mjg5NCwKICAicHJvZmlsZUlkIiA6ICI3Mjc2ZThmYzVkNjE0ODNjYmMwN2IxYjIzNjI3MDA4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJXYWJvV2ViaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNWNkZTczZjQ0MDcxYTlkZDhkMWU3ZmUxMjhiYzliOTNiMThlMTIwNDE0MmE1Y2VlOTkwOWU4ODNkODI4ZWE5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "RARE";
+stats = {
+  walk_speed: 1
+};

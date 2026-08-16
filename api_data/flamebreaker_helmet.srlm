@@ -1,0 +1,10 @@
+item = "chainmail_helmet";
+name = "Ember Ash Helmet";
+include("types/helmet", this);
+rarity = "UNCOMMON";
+stats = {
+  mining_fortune: 5,
+  mining_speed: 15
+};
+requirements.collection.hard_stone = 5;
+soulbound = "COOP";

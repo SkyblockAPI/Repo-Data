@@ -1,0 +1,4 @@
+item = "paper";
+name = "Yoggie";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/yoggie";
+rarity = "UNCOMMON";

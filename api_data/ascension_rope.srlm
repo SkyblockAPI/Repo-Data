@@ -1,0 +1,4 @@
+item = "paper";
+name = "Ascension Rope";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/ascension_rope";
+rarity = "RARE";

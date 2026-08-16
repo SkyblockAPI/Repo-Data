@@ -1,0 +1,3 @@
+item = "paper";
+name = "Rough Opal Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/blaze/gemstones/rough_opal_gem";

@@ -1,0 +1,8 @@
+item = "leather_leggings";
+name = "Prospecting Leggings";
+include("types/leggings", this);
+rarity = "UNCOMMON";
+stats = {
+  defense: 30,
+  mining_speed: 15
+};

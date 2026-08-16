@@ -1,0 +1,4 @@
+item = "redstone_ore";
+name = "Redstone Ore";
+rarity = "UNCOMMON";
+category = "ORE";

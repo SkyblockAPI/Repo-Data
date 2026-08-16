@@ -1,0 +1,4 @@
+item = "paper";
+name = "Unlucky Doubloon";
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/lotus_atoll/unlucky_doubloon";
+rarity = "EPIC";

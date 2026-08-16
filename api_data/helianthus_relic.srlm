@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Helianthus Relic";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc2MDk4MzAzMjAwMCwKICAicHJvZmlsZUlkIiA6ICIzZGE2ZDgxOTI5MTY0MTNlODhlNzg2MjQ3NzA4YjkzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGZXJTdGlsZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yZTZjNzExZjc0ZjkyYmNiZTQ4NmVjN2U2NzgxMGExNmYwZDFlYWFhYzM5YjgwZDdhNjUwY2Q4MWQ2MTFhMmU3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "EPIC";
+stats = {
+  farming_fortune: 40
+};

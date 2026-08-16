@@ -1,0 +1,9 @@
+item = "diamond_leggings";
+name = "Mastiff Leggings";
+include("types/leggings", this);
+rarity = "EPIC";
+stats = {
+  health: 400,
+  critical_damage: 15
+};
+requirements.slayer.wolf = 4;

@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Burning Aurora Helmet";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDQ4OTI0OSwKICAicHJvZmlsZUlkIiA6ICJiNzVjZDRmMThkZjg0MmNlYjJhY2MxNTU5MTNiMjA0YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLcmlzdGlqb25hczEzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y4ODZiNDg0Yjc1MGMzNjcxMDc4OTI1ODY5MzBhNWU1MGNkNTdlOWJlODQzYmQzZGI3ZWIyMTdjYjc4MmYwYTEiCiAgICB9CiAgfQp9";
+rarity = "LEGENDARY";
+stats = {
+  defense: 79,
+  health: 254,
+  intelligence: 437,
+  ability_damage_percent: 25
+};
+requirements.skill.combat = 32;
+requirements.kuudra.burning = 1;

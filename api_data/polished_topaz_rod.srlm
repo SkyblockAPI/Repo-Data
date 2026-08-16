@@ -1,0 +1,13 @@
+item = "fishing_rod";
+name = "Topaz Rod";
+include("types/fishing_rod", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/rod/topaz_rod";
+rarity = "RARE";
+stats = {
+  damage: 100,
+  strength: 100,
+  fishing_speed: 50,
+  sea_creature_chance: 2
+};
+requirements.skill.fishing = 19;
+requirements.hotm = 5;

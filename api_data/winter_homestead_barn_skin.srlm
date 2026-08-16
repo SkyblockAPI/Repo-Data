@@ -1,0 +1,4 @@
+item = "packed_ice";
+name = "Winter Homestead Barn Skin";
+include("types/cosmetic", this);
+rarity = "RARE";

@@ -1,0 +1,6 @@
+item = "stick";
+name = "Wand of Atonement";
+include("types/wand", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/zombie/wands/wand_of_atonement";
+rarity = "LEGENDARY";
+requirements.slayer.zombie = 7;

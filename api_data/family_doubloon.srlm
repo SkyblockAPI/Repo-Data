@@ -1,0 +1,4 @@
+item = "gold_nugget";
+name = "Doubloon of the Family";
+rarity = "RARE";
+rift_transferrable = true;

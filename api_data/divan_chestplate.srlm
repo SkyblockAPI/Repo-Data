@@ -1,0 +1,12 @@
+item = "gold_chestplate";
+name = "Chestplate of Divan";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 130,
+  health: 200,
+  mining_fortune: 30,
+  mining_speed: 80,
+  heat_resistance: 10
+};
+requirements.hotm = 6;

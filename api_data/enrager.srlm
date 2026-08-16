@@ -1,0 +1,10 @@
+item = "iron_sword";
+name = "Enrager";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/enrager";
+rarity = "EPIC";
+stats = {
+  damage: 270,
+  strength: 150
+};
+requirements.skill.combat = 25;

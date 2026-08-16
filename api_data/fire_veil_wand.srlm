@@ -1,0 +1,11 @@
+item = "blaze_rod";
+name = "Fire Veil Wand";
+include("types/wand", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/fire_veil_wand";
+rarity = "EPIC";
+stats = {
+  weapon_ability_damage: 15000,
+  damage: 50,
+  intelligence: 200
+};
+requirements.skill.combat = 22;

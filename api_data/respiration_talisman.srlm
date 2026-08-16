@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Respiration Talisman";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc0NjcwMDQ4OTAxMSwKICAicHJvZmlsZUlkIiA6ICI1NjQ4ZTA1Njg4NWU0NGQyYTVhYTBkYmVkMjZhZmFlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaX2ZseSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NmM2MjcyN2RhYmQ1NWRmODk3Yzc0MDk0YmUxYzUxYmI1ZDJkNGFiNmM0Mjg2ZGYyMmY0MDgzMGRmNTAxN2Y0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "COMMON";
+rift_transferrable = true;
+stats = {
+  respiration: 5
+};

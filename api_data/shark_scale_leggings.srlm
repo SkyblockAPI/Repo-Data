@@ -1,0 +1,10 @@
+item = "leather_leggings";
+name = "Shark Scale Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  health: 175,
+  defense: 150,
+  sea_creature_chance: 2.5
+};
+requirements.skill.fishing = 24;

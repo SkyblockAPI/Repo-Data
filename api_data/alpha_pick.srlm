@@ -1,0 +1,9 @@
+item = "wood_pickaxe";
+name = "Pioneer Pickaxe";
+include("types/pickaxe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/alpha_pick";
+rarity = "SPECIAL";
+stats = {
+  breaking_power: 1,
+  mining_speed: 1
+};

@@ -1,0 +1,8 @@
+item = "leather_boots";
+name = "Exceedingly Comfy Sneakers";
+include("types/boots", this);
+rarity = "EPIC";
+stats = {
+  rift_time: 45,
+  rift_walk_speed: 5
+};

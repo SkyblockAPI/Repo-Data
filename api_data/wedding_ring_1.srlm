@@ -1,0 +1,4 @@
+item = "gold_nugget";
+name = "§eYellow Rock of Love";
+include("types/accessory", this);
+soulbound = "COOP";

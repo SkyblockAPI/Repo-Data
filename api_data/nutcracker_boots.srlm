@@ -1,0 +1,10 @@
+item = "leather_boots";
+name = "Nutcracker Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  health: 75,
+  defense: 30,
+  sea_creature_chance: 1.5
+};
+requirements.skill.fishing = 28;

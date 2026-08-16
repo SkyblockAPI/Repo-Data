@@ -1,0 +1,4 @@
+item = "paper";
+name = "Ritual Residue";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/combat_3/ritual_residue";
+rarity = "EPIC";

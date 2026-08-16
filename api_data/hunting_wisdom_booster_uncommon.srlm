@@ -1,0 +1,5 @@
+item = "paper";
+name = "Uncommon Hunting Wisdom Booster Upgrade";
+include("types/booster", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/boosters/uncommon/booster_hunting_wisdom_upgraded";
+rarity = "UNCOMMON";

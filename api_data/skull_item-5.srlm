@@ -1,0 +1,4 @@
+item = "dragon_head";
+name = "Dragon Head";
+rarity = "EPIC";
+soulbound = "COOP";

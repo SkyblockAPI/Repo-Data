@@ -1,0 +1,11 @@
+item = "leather_boots";
+name = "Unstable Dragon Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 90,
+  health: 60,
+  critical_damage: 15,
+  critical_chance: 5
+};
+requirements.skill.combat = 16;

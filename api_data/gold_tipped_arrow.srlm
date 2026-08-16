@@ -1,0 +1,9 @@
+item = "arrow";
+name = "Gold-tipped Arrow";
+include("types/arrow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/gold_tipped_arrow";
+stats = {
+  damage: 10
+};
+requirements.skill.combat = 8;
+requirements.target_practice = I;

@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Titanium Necklace";
+include("types/necklace", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjQ5NzEwMiwKICAicHJvZmlsZUlkIiA6ICI3Mjc2ZThmYzVkNjE0ODNjYmMwN2IxYjIzNjI3MDA4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJXYWJvV2ViaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZjNiOTFiNmFhNzEyNGYzMGVkNGFkMWIyYmIwMTJhODI5ODVhMzM2NDA1NTVlMThlNzkyZjk2YWY4ZjU4ZWM2IgogICAgfQogIH0KfQ==";
+rarity = "RARE";
+stats = {
+  mining_speed: 30,
+  mining_fortune: 10
+};
+requirements.hotm = 3;

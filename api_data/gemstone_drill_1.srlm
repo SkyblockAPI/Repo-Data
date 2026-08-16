@@ -1,0 +1,13 @@
+item = "diamond_pickaxe";
+name = "Ruby Drill TX-15";
+include("types/drill", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/ruby_drill_tx_15";
+rarity = "RARE";
+stats = {
+  breaking_power: 7,
+  damage: 75,
+  mining_speed: 150,
+  gemstone_fortune: 60,
+  pristine: 0.5
+};
+requirements.hotm = 4;

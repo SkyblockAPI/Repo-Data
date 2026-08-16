@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Spooky Helmet";
+include("types/helmet", this);
+skin = "eyJ0aW1lc3RhbXAiOjE1Mzk2NDU5ODMyMjcsInByb2ZpbGVJZCI6IjkxOGEwMjk1NTlkZDRjZTZiMTZmN2E1ZDUzZWZiNDEyIiwicHJvZmlsZU5hbWUiOiJCZWV2ZWxvcGVyIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xMjFlYmIyYjM2YzFmNWRkZTRmYTY2NWNkMzlhNDg5NWVmMDJkMDBmY2IzZWIzNTg4Yjg2YTEzZjlhZTdlOWE4In19fQ==";
+rarity = "EPIC";
+stats = {
+  defense: 25
+};

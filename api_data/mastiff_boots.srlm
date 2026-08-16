@@ -1,0 +1,10 @@
+item = "diamond_boots";
+name = "Mastiff Boots";
+include("types/boots", this);
+rarity = "EPIC";
+stats = {
+  health: 200,
+  intelligence: 25,
+  critical_damage: 15
+};
+requirements.slayer.wolf = 4;

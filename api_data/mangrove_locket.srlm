@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Mangrove Locket";
+include("types/necklace", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjMyOTg1NSwKICAicHJvZmlsZUlkIiA6ICI2ZjhlYWI1MTVmNTc0MmRhOWYxZDYzMzY1ODAxMDU4YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaW5kZXJGb3hfMjAwNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xNTYzNjlkYTNhN2Q2MWNmMGFkNzkxM2E3ODRkMGUyYTkwMWUwNDJmZTBmNzE3ZjI5ZTY2NWJhNjlkNzYwNGVkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "RARE";
+stats = {
+  foraging_fortune: 5,
+  sweep: 1
+};
+requirements.skill.foraging = 12;
+booster_applicable = true;

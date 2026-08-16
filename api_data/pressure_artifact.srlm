@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Pressure Artifact";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxNjM5MDI2OTcxMywKICAicHJvZmlsZUlkIiA6ICJiOThjNGFkOGM2MjY0NGYxOWUzYzhhZTE0ZThhMDI1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5cnRlZGR5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U3NmVkZjMyOGQyZjhlOGI2NTMyMzk5YzgyNDYxYTRlNDg4MDc1M2I2ZTlmOTI2NjA0ODg0YWVjZjBkZDVkMzMiCiAgICB9CiAgfQp9";
+rarity = "RARE";
+stats = {
+  pressure_resistance: 30
+};

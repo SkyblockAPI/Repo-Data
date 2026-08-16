@@ -1,0 +1,4 @@
+item = "paper";
+name = "Fine Citrine Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/citrine/fine_citrine_gem";
+rarity = "RARE";

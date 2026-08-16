@@ -1,0 +1,9 @@
+item = "stick";
+name = "Celeste Wand";
+include("types/wand", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/celeste_wand";
+rarity = "UNCOMMON";
+stats = {
+  weapon_ability_damage: 250
+};
+requirements.skill.combat = 4;

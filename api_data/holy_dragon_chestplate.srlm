@@ -1,0 +1,10 @@
+item = "leather_chestplate";
+name = "Holy Dragon Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 160,
+  health: 180,
+  mending: 10
+};
+requirements.skill.combat = 16;

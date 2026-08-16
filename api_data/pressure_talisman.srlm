@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Pressure Talisman";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxNjM5MDMwNjc5NywKICAicHJvZmlsZUlkIiA6ICJjMTJkMmY5ZWJhZGI0ZTllYTIxZmM2M2M3YWY3M2E5NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEcmVhbXlOZW9uIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRjODRlODJkNTdhZmRjNGJmZDI2YTNhZWRiZDRiY2E3ZmRkZjBkOWI5YTA2ZWQzMTdjZTBmZjE1YWZlMTA1M2MiCiAgICB9CiAgfQp9";
+rarity = "COMMON";
+stats = {
+  pressure_resistance: 10
+};

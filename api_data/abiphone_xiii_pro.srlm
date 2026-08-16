@@ -1,0 +1,4 @@
+item = "paper";
+name = "Abiphone XIII Jade";
+this["minecraft:item_model"] = "hypixel_skyblock:item/abiphones/xiii/abiphone_xiii_jade";
+rarity = "RARE";

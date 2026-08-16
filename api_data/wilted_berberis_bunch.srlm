@@ -1,0 +1,4 @@
+item = "dead_bush";
+name = "Wilted Berberis Bunch";
+rarity = "UNCOMMON";
+rift_transferrable = true;

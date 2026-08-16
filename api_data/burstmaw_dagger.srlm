@@ -1,0 +1,12 @@
+item = "iron_sword";
+name = "Mawdredge Dagger";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/blaze/swords/mawdredge_dagger";
+rarity = "EPIC";
+stats = {
+  damage: 130,
+  strength: 55,
+  critical_damage: 20,
+  attack_speed: 10
+};
+requirements.slayer.blaze = 4;

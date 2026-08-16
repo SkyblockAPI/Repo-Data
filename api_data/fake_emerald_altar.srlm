@@ -1,0 +1,4 @@
+item = "emerald_block";
+name = "§aFake Emerald Altar";
+rarity = "UNCOMMON";
+soulbound = "COOP";

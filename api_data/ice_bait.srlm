@@ -1,0 +1,5 @@
+item = "paper";
+name = "Ice Bait";
+include("types/bait", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/bait/ice_bait";
+rarity = "UNCOMMON";

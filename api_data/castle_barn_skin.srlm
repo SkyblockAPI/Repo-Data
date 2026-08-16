@@ -1,0 +1,4 @@
+item = "cobblestone";
+name = "Castle Barn Skin";
+include("types/cosmetic", this);
+rarity = "LEGENDARY";

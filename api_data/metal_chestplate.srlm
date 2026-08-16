@@ -1,0 +1,9 @@
+item = "leather_chestplate";
+name = "Metal Chestplate";
+include("types/chestplate", this);
+include("types/dungeon", this);
+rarity = "EPIC";
+stats = {
+  defense: 230
+};
+requirements.dungeon_completetion.catacombs = 3;

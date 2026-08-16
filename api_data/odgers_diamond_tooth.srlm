@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Odger's Diamond Tooth";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY0Mzg4NjI2NDEzNywKICAicHJvZmlsZUlkIiA6ICIyM2YxYTU5ZjQ2OWI0M2RkYmRiNTM3YmZlYzEwNDcxZiIsCiAgInByb2ZpbGVOYW1lIiA6ICIyODA3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EyNjgwYTI4OTYyZTlhZDJkNDg3MmQwNmZiYTJjYzYwODI0ZmJiMmQwODI0ZTQyZDk1ODU3NWI3NTYzODg0YWEiCiAgICB9CiAgfQp9";
+rarity = "EPIC";
+stats = {
+  sea_creature_chance: 2,
+  trophy_fish_chance: 4
+};
+requirements.trophy.LAVA = "DIAMOND";
+soulbound = "SOLO";

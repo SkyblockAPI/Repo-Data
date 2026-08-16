@@ -1,0 +1,4 @@
+item = "iron_hoe";
+name = "Thornleaf Scythe";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/thornleaf_scythe";
+rarity = "UNCOMMON";

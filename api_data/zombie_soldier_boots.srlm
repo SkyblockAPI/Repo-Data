@@ -1,0 +1,10 @@
+item = "leather_boots";
+name = "Zombie Soldier Boots";
+include("types/boots", this);
+include("types/dungeon", this);
+rarity = "EPIC";
+requirements.dungeons.catacombs = 9;
+tiered_stats = {
+  defense: [36, 40, 44, 48, 53, 58, 64, 70, 77, 85],
+  health: [17, 19, 21, 23, 25, 27, 30, 33, 36, 40]
+};

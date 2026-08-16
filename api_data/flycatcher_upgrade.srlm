@@ -1,0 +1,4 @@
+item = "web";
+name = "Flycatcher";
+rarity = "EPIC";
+requirements.slayer.spider = 6;

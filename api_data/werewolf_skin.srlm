@@ -1,0 +1,4 @@
+item = "paper";
+name = "Werewolf Skin";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/werewolf_skin";
+rarity = "RARE";

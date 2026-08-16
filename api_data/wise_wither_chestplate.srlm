@@ -1,0 +1,11 @@
+item = "leather_chestplate";
+name = "Storm's Chestplate";
+include("types/chestplate", this);
+include("types/dungeon", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 120,
+  health: 260,
+  intelligence: 250
+};
+requirements.dungeon_completetion.catacombs = 7;

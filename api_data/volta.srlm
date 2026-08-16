@@ -1,0 +1,4 @@
+item = "paper";
+name = "Volta";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/volta";
+rarity = "RARE";

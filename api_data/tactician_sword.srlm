@@ -1,0 +1,9 @@
+item = "wood_sword";
+name = "Tactician's Sword";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/tacticians_sword";
+rarity = "RARE";
+stats = {
+  damage: 50,
+  critical_chance: 20
+};

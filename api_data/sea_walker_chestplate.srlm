@@ -1,0 +1,4 @@
+item = "leather_chestplate";
+name = "Sea Walker Chestplate";
+include("types/chestplate", this);
+rarity = "UNCOMMON";

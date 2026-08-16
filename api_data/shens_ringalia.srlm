@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Shen's Ringalia";
+include("types/bracelet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTczMjEzNjgyNzM1NCwKICAicHJvZmlsZUlkIiA6ICI1MWI4MjcxNDE5YWE0NDA5YTFhNmU1OTcwYTc1MzgyNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJYRHJha2U5OSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jZWJhZmIxMGUyOTliNDJjYzE3NzViZDMyYjI2NzM2OTNiNzlmNjdmYjM2ZTBiZmNjY2U0YWJmMjQxZDI1NTZmIgogICAgfQogIH0KfQ==";
+rarity = "LEGENDARY";
+stats = {
+  rift_time: 50
+};
+soulbound = "SOLO";

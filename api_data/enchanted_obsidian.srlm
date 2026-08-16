@@ -1,0 +1,4 @@
+item = "obsidian";
+name = "Enchanted Obsidian";
+rarity = "UNCOMMON";
+category = "BLOCK";

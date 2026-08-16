@@ -1,0 +1,13 @@
+item = "leather_boots";
+name = "Infernal Terror Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 30,
+  defense: 101,
+  health: 328,
+  critical_damage: 126,
+  intelligence: 13
+};
+requirements.skill.combat = 42;
+requirements.kuudra.infernal = 1;

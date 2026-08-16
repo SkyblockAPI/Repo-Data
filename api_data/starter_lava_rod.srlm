@@ -1,0 +1,13 @@
+item = "fishing_rod";
+name = "Starter Lava Rod";
+include("types/fishing_rod", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/rod/starter_lava_rod";
+rarity = "UNCOMMON";
+stats = {
+  damage: 50,
+  strength: 50,
+  fishing_speed: 10,
+  trophy_fish_chance: 5
+};
+requirements.skill.fishing = 10;
+soulbound = "COOP";

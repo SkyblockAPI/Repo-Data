@@ -1,0 +1,9 @@
+item = "gold_pickaxe";
+name = "Stonk";
+include("types/pickaxe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/stonk";
+rarity = "EPIC";
+stats = {
+  breaking_power: 1,
+  mining_speed: 380
+};

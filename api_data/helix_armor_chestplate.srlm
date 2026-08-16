@@ -1,0 +1,12 @@
+item = "leather_chestplate";
+name = "Helix Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  health: 190,
+  defense: 55,
+  foraging_fortune: 45,
+  sweep: 20
+};
+requirements.skill.foraging = 25;
+booster_applicable = true;

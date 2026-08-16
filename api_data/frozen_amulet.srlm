@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Frozen Amulet";
+include("types/necklace", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTczNjQyNzUxMTkwOSwKICAicHJvZmlsZUlkIiA6ICJlNzdlMDRhNmMyMzg0MGVmODZlOGViOWY4NGQ3OWVjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMT1JJU0pUMTYiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGVkYTI1OGY2ZmNlZDk1ZjQ0OWI0MTI4NzgxMDMyYmI2YTNiYWI2NWI3Mzc3ODI4NjBlMmJkYjhlOWQ5Yjg2YiIKICAgIH0KICB9Cn0=";
+rarity = "RARE";
+stats = {
+  sea_creature_chance: 1,
+  fishing_speed: 3,
+  treasure_chance: 0.5
+};

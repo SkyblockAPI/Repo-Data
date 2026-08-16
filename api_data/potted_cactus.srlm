@@ -1,0 +1,4 @@
+item = "paper";
+name = "Potted Cactus";
+this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/finnegan/potted_cactus";
+rarity = "UNCOMMON";

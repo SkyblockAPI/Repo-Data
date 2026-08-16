@@ -1,0 +1,12 @@
+item = "leather_boots";
+name = "Fig Striders";
+include("types/boots", this);
+rarity = "RARE";
+stats = {
+  health: 65,
+  defense: 25,
+  foraging_fortune: 30,
+  sweep: 10
+};
+requirements.skill.foraging = 15;
+booster_applicable = true;

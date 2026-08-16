@@ -1,0 +1,4 @@
+item = "paper";
+name = "Bejeweled Handle";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/bejeweled_handle";
+rarity = "RARE";

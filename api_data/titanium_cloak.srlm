@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Titanium Cloak";
+include("types/cloak", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjkyNzU1NywKICAicHJvZmlsZUlkIiA6ICIxNDU1MDNhNDRjZmI0NzcwYmM3NWNjMTRjYjUwMDE4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWtlbHlFcmljIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ5ODIxNDEwNjMxMTg2YzZmM2ZiYmFlNWYwZWY1Yjk0N2Y0NzVlYjMyMDI3YThhYWQwYTQ1NjUxMjU0N2MyMDkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "RARE";
+stats = {
+  mining_speed: 30,
+  mining_fortune: 10
+};
+requirements.hotm = 3;

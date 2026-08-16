@@ -1,0 +1,8 @@
+item = "iron_sword";
+name = "Venomous Sword";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/broken/broken_sword";
+rarity = "UNCOMMON";
+stats = {
+  damage: 30
+};

@@ -1,0 +1,11 @@
+item = "player_head";
+name = "David's Cloak";
+include("types/cloak", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxOTI2MjM0NzExMywKICAicHJvZmlsZUlkIiA6ICJiM2E3NjExNGVmMzI0ZjYyYWM4NDRiOWJmNTY1NGFiOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNcmd1eW1hbnBlcnNvbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zNTgyZmNkZTY4OTIxYjE0YmY2ZWJkYTZkNjNmZWM4MWIyYzBlNjY4ZTJmYzJmYmZlOWFmNmY0YjdkNzJlMmYyIgogICAgfQogIH0KfQ==";
+rarity = "COMMON";
+stats = {
+  health: 50,
+  magic_find: 2
+};
+soulbound = "SOLO";
+booster_applicable = true;

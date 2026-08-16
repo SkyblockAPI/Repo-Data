@@ -1,0 +1,5 @@
+item = "paper";
+name = "Bundle of Magma Arrows";
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/blaze/arrows/bundle_of_magma_arrows";
+rarity = "EPIC";
+requirements.skill.combat = 25;

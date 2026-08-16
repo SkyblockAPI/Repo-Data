@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Backwater Cloak";
+include("types/cloak", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc0MDQxOTAyNTg2OCwKICAicHJvZmlsZUlkIiA6ICJiNzAwZDM2YjRkYmE0NDQzOTUzNjc4NDVlNWViZTA5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJleGVjdXRvcnkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjJhZGVlY2JmMjBiNThmZDRjYWQ4YWFhM2I0NjUzZDcxNjVlMDdhYTE2N2JlNDhhMzIxYjA5NmQ1NmE5ZmUzNSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
+rarity = "UNCOMMON";
+stats = {
+  fishing_speed: 2,
+  sea_creature_chance: 1,
+  treasure_chance: 0.1
+};
+requirements.skill.fishing = 5;

@@ -1,0 +1,4 @@
+item = "water_lily";
+name = "Lucky Clover";
+include("types/pet_item", this);
+rarity = "EPIC";

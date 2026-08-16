@@ -1,0 +1,4 @@
+item = "paper";
+name = "Juicy Nozzle";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/pests/juicy_nozzle";
+rarity = "RARE";

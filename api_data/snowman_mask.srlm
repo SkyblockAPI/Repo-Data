@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Snowman Mask";
+include("types/carnival_mask", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxNDI0NjMwMzE1MywKICAicHJvZmlsZUlkIiA6ICJlY2Q0ZTI4NjdkMmE0MTE2OTljYzlkMjMzYmM1YmEyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYXRlZEtub3QiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzMyMWMxMmQ0ZDg4MjczYWJiYTRmYTJmNWY5YTkwZjNkMTQ0NTIyOWRjN2NjYWE1NzExOTc1YzhiMGE4MzNiNyIKICAgIH0KICB9Cn0=";
+rarity = "RARE";
+stats = {
+  health: 10
+};

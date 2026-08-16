@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Baby ChickChicken";
+include("types/cosmetic", this);
+skin = "eyJ0aW1lc3RhbXAiOjE1NzE5NDA0OTgwODYsInByb2ZpbGVJZCI6ImRlNTcxYTEwMmNiODQ4ODA4ZmU3YzlmNDQ5NmVjZGFkIiwicHJvZmlsZU5hbWUiOiJNSEZfTWluZXNraW4iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U1MGNiYmMyYjU0YTNlNzkxMjYyZGNkNWUyMzQxNDg2ZDliMTVhNWRhNGY5OGZjMDM0NThjMDViMzk1ZjAzMzUifX19";
+rarity = "EPIC";

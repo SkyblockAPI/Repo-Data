@@ -1,0 +1,7 @@
+item = "chainmail_chestplate";
+name = "Ghast Chestplate";
+include("types/chestplate", this);
+rarity = "RARE";
+stats = {
+  health: 200
+};

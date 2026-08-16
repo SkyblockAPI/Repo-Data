@@ -1,0 +1,11 @@
+item = "fishing_rod";
+name = "Soul Whip";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/soul_whip";
+rarity = "EPIC";
+stats = {
+  damage: 145,
+  strength: 175
+};
+requirements.dungeons.catacombs = 23;
+requirements.skill.fishing = 26;

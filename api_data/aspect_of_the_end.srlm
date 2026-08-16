@@ -1,0 +1,9 @@
+item = "diamond_sword";
+name = "Aspect of the End";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/aspect_of_the_end";
+rarity = "RARE";
+stats = {
+  damage: 100,
+  strength: 100
+};

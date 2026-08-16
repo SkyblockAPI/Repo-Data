@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Diamond Scarf Head";
+include("types/helmet", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NDE1MzQyMywKICAicHJvZmlsZUlkIiA6ICJhMmI1ZjhlM2MxZDI0ZmUzYTlkMzNiZTFhNzEzYTUwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYXBpb0dvZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZGE1Y2EyZjY4MDA1MTZhNjNkMjU4NzhlYjdhNzEzZTgwZDYzYjYyZjlmNmNhYjNmMzEwOTdmOTQ5NGI2MTIxIgogICAgfQogIH0KfQ==";
+rarity = "SPECIAL";
+stats = {
+  defense: 30,
+  health: 70,
+  strength: 15
+};
+requirements.dungeon_collection.catacombs = 2;
+soulbound = "COOP";

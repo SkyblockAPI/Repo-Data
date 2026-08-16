@@ -1,0 +1,4 @@
+item = "paper";
+name = "\"Fragranced\" Brown Mushroom \"Paste\"";
+this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/finnegan/fragranced_brown_mushroom";
+rarity = "RARE";

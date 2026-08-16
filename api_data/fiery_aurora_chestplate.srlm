@@ -1,0 +1,11 @@
+item = "leather_chestplate";
+name = "Fiery Aurora Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 130,
+  health: 460,
+  intelligence: 350
+};
+requirements.skill.combat = 37;
+requirements.kuudra.fiery = 1;

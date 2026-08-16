@@ -1,0 +1,11 @@
+item = "leather_leggings";
+name = "Canopy Pants";
+include("types/leggings", this);
+rarity = "UNCOMMON";
+stats = {
+  health: 110,
+  defense: 30,
+  sweep: 6
+};
+requirements.skill.foraging = 12;
+booster_applicable = true;

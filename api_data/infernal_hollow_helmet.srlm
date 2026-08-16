@@ -1,0 +1,14 @@
+item = "player_head";
+name = "Infernal Hollow Helmet";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDE3MjcwNSwKICAicHJvZmlsZUlkIiA6ICI4YjgyM2E1YmU0Njk0YjhiOTE0NmE5MWRhMjk4ZTViNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXBoaXRpcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NGVlZTlmMjM5NTJmOTc3N2QwNTE5YzExMTY1NTA2Njg1MWZiNGMxNzkzNjI5ZDM3NjdhMDBkYWNlZTZmMjUwIgogICAgfQogIH0KfQ==";
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 13,
+  defense: 134,
+  health: 427,
+  intelligence: 328,
+  mending: 12
+};
+requirements.skill.combat = 42;
+requirements.kuudra.infernal = 1;

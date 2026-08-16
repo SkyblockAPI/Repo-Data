@@ -1,0 +1,13 @@
+item = "leather_chestplate";
+name = "Crimson Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 65,
+  health: 230,
+  intelligence: 5,
+  strength: 30,
+  critical_damage: 20
+};
+requirements.skill.combat = 22;
+requirements.kuudra.none = 1;

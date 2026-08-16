@@ -1,0 +1,3 @@
+item = "paper";
+name = "Rough Citrine Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/citrine/rough_citrine_gem";

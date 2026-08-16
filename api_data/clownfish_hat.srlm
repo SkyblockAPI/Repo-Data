@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Tropical Fish Hat";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTU5MjA5OTU5MzE1NSwKICAicHJvZmlsZUlkIiA6ICJiNzQ3OWJhZTI5YzQ0YjIzYmE1NjI4MzM3OGYwZTNjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTeWxlZXgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWVjMDRmZTNkODM0MThkYjBmMzZiYzhmZDdkNTBlNGJjMWI1N2Y1Y2I2NDMyNDFkYWM0MzE3OWUyYzAxNmI3NyIKICAgIH0KICB9Cn0=";
+rarity = "UNCOMMON";
+stats = {
+  intelligence: 50
+};

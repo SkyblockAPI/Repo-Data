@@ -1,0 +1,10 @@
+item = "gold_leggings";
+name = "Starlight Leggings";
+include("types/leggings", this);
+rarity = "RARE";
+stats = {
+  defense: 30,
+  intelligence: 60,
+  health: 30
+};
+requirements.skill.combat = 8;

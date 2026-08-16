@@ -1,0 +1,12 @@
+item = "gold_helmet";
+name = "Zombie Lord Helmet";
+include("types/helmet", this);
+include("types/dungeon", this);
+rarity = "EPIC";
+requirements.dungeons.catacombs = 25;
+tiered_stats = {
+  defense: [25, 28, 31, 34, 38, 42, 47, 53, 58, 65],
+  health: [56, 62, 69, 77, 86, 95, 106, 117, 130, 145],
+  strength: [7, 8, 9, 10, 11, 12, 13, 14, 16, 18],
+  intelligence: [7, 8, 9, 10, 11, 12, 13, 14, 16, 18]
+};

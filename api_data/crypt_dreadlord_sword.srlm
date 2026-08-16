@@ -1,0 +1,13 @@
+item = "iron_sword";
+name = "Dreadlord Sword";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/dreadlord_sword";
+rarity = "RARE";
+requirements.dungeons.catacombs = 3;
+tiered_stats = {
+  damage: [52, 56, 60, 65, 70, 75, 80, 86, 93, 100],
+  strength: [23, 25, 27, 29, 31, 34, 36, 39, 42, 45],
+  weapon_ability_damage: [500],
+  intelligence: [85, 92, 100, 109, 119, 129, 140, 152, 166, 180]
+};

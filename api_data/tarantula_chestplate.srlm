@@ -1,0 +1,10 @@
+item = "leather_chestplate";
+name = "Tarantula Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  defense: 100,
+  health: 120,
+  intelligence: 100
+};
+requirements.slayer.spider = 4;

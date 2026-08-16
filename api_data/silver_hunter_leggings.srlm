@@ -1,0 +1,9 @@
+item = "iron_leggings";
+name = "Silver Hunter Leggings";
+include("types/leggings", this);
+rarity = "RARE";
+stats = {
+  health: 100
+};
+requirements.trophy.LAVA = "SILVER";
+soulbound = "SOLO";

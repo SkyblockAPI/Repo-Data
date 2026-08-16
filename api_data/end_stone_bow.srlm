@@ -1,0 +1,9 @@
+item = "bow";
+name = "End Stone Bow";
+include("types/bow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/combat_3/weapons/end_stone_bow";
+rarity = "EPIC";
+stats = {
+  damage: 140
+};
+requirements.skill.combat = 15;

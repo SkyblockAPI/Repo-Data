@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Diamond Sadan Head";
+include("types/helmet", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY1NjI2NzY4MTEwNywKICAicHJvZmlsZUlkIiA6ICJkYmQ4MDQ2M2EwMzY0Y2FjYjI3OGNhODBhMDBkZGIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4bG9nMjEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2M2M2M0ZjdmOGY1YjhjNWZlMWJhYzlhNzA4ZTVhNjJjY2QwNDk3MDA3MmFhYjVlMzIzYjFiN2Q0MDA0ZjRhMiIKICAgIH0KICB9Cn0=";
+rarity = "SPECIAL";
+stats = {
+  defense: 70,
+  health: 190,
+  strength: 35
+};
+requirements.dungeon_collection.catacombs = 6;
+soulbound = "COOP";

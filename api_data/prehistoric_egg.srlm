@@ -1,0 +1,3 @@
+item = "paper";
+name = "Prehistoric Egg";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/prehistoric_egg";

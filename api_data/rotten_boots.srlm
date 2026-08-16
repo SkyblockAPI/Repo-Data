@@ -1,0 +1,10 @@
+item = "leather_boots";
+name = "Rotten Boots";
+include("types/boots", this);
+include("types/dungeon", this);
+rarity = "RARE";
+requirements.dungeons.catacombs = 1;
+tiered_stats = {
+  health: [60, 65, 71, 78, 85, 92, 101, 109, 120, 130],
+  strength: [10, 11, 12, 13, 14, 15, 17, 18, 20, 22]
+};

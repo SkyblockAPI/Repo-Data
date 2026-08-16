@@ -1,0 +1,4 @@
+item = "paper";
+name = "Condensed Lily Pad";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/lily_pad/condensed_lily_pad";
+rarity = "RARE";

@@ -1,0 +1,7 @@
+item = "player_head";
+name = "Silver Trophy Fishing Sack";
+include("types/sack", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY4NDkzODYwNTM5NSwKICAicHJvZmlsZUlkIiA6ICIwOWQ3YmJjNGYxZmU0ZjlkYjRiZmE1MTY2NDA3OTcyYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJlemtkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMyNWYwMjdhNGEyYmMyZGY1MzE1NGUwYmFmOTE3NDcwMjA3YjgxMzljODBmNDg3ZWQ5ZGFkYTcwMzNjNTkyZDUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "RARE";
+requirements.trophy.LAVA = "SILVER";
+soulbound = "SOLO";

@@ -1,0 +1,4 @@
+item = "paper";
+name = "Kuudra Tentacle";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/crimson_isle/kuudra/kuudra_tentacle";
+rarity = "RARE";

@@ -1,0 +1,13 @@
+item = "stone_axe";
+name = "Helix Chopper";
+include("types/axe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/axes/helix_chopper";
+rarity = "EPIC";
+stats = {
+  damage: 75,
+  sweep: 50,
+  foraging_fortune: 50,
+  strength: 25
+};
+requirements.skill.foraging = 20;
+booster_applicable = true;

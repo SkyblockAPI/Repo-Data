@@ -1,0 +1,10 @@
+item = "diamond_chestplate";
+name = "Titan's Chestplate";
+include("types/chestplate", this);
+rarity = "UNOBTAINABLE";
+stats = {
+  defense: 200,
+  health: 300,
+  strength: 20,
+  intelligence: 75
+};

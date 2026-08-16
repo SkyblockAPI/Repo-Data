@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Flaming Fist";
+include("types/gloves", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY0NDUwMDUyMTI2NiwKICAicHJvZmlsZUlkIiA6ICI0ZDEzZWUyZjViOWI0N2I2OGU2NzhhMjAxN2VmZTc1MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcmF5ZGVyZWsiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTg3MTk4NDljZWY0MjY0ZDY3MGM2Yjg4ZTZiNWViZDQwYjMyYjUzNWE2OGEyYzIyODkyZGQwOGQ4YmNjMTNjNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
+rarity = "EPIC";
+stats = {
+  strength: 10,
+  health: 30,
+  defense: 20,
+  critical_damage: 10,
+  ferocity: 1
+};
+requirements.skill.combat = 22;

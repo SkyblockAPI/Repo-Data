@@ -1,0 +1,4 @@
+item = "paper";
+name = "Flawed Jade Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/jade/flawed_jade_gem";
+rarity = "UNCOMMON";

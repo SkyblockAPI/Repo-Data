@@ -1,0 +1,4 @@
+item = "bedrock";
+name = "Machine Gun Bow";
+include("types/dungeon", this);
+rarity = "UNCOMMON";

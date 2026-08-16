@@ -1,0 +1,7 @@
+item = "iron_sword";
+name = "Spider Sword";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/spider_sword";
+stats = {
+  damage: 30
+};

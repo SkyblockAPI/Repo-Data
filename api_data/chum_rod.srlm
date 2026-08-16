@@ -1,0 +1,12 @@
+item = "fishing_rod";
+name = "Chum Rod";
+include("types/fishing_rod", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/rod/broken_rod";
+rarity = "RARE";
+stats = {
+  damage: 55,
+  strength: 40,
+  sea_creature_chance: 2,
+  fishing_speed: 70
+};
+requirements.skill.fishing = 5;

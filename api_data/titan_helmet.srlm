@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Titan's Helmet";
+include("types/helmet", this);
+skin = "eyJ0aW1lc3RhbXAiOjE1MTI0MzQ0MjIzODEsInByb2ZpbGVJZCI6IjA2MzU0OGY3Y2JkMzQ1ZTJiZDBiYTZmNGE2OGJhMTg2IiwicHJvZmlsZU5hbWUiOiJHb2dldGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RlODZlMGIyOTNkZWY1YzI1NzMzODQzYmJlNjc3OWNjZGE3NzU5MGUxMzIyNGEyZGI2Mjc2YWQ4MjNlZDU1ZSJ9fX0=";
+rarity = "UNOBTAINABLE";
+stats = {
+  defense: 100,
+  health: 150,
+  strength: 10,
+  intelligence: 50
+};

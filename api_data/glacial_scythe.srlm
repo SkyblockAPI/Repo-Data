@@ -1,0 +1,10 @@
+item = "diamond_hoe";
+name = "Glacial Scythe";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/winter/weapons/glacial_scythe";
+rarity = "EPIC";
+stats = {
+  damage: 120,
+  intelligence: 30,
+  weapon_ability_damage: 1500
+};

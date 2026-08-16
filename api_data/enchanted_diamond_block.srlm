@@ -1,0 +1,4 @@
+item = "diamond_block";
+name = "Enchanted Diamond Block";
+rarity = "RARE";
+category = "ORE";

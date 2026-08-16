@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Titanium Gauntlet";
+include("types/gloves", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxNzUyMTQzMzg2MiwKICAicHJvZmlsZUlkIiA6ICJkZDNjZGJiOTE2M2Q0NzgyOGQ0YmZkODZmYWE4NGY5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFTFdhbEtlUkpBSkEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2M4MDI3YzhhOGE2NzY3MDEwN2FkYWRlNDEwMjAwZjExYjIxYzkzYTEwMWE4ZWViMzI1OGVhYzM0NmQ1YzkwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "RARE";
+stats = {
+  mining_speed: 30,
+  mining_fortune: 10
+};
+requirements.hotm = 3;

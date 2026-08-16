@@ -1,0 +1,4 @@
+item = "skeleton_skull";
+name = "Skeleton Skull";
+rarity = "RARE";
+soulbound = "COOP";

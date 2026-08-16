@@ -1,0 +1,4 @@
+item = "paper";
+name = "Perfect Ruby Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/ruby/perfect_ruby_gem";
+rarity = "LEGENDARY";

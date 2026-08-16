@@ -1,0 +1,4 @@
+item = "ghast_tear";
+name = "Great White Shark Tooth";
+this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/marina/great_white_shark_tooth";
+rarity = "LEGENDARY";

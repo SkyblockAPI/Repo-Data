@@ -1,0 +1,7 @@
+item = "chainmail_leggings";
+name = "Ghast Leggings";
+include("types/leggings", this);
+rarity = "RARE";
+stats = {
+  health: 150
+};

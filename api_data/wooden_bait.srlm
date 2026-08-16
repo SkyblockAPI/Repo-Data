@@ -1,0 +1,5 @@
+item = "paper";
+name = "Wooden Bait";
+include("types/bait", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/wooden_bait";
+rarity = "UNCOMMON";

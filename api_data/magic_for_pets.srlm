@@ -1,0 +1,4 @@
+item = "paper";
+name = "Magic For Pets In A Hurry";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/magic_for_pets";
+rarity = "UNCOMMON";

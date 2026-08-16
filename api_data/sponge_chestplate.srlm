@@ -1,0 +1,9 @@
+item = "leather_chestplate";
+name = "Sponge Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  defense: 150,
+  sea_creature_chance: 2
+};
+requirements.skill.fishing = 17;

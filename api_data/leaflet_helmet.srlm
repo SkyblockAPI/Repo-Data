@@ -1,0 +1,7 @@
+item = "leaves";
+name = "Leaflet Hat";
+include("types/helmet", this);
+stats = {
+  foraging_fortune: 3,
+  health: 70
+};

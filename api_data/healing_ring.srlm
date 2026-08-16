@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Healing Ring";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzNzQ4NDgwOCwKICAicHJvZmlsZUlkIiA6ICJjNTBhZmE4YWJlYjk0ZTQ1OTRiZjFiNDI1YTk4MGYwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUd29FQmFlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUwMjQ3YmM0YTAxZDJhMjM5MWNkOGQ4NTQzYzlmYzY3M2NkYTc0YjA2YmZjMTI3YTcyZWMwNmFkM2VkNTgwZTEiCiAgICB9CiAgfQp9";
+rarity = "UNCOMMON";
+stats = {
+  vitality: 4
+};

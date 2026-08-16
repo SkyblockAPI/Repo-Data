@@ -1,0 +1,12 @@
+item = "leather_chestplate";
+name = "Skeleton Soldier Chestplate";
+include("types/chestplate", this);
+include("types/dungeon", this);
+rarity = "EPIC";
+requirements.dungeons.catacombs = 9;
+tiered_stats = {
+  defense: [42, 45, 49, 54, 58, 63, 69, 74, 81, 88],
+  health: [26, 29, 31, 34, 37, 40, 44, 47, 51, 56],
+  critical_damage: [17, 18, 20, 21, 23, 25, 27, 30, 32, 35],
+  critical_chance: [2, 2, 2, 2, 3, 3, 3, 3, 4, 4]
+};

@@ -1,0 +1,6 @@
+item = "player_head";
+name = "Master Skull - Tier 10";
+include("types/accessory", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDAyMjEyMzM0NiwKICAicHJvZmlsZUlkIiA6ICJkMDlkOTg1NzRiNjM0ZmNiOWNiN2I5MWZhYmE4ZGIzYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEdWNrVGVsbHoiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWM5MWY5YWZkODRmMjM2NWNlZThhNTNiNjFiOTQ0MmIyOGU0ZjBlMjViYzZiNmIxYmFkYmNkYWZjM2UzMGM0OSIKICAgIH0KICB9Cn0=";
+rarity = "LEGENDARY";

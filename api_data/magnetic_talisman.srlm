@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Magnetic Talisman";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzNzgzMjg5MiwKICAicHJvZmlsZUlkIiA6ICJmZDYwZjM2ZjU4NjE0ZjEyYjNjZDQ3YzJkODU1Mjk5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZiNzZlYTQxYjNkY2Y4YTQ4MjAyY2VjOGFiOGZiNDJjNjcxYjM1Y2U2NDhkODYxMzg1OWEwMTNhNGNhMTI0ODAiCiAgICB9CiAgfQp9";
+rarity = "UNCOMMON";

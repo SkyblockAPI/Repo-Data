@@ -1,0 +1,12 @@
+item = "leather_leggings";
+name = "Skeleton Soldier Leggings";
+include("types/leggings", this);
+include("types/dungeon", this);
+rarity = "EPIC";
+requirements.dungeons.catacombs = 9;
+tiered_stats = {
+  defense: [38, 42, 46, 50, 54, 58, 63, 69, 74, 82],
+  health: [24, 26, 28, 31, 34, 36, 40, 43, 47, 51],
+  critical_damage: [17, 18, 20, 21, 23, 25, 27, 30, 32, 35],
+  critical_chance: [2, 2, 2, 2, 3, 3, 3, 3, 4, 4]
+};

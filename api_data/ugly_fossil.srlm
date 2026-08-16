@@ -1,0 +1,4 @@
+item = "paper";
+name = "Ugly Fossil";
+this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/fossils/ugly_fossil";
+rarity = "LEGENDARY";

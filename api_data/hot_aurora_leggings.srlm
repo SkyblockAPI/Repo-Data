@@ -1,0 +1,11 @@
+item = "leather_leggings";
+name = "Hot Aurora Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 69,
+  health: 258,
+  intelligence: 221
+};
+requirements.skill.combat = 27;
+requirements.kuudra.hot = 1;

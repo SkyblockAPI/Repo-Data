@@ -1,0 +1,4 @@
+item = "paper";
+name = "Perfect Topaz Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/topaz/perfect_topaz_gem";
+rarity = "LEGENDARY";

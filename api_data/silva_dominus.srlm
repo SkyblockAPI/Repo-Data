@@ -1,0 +1,8 @@
+item = "gold_axe";
+name = "Sharpened Huntaxe - Dominus";
+include("types/axe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/hunting_weapons/sharpened_huntaxe";
+rarity = "UNCOMMON";
+stats = {
+  damage: 10
+};

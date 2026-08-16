@@ -1,0 +1,9 @@
+item = "diamond_spade";
+name = "Aspect of the Void";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/enderman/aspect_of_the_void";
+rarity = "EPIC";
+stats = {
+  damage: 120,
+  strength: 100
+};

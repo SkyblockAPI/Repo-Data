@@ -1,0 +1,11 @@
+item = "leather_leggings";
+name = "Goldor's Leggings";
+include("types/leggings", this);
+include("types/dungeon", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 240,
+  health: 260,
+  intelligence: 20
+};
+requirements.dungeon_completetion.catacombs = 7;

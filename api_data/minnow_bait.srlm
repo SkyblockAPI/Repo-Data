@@ -1,0 +1,4 @@
+item = "paper";
+name = "Minnow Bait";
+include("types/bait", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/bait/minnow_bait";

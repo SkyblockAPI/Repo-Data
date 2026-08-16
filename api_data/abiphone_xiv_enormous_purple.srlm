@@ -1,0 +1,4 @@
+item = "paper";
+name = "Abiphone XIV Purple";
+this["minecraft:item_model"] = "hypixel_skyblock:item/abiphones/xiv/abiphone_xiv_purple";
+rarity = "EPIC";

@@ -1,0 +1,9 @@
+item = "leather_chestplate";
+name = "Bronze Hunter Chestplate";
+include("types/chestplate", this);
+rarity = "UNCOMMON";
+stats = {
+  health: 100
+};
+requirements.trophy.LAVA = "BRONZE";
+soulbound = "SOLO";

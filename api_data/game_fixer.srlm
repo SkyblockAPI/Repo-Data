@@ -1,0 +1,5 @@
+item = "wood_pickaxe";
+name = "Game Fixer";
+include("types/pickaxe", this);
+rarity = "VERY_SPECIAL";
+soulbound = "COOP";

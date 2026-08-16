@@ -1,0 +1,5 @@
+item = "monster_egg";
+name = "Decoy";
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/decoy";
+rarity = "UNCOMMON";

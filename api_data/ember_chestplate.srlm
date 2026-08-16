@@ -1,0 +1,10 @@
+item = "chainmail_chestplate";
+name = "Ember Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  defense: 60,
+  health: 65,
+  intelligence: 10
+};
+requirements.skill.combat = 8;

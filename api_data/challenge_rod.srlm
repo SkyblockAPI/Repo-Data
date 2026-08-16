@@ -1,0 +1,13 @@
+item = "fishing_rod";
+name = "Challenging Rod";
+include("types/fishing_rod", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/rod/challenging_rod";
+rarity = "UNCOMMON";
+stats = {
+  damage: 75,
+  strength: 75,
+  fishing_speed: 35,
+  sea_creature_chance: 2,
+  treasure_chance: 0.5
+};
+requirements.skill.fishing = 5;

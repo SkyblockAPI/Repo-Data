@@ -1,0 +1,9 @@
+item = "gold_chestplate";
+name = "Challenger's Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  strength: 25,
+  health: 80,
+  defense: 40
+};

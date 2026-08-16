@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Lava Talisman";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzNzU5NzI2NywKICAicHJvZmlsZUlkIiA6ICIyM2YxYTU5ZjQ2OWI0M2RkYmRiNTM3YmZlYzEwNDcxZiIsCiAgInByb2ZpbGVOYW1lIiA6ICIyODA3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U0N2RjYmE3Mzc5Y2IzZDUzNTMwZDMxOGJiNDBiNjIxMjcxYTIyZGYzYmE1OWFlYjQyNGEwNjUxN2MxYjdlYWEiCiAgICB9CiAgfQp9";
+rarity = "UNCOMMON";

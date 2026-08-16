@@ -1,0 +1,6 @@
+item = "player_head";
+name = "Zombie Artifact";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzODc1ODkyMSwKICAicHJvZmlsZUlkIiA6ICIzYTNmNzhkZmExZjQ0OTllYjE5NjlmYzlkOTEwZGYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVyb2Ryb2dvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RhOGVjYjM5MTYwZmIzMzcxNGU3YTFkZjQxOGRkYTQzYjU4NTk4MDY4ZjYwNTI2NzYzMjhiMjY3ZDAzMTg3ZmMiCiAgICB9CiAgfQp9";
+rarity = "RARE";
+requirements.slayer.zombie = 7;

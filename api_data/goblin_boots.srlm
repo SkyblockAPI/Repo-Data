@@ -1,0 +1,10 @@
+item = "leather_boots";
+name = "Goblin Boots";
+include("types/boots", this);
+rarity = "RARE";
+stats = {
+  health: 60,
+  intelligence: -1,
+  mining_speed: 10,
+  mining_fortune: 4
+};

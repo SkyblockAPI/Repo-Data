@@ -1,0 +1,8 @@
+item = "paper";
+name = "Shadow Warp";
+include("types/dungeon", this);
+this["minecraft:item_model"] = "minecraft:writable_book";
+rarity = "EPIC";
+stats = {
+  weapon_ability_damage: 10000
+};

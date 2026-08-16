@@ -1,0 +1,10 @@
+item = "leather_chestplate";
+name = "W Logo";
+include("types/chestplate", this);
+rarity = "MYTHIC";
+stats = {
+  rift_time: 85,
+  rift_intelligence: 32,
+  rift_health: 1,
+  rift_mana_regen: 30
+};

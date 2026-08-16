@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Miniaturized Tubulator";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjQyNzc1MCwKICAicHJvZmlsZUlkIiA6ICI1MjhlYzVmMmEzZmM0MDA0YjYwY2IwOTA5Y2JiMjdjYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdWxpenppIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JkYzc5MTMyMjljYjJlODk4MDcxYjBjMmJjOGYxM2JkOGRiYTY5ZGJkY2NhZjRkMWRhNjQzYWI3MjZiOTI1YWYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "UNCOMMON";
+rift_transferrable = true;
+stats = {
+  health: 1
+};
+soulbound = "SOLO";

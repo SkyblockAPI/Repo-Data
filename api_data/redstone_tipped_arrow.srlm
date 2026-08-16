@@ -1,0 +1,10 @@
+item = "arrow";
+name = "Redstone-tipped Arrow";
+include("types/arrow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/redstone_tipped_arrow";
+rarity = "UNCOMMON";
+stats = {
+  damage: 15
+};
+requirements.skill.combat = 13;
+requirements.target_practice = I;

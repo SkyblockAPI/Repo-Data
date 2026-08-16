@@ -1,0 +1,4 @@
+item = "paper";
+name = "Superboom TNT";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/superboom_tnt";
+rarity = "RARE";

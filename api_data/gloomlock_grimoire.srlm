@@ -1,0 +1,4 @@
+item = "book";
+name = "Gloomlock Grimoire";
+rarity = "EPIC";
+requirements.slayer.enderman = 5;

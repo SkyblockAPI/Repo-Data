@@ -1,0 +1,7 @@
+item = "player_head";
+name = "Bronze Trophy Frog Sack";
+include("types/sack", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc0NTAxNDI5Mjk3NSwKICAicHJvZmlsZUlkIiA6ICJmNTBjOGRkN2FiN2Y0ZmUyYWI4ZGI1M2NjYzRiYWQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYWNoYWRvVF9UIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIwNzMyZTdmYjQ2OTRjNjc3Nzk0OGQzYmZhM2QwMmIzZDVjMTVjY2IxY2EyZWFjZTlkYmMyZDYyODNiNDFiZjEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "UNCOMMON";
+requirements.trophy.FROG = "BRONZE";
+soulbound = "SOLO";

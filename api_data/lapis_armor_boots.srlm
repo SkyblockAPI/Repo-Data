@@ -1,0 +1,10 @@
+item = "leather_boots";
+name = "Lapis Armor Boots";
+include("types/boots", this);
+rarity = "UNCOMMON";
+stats = {
+  defense: 20,
+  mining_speed: 20,
+  mining_fortune: 2
+};
+requirements.skill.mining = 5;

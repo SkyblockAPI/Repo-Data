@@ -1,0 +1,4 @@
+item = "empty_map";
+name = "Travel Scroll to Scarleton";
+include("types/travel_scroll", this);
+rarity = "EPIC";

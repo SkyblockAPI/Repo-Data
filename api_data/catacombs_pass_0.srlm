@@ -1,0 +1,6 @@
+item = "player_head";
+name = "Catacombs Pass 0";
+include("types/dungeon_pass", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NDAxMDc3MCwKICAicHJvZmlsZUlkIiA6ICI5YzYwYzU3MzRmMDY0YjVkOWE1OTdlNjBjMjI3NjllMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJFcmlja05vb2IwNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zNWMzMDI0ZjRkOWQxMmRkZjU5NTliNmFlYTNjODEwZjVlZTg1MTc2YWFiMWIyZTdmNDYyYWExYzE5NGMzNDJiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "UNCOMMON";

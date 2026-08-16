@@ -1,0 +1,12 @@
+item = "iron_boots";
+name = "Helianthus Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  farming_fortune: 35,
+  walk_speed: 6,
+  health: 140,
+  defense: 50,
+  bonus_pest_chance: 20
+};
+requirements.skill.farming = 50;

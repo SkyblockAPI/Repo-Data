@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Tera Shell Necklace";
+include("types/necklace", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTczMzc1Mzk3NTExOSwKICAicHJvZmlsZUlkIiA6ICI3MmY5MTdjNWQyNDU0OTk0YjlmYzQ1YjVhM2YyMjIzMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGF0X0d1eV9Jc19NZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83YzUwMGFkYjA3YTczNGZjNGNjZDg0MDEwYWVlYjRjMGQwMjhjNTE3NGIyNjE5Y2Y2Njc1NzBjZWQ1NzE1Y2QiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "EPIC";
+stats = {
+  health: 80,
+  defense: 30,
+  intelligence: 20
+};
+requirements.skill.combat = 22;

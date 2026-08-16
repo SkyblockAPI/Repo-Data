@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Vampire Witch Mask";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzkyNzg2NiwKICAicHJvZmlsZUlkIiA6ICI3YjA5ZDg5NWQyYjc0NTU3YmM0YTkzNWYyNjU0NWNjNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBaXJwbGFuZUdvQnJyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZjZmNjYzEwOTUzZWViNzMzMDBiN2JmY2FmY2QzZmQ2NDFhZTczOTU1ODY2MmY2MjU2NjdhMmU5ZDMzY2RlNzQiCiAgICB9CiAgfQp9";
+rarity = "EPIC";
+stats = {
+  defense: 222,
+  health: 132,
+  weapon_ability_damage: 3000
+};

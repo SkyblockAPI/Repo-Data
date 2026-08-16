@@ -1,0 +1,4 @@
+item = "paper";
+name = "Fly Swatter";
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/spider/fly_swatter";
+rarity = "EPIC";

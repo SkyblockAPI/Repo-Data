@@ -1,0 +1,4 @@
+item = "feather";
+name = "Flying Pig";
+include("types/pet_item", this);
+rarity = "RARE";

@@ -1,0 +1,11 @@
+item = "wood_sword";
+name = "Sword of Bad Health";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/sword_of_bad_health";
+rarity = "UNCOMMON";
+stats = {
+  damage: 200,
+  strength: 50,
+  critical_damage: 50
+};
+requirements.skill.combat = 22;

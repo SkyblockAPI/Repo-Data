@@ -1,0 +1,9 @@
+item = "bow";
+name = "Spirit Bow";
+include("types/bow", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/dungeons/spirit_shortbow";
+rarity = "EPIC";
+stats = {
+  damage: 1
+};

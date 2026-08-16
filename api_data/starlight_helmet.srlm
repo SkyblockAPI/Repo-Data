@@ -1,0 +1,10 @@
+item = "gold_helmet";
+name = "Starlight Helmet";
+include("types/helmet", this);
+rarity = "RARE";
+stats = {
+  defense: 25,
+  intelligence: 45,
+  health: 25
+};
+requirements.skill.combat = 8;

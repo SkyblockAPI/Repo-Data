@@ -1,0 +1,3 @@
+item = "iron_plate";
+name = "Parkour Checkpoint";
+requirements.skill.social = 1;

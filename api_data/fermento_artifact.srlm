@@ -1,0 +1,17 @@
+item = "player_head";
+name = "Fermento Artifact";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY3ODgyMjE4OTc2MCwKICAicHJvZmlsZUlkIiA6ICJmMTkyZGU3MDUzMTQ0ODcxOTAwMjQ1MmIzZWE3MzA3NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZVhvU2V0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UxYWRkNzIzMWM5N2U3N2ExNjliZTc2NGE0MWY5ODFjYzlmNTQyYWE4YzZhMTMzNmQ4YmUyZDgxNzIxMWJiZmQiCiAgICB9CiAgfQp9";
+rarity = "RARE";
+stats = {
+  wheat_fortune: 30,
+  carrot_fortune: 30,
+  potato_fortune: 30,
+  melon_fortune: 30,
+  pumpkin_fortune: 30,
+  cocoa_beans_fortune: 30,
+  sugar_cane_fortune: 30,
+  cactus_fortune: 30,
+  mushroom_fortune: 30,
+  nether_stalk_fortune: 30
+};

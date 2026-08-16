@@ -1,0 +1,10 @@
+item = "leather_chestplate";
+name = "Test Vampire Chestplate";
+include("types/chestplate", this);
+rarity = "UNOBTAINABLE";
+stats = {
+  rift_damage: 60,
+  rift_intelligence: 50,
+  rift_health: 2,
+  rift_mana_regen: 25
+};

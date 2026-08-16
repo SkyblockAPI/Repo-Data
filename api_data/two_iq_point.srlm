@@ -1,0 +1,7 @@
+item = "player_head";
+name = "2 IQ Points";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyNzU4OTI2OTUwMywKICAicHJvZmlsZUlkIiA6ICJmZjQ3NzI5YmQwZDI0YWYwOThiMTFjMGE3ZTFiMGVlZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXRzY2FuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE1MWM1MzQ3MTllNmY4OTM3ZTJjOWM0NWM2MDFjZDVhZTdlMDZmZmQ3ZjQ0NjM2NTljMDQzMTc5MDI5NTA0ZWEiCiAgICB9CiAgfQp9";
+rarity = "UNCOMMON";
+rift_transferrable = true;
+soulbound = "SOLO";

@@ -1,0 +1,13 @@
+item = "stone_axe";
+name = "Figstone Splitter";
+include("types/axe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/axes/figstone_splitter";
+rarity = "RARE";
+stats = {
+  damage: 50,
+  sweep: 25,
+  foraging_fortune: 35,
+  strength: 15
+};
+requirements.skill.foraging = 15;
+booster_applicable = true;

@@ -1,0 +1,4 @@
+item = "wool";
+name = "Cube Barn Skin";
+include("types/cosmetic", this);
+rarity = "UNCOMMON";

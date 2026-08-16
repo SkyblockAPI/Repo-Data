@@ -1,0 +1,4 @@
+item = "paper";
+name = "Fine Aquamarine Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/aquamarine/fine_aquamarine_gem";
+rarity = "RARE";

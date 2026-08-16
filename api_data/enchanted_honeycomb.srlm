@@ -1,0 +1,4 @@
+item = "paper";
+name = "Enchanted Honeycomb";
+this["minecraft:item_model"] = "minecraft:honeycomb";
+rarity = "UNCOMMON";

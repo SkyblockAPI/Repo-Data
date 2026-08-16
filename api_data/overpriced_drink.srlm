@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Overpriced Drink";
+include("types/reforge_stone", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYzNjE4NDI4OTM3OSwKICAicHJvZmlsZUlkIiA6ICJmNmEwYzA0ZTIwOWM0MzU0ODI5OGYxYTk0YjdlNzhhZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLb1RUSmwzVEthIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg0ZTFjZWQxZDU0YTUzZjdkYjEzYjdjYzEwYmY4NTBlMzJlZjE4YWFlYTQyZmUyMjE5NTFmNjFiMGM3NjY4YmIiCiAgICB9CiAgfQp9";
+rarity = "EPIC";

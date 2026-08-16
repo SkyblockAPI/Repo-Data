@@ -1,0 +1,8 @@
+item = "iron_axe";
+name = "Efficient Axe";
+include("types/axe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/efficient_axe";
+rarity = "UNCOMMON";
+stats = {
+  damage: 25
+};

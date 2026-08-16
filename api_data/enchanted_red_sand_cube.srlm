@@ -1,0 +1,5 @@
+item = "paper";
+name = "Enchanted Red Sand Cube";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/enchanted_red_sand_cube";
+rarity = "RARE";
+category = "BLOCK";

@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Talisman of Space";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYxMDQ4MTc2NDkzNywKICAicHJvZmlsZUlkIiA6ICIyYzEwNjRmY2Q5MTc0MjgyODRlM2JmN2ZhYTdlM2UxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYWVtZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82YzA5YmVhNGMxN2NkNTgxMmYzN2FhODYwOTY1MDk3NTYwODExYTBhNTkzZWE1NzMwMDUyNzRmYjY3OTUwNzNkIgogICAgfQogIH0KfQ==";
+rarity = "UNCOMMON";

@@ -1,0 +1,8 @@
+item = "leather_leggings";
+name = "Armor of Magma Leggings";
+include("types/leggings", this);
+rarity = "EPIC";
+stats = {
+  defense: 25,
+  health: 75
+};

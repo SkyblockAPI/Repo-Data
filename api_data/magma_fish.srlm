@@ -1,0 +1,4 @@
+item = "paper";
+name = "Magmafish";
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/trophy/lava/magmafish_bronze";
+rarity = "RARE";

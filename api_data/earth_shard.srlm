@@ -1,0 +1,11 @@
+item = "stone_sword";
+name = "Earthen Blade";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/earth_shard";
+rarity = "EPIC";
+requirements.dungeons.catacombs = 19;
+tiered_stats = {
+  defense: [73, 75, 78, 80, 82, 85, 87, 90, 93, 96],
+  damage: [105, 108, 112, 115, 118, 122, 126, 129, 133, 137]
+};

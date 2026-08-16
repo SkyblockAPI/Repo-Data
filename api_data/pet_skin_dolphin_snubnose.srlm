@@ -1,0 +1,5 @@
+item = "player_head";
+name = "SnubfinDolphin";
+include("types/cosmetic", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwNjQyODA3MTIzOCwKICAicHJvZmlsZUlkIiA6ICIzM2ViZDMyYmIzMzk0YWQ5YWM2NzBjOTZjNTQ5YmE3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYW5ub0JhbmFubm9YRCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xZWQ3MjVjZGVmYzAwZjdmZGU0N2NiNzA0OThlOGJmY2U0YWMzMDEzMzkwOTliNDEwZjUyZWJlMjdmOWEyYjgxIgogICAgfQogIH0KfQ==";
+rarity = "RARE";

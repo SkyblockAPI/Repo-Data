@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Mithril Cloak";
+include("types/cloak", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjUyNDIwMywKICAicHJvZmlsZUlkIiA6ICJmNTBjOGRkN2FiN2Y0ZmUyYWI4ZGI1M2NjYzRiYWQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYWNoYWRvVF9UIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM3YWRhMTk4YjY1ZjMwMTJiMTFkNThiMzM2MWNlYmUzZmQ4NTYwMWRmNzI5YmRjYjllYmFlMmJiYjk1NDQ3ODgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "UNCOMMON";
+stats = {
+  mining_speed: 20,
+  mining_fortune: 5
+};
+requirements.hotm = 2;

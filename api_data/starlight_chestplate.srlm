@@ -1,0 +1,10 @@
+item = "leather_chestplate";
+name = "Starlight Chestplate";
+include("types/chestplate", this);
+rarity = "RARE";
+stats = {
+  defense: 40,
+  intelligence: 90,
+  health: 40
+};
+requirements.skill.combat = 8;

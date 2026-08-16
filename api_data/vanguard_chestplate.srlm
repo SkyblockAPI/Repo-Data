@@ -1,0 +1,7 @@
+item = "leather_chestplate";
+name = "Vanguard Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  cold_resistance: 1
+};

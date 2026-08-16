@@ -1,0 +1,4 @@
+item = "redstone_ore";
+name = "Hemovibe";
+rarity = "UNCOMMON";
+rift_transferrable = true;

@@ -1,0 +1,4 @@
+item = "paper";
+name = "Heavy Pearl";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/heavy_pearl";
+rarity = "LEGENDARY";

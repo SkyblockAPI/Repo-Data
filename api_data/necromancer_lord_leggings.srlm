@@ -1,0 +1,11 @@
+item = "leather_leggings";
+name = "Necromancer Lord Leggings";
+include("types/leggings", this);
+include("types/dungeon", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 220,
+  health: 250,
+  intelligence: 10
+};
+requirements.dungeon_completetion.catacombs = 6;

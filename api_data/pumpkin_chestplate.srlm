@@ -1,0 +1,9 @@
+item = "leather_chestplate";
+name = "Sprout Chestplate";
+include("types/chestplate", this);
+rarity = "UNCOMMON";
+stats = {
+  defense: 20,
+  farming_fortune: 15
+};
+requirements.skill.farming = 15;

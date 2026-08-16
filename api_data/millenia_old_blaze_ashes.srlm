@@ -1,0 +1,4 @@
+item = "paper";
+name = "Millennia-Old Blaze Ashes";
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/blaze/millenia_old_blaze_ashes";
+rarity = "RARE";

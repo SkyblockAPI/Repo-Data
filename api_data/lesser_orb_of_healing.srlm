@@ -1,0 +1,6 @@
+item = "player_head";
+name = "Lesser Orb of Healing";
+include("types/dungeon", this);
+skin = "eyJ0aW1lc3RhbXAiOjE1MjgwMzM1NDk0MTksInByb2ZpbGVJZCI6IjU2Njc1YjIyMzJmMDRlZTA4OTE3OWU5YzkyMDZjZmU4IiwicHJvZmlsZU5hbWUiOiJUaGVJbmRyYSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGI4OTY1ODBjN2MzNDQ2MzI5ODc0MWI2NjA3YWQ1NjMzMzJhMWE0ZDBlODlmN2Q3NWFjZGY3OTkzN2EwZTc3MiJ9fX0=";
+rarity = "EPIC";
+requirements.dungeons.catacombs = 16;

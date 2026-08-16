@@ -1,0 +1,13 @@
+item = "leather_boots";
+name = "Necron's Boots";
+include("types/boots", this);
+include("types/dungeon", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 85,
+  health: 145,
+  strength: 40,
+  critical_damage: 30,
+  intelligence: 10
+};
+requirements.dungeon_completetion.catacombs = 7;

@@ -1,0 +1,13 @@
+item = "leather_chestplate";
+name = "Terror Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 12,
+  defense: 65,
+  health: 230,
+  critical_damage: 50,
+  intelligence: 5
+};
+requirements.skill.combat = 22;
+requirements.kuudra.none = 1;

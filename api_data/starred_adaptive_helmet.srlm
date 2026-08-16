@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Adaptive Helmet";
+include("types/helmet", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDAzOTAzMjUzOCwKICAicHJvZmlsZUlkIiA6ICI1MzgyNzM1OGIzOTc0ZmJiOTg0OTY5MWM5Yzg3NTA1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJPdmVyQmlnYm95MTIzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE2ZjBkMzRhYWE3MTQzNzc5ODM3MDFjMWJiZTliM2Y2ZTdiMzBjYjM4NTcxYmMwYTJmZDc1NDFkN2VkYjE2MzciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "EPIC";
+stats = {
+  defense: 60,
+  health: 120,
+  strength: 15,
+  intelligence: 15
+};
+requirements.dungeon_completetion.catacombs = 3;

@@ -1,0 +1,4 @@
+item = "prismarine_shard";
+name = "Pyroclastic Scale";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/pyroclastic_scale";
+rarity = "UNCOMMON";

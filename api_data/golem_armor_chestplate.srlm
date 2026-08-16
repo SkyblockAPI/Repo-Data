@@ -1,0 +1,8 @@
+item = "iron_chestplate";
+name = "Golem Armor Chestplate";
+include("types/chestplate", this);
+rarity = "RARE";
+stats = {
+  defense: 90,
+  health: 65
+};

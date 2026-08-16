@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Burning Fervor Helmet";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDI4OTE5MSwKICAicHJvZmlsZUlkIiA6ICJhYTZhNDA5NjU4YTk0MDIwYmU3OGQwN2JkMzVlNTg5MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiejE0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk3ZTJkMTc3ZmFhYzg2N2M5ZTQ5NTQyYWE0ZWM4MzFiNDU4ZDg1MzdmMjA2NzIwMTRjOTE0OWU0ZGRiYTQzZDYiCiAgICB9CiAgfQp9";
+rarity = "LEGENDARY";
+stats = {
+  defense: 159,
+  health: 286,
+  intelligence: 24,
+  true_defense: 8
+};
+requirements.skill.combat = 32;
+requirements.kuudra.burning = 1;

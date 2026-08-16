@@ -1,0 +1,12 @@
+item = "leather_chestplate";
+name = "Skeleton Lord Chestplate";
+include("types/chestplate", this);
+include("types/dungeon", this);
+rarity = "EPIC";
+requirements.dungeons.catacombs = 25;
+tiered_stats = {
+  defense: [52, 56, 61, 67, 72, 79, 86, 93, 101, 110],
+  health: [26, 29, 31, 34, 37, 40, 44, 47, 51, 56],
+  critical_damage: [19, 22, 24, 27, 30, 33, 36, 41, 45, 50],
+  critical_chance: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2]
+};

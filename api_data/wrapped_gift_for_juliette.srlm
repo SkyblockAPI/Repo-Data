@@ -1,0 +1,5 @@
+item = "player_head";
+name = "§cSecret Gift for Juliette";
+skin = "eyJ0aW1lc3RhbXAiOjE1MTExODc0NTI3NzEsInByb2ZpbGVJZCI6IjBiZTU2MmUxNzIyODQ3YmQ5MDY3MWYxNzNjNjA5NmNhIiwicHJvZmlsZU5hbWUiOiJ4Y29vbHgzIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iZGFjOWE1MTgxM2FiY2I2NjZlZTJjMmNhODRjZWZjZmIyMWU1OGI3YjAxYWUwZWE3ZTk5ZDM1ZjMyM2EifX19";
+rarity = "EPIC";
+soulbound = "COOP";

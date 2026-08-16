@@ -1,0 +1,12 @@
+item = "leather_boots";
+name = "Abyssal Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  health: 120,
+  defense: 110,
+  pressure_resistance: 20,
+  respiration: 5,
+  sea_creature_chance: 2
+};
+requirements.skill.fishing = 22;

@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Finwave Cloak";
+include("types/cloak", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY2MjU1OTUzMDE5OCwKICAicHJvZmlsZUlkIiA6ICI1NjY3NWIyMjMyZjA0ZWUwODkxNzllOWM5MjA2Y2ZlOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVJbmRyYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNWU3NGU2M2IzZTAzNjE5YjU2MzZkZWY1ZDgwZTZmYTg4ZTVjZWJkZWFmZTQwOTA1Y2JhZDQ5ODU4MzYxMDYyIgogICAgfQogIH0KfQ==";
+rarity = "EPIC";
+stats = {
+  health: 15,
+  health_regeneration: 1,
+  fishing_speed: 10
+};

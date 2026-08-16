@@ -1,0 +1,10 @@
+item = "iron_hoe";
+name = "Ghoul Buster";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/great_spook/ghoul_buster";
+rarity = "EPIC";
+stats = {
+  damage: 140,
+  strength: 90,
+  critical_damage: 25
+};

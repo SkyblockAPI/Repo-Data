@@ -1,0 +1,4 @@
+item = "paper";
+name = "Superlite Motor";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/superlite_motor";
+rarity = "RARE";

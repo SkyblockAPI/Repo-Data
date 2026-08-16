@@ -1,0 +1,6 @@
+item = "iron_leggings";
+name = "Iron Leggings";
+include("types/leggings", this);
+stats = {
+  defense: 25
+};

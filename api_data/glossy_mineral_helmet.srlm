@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Glossy Mineral Helmet";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjkxODg0NSwKICAicHJvZmlsZUlkIiA6ICJhN2E4YWY1NTk0ZGQ0OTJjYWViNjc1NzUzMzRlNmM0OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJpdHNUcmFjZXJvdXRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY1MjhiMjM1YzYwNzQ2N2MzNjljYTljM2YyYmY4OTAxNGZlMmVhNDVmODhkZjI4ZDAyOWE1ODFmZjRiYjE3MjEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 20,
+  defense: 90,
+  block_fortune: 50
+};

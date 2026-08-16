@@ -1,0 +1,14 @@
+item = "player_head";
+name = "Hot Hollow Helmet";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDIyMjk5MSwKICAicHJvZmlsZUlkIiA6ICIwZWQ2MDFlMDhjZTM0YjRkYWUxZmI4MDljZmEwNTM5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZWVkTW9yZUFjY291bnRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NjMzQ0ZDY1YWU2YmMyMjMwZWUyMjBkNzZkZGExZTA4MGY5MDI4MmNhMGY5ZjBkOWJjOTY2N2QyMjA0OGNlOWYiCiAgICB9CiAgfQp9";
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 6,
+  defense: 69,
+  health: 219,
+  intelligence: 164,
+  mending: 6
+};
+requirements.skill.combat = 27;
+requirements.kuudra.hot = 1;

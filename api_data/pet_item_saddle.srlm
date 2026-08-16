@@ -1,0 +1,4 @@
+item = "saddle";
+name = "Saddle";
+include("types/pet_item", this);
+rarity = "UNCOMMON";

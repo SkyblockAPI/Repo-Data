@@ -1,0 +1,4 @@
+item = "paper";
+name = "Nether Wart Basket";
+this["minecraft:item_model"] = "hypixel_skyblock:item/jacob/nether_wart_pouch";
+rarity = "RARE";

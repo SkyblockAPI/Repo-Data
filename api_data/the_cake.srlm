@@ -1,0 +1,4 @@
+item = "cake";
+name = "The Cake";
+rarity = "SPECIAL";
+soulbound = "SOLO";

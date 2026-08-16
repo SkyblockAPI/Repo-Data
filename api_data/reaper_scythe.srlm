@@ -1,0 +1,10 @@
+item = "diamond_hoe";
+name = "Reaper Scythe";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/zombie/weapons/reaper_scythe";
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 10,
+  damage: 333
+};
+requirements.slayer.zombie = 7;

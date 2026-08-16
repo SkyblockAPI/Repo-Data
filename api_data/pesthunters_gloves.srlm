@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Pesthunter's Gloves";
+include("types/gloves", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyODM5OTQ0MjYxOCwKICAicHJvZmlsZUlkIiA6ICJiZDNhNWRmY2ZkZjg0NDczOTViZDJiZmUwNGY0YzAzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJwcmVja3Jhc25vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FmMjkxODg2MTc1M2ZlMTlmMjhmNjZlOGU5OTg1MTFmMzQ5MDk5NWFiZjA5NzJhOTM5MWYwMGQ4YzUzMGVkMzkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "RARE";
+stats = {
+  bonus_pest_chance: 5
+};
+requirements.garden = 5;

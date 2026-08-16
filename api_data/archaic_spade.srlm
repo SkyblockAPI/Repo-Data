@@ -1,0 +1,5 @@
+item = "stone_spade";
+name = "Archaic Spade";
+include("types/spade", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/diana/archaic_spade";
+rarity = "EPIC";

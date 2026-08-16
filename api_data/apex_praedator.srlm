@@ -1,0 +1,8 @@
+item = "gold_axe";
+name = "Savage Huntaxe - Praedator";
+include("types/axe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/hunting_weapons/savage_huntaxe";
+rarity = "EPIC";
+stats = {
+  damage: 20
+};

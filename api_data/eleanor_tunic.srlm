@@ -1,0 +1,10 @@
+item = "leather_chestplate";
+name = "Eleanor's Tunic";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+rift_transferrable = true;
+stats = {
+  rift_time: 20,
+  health: 100
+};
+soulbound = "SOLO";

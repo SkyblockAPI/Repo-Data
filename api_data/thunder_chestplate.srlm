@@ -1,0 +1,11 @@
+item = "leather_chestplate";
+name = "Thunder Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  health: 250,
+  defense: 225,
+  sea_creature_chance: 4,
+  strength: 25
+};
+requirements.skill.fishing = 36;

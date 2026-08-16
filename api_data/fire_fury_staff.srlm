@@ -1,0 +1,11 @@
+item = "blaze_rod";
+name = "Fire Fury Staff";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/fire_fury_staff";
+rarity = "EPIC";
+stats = {
+  damage: 100,
+  intelligence: 300,
+  weapon_ability_damage: 42000
+};
+requirements.skill.combat = 22;

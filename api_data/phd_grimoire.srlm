@@ -1,0 +1,10 @@
+item = "player_head";
+name = "PhD's Grimoire";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc0NTAxNDcwNTU0MiwKICAicHJvZmlsZUlkIiA6ICJmZDFhYjdjNTYwMTM0YzQ1YTA2YWZjZWY1OGViZDVkNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDbGF1MTA3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg0NDJjZTc4MDk1ZTgwNDc2ZDE1ZWUzYzdjMGI2MzFmN2Y3MzRmYTJkMDU5MmNhMWU2YmY4ZWRiODkzMDE0M2MiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "EPIC";
+stats = {
+  trophy_fish_chance: 4
+};
+requirements.trophy.FROG = "DIAMOND";
+soulbound = "SOLO";

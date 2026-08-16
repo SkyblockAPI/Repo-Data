@@ -1,0 +1,4 @@
+item = "paper";
+name = "Fine Jade Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/jade/fine_jade_gem";
+rarity = "RARE";

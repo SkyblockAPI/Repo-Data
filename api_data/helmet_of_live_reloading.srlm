@@ -1,0 +1,5 @@
+item = "diamond_helmet";
+name = "Helmet of Live Reloading";
+stats = {
+  health: 2000
+};

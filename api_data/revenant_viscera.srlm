@@ -1,0 +1,4 @@
+item = "grilled_pork";
+name = "Revenant Viscera";
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/zombie/revenant_viscera";
+rarity = "RARE";

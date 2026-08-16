@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Test Bucket Please Ignore";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjM3OTYxOCwKICAicHJvZmlsZUlkIiA6ICI3Mjc2ZThmYzVkNjE0ODNjYmMwN2IxYjIzNjI3MDA4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJXYWJvV2ViaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMTQzMmZkNGM4Zjg1YzgwOWE4MWI3NjEwMTRjN2FkZDJiZDlhNDY1MzI0NjdhNWY2NzJlNmJiZDVjYTdhMGJjIgogICAgfQogIH0KfQ==";
+rarity = "UNCOMMON";
+rift_transferrable = true;
+stats = {
+  true_defense: 0.5
+};
+soulbound = "SOLO";

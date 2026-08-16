@@ -1,0 +1,4 @@
+item = "blaze_powder";
+name = "Molten Powder";
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/blaze/tokens/molten_powder";
+rarity = "RARE";

@@ -1,0 +1,11 @@
+item = "leather_boots";
+name = "Rampart Boots";
+include("types/boots", this);
+rarity = "RARE";
+stats = {
+  defense: 40,
+  health: 75,
+  intelligence: 5
+};
+requirements.skill.combat = 22;
+soulbound = "COOP";

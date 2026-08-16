@@ -1,0 +1,11 @@
+item = "arrow";
+name = "Glue Arrow";
+include("types/arrow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/glue_arrow";
+rarity = "RARE";
+stats = {
+  damage: 15
+};
+requirements.skill.combat = 24;
+requirements.slayer.spider = 3;
+requirements.target_practice = III;

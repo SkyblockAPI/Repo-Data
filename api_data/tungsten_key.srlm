@@ -1,0 +1,4 @@
+item = "paper";
+name = "Tungsten Key";
+this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/tungsten/tungsten_key";
+rarity = "EPIC";

@@ -1,0 +1,12 @@
+item = "leather_chestplate";
+name = "Fervor Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 140,
+  health: 265,
+  intelligence: 5,
+  true_defense: 5
+};
+requirements.skill.combat = 22;
+requirements.kuudra.none = 1;

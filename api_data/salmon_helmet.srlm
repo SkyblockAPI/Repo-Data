@@ -1,0 +1,10 @@
+item = "leather_helmet";
+name = "Salmon Helmet";
+include("types/helmet", this);
+rarity = "EPIC";
+stats = {
+  health: 100,
+  defense: 30,
+  sea_creature_chance: 1.5
+};
+requirements.skill.fishing = 13;

@@ -1,0 +1,11 @@
+item = "leather_chestplate";
+name = "Flaming Chestplate";
+include("types/chestplate", this);
+rarity = "RARE";
+stats = {
+  health: 225,
+  defense: 200,
+  sea_creature_chance: 3,
+  strength: 25
+};
+requirements.skill.fishing = 33;

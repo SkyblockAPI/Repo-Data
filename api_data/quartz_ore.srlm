@@ -1,0 +1,4 @@
+item = "quartz_ore";
+name = "Nether Quartz Ore";
+rarity = "UNCOMMON";
+category = "ORE";

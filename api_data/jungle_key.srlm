@@ -1,0 +1,4 @@
+item = "tripwire_hook";
+name = "Jungle Key";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/jungle_key";
+rarity = "EPIC";

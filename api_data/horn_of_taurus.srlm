@@ -1,0 +1,4 @@
+item = "paper";
+name = "Horn of Taurus";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/horn_of_taurus";
+rarity = "EPIC";

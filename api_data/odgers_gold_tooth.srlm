@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Odger's Gold Tooth";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY0Mzg4NjI0Nzc1NiwKICAicHJvZmlsZUlkIiA6ICJiMGQ3MzJmZTAwZjc0MDdlOWU3Zjc0NjMwMWNkOThjYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPUHBscyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MjAyNDkwMTAyNDYzNmYxYzA3NGU2NTYyMjg1ZjRjYzlmZDNkYTI4ODVkNDAxMGNlZTUyY2MwNjk2ZDJmOTZhIgogICAgfQogIH0KfQ==";
+rarity = "RARE";
+stats = {
+  sea_creature_chance: 1.5,
+  trophy_fish_chance: 3
+};
+requirements.trophy.LAVA = "GOLD";
+soulbound = "SOLO";

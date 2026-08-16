@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Helianthus Helmet";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc2NDg4MzE4NzIxOCwKICAicHJvZmlsZUlkIiA6ICJlYWRlNzcwZGVkNmQ0OGVmYjUyNTZlM2MyZmM5YWQ3NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYWl6ZW5fS3VtYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NmU0OGE2ZWZmMzE4ZGNkYTU3ZDVkNzZhOWIyNjU2YmUyNTk3M2UzZDQ3MmI2ZDJlNDQ2YThlNjBmNjBhNzhhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "LEGENDARY";
+stats = {
+  farming_fortune: 35,
+  walk_speed: 6,
+  health: 140,
+  defense: 50,
+  bonus_pest_chance: 20
+};
+requirements.skill.farming = 50;

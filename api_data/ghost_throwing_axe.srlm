@@ -1,0 +1,5 @@
+item = "iron_axe";
+name = "Ghost Axe";
+include("types/axe", this);
+include("types/dungeon", this);
+rarity = "UNCOMMON";

@@ -1,0 +1,10 @@
+item = "leather_leggings";
+name = "Shimmering Light Trousers";
+include("types/leggings", this);
+rarity = "RARE";
+stats = {
+  defense: 100,
+  health: 120,
+  intelligence: 100
+};
+requirements.skill.combat = 22;

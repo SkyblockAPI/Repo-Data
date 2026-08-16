@@ -1,0 +1,3 @@
+item = "leather_boots";
+name = "Emperor Shoes";
+include("types/boots", this);

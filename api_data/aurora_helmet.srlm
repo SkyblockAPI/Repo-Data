@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Aurora Helmet";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwMzc3ODA5MSwKICAicHJvZmlsZUlkIiA6ICJjNjc3MGJjZWMzZjE0ODA3ODc4MTU0NWRhMGFmMDI1NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc2M2QyZmU5Mzg4MWI0ZjI2Y2JlMWRkM2IwOWRhN2NjNDhkYmNkYzU2OGQxOTg1MmFkNjM1ZDVkMTY4NTk2MTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "LEGENDARY";
+stats = {
+  defense: 50,
+  health: 160,
+  intelligence: 275,
+  ability_damage_percent: 16
+};
+requirements.skill.combat = 22;
+requirements.kuudra.none = 1;

@@ -1,0 +1,10 @@
+item = "leather_helmet";
+name = "Tarantula Helmet";
+include("types/helmet", this);
+rarity = "EPIC";
+stats = {
+  defense: 80,
+  health: 100,
+  intelligence: 80
+};
+requirements.slayer.spider = 4;

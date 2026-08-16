@@ -1,0 +1,4 @@
+item = "netherrack";
+name = "Enchanted Netherrack";
+rarity = "UNCOMMON";
+category = "BLOCK";

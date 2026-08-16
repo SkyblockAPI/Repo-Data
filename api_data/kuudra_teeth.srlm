@@ -1,0 +1,4 @@
+item = "paper";
+name = "Kuudra Teeth";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/kuudra_teeth";
+rarity = "EPIC";

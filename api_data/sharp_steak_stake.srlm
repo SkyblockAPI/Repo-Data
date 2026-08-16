@@ -1,0 +1,6 @@
+item = "cooked_mutton";
+name = "Super Sharp 'n Stabby Steak Stake";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/rift/zones/castle/super_sharp_and_stabby_steak_stake";
+rarity = "EPIC";
+requirements.slayer.vampire = 3;

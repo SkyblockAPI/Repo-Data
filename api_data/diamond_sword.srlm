@@ -1,0 +1,7 @@
+item = "diamond_sword";
+name = "Diamond Sword";
+include("types/sword", this);
+rarity = "UNCOMMON";
+stats = {
+  damage: 35
+};

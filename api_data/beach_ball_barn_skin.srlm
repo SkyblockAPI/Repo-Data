@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Beach Ball Barn Skin";
+include("types/cosmetic", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxOTMzMzYyODIyOCwKICAicHJvZmlsZUlkIiA6ICI2NGVkZjMxNTljZGY0ODBmYTZmY2UzYzA0NzlmNzUwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJnYW1lc2t5MTIzNCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMjA1NzA1N2I3MDk1Y2RkOGE2MGE1YzRlZGVjMmNkN2YxZmQ1ZDY0NzllYmVkMGFkZDRjZTExNWEzMzM4YzJmIgogICAgfQogIH0KfQ==";
+rarity = "LEGENDARY";

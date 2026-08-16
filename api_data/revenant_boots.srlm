@@ -1,0 +1,9 @@
+item = "diamond_boots";
+name = "Revenant Boots";
+include("types/boots", this);
+rarity = "EPIC";
+stats = {
+  defense: 30,
+  health: 100
+};
+requirements.slayer.zombie = 4;

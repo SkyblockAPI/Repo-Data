@@ -1,0 +1,9 @@
+item = "gold_boots";
+name = "Boots of the Stars";
+include("types/boots", this);
+rarity = "UNOBTAINABLE";
+stats = {
+  defense: 2500,
+  health: 7500,
+  intelligence: 1000
+};

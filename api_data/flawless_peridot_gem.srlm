@@ -1,0 +1,4 @@
+item = "paper";
+name = "Flawless Peridot Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/peridot/flawless_peridot_gem";
+rarity = "EPIC";

@@ -1,0 +1,4 @@
+item = "paper";
+name = "Giant Honey Dipper";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/giant_honey_dipper";
+rarity = "LEGENDARY";

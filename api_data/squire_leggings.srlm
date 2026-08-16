@@ -1,0 +1,10 @@
+item = "chainmail_leggings";
+name = "Squire Leggings";
+include("types/leggings", this);
+rarity = "UNCOMMON";
+stats = {
+  defense: 30,
+  health: 30,
+  strength: 5
+};
+requirements.skill.combat = 4;

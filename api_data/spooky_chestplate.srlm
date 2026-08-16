@@ -1,0 +1,7 @@
+item = "leather_chestplate";
+name = "Spooky Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  defense: 50
+};

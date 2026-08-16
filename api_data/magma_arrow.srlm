@@ -1,0 +1,10 @@
+item = "arrow";
+name = "Magma Arrow";
+include("types/arrow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/blaze/arrows/magma_arrow";
+rarity = "EPIC";
+stats = {
+  damage: 40,
+  critical_chance: 10
+};
+requirements.skill.combat = 25;

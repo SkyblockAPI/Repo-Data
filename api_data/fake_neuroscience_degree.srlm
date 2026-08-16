@@ -1,0 +1,6 @@
+item = "player_head";
+name = "Fake Neuroscience Degree";
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY0MTQ4NzkwNTk3NCwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNzc4MzI4MmUxNzEzNjJjZDM2ZTQzZGZlN2IxYjBkNmM2ZTlkYTQyY2I1NTMzZDI5MmE5NTc5YTY0NDU3MDk1IgogICAgfQogIH0KfQ==";
+rarity = "MYTHIC";
+rift_transferrable = true;
+soulbound = "SOLO";

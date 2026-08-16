@@ -1,0 +1,10 @@
+item = "leather_leggings";
+name = "Celeste Leggings";
+include("types/leggings", this);
+rarity = "UNCOMMON";
+stats = {
+  defense: 20,
+  intelligence: 40,
+  health: 20
+};
+requirements.skill.combat = 4;

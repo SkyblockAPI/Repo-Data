@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Pesthunter's Cloak";
+include("types/cloak", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTczNDUyOTIyODcwMiwKICAicHJvZmlsZUlkIiA6ICJjYmNkNDQzZGE1NTI0OGU3ODM3NWNmZjYwMmQzZWI0NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJPX1JlaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jN2QyYTM1NmZhOGYxODdhZjBiNjRmMTQwMTVjNGEzMTY2MDU0OWE1OWRiOGRiMWYwMTRlY2ViZjhiNWNiYjc0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "RARE";
+stats = {
+  bonus_pest_chance: 5
+};
+requirements.garden = 5;

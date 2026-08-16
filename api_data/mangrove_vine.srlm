@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Moonglade Belt";
+include("types/belt", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjM4MjEwNiwKICAicHJvZmlsZUlkIiA6ICI0NWRjNjlmYTIzNjE0OTdkYTQ3ZTI3MTg0ZGE2ZDlkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZXNzeTE3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JmNWQxMGI2NjIxZWQxNGZiMmFiYzQ2NzJjZWY0YTk2YmQwYjFkY2RiZTYwYjQyMGRlZWNlNWZmNDZhYzg3NWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "RARE";
+stats = {
+  foraging_fortune: 5,
+  sweep: 1
+};
+requirements.skill.foraging = 12;
+booster_applicable = true;

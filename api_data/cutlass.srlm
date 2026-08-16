@@ -1,0 +1,10 @@
+item = "iron_sword";
+name = "Cutlass";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/broken/broken_sword";
+rarity = "LEGENDARY";
+stats = {
+  damage: 1,
+  attack_speed: 100
+};

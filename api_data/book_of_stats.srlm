@@ -1,0 +1,4 @@
+item = "book";
+name = "Book of Stats";
+include("types/cosmetic", this);
+rarity = "EPIC";

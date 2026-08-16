@@ -1,0 +1,12 @@
+item = "player_head";
+name = "Gemstone Gauntlet";
+include("types/gauntlet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYxODUyMTY2MzY1NCwKICAicHJvZmlsZUlkIiA6ICIxZDUyMzNkMzg4NjI0YmFmYjAwZTMxNTBhN2FhM2E4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMDAwMDAwMDAwMDAwMDBKIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdiZjAxYzE5OGY2ZTE2OTY1ZTIzMDIzNWNkMjJhNWE5ZjRhNDBlNDA5NDEyMzQ0Nzg5NDhmZjlhNTZlNTE3NzUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "LEGENDARY";
+stats = {
+  breaking_power: 8,
+  damage: 300,
+  mining_speed: 800,
+  strength: 50
+};
+requirements.hotm = 6;

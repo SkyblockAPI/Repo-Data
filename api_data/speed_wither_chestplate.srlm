@@ -1,0 +1,13 @@
+item = "leather_chestplate";
+name = "Maxor's Chestplate";
+include("types/chestplate", this);
+include("types/dungeon", this);
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 30,
+  defense: 120,
+  health: 260,
+  critical_damage: 45,
+  intelligence: 10
+};
+requirements.dungeon_completetion.catacombs = 7;

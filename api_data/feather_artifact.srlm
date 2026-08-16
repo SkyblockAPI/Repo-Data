@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Feather Artifact";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzODQ4MDQ2MCwKICAicHJvZmlsZUlkIiA6ICJiZWNkZGIyOGEyYzg0OWI0YTliMDkyMmE1ODA1MTQyMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdFR2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RhMjM5ZThiNTJlZDkxZmU1MThkN2M2OTBiMDNkZTlkYzY5ODQ2YThkNWMyMDhhYzFjMTAyZWRkNjhkOWNhMTgiCiAgICB9CiAgfQp9";
+rarity = "RARE";

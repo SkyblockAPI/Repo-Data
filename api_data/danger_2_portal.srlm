@@ -1,0 +1,4 @@
+item = "player_head";
+name = "Portal to the Crimson Isle";
+include("types/portal", this);
+skin = "eyJ0aW1lc3RhbXAiOjE1NzM5NjczMDgzODMsInByb2ZpbGVJZCI6IjIzZjFhNTlmNDY5YjQzZGRiZGI1MzdiZmVjMTA0NzFmIiwicHJvZmlsZU5hbWUiOiIyODA3Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82NDQ1N2IyZDdhY2Y1MjJkMTkxMmYwZDZjNjEzOTQ0MGJhOWQzMzNhNmJmNjFhMmU5NDQwZTdmYjM3ODg5MzllIn19fQ==";

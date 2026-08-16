@@ -1,0 +1,10 @@
+item = "leather_boots";
+name = "Shimmering Light Slippers";
+include("types/boots", this);
+rarity = "RARE";
+stats = {
+  defense: 60,
+  health: 70,
+  intelligence: 60
+};
+requirements.skill.combat = 22;

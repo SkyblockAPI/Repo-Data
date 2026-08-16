@@ -1,0 +1,12 @@
+item = "player_head";
+name = "Backwater Helmet";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc0MDQxODk0MzQ1NCwKICAicHJvZmlsZUlkIiA6ICI2NDg4Y2VjMjc4OGQ0MTI2OTk5NWMyMmY4OTdmMzA4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBc3BlbjA1MyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNmY2YzNlYmFiOTA4YTE4NGQ0OWEwZjhjODVlZGQzZWQ0OGE2NWQ2OTIxM2JjMDM2N2RiNjdhN2ExYzBjM2E3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "UNCOMMON";
+stats = {
+  health: 30,
+  defense: 15,
+  sea_creature_chance: 2,
+  treasure_chance: 0.1
+};
+requirements.skill.fishing = 5;

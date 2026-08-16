@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Agarimoo Artifact";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY3OTc3MzQ2NjI3NCwKICAicHJvZmlsZUlkIiA6ICJhYzIzZmEzNzRhMmM0YjU2YmYzYzU2ZTVhODY3NjIzNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJxdWVlbnNoYW5pd2EiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2YzMTMwNDY4YWM0ODBhNDI3ZGIxM2FkMTNlOGNhODUyNmI1MzhhYjdhZDdkNjlmYzk5NTJmM2M1M2FlYThkMSIKICAgIH0KICB9Cn0=";
+rarity = "RARE";
+stats = {
+  fishing_wisdom: 1,
+  farming_wisdom: 1,
+  fishing_speed: 3
+};

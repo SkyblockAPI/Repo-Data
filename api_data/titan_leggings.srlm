@@ -1,0 +1,10 @@
+item = "diamond_leggings";
+name = "Titan's Leggings";
+include("types/leggings", this);
+rarity = "UNOBTAINABLE";
+stats = {
+  defense: 175,
+  health: 200,
+  strength: 15,
+  intelligence: 50
+};

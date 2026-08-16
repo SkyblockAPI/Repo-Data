@@ -1,0 +1,3 @@
+item = "iron_block";
+name = "Parkour Times";
+requirements.skill.social = 1;

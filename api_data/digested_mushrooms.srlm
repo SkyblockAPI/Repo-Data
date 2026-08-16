@@ -1,0 +1,4 @@
+item = "paper";
+name = "Digested Mushrooms";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/digested_mushrooms";
+rarity = "UNCOMMON";

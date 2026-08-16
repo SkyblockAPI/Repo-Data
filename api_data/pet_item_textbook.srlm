@@ -1,0 +1,4 @@
+item = "book";
+name = "Textbook";
+include("types/pet_item", this);
+rarity = "LEGENDARY";

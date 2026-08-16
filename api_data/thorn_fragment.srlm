@@ -1,0 +1,4 @@
+item = "ghast_tear";
+name = "Thorn Fragment";
+include("types/dungeon", this);
+rarity = "RARE";

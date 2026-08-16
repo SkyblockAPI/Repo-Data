@@ -1,0 +1,4 @@
+item = "monster_egg";
+name = "Living Metal Chestspawn";
+this["minecraft:item_model"] = "minecraft:warden_spawn_egg";
+rarity = "RARE";

@@ -1,0 +1,12 @@
+item = "diamond_pickaxe";
+name = "Mithril Drill SX-R226";
+include("types/drill", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/mithril_drill_sx_r226";
+rarity = "RARE";
+stats = {
+  breaking_power: 5,
+  damage: 65,
+  mining_speed: 450,
+  mining_fortune: 15
+};
+requirements.hotm = 2;

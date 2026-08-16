@@ -1,0 +1,4 @@
+item = "stick";
+name = "Stretching Sticks";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/stretching_sticks";
+rarity = "UNCOMMON";

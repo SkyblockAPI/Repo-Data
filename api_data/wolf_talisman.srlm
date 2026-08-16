@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Wolf Talisman";
+include("types/accessory", this);
+skin = "eyJ0aW1lc3RhbXAiOjE1ODUzMjA2MTMwOTcsInByb2ZpbGVJZCI6IjRkNzA0ODZmNTA5MjRkMzM4NmJiZmM5YzEyYmFiNGFlIiwicHJvZmlsZU5hbWUiOiJzaXJGYWJpb3pzY2hlIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNGNiN2E2YmY2YzMyYzQ5ZjI1ODkxNDdlNmYwZjg4OGU5ZTM1ODc1ZGQxZWEyYThhZjM3OWNhNzEwNTg5ZTZiIn19fQ==";
+rarity = "UNCOMMON";

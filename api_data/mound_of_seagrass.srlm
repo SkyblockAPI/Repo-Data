@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Mound of Seagrass";
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc1Mjc2Nzg5NzQ4MywKICAicHJvZmlsZUlkIiA6ICJjN2Y2Nzk3ZmE4ZGM0NTdiYTkxNTU0NWIwMGU3M2UzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJlZGd5c3BlbmNlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg5MDJmMWM1NTgzODEyMWE4MzczNjFkMzVlM2MwNTRhOTc1ZWU2MDZlMTk3YzI0MTVmOTFiZWZmODg4ZmFkMWMiCiAgICB9CiAgfQp9";
+this["minecraft:item_model"] = "minecraft:seagrass";
+rarity = "EPIC";

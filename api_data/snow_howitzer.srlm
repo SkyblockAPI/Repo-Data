@@ -1,0 +1,4 @@
+item = "player_head";
+name = "Frosty the Howitzer";
+skin = "eyJ0aW1lc3RhbXAiOjE1NDM3MDk5MDg5NjYsInByb2ZpbGVJZCI6IjIzZjFhNTlmNDY5YjQzZGRiZGI1MzdiZmVjMTA0NzFmIiwicHJvZmlsZU5hbWUiOiIyODA3Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iOGRjN2U3N2MyMWM0ZTMyMjhlMmMwMjUxYmZlMTc0NzQxZjdhMzNiZjMyNjdiMGNjMWY1OGUyMzRiYzJiOWM1In19fQ==";
+rarity = "LEGENDARY";

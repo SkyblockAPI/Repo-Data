@@ -1,0 +1,10 @@
+item = "leather_chestplate";
+name = "Frozen Blaze Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 2,
+  defense: 180,
+  strength: 40
+};
+requirements.skill.combat = 22;

@@ -1,0 +1,7 @@
+item = "paper";
+name = "Weirder Tuba";
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/wolf/weirder_tuba";
+rarity = "EPIC";
+rift_transferrable = true;
+requirements.slayer.wolf = 5;
+requirements.slayer.vampire = 4;

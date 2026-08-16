@@ -1,0 +1,4 @@
+item = "gold_block";
+name = "Social Display";
+rarity = "UNCOMMON";
+requirements.skill.social = 2;

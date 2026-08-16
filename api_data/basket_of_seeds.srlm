@@ -1,0 +1,4 @@
+item = "paper";
+name = "Basket of Seeds";
+this["minecraft:item_model"] = "hypixel_skyblock:item/jacob/basket_of_seeds";
+rarity = "EPIC";

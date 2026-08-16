@@ -1,0 +1,5 @@
+item = "ink_sack";
+name = "Toxic Arrow Poison";
+include("types/arrow_poison", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/spider/toxic_arrow_poison";
+rarity = "UNCOMMON";

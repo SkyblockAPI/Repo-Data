@@ -1,0 +1,12 @@
+item = "leather_leggings";
+name = "Fermento Leggings";
+include("types/leggings", this);
+rarity = "EPIC";
+stats = {
+  farming_fortune: 35,
+  walk_speed: 6,
+  health: 195,
+  defense: 40,
+  bonus_pest_chance: 17.5
+};
+requirements.skill.farming = 40;

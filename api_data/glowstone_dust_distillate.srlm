@@ -1,0 +1,4 @@
+item = "paper";
+name = "Glowstone Distillate";
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/blaze/minion/fuel/distillate/glowstone_distillate";
+rarity = "RARE";

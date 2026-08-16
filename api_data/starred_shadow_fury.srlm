@@ -1,0 +1,13 @@
+item = "diamond_sword";
+name = "Shadow Fury";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/shadow_fury_fragged";
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 40,
+  damage: 310,
+  strength: 160,
+  critical_damage: 60
+};
+requirements.dungeon_completetion.catacombs = 5;

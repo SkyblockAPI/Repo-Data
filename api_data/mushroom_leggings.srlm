@@ -1,0 +1,8 @@
+item = "leather_leggings";
+name = "Mushroom Leggings";
+include("types/leggings", this);
+stats = {
+  defense: 5,
+  health: 10
+};
+requirements.skill.farming = 7;

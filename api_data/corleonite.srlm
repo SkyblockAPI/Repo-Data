@@ -1,0 +1,4 @@
+item = "paper";
+name = "Corleonite";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/corleonite";
+rarity = "EPIC";

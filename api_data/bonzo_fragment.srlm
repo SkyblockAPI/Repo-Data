@@ -1,0 +1,4 @@
+item = "red_mushroom";
+name = "Bonzo Fragment";
+include("types/dungeon", this);
+rarity = "RARE";

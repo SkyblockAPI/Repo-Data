@@ -1,0 +1,11 @@
+item = "iron_sword";
+name = "Blade of the Volcano";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/blade_of_the_volcano";
+rarity = "RARE";
+stats = {
+  damage: 220,
+  strength: 70,
+  critical_damage: 20
+};
+requirements.skill.combat = 22;

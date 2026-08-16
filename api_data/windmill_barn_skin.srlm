@@ -1,0 +1,4 @@
+item = "feather";
+name = "Windmill Barn Skin";
+include("types/cosmetic", this);
+rarity = "UNCOMMON";

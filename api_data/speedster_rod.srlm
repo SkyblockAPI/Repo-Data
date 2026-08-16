@@ -1,0 +1,11 @@
+item = "fishing_rod";
+name = "Speedster Rod";
+include("types/fishing_rod", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/rod/broken_rod";
+rarity = "UNCOMMON";
+stats = {
+  damage: 30,
+  strength: 15,
+  fishing_speed: 45
+};
+requirements.skill.fishing = 6;

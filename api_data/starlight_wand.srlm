@@ -1,0 +1,9 @@
+item = "stick";
+name = "Starlight Wand";
+include("types/wand", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/starlight_wand";
+rarity = "RARE";
+stats = {
+  weapon_ability_damage: 300
+};
+requirements.skill.combat = 8;

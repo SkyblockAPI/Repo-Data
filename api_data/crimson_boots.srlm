@@ -1,0 +1,13 @@
+item = "leather_boots";
+name = "Crimson Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 40,
+  health: 130,
+  intelligence: 5,
+  strength: 30,
+  critical_damage: 20
+};
+requirements.skill.combat = 22;
+requirements.kuudra.none = 1;

@@ -1,0 +1,9 @@
+item = "diamond_chestplate";
+name = "Revenant Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  defense: 70,
+  health: 180
+};
+requirements.slayer.zombie = 4;

@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Lava Shell Necklace";
+include("types/necklace", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY0ODE0NzY3NTk4NSwKICAicHJvZmlsZUlkIiA6ICJjNzQ1Mzc4MDY5MzY0ODg2ODkwNzRkOTQ3ZjBlOTlmNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJjdWN1bWkwNyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MGQzYjFiZWM2ZTFjYzRiODhkZmY1NWU0Y2I3Yjc2ZjA2NGMyMGFmMjk3MjQ5MGQxNzEzNzJlZWY5MzcyNDQ3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "EPIC";
+stats = {
+  health: 100,
+  intelligence: 50,
+  defense: 30
+};
+requirements.skill.combat = 22;

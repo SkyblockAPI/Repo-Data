@@ -1,0 +1,11 @@
+item = "arrow";
+name = "Armorshred Arrow";
+include("types/arrow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/armorshred_arrow";
+rarity = "RARE";
+stats = {
+  damage: 5
+};
+requirements.skill.combat = 22;
+requirements.collection.sand = 7;
+requirements.target_practice = III;

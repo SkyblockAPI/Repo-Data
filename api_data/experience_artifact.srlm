@@ -1,0 +1,4 @@
+item = "enchanted_book";
+name = "Experience Artifact";
+include("types/accessory", this);
+rarity = "EPIC";

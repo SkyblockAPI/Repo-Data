@@ -1,0 +1,4 @@
+item = "emerald_block";
+name = "Enchanted Emerald Block";
+rarity = "RARE";
+category = "ORE";

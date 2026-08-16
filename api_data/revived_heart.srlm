@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Revived Heart";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjA2MzgyMywKICAicHJvZmlsZUlkIiA6ICJiNzRiMGQzNTBkNTk0NTU4YmYyYjBlMDJlYmE4NjE4NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcmFuZG9uYnBtMjg0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRhNjFiNGY4YjA3MGU0YmMzMGE4NmIyMjkwZGI2ZTU3ZTI2ODFjNDRlMDI1MGQxOTA2YTg5YWRiOGZjNDU1YjEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "EPIC";
+stats = {
+  defense: 35,
+  health: 100,
+  intelligence: 100,
+  vitality: 50,
+  mending: 50
+};
+requirements.slayer.zombie = 6;

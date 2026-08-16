@@ -1,0 +1,10 @@
+item = "stick";
+name = "Ink Wand";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/ink_wand";
+rarity = "EPIC";
+stats = {
+  damage: 130,
+  strength: 90,
+  weapon_ability_damage: 10000
+};

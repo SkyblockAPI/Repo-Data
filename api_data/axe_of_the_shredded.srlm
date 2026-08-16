@@ -1,0 +1,10 @@
+item = "diamond_sword";
+name = "Halberd of the Shredded";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/zombie/weapons/halberd_of_the_shredded";
+rarity = "LEGENDARY";
+stats = {
+  damage: 140,
+  strength: 115
+};
+requirements.slayer.zombie = 8;

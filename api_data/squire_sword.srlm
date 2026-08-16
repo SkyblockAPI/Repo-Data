@@ -1,0 +1,10 @@
+item = "iron_sword";
+name = "Squire Sword";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/squire_sword";
+rarity = "UNCOMMON";
+stats = {
+  strength: 10,
+  damage: 50
+};
+requirements.skill.combat = 4;

@@ -1,0 +1,8 @@
+item = "gold_chestplate";
+name = "Chestplate of the Rising Sun";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  defense: 15,
+  health: 15
+};

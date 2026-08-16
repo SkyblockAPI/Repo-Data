@@ -1,0 +1,4 @@
+item = "paper";
+name = "Cactus Flower";
+this["minecraft:item_model"] = "minecraft:cactus_flower";
+rarity = "UNCOMMON";

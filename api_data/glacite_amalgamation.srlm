@@ -1,0 +1,4 @@
+item = "paper";
+name = "Glacite Amalgamation";
+this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/glacite/glacite_amalgamation";
+rarity = "EPIC";

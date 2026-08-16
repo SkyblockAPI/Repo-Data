@@ -1,0 +1,4 @@
+item = "dead_bush";
+name = "Dead Plant";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/greenhouse/dead_plant";
+rarity = "UNCOMMON";

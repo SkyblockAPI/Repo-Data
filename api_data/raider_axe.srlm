@@ -1,0 +1,9 @@
+item = "iron_sword";
+name = "Raider Sword";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/raider_sword";
+rarity = "RARE";
+stats = {
+  damage: 80,
+  strength: 50
+};

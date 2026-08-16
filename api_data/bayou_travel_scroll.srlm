@@ -1,0 +1,5 @@
+item = "empty_map";
+name = "Travel Scroll to the Bayou";
+include("types/travel_scroll", this);
+rarity = "RARE";
+requirements.skill.fishing = 5;

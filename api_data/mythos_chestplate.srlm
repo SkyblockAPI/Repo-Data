@@ -1,0 +1,9 @@
+item = "gold_chestplate";
+name = "Mythos Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  strength: 50,
+  health: 160,
+  defense: 80
+};

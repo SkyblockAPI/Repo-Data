@@ -1,0 +1,10 @@
+item = "paper";
+name = "InfiniVacuum™ Hooverius";
+include("types/vacuum", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/vacuum/infini_vacuum_hooverius";
+rarity = "LEGENDARY";
+stats = {
+  farming_fortune: 25,
+  damage: 400
+};
+requirements.garden = 5;

@@ -1,0 +1,4 @@
+item = "bedrock";
+name = "Ragnarok";
+include("types/dungeon", this);
+rarity = "UNCOMMON";

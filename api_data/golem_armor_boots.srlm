@@ -1,0 +1,8 @@
+item = "iron_boots";
+name = "Golem Armor Boots";
+include("types/boots", this);
+rarity = "RARE";
+stats = {
+  defense: 40,
+  health: 40
+};

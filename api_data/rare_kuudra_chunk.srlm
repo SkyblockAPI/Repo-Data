@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Meaty Kuudra Chunk";
+skin = "eyJ0aW1lc3RhbXAiOjE1ODYyOTQ1NjA2MTMsInByb2ZpbGVJZCI6ImZkNjBmMzZmNTg2MTRmMTJiM2NkNDdjMmQ4NTUyOTlhIiwicHJvZmlsZU5hbWUiOiJSZWFkIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMDkzNjhhMGRjMDNiNTdhN2Q2OGUyYjJjMDViNzIwNDdiZDY1YzI3NmMwMTRkOTkzOTc2YTc0N2IyNDQ2Yzk5In19fQ==";
+rarity = "RARE";
+soulbound = "SOLO";

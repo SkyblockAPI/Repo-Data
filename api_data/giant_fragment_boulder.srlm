@@ -1,0 +1,5 @@
+item = "paper";
+name = "Jolly Pink Rock";
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/jolly_pink_rock";
+rarity = "EPIC";

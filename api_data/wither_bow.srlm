@@ -1,0 +1,8 @@
+item = "bow";
+name = "Wither Bow";
+include("types/bow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/wither_bow";
+rarity = "UNCOMMON";
+stats = {
+  damage: 30
+};

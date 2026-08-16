@@ -1,0 +1,4 @@
+item = "ghast_tear";
+name = "Nurse Shark Tooth";
+this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/marina/nurse_shark_tooth";
+rarity = "UNCOMMON";

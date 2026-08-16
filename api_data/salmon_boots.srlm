@@ -1,0 +1,10 @@
+item = "leather_boots";
+name = "Salmon Boots";
+include("types/boots", this);
+rarity = "EPIC";
+stats = {
+  health: 85,
+  defense: 20,
+  sea_creature_chance: 1.5
+};
+requirements.skill.fishing = 13;

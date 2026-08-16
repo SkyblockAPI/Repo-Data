@@ -1,0 +1,7 @@
+item = "leather_chestplate";
+name = "Great Spook Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  fear: 5
+};

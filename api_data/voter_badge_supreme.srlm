@@ -1,0 +1,6 @@
+item = "player_head";
+name = "Supreme Voter's Badge";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc2MTM0MjExMDMxMSwKICAicHJvZmlsZUlkIiA6ICI5ZjJiY2M1M2U4YzM0OTY4YTc5Yzc0NTExYWQ2NmQyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJLYWJveWlvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQzM2NiZjc1ZmY0MGQxYmZjODE0NjUyOGNhM2UxYmRhYzNkNjcwYWM3N2VlMWM4ZDk4YWYxNzRjYTE5ZmViMTkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "EPIC";
+soulbound = "COOP";

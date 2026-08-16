@@ -1,0 +1,13 @@
+item = "leather_chestplate";
+name = "Heat Chestplate";
+include("types/chestplate", this);
+rarity = "RARE";
+stats = {
+  defense: 50,
+  health: 20,
+  mining_fortune: 10,
+  mining_speed: 15,
+  strength: 15,
+  heat_resistance: 20
+};
+requirements.collection.hard_stone = 2;

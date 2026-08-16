@@ -1,0 +1,4 @@
+item = "book";
+name = "Dungeon Journal";
+include("types/dungeon", this);
+rarity = "RARE";

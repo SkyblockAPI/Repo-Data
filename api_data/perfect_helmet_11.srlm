@@ -1,0 +1,7 @@
+item = "diamond_helmet";
+name = "Perfect Helmet - Tier XI";
+include("types/helmet", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 310
+};

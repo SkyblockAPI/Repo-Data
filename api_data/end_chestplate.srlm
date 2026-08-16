@@ -1,0 +1,10 @@
+item = "chainmail_chestplate";
+name = "Ender Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  defense: 60,
+  health: 30
+};
+requirements.skill.combat = 12;
+soulbound = "COOP";

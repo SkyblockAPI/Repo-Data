@@ -1,0 +1,12 @@
+item = "paper";
+name = "Spirit Sceptre";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/dungeons/spirit_sceptre_fragged";
+rarity = "LEGENDARY";
+stats = {
+  damage: 190,
+  weapon_ability_damage: 2250,
+  intelligence: 330
+};
+requirements.dungeon_completetion.catacombs = 4;

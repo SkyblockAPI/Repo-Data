@@ -1,0 +1,9 @@
+item = "leather_boots";
+name = "Mythos Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  strength: 10,
+  health: 80,
+  defense: 60
+};

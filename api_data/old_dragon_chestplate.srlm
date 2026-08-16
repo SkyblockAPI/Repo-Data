@@ -1,0 +1,9 @@
+item = "leather_chestplate";
+name = "Old Dragon Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 160,
+  health: 150
+};
+requirements.skill.combat = 16;

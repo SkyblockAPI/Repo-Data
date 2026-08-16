@@ -1,0 +1,13 @@
+item = "leather_boots";
+name = "Infernal Crimson Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 101,
+  health: 328,
+  strength: 76,
+  critical_damage: 50,
+  intelligence: 13
+};
+requirements.skill.combat = 42;
+requirements.kuudra.infernal = 1;

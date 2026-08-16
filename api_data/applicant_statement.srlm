@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Applicant's Statement";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc0NTAxNDcwMTE3NiwKICAicHJvZmlsZUlkIiA6ICJhZWNkODIxZTQyYzE0ZDJlOThmNTA1OTg1MWI5OWMzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb2RyaVgyMDc1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U0N2FlMjA5ZThhNTI1OTFjYzIwYWMwYzllYzZhNWNiM2RjMDRmMjM4YWMyZDc0M2IxZDU0ZjExZTljNWM4NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
+rarity = "COMMON";
+stats = {
+  trophy_fish_chance: 1
+};
+requirements.trophy.FROG = "BRONZE";
+soulbound = "SOLO";

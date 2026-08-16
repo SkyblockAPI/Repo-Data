@@ -1,0 +1,5 @@
+item = "paper";
+name = "Giant Sloth Claw";
+include("types/pet_item", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/petupgrades/sloth_claw_giant";
+rarity = "LEGENDARY";

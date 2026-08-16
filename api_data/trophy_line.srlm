@@ -1,0 +1,7 @@
+item = "paper";
+name = "Trophy Line";
+include("types/fishing_rod_part", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/rod_part/line/trophy_line";
+rarity = "RARE";
+requirements.skill.fishing = 20;
+requirements.collection.lotus = 9;

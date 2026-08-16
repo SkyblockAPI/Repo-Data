@@ -1,0 +1,12 @@
+item = "redstone_torch_on";
+name = "Hellstorm Wand";
+include("types/wand", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/hellstorm_wand";
+rarity = "EPIC";
+stats = {
+  damage: 120,
+  strength: 50,
+  weapon_ability_damage: 12000,
+  intelligence: 100
+};
+requirements.skill.combat = 25;

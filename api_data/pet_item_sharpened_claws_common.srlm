@@ -1,0 +1,3 @@
+item = "prismarine_shard";
+name = "Sharpened Claws";
+include("types/pet_item", this);

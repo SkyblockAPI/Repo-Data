@@ -1,0 +1,5 @@
+item = "player_head";
+name = "AquamarineRabbit";
+include("types/cosmetic", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYxNjk2MDMyODc3MCwKICAicHJvZmlsZUlkIiA6ICI5ZDIyZGRhOTVmZGI0MjFmOGZhNjAzNTI1YThkZmE4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYWZlRHJpZnQ0OCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zNWEyMTE5ZDEyMjk2MTg1MmMwMTBjMTAwN2FiMmFmZjk1YjRiYmViNzQ0MDc0NjNmNmQyZTFmZjA3OTJjODEyIgogICAgfQogIH0KfQ==";
+rarity = "RARE";

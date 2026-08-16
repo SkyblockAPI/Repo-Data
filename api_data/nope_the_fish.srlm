@@ -1,0 +1,4 @@
+item = "raw_fish";
+name = "Nope the Fish";
+rarity = "SPECIAL";
+soulbound = "COOP";

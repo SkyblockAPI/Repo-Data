@@ -1,0 +1,6 @@
+item = "paper";
+name = "Treasure Hook";
+include("types/fishing_rod_part", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/rod_part/hook/treasure_hook";
+rarity = "RARE";
+requirements.skill.fishing = 25;

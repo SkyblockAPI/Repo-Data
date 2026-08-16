@@ -1,0 +1,10 @@
+item = "leather_chestplate";
+name = "Heavy Chestplate";
+include("types/chestplate", this);
+include("types/dungeon", this);
+rarity = "RARE";
+requirements.dungeons.catacombs = 2;
+tiered_stats = {
+  walk_speed: [-5, -5, -5, -5, -5, -5, -5, -5, -5, -5],
+  defense: [112, 121, 132, 143, 155, 168, 183, 199, 216, 235]
+};

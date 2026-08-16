@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Wizard's Crystal";
+include("types/dungeon", this);
+skin = "eyJ0aW1lc3RhbXAiOjE1NjY4NzMxNDA0NTMsInByb2ZpbGVJZCI6IjQ0MDNkYzU0NzViYzRiMTVhNTQ4Y2ZkYTZiMGViN2Q5IiwicHJvZmlsZU5hbWUiOiJHR0dhbWVyc1lUIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mOGNlNmI3ZTMzODFhYjcxNWZlZmU2MWI5ZmRjOTRlZmMxMmFjNDI4MGI1ZTA3NTA4MTg0OGYyYjJjNDVhNGNjIn19fQ==";
+rarity = "RARE";

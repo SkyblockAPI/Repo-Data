@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Finwave Gloves";
+include("types/gloves", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY2MjU1OTQ4Mzg4MywKICAicHJvZmlsZUlkIiA6ICIxZjEyNTNhYTVkYTQ0ZjU5YWU1YWI1NmFhZjRlNTYxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3RNaUt5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhkYmE1MDlmYmQ5MmNmNjBiZmJhODg0ZTYyOTY2NDlhOWVjMjkyZTQ1OGQ0YjUxNDYyNWU4NTEyZmNlNGI4MGMiCiAgICB9CiAgfQp9";
+rarity = "EPIC";
+stats = {
+  health: 12,
+  health_regeneration: 1,
+  fishing_speed: 10
+};

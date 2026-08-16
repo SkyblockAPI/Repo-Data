@@ -1,0 +1,10 @@
+item = "gold_sword";
+name = "Ragnarock";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/events/april_fools/ragnarock";
+rarity = "RARE";
+stats = {
+  damage: 200,
+  strength: 100
+};
+requirements.skill.combat = 22;

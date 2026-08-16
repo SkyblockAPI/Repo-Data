@@ -1,0 +1,10 @@
+item = "sea_lantern";
+name = "Lapis Armor Helmet";
+include("types/helmet", this);
+rarity = "UNCOMMON";
+stats = {
+  defense: 25,
+  mining_speed: 20,
+  mining_fortune: 2
+};
+requirements.skill.mining = 5;

@@ -1,0 +1,5 @@
+item = "paper";
+name = "Whale Bait";
+include("types/bait", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/bait/whale_bait";
+rarity = "RARE";

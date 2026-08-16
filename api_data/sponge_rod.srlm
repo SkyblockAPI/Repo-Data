@@ -1,0 +1,10 @@
+item = "fishing_rod";
+name = "Sponge Rod";
+include("types/fishing_rod", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/rod/broken_rod";
+stats = {
+  damage: 20,
+  strength: 15,
+  fishing_speed: 30
+};
+requirements.skill.fishing = 5;

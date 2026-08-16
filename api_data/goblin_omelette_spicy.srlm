@@ -1,0 +1,5 @@
+item = "paper";
+name = "Spicy Goblin Omelette";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/mining_3/forge/omelettes/spicy_goblin_omelette";
+rarity = "RARE";
+requirements.hotm = 5;

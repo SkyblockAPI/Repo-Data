@@ -1,0 +1,11 @@
+item = "leather_leggings";
+name = "Thunder Leggings";
+include("types/leggings", this);
+rarity = "EPIC";
+stats = {
+  health: 225,
+  defense: 200,
+  sea_creature_chance: 4,
+  strength: 25
+};
+requirements.skill.fishing = 36;

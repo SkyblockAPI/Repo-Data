@@ -1,0 +1,9 @@
+item = "leather_chestplate";
+name = "Haymaker Chestplate";
+include("types/chestplate", this);
+rarity = "COMMON";
+stats = {
+  defense: 15,
+  farming_fortune: 10
+};
+requirements.skill.farming = 10;

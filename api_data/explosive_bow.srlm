@@ -1,0 +1,9 @@
+item = "bow";
+name = "Explosive Bow";
+include("types/bow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/explosive_bow";
+rarity = "EPIC";
+stats = {
+  damage: 100,
+  strength: 20
+};

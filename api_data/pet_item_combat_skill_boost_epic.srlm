@@ -1,0 +1,4 @@
+item = "iron_sword";
+name = "Combat Exp Boost";
+include("types/pet_item", this);
+rarity = "EPIC";

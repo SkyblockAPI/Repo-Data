@@ -1,0 +1,4 @@
+item = "book";
+name = "Daedalus' Notes";
+include("types/reforge_stone", this);
+rarity = "EPIC";

@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Dragonfuse Glove";
+include("types/gloves", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY2NTY0NDAzODE0NywKICAicHJvZmlsZUlkIiA6ICIxNDJjODU1M2ZkZTU0NjFmYTllMzE0OWUzOTMyMjY4YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzbWVsbGVycnkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjI0YjYzOWM0OTBlZDRlYTI4YTBiMDkyYWU5OWYzZGRlNTA5MWU0ODBlY2JkMWI5MDg0MTY1ZmM0ZjVhMmQ1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "EPIC";
+stats = {
+  health: 30,
+  defense: 5,
+  critical_damage: 5
+};
+requirements.skill.combat = 15;

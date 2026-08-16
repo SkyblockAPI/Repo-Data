@@ -1,0 +1,8 @@
+item = "diamond_pickaxe";
+name = "Self-Recursive Pickaxe";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/rift/zones/cave/self_recursive_pickaxe";
+rarity = "RARE";
+stats = {
+  rift_damage: 5
+};

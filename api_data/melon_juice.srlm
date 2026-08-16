@@ -1,0 +1,4 @@
+item = "paper";
+name = "Melon Juice";
+this["minecraft:item_model"] = "minecraft:beetroot_soup";
+rarity = "UNCOMMON";

@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Not-Dead-Gehog Mask";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY4MTE0NTkxNDMxNSwKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc5YThhMGIyZmMzNDU3NmIxM2M3YWYwMjA3OTA3NGY3NWUyNmJiNDkyNDRlZWE1ZTg4NDFmMGIxM2ZhN2YwNjIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "UNCOMMON";
+stats = {
+  rift_time: 30,
+  rift_intelligence: 15
+};

@@ -1,0 +1,11 @@
+item = "packed_ice";
+name = "Glacite Helmet";
+include("types/helmet", this);
+rarity = "EPIC";
+stats = {
+  walk_speed: 10,
+  defense: 70,
+  true_defense: 5,
+  mining_speed: 10,
+  mining_fortune: 5
+};

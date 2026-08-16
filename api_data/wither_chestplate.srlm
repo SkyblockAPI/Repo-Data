@@ -1,0 +1,11 @@
+item = "leather_chestplate";
+name = "Wither Chestplate";
+include("types/chestplate", this);
+include("types/dungeon", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 250,
+  health: 300,
+  intelligence: 10
+};
+requirements.dungeon_completetion.catacombs = 7;

@@ -1,0 +1,10 @@
+item = "leather_chestplate";
+name = "Snorkeling Vest";
+include("types/chestplate", this);
+rarity = "UNCOMMON";
+stats = {
+  health: 100,
+  defense: 100,
+  pressure_resistance: 10
+};
+requirements.skill.foraging = 16;

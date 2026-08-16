@@ -1,0 +1,4 @@
+item = "blaze_rod";
+name = "Builder's Wand";
+this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/bits_shop/builders_wand";
+rarity = "LEGENDARY";

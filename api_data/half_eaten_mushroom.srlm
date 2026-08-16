@@ -1,0 +1,4 @@
+item = "paper";
+name = "Half-Eaten Mushroom";
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/half_eaten_mushroom";
+rarity = "UNCOMMON";

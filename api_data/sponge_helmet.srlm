@@ -1,0 +1,9 @@
+item = "sponge";
+name = "Sponge Helmet";
+include("types/helmet", this);
+rarity = "EPIC";
+stats = {
+  defense: 100,
+  sea_creature_chance: 2
+};
+requirements.skill.fishing = 17;

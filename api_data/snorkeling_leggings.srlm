@@ -1,0 +1,10 @@
+item = "leather_leggings";
+name = "Snorkeling Pants";
+include("types/leggings", this);
+rarity = "UNCOMMON";
+stats = {
+  health: 75,
+  defense: 85,
+  pressure_resistance: 10
+};
+requirements.skill.foraging = 16;

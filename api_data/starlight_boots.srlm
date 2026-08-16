@@ -1,0 +1,10 @@
+item = "leather_boots";
+name = "Starlight Boots";
+include("types/boots", this);
+rarity = "RARE";
+stats = {
+  defense: 15,
+  intelligence: 30,
+  health: 15
+};
+requirements.skill.combat = 8;

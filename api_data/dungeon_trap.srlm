@@ -1,0 +1,5 @@
+item = "iron_plate";
+name = "Trap";
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/trap";
+rarity = "UNCOMMON";

@@ -1,0 +1,4 @@
+item = "leather";
+name = "Moogma Pelt";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/moogma_pelt";
+rarity = "UNCOMMON";

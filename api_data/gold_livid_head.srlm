@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Golden Livid Head";
+include("types/helmet", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYyNTA1NDYzNjc3MSwKICAicHJvZmlsZUlkIiA6ICI4MmM2MDZjNWM2NTI0Yjc5OGI5MWExMmQzYTYxNjk3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3ROb3RvcmlvdXNOZW1vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYyNTEyYWM2Y2M1ZDhjN2FlM2RkZGVlZTJjNDI5ZDRhMmQ2YTgzNDFiZGUwNTZlMThlNWFlMjEwMTFiYmU2NDMiCiAgICB9CiAgfQp9";
+rarity = "SPECIAL";
+stats = {
+  defense: 30,
+  health: 60,
+  strength: 15
+};
+requirements.dungeon_completetion.catacombs = 5;
+soulbound = "COOP";

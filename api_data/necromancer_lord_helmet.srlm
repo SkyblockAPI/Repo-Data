@@ -1,0 +1,12 @@
+item = "player_head";
+name = "Necromancer Lord Helmet";
+include("types/helmet", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NDAxNDg2MiwKICAicHJvZmlsZUlkIiA6ICJlY2Q0ZTI4NjdkMmE0MTE2OTljYzlkMjMzYmM1YmEyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYXRlZEtub3QiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2RhZGU4YmFlNTY3YTA2NzBmYmViMDI1ZTYzNTA2YTA2ZTQwMTBlZjY2NDRmZjdiNTU2YmRmOTNkMjYwODk1NCIKICAgIH0KICB9Cn0=";
+rarity = "LEGENDARY";
+stats = {
+  defense: 160,
+  health: 200,
+  intelligence: 15
+};
+requirements.dungeon_completetion.catacombs = 6;

@@ -1,0 +1,4 @@
+item = "ice";
+name = "Enchanted Ice";
+rarity = "UNCOMMON";
+category = "BLOCK";

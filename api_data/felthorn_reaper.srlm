@@ -1,0 +1,12 @@
+item = "iron_sword";
+name = "Felthorn Reaper";
+include("types/longsword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/dungeons/felthorn_reaper";
+rarity = "LEGENDARY";
+stats = {
+  damage: 275,
+  critical_damage: 115,
+  swing_range: 1
+};
+requirements.dungeon_completetion.catacombs = 6;

@@ -1,0 +1,9 @@
+item = "prismarine_shard";
+name = "Prismarine Blade";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/prismarine_blade";
+rarity = "UNCOMMON";
+stats = {
+  damage: 50,
+  strength: 25
+};

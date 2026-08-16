@@ -1,0 +1,10 @@
+item = "leather_chestplate";
+name = "Blaze Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  walk_speed: 2,
+  defense: 165,
+  strength: 30
+};
+requirements.skill.combat = 22;

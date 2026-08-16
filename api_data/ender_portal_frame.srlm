@@ -1,0 +1,4 @@
+item = "paper";
+name = "End Portal Frame";
+this["minecraft:item_model"] = "minecraft:end_portal_frame";
+soulbound = "COOP";

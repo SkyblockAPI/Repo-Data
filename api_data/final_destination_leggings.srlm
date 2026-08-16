@@ -1,0 +1,10 @@
+item = "leather_leggings";
+name = "Final Destination Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 100,
+  health: 160,
+  intelligence: 100
+};
+requirements.slayer.enderman = 3;

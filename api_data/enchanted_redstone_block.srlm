@@ -1,0 +1,4 @@
+item = "redstone_block";
+name = "Enchanted Redstone Block";
+rarity = "RARE";
+category = "ORE";

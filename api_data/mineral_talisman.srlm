@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Mineral Talisman";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzNzk2MTUwOCwKICAicHJvZmlsZUlkIiA6ICJmMzA1ZjA5NDI0NTg0ZjU4YmEyYjY0ZjAyZDcyNDYyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJqcm9ja2EzMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YWI3YjA0ZGJiYTYxY2MwZTEwOTA3Y2ExMWY4NGY4NzFiN2FhMjM0ZGRlMGU0ZjFhZDhiYmU0OTE0ZmJjNTEzIgogICAgfQogIH0KfQ==";
+rarity = "RARE";
+stats = {
+  mining_fortune: 3
+};

@@ -1,0 +1,8 @@
+item = "bow";
+name = "Souls Rebound";
+include("types/bow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/souls_rebound";
+rarity = "EPIC";
+stats = {
+  damage: 450
+};

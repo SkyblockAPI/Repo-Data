@@ -1,0 +1,4 @@
+item = "player_head";
+name = "Magma Cube Minion X";
+skin = "eyJ0aW1lc3RhbXAiOjE1NTc5Mzc2NjQ5NDEsInByb2ZpbGVJZCI6IjU3MGIwNWJhMjZmMzRhOGViZmRiODBlY2JjZDdlNjIwIiwicHJvZmlsZU5hbWUiOiJMb3JkU29ubnkiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U5ZTY3YzM4NjBjYzFkMzZjYjQ5MzBlMGFlMDQ4OGM2NGFiYzRlOTEwYjQyMjRkYzkxNjBkMjczYzNhZjBiYmEifX19";
+rarity = "RARE";

@@ -1,0 +1,9 @@
+item = "gold_axe";
+name = "Treecapitator";
+include("types/axe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/axes/treecapitator";
+rarity = "EPIC";
+stats = {
+  sweep: 25
+};
+booster_applicable = true;

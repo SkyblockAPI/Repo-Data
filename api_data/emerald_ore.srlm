@@ -1,0 +1,4 @@
+item = "emerald_ore";
+name = "Emerald Ore";
+rarity = "UNCOMMON";
+category = "ORE";

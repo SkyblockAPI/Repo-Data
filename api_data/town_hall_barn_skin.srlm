@@ -1,0 +1,4 @@
+item = "gold_block";
+name = "Town Hall Barn Skin";
+include("types/cosmetic", this);
+rarity = "LEGENDARY";

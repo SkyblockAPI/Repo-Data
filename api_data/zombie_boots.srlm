@@ -1,0 +1,9 @@
+item = "diamond_boots";
+name = "Zombie Boots";
+include("types/boots", this);
+rarity = "EPIC";
+stats = {
+  defense: 25,
+  health: 120
+};
+requirements.dungeons.catacombs = 16;

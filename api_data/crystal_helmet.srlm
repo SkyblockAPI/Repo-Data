@@ -1,0 +1,8 @@
+item = "leather_helmet";
+name = "Crystal Helmet";
+include("types/helmet", this);
+rarity = "EPIC";
+stats = {
+  defense: 20,
+  intelligence: 65
+};

@@ -1,0 +1,5 @@
+item = "paper";
+name = "Poignant Lucky Clover";
+include("types/pet_item", this);
+this["minecraft:item_model"] = "minecraft:big_dripleaf";
+rarity = "LEGENDARY";

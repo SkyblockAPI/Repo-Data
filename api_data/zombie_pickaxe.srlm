@@ -1,0 +1,8 @@
+item = "iron_pickaxe";
+name = "Zombie Pickaxe";
+include("types/pickaxe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/zombie_pickaxe";
+stats = {
+  breaking_power: 3,
+  mining_speed: 190
+};

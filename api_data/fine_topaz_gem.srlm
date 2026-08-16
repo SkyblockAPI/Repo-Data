@@ -1,0 +1,4 @@
+item = "paper";
+name = "Fine Topaz Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/topaz/fine_topaz_gem";
+rarity = "RARE";

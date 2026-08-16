@@ -1,0 +1,8 @@
+item = "leather_chestplate";
+name = "Obsidian Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  defense: 250
+};
+requirements.skill.combat = 14;

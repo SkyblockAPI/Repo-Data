@@ -1,0 +1,4 @@
+item = "player_head";
+name = "Player Head";
+rarity = "COMMON";
+soulbound = "COOP";

@@ -1,0 +1,6 @@
+item = "player_head";
+name = "Ender Relic";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYyMDQ2MTAwMDQ3MSwKICAicHJvZmlsZUlkIiA6ICJmMjU5MTFiOTZkZDU0MjJhYTcwNzNiOTBmOGI4MTUyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmYXJsb3VjaDEwMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yODg3NDgwMTQ4MDk4NjJlOGJkMjEwYTBhM2RmY2Q3YmU2ZTBkZGM3YjQ1M2UzOTQ3ZWU2ZDczZjQ2ZmRlOWUyIgogICAgfQogIH0KfQ==";
+rarity = "LEGENDARY";
+requirements.slayer.enderman = 7;

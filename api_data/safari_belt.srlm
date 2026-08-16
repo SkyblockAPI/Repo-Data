@@ -1,0 +1,6 @@
+item = "paper";
+name = "Safari Belt";
+include("types/belt", this);
+rarity = "COMMON";
+soulbound = "SOLO";
+booster_applicable = true;

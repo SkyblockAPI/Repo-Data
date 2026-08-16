@@ -1,0 +1,4 @@
+item = "book";
+name = "Polarvoid Book";
+rarity = "RARE";
+rift_transferrable = true;

@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Sponge Belt";
+include("types/belt", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcwMzE5NDYwMjk4MiwKICAicHJvZmlsZUlkIiA6ICIxZjgyNTE2M2U0NDY0YjI2OTZlOTcwNzQxOTZiNTYwOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVCZXN0RGFkMSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNTkxMzMwNWNmNzMyMjMzOTg1MWEwOWRmOTljZjc0MGY5ZTU4ZDQ4ZTZiN2RhNDM5MzAzNTNhMTY1OTQzMTgzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "RARE";
+stats = {
+  fishing_speed: 2,
+  trophy_fish_chance: 1
+};

@@ -1,0 +1,15 @@
+item = "iron_sword";
+name = "Scylla";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/scylla";
+rarity = "LEGENDARY";
+stats = {
+  damage: 270,
+  strength: 150,
+  critical_damage: 35,
+  critical_chance: 12,
+  ferocity: 30,
+  intelligence: 50
+};
+requirements.dungeon_completetion.catacombs = 7;

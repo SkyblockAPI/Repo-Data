@@ -1,0 +1,10 @@
+item = "wood_pickaxe";
+name = "Rusty Titanium Pickaxe";
+include("types/pickaxe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/rusty_titanium_pickaxe";
+rarity = "UNCOMMON";
+stats = {
+  breaking_power: 5,
+  damage: 55,
+  mining_speed: 100
+};

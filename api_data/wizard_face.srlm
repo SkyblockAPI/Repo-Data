@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Wizard Face";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY3OTU1NDg4NzMzMiwKICAicHJvZmlsZUlkIiA6ICJkNzU2OTc4MWUyYjY0OWIyYjVlMjVlYTJhNDZkOGQxOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEckthcGRvciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80M2I3OTdhZTAxM2QyYjg4MmRiMzE2MzQ2NWI5MTJmMDNkNTdjODJkNDRkZjA0ODZkZjAzMmU3YmFiODY0NzlhIgogICAgfQogIH0KfQ==";
+rarity = "MYTHIC";
+stats = {
+  rift_time: 130,
+  rift_intelligence: 26,
+  rift_health: 1
+};
+soulbound = "SOLO";

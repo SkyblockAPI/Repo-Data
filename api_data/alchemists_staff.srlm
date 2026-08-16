@@ -1,0 +1,13 @@
+item = "red_rose";
+name = "The Alchemist's Staff";
+include("types/wand", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/alchemists_staff";
+rarity = "RARE";
+stats = {
+  damage: 50,
+  strength: 20,
+  weapon_ability_damage: 10000,
+  intelligence: 20
+};
+requirements.skill.combat = 22;
+soulbound = "SOLO";

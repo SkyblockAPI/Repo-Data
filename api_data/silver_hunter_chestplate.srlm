@@ -1,0 +1,9 @@
+item = "iron_chestplate";
+name = "Silver Hunter Chestplate";
+include("types/chestplate", this);
+rarity = "RARE";
+stats = {
+  health: 125
+};
+requirements.trophy.LAVA = "SILVER";
+soulbound = "SOLO";

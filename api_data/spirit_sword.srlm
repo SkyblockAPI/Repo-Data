@@ -1,0 +1,11 @@
+item = "iron_sword";
+name = "Spirit Sword";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/spirit_sword";
+rarity = "EPIC";
+stats = {
+  damage: 210,
+  strength: 50
+};
+requirements.dungeon_completetion.catacombs = 4;

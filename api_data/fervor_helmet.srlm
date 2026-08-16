@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Fervor Helmet";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDMxOTYxMiwKICAicHJvZmlsZUlkIiA6ICIwNDNkZWIzOGIyNjE0MTg1YTIzYzU4ZmI2YTc5ZWZkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaXRhbFNpZ256MiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYzZlMTM3ZTJhNmE1MDFkZmM4NTRjYTkwMGI1YjY4MTIyN2RlYTRkNWE5NjE2ODQ5YTNhNjhmMDljNmRjMzI3IgogICAgfQogIH0KfQ==";
+rarity = "LEGENDARY";
+stats = {
+  defense: 100,
+  health: 180,
+  intelligence: 15,
+  true_defense: 5
+};
+requirements.skill.combat = 22;
+requirements.kuudra.none = 1;

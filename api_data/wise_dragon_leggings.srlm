@@ -1,0 +1,10 @@
+item = "leather_leggings";
+name = "Wise Dragon Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 140,
+  health: 100,
+  intelligence: 75
+};
+requirements.skill.combat = 16;

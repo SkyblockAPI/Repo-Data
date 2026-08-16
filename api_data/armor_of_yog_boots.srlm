@@ -1,0 +1,12 @@
+item = "leather_boots";
+name = "Yog Boots";
+include("types/boots", this);
+rarity = "EPIC";
+stats = {
+  defense: 15,
+  health: 50,
+  mining_speed: 25,
+  mining_fortune: 20,
+  heat_resistance: 10
+};
+requirements.collection.hard_stone = 5;

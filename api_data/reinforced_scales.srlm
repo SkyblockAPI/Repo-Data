@@ -1,0 +1,4 @@
+item = "prismarine_crystals";
+name = "Reinforced Scales";
+include("types/pet_item", this);
+rarity = "RARE";

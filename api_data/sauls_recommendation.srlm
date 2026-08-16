@@ -1,0 +1,4 @@
+item = "paper";
+name = "Saul's Recommendation";
+rarity = "LEGENDARY";
+soulbound = "SOLO";

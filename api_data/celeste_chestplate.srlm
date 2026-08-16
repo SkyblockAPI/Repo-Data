@@ -1,0 +1,10 @@
+item = "leather_chestplate";
+name = "Celeste Chestplate";
+include("types/chestplate", this);
+rarity = "UNCOMMON";
+stats = {
+  defense: 25,
+  intelligence: 60,
+  health: 25
+};
+requirements.skill.combat = 4;

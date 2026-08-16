@@ -1,0 +1,4 @@
+item = "paper";
+name = "Ruby Crystal";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/ruby_crystal";
+rarity = "SPECIAL";

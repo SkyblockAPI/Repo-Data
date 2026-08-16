@@ -1,0 +1,9 @@
+item = "gold_chestplate";
+name = "Chestplate of the Stars";
+include("types/chestplate", this);
+rarity = "UNOBTAINABLE";
+stats = {
+  defense: 5000,
+  health: 20000,
+  intelligence: 2000
+};

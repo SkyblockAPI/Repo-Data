@@ -1,0 +1,12 @@
+item = "iron_chestplate";
+name = "Helianthus Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  farming_fortune: 40,
+  walk_speed: 7,
+  health: 205,
+  defense: 50,
+  bonus_pest_chance: 20
+};
+requirements.skill.farming = 50;

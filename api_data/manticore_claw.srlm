@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Manticore Claw";
+include("types/gloves", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc1MjUxNDEzNjI2MywKICAicHJvZmlsZUlkIiA6ICI3ZGY4NmY1MWFjZmI0MjQzYTkzNDQ1OTAyZDEzYTc0MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNclJpcHRpZGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmE2OGQ0ZjYxMDA4ZTBiMDNlYjE3ZTFjNDI0ZGEzM2EyNjUyZjQ2ZGI0YmJkMzdhY2E3YTVmZThmZTA1YmFiMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
+rarity = "LEGENDARY";
+stats = {
+  strength: 20,
+  attack_speed: 2.5,
+  ferocity: 4
+};

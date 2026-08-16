@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Salmon Mask";
+include("types/carnival_mask", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxNDI0NjI4MzIxMSwKICAicHJvZmlsZUlkIiA6ICJhNDAxZjEzMTZlMjI0ZTNjOTg0ODk1MmVjMzhjMTEwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJHcmVlbnNoZWVwaXJhdGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk2OTc0N2E1YmJjOWEzNjYxZmRlNjhkMzY5YWNmZmNhNTRjOWY5YjE5Zjk0ZGFhMzg3OTk3MDc5NjYyOTI0NCIKICAgIH0KICB9Cn0=";
+rarity = "UNCOMMON";
+stats = {
+  health: 1
+};

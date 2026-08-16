@@ -1,0 +1,9 @@
+item = "bow";
+name = "Undead Bow";
+include("types/bow", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/undead_bow";
+rarity = "RARE";
+stats = {
+  damage: 80
+};

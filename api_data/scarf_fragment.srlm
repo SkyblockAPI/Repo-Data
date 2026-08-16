@@ -1,0 +1,4 @@
+item = "red_rose";
+name = "Scarf Fragment";
+include("types/dungeon", this);
+rarity = "RARE";

@@ -1,0 +1,8 @@
+item = "chainmail_chestplate";
+name = "Mithril Coat";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  walk_speed: 15,
+  defense: 125
+};

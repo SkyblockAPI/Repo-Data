@@ -1,0 +1,10 @@
+item = "iron_sword";
+name = "Mercenary Sword";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/mercenary_sword";
+rarity = "RARE";
+stats = {
+  strength: 20,
+  damage: 70
+};
+requirements.skill.combat = 4;

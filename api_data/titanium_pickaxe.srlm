@@ -1,0 +1,11 @@
+item = "iron_pickaxe";
+name = "Titanium Pickaxe";
+include("types/pickaxe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/titanium_pickaxe";
+rarity = "RARE";
+stats = {
+  breaking_power: 6,
+  damage: 60,
+  mining_speed: 140
+};
+requirements.hotm = 3;

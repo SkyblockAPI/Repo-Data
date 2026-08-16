@@ -1,0 +1,3 @@
+item = "iron_axe";
+name = "Foraging Exp Boost";
+include("types/pet_item", this);

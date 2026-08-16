@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Portal to The End";
+include("types/portal", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwOTM0OTgxNjE4OSwKICAicHJvZmlsZUlkIiA6ICJjZGM5MzQ0NDAzODM0ZDdkYmRmOWUyMmVjZmM5MzBiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYXdMb2JzdGVycyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MjIxNWNkN2JhNDBlNzAwOWM1MWZkMWFiZjIxZDlkODgxMjZkZDc4MjdiZDdjNGVjMjk5NTJlYzdiZDVlZmM3IgogICAgfQogIH0KfQ==";
+rarity = "UNCOMMON";

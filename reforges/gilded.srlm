@@ -15,12 +15,12 @@ static {
   ],
   stats: {
     legendary: {
-      ability_damage: 8,
+      ability_damage_percent: 8,
       strength: 75,
       damage: 75
     },
     mythic: {
-      ability_damage: 10,
+      ability_damage_percent: 10,
       strength: 90,
       damage: 90
     }

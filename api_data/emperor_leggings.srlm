@@ -1,0 +1,3 @@
+item = "leather_leggings";
+name = "Emperor Leggings";
+include("types/leggings", this);

@@ -1,0 +1,4 @@
+item = "flower_pot_item";
+name = "Fungal Tip Jar";
+include("types/consumable", this);
+rarity = "RARE";

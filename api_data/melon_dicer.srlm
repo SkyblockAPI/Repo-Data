@@ -1,0 +1,7 @@
+item = "iron_axe";
+name = "Melon Dicer Mk. I";
+include("types/farming_tool", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/jacob/melon_dicer";
+rarity = "UNCOMMON";
+requirements.skill.farming = 10;
+requirements.garden = 6;

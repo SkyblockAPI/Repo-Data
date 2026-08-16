@@ -1,0 +1,4 @@
+item = "ink_sack";
+name = "Moondew";
+this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/finnegan/moondew";
+rarity = "EPIC";

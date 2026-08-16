@@ -1,0 +1,4 @@
+item = "stick";
+name = "Brimstone Handle";
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/brimstone_handle";
+rarity = "EPIC";

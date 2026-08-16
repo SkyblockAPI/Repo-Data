@@ -1,0 +1,7 @@
+item = "player_head";
+name = "Chicken Hat";
+include("types/helmet", this);
+skin = "eyJ0aW1lc3RhbXAiOjE0OTg2ODkzODA5ODgsInByb2ZpbGVJZCI6IjkyZGVhZmE5NDMwNzQyZDliMDAzODg2MDE1OThkNmMwIiwicHJvZmlsZU5hbWUiOiJNSEZfQ2hpY2tlbiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTYzODQ2OWE1OTljZWVmNzIwNzUzNzYwMzI0OGE5YWIxMWZmNTkxZmQzNzhiZWE0NzM1YjM0NmE3ZmFlODkzIn19fQ==";
+stats = {
+  health: 20
+};

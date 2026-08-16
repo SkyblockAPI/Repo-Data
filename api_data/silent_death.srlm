@@ -1,0 +1,13 @@
+item = "iron_sword";
+name = "Silent Death";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/silent_death";
+rarity = "RARE";
+requirements.dungeons.catacombs = 20;
+tiered_stats = {
+  damage: [85, 92, 100, 109, 119, 129, 140, 152, 166, 180],
+  strength: [31, 34, 37, 40, 44, 48, 52, 56, 61, 67],
+  critical_damage: [9, 10, 11, 12, 13, 14, 16, 17, 18, 20],
+  critical_chance: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2]
+};

@@ -1,0 +1,4 @@
+item = "diamond";
+name = "Enchanted Diamond";
+rarity = "UNCOMMON";
+category = "ORE";

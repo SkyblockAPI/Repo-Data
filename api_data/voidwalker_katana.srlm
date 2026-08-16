@@ -1,0 +1,10 @@
+item = "blaze_rod";
+name = "Voidwalker Katana";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/enderman/weapons/katanas/voidwalker_katana";
+rarity = "UNCOMMON";
+stats = {
+  damage: 105,
+  strength: 40,
+  critical_damage: 15
+};

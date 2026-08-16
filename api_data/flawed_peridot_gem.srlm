@@ -1,0 +1,4 @@
+item = "paper";
+name = "Flawed Peridot Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/peridot/flawed_peridot_gem";
+rarity = "UNCOMMON";

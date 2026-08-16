@@ -1,0 +1,12 @@
+item = "chainmail_helmet";
+name = "Flamebreaker Helmet";
+include("types/helmet", this);
+rarity = "EPIC";
+stats = {
+  defense: 40,
+  health: 40,
+  mining_fortune: 15,
+  mining_speed: 25,
+  heat_resistance: 5
+};
+requirements.collection.hard_stone = 5;

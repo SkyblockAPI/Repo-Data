@@ -1,0 +1,4 @@
+item = "paper";
+name = "Everburning Flame";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/everburning_flame";
+rarity = "EPIC";

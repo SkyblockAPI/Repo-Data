@@ -1,0 +1,6 @@
+item = "player_head";
+name = "Spider Ring";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MTk0ODQ2OSwKICAicHJvZmlsZUlkIiA6ICJiNzQ4YWExODk3ZGU0Y2RiYjFhNTI1YjVjMjM3ZDc2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaXhpOCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MDRhZGEyMjEyYTM4ZTY3YjZkYmFkMmQxNTZlZTExMGM1NDZkYmZkNzE2NWI3ZjUwYjhlYzE3ZmYyMjRkYmE1IgogICAgfQogIH0KfQ==";
+rarity = "RARE";
+requirements.slayer.spider = 1;

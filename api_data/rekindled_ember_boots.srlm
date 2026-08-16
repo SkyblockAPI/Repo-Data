@@ -1,0 +1,12 @@
+item = "chainmail_boots";
+name = "Rekindled Ember Boots";
+include("types/boots", this);
+rarity = "EPIC";
+stats = {
+  defense: 40,
+  health: 140,
+  intelligence: 5,
+  strength: 30,
+  critical_damage: 15
+};
+requirements.skill.combat = 22;

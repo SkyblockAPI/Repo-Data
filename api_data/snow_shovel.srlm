@@ -1,0 +1,4 @@
+item = "iron_spade";
+name = "Snow Shovel";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/snow_shovel";
+rarity = "RARE";

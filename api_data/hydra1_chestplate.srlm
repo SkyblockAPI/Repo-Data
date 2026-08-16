@@ -1,0 +1,4 @@
+item = "leather_chestplate";
+name = "Water Hydra Chestplate";
+include("types/chestplate", this);
+rarity = "UNCOMMON";

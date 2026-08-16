@@ -1,0 +1,5 @@
+item = "paper";
+name = "Wither Shield";
+include("types/dungeon", this);
+this["minecraft:item_model"] = "minecraft:writable_book";
+rarity = "EPIC";

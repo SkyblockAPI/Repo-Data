@@ -1,0 +1,11 @@
+item = "iron_sword";
+name = "Yeti Sword";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/winter/weapons/yeti_sword";
+rarity = "LEGENDARY";
+stats = {
+  damage: 150,
+  strength: 170,
+  weapon_ability_damage: 15000,
+  intelligence: 50
+};

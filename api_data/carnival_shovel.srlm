@@ -1,0 +1,6 @@
+item = "iron_spade";
+name = "Carnival Shovel";
+include("types/spade", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/carnival_shovel_iron";
+rarity = "UNCOMMON";
+soulbound = "SOLO";

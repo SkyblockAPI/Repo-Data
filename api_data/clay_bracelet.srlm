@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Clay Bracelet";
+include("types/bracelet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcwMzE5NDgwMzAxOCwKICAicHJvZmlsZUlkIiA6ICI1NzgzZWMxNDgxMDI0ZDJmOTk4N2JhNGZhNWNlMmFmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbHVlUGhlbml4NDMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjQ4ZTRhNGMyZjc3ZDMzYTQ0MDJmNWUxNzc3ZjkyZTRiM2Y3NzYxZWUxYjE5YjNhOTlhMzBiMDAyYTY1N2FhMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
+rarity = "RARE";
+stats = {
+  fishing_speed: 2,
+  trophy_fish_chance: 1
+};

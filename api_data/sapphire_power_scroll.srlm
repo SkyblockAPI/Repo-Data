@@ -1,0 +1,4 @@
+item = "paper";
+name = "Sapphire Power Scroll";
+this["minecraft:item_model"] = "minecraft:writable_book";
+rarity = "EPIC";

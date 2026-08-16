@@ -1,0 +1,4 @@
+item = "paper";
+name = "Lava Water Orb";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/crimson_isle/bobbin_time/lava_water_orb";
+rarity = "LEGENDARY";

@@ -1,0 +1,11 @@
+item = "leather_leggings";
+name = "Reaper Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 50,
+  health: 120,
+  strength: 25,
+  intelligence: 250
+};
+requirements.slayer.zombie = 7;

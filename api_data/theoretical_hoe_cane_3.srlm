@@ -1,0 +1,7 @@
+item = "iron_hoe";
+name = "Turing Sugar Cane Cutter Mk. III";
+include("types/farming_tool", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/jacob/hoes/theoretical_hoe_cane_3";
+rarity = "EPIC";
+requirements.skill.farming = 20;
+requirements.garden = 5;

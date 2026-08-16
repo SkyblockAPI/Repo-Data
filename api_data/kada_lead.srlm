@@ -1,0 +1,4 @@
+item = "leash";
+name = "Kada Lead";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/kada_lead";
+rarity = "UNCOMMON";

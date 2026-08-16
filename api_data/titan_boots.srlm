@@ -1,0 +1,10 @@
+item = "diamond_boots";
+name = "Titan's Boots";
+include("types/boots", this);
+rarity = "UNOBTAINABLE";
+stats = {
+  defense: 100,
+  health: 100,
+  strength: 10,
+  intelligence: 50
+};

@@ -1,0 +1,10 @@
+item = "bow";
+name = "Stinger Bow";
+include("types/bow", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/broken/broken_bow";
+rarity = "RARE";
+requirements.dungeons.catacombs = 12;
+tiered_stats = {
+  damage: [47, 51, 56, 61, 66, 72, 78, 85, 92, 100]
+};

@@ -1,0 +1,5 @@
+item = "paper";
+name = "Isopod Husk";
+include("types/consumable", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/isopod_husk";
+rarity = "EPIC";

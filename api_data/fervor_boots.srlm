@@ -1,0 +1,12 @@
+item = "leather_boots";
+name = "Fervor Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 85,
+  health: 160,
+  intelligence: 5,
+  true_defense: 5
+};
+requirements.skill.combat = 22;
+requirements.kuudra.none = 1;

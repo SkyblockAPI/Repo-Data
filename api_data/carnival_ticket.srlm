@@ -1,0 +1,4 @@
+item = "name_tag";
+name = "Carnival Ticket";
+rarity = "UNCOMMON";
+soulbound = "COOP";

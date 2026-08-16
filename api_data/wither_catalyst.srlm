@@ -1,0 +1,5 @@
+item = "paper";
+name = "Wither Catalyst";
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/wither_catalyst";
+rarity = "RARE";

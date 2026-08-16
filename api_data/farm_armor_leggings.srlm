@@ -1,0 +1,9 @@
+item = "leather_leggings";
+name = "Haymaker Leggings";
+include("types/leggings", this);
+rarity = "COMMON";
+stats = {
+  defense: 15,
+  farming_fortune: 10
+};
+requirements.skill.farming = 10;

@@ -1,0 +1,3 @@
+item = "paper";
+name = "Rough Aquamarine Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/aquamarine/rough_aquamarine_gem";

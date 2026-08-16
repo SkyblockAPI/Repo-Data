@@ -1,0 +1,8 @@
+item = "wood_sword";
+name = "Great Spook Sword";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/great_spook/great_spook_sword";
+rarity = "LEGENDARY";
+stats = {
+  damage: 0
+};

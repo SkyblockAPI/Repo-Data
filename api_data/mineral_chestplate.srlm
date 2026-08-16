@@ -1,0 +1,9 @@
+item = "leather_chestplate";
+name = "Mineral Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  walk_speed: 15,
+  defense: 125,
+  block_fortune: 25
+};

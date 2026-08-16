@@ -1,0 +1,8 @@
+item = "stone_sword";
+name = "Tactician's Murder Weapon";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/rift/weapons/tacticians_murder_weapon";
+rarity = "RARE";
+stats = {
+  rift_damage: 4
+};

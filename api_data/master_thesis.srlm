@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Master's Thesis";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc0NTAxNDcwNDQ0OSwKICAicHJvZmlsZUlkIiA6ICI1MjhlYzVmMmEzZmM0MDA0YjYwY2IwOTA5Y2JiMjdjYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdWxpenppIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFlMDgyNDc1MjIwZmRhODNkYmExMWIzOWQzZmNjMWMzZmNiOWI2ZjFmYjhhMGZlM2FlN2Q2ODM1OWYzOGFkNGIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "RARE";
+stats = {
+  trophy_fish_chance: 3
+};
+requirements.trophy.FROG = "GOLD";
+soulbound = "SOLO";

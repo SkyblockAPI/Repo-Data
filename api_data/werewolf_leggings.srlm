@@ -1,0 +1,10 @@
+item = "leather_leggings";
+name = "Werewolf Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 200,
+  ferocity: 10,
+  intelligence: 50
+};
+requirements.dungeons.catacombs = 20;

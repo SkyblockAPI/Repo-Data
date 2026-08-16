@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Holy Dragon Helmet";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzMwMjU2NiwKICAicHJvZmlsZUlkIiA6ICJlY2Q0ZTI4NjdkMmE0MTE2OTljYzlkMjMzYmM1YmEyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYXRlZEtub3QiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTljYzhiYTI2NzkzMjE4ZjZmNjQ5MTk0N2ExODM3ZmQ1Mjg3ODcwMWYzM2Y3NmJiZTI4ODNhNDVhYmE4YWI4ZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
+rarity = "LEGENDARY";
+stats = {
+  defense: 110,
+  health: 110,
+  mending: 10
+};
+requirements.skill.combat = 16;

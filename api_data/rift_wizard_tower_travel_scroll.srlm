@@ -1,0 +1,5 @@
+item = "empty_map";
+name = "Travel Scroll to The Rift";
+include("types/travel_scroll", this);
+rarity = "RARE";
+rift_transferrable = true;

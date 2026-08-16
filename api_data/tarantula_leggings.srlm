@@ -1,0 +1,10 @@
+item = "leather_leggings";
+name = "Tarantula Leggings";
+include("types/leggings", this);
+rarity = "EPIC";
+stats = {
+  defense: 90,
+  health: 105,
+  intelligence: 80
+};
+requirements.slayer.spider = 4;

@@ -1,0 +1,13 @@
+item = "leather_leggings";
+name = "Hot Crimson Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 69,
+  health: 258,
+  strength: 38,
+  critical_damage: 25,
+  intelligence: 6
+};
+requirements.skill.combat = 27;
+requirements.kuudra.hot = 1;

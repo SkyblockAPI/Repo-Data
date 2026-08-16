@@ -1,0 +1,12 @@
+item = "leather_leggings";
+name = "Adaptive Leggings";
+include("types/leggings", this);
+include("types/dungeon", this);
+rarity = "EPIC";
+stats = {
+  defense: 75,
+  health: 155,
+  strength: 15,
+  intelligence: 15
+};
+requirements.dungeon_completetion.catacombs = 3;

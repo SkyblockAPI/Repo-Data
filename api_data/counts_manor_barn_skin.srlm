@@ -1,0 +1,4 @@
+item = "mossy_cobblestone";
+name = "Count's Manor Barn Skin";
+include("types/cosmetic", this);
+rarity = "EPIC";

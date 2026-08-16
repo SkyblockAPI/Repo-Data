@@ -1,0 +1,12 @@
+item = "leather_chestplate";
+name = "Figmail";
+include("types/chestplate", this);
+rarity = "RARE";
+stats = {
+  health: 160,
+  defense: 45,
+  foraging_fortune: 30,
+  sweep: 10
+};
+requirements.skill.foraging = 15;
+booster_applicable = true;

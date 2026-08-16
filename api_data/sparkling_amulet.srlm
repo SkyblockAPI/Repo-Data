@@ -1,0 +1,5 @@
+item = "paper";
+name = "Sparkling Amulet";
+include("types/necklace", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/safari/sparkling_amulet";
+rarity = "SPECIAL";

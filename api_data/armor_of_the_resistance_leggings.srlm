@@ -1,0 +1,8 @@
+item = "leather_leggings";
+name = "Leggings of the Rising Sun";
+include("types/leggings", this);
+rarity = "EPIC";
+stats = {
+  defense: 12,
+  health: 12
+};

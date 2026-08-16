@@ -1,0 +1,11 @@
+item = "iron_sword";
+name = "Sting";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/spider/weapons/sting";
+rarity = "LEGENDARY";
+stats = {
+  damage: 150,
+  strength: 75,
+  critical_damage: 40
+};
+requirements.slayer.spider = 8;

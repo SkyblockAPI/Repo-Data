@@ -1,0 +1,10 @@
+item = "leather_helmet";
+name = "Eleanor's Cap";
+include("types/helmet", this);
+rarity = "LEGENDARY";
+rift_transferrable = true;
+stats = {
+  rift_time: 20,
+  health: 50
+};
+soulbound = "SOLO";

@@ -1,0 +1,4 @@
+item = "paper";
+name = "Subzero Inverter";
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/blaze/pets_related/subzero_inverter";
+rarity = "LEGENDARY";

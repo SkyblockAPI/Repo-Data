@@ -1,0 +1,4 @@
+item = "paper";
+name = "Blue Ring";
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/blue_ring";
+rarity = "RARE";

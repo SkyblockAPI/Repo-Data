@@ -1,0 +1,4 @@
+item = "leather_boots";
+name = "Minos Hunter Boots";
+include("types/boots", this);
+rarity = "UNCOMMON";

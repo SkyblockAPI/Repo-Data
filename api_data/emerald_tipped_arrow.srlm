@@ -1,0 +1,10 @@
+item = "arrow";
+name = "Emerald-tipped Arrow";
+include("types/arrow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/emerald_tipped_arrow";
+rarity = "UNCOMMON";
+stats = {
+  damage: 20
+};
+requirements.skill.combat = 18;
+requirements.target_practice = II;

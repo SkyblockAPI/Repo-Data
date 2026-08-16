@@ -1,0 +1,8 @@
+item = "diamond_chestplate";
+name = "Miner Chestplate";
+include("types/chestplate", this);
+rarity = "RARE";
+stats = {
+  defense: 15,
+  mining_speed: 10
+};

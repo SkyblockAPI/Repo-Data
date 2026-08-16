@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Hunter Ring";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzODk5NzYxNCwKICAicHJvZmlsZUlkIiA6ICJhNzFjNTQ5MmQwNTE0ZDg3OGFiOTEwZmRmZmRmYzgyZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcHBsZTU0NDciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWM1NzdlN2QzMWU1ZTA0YzJjZTcxZTEzZTM5NjIxOTJkODBiZDU0YjU1ZWZhYWNhYWVhMTI5NjZmZTI3YmY5IgogICAgfQogIH0KfQ==";
+rarity = "RARE";
+stats = {
+  combat_wisdom: 5
+};
+requirements.slayer.wolf = 7;

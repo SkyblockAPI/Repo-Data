@@ -1,0 +1,7 @@
+item = "gold_helmet";
+name = "Potato Crown";
+include("types/helmet", this);
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 1
+};

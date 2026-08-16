@@ -1,0 +1,11 @@
+item = "leather_leggings";
+name = "Rampart Leggings";
+include("types/leggings", this);
+rarity = "RARE";
+stats = {
+  defense: 55,
+  health: 150,
+  intelligence: 5
+};
+requirements.skill.combat = 22;
+soulbound = "COOP";

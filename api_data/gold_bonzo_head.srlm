@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Golden Bonzo Head";
+include("types/helmet", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY0MTcxMjkyOTEwOSwKICAicHJvZmlsZUlkIiA6ICJlZDUzZGQ4MTRmOWQ0YTNjYjRlYjY1MWRjYmE3N2U2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICI0MTQxNDE0MWgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTVlNzVlYWU4NjliZjBjMjk4ZWU0ODc5MGE2MmMyZDYxNDA3OTBiZDQ4MWIxZGU4OWI3NjhkNTJmMjhjNzRhOSIKICAgIH0KICB9Cn0=";
+rarity = "SPECIAL";
+stats = {
+  defense: 10,
+  health: 20,
+  strength: 5
+};
+requirements.dungeon_completetion.catacombs = 1;
+soulbound = "COOP";

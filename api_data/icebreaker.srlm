@@ -1,0 +1,4 @@
+item = "diamond_pickaxe";
+name = "Icebreaker";
+include("types/pickaxe", this);
+rarity = "SPECIAL";

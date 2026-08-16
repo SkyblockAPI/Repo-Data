@@ -1,0 +1,6 @@
+item = "stick";
+name = "Wand of Healing";
+include("types/wand", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/zombie/wands/wand_of_healing";
+rarity = "UNCOMMON";
+requirements.slayer.zombie = 1;

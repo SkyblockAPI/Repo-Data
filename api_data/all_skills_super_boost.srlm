@@ -1,0 +1,4 @@
+item = "diamond";
+name = "All Skills Exp Super-Boost";
+include("types/pet_item", this);
+rarity = "UNCOMMON";

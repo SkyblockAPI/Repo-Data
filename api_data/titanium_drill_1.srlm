@@ -1,0 +1,12 @@
+item = "diamond_pickaxe";
+name = "Titanium Drill DR-X355";
+include("types/drill", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/titanium_drill_dr_x355";
+rarity = "EPIC";
+stats = {
+  breaking_power: 7,
+  damage: 75,
+  mining_fortune: 25,
+  mining_speed: 700
+};
+requirements.hotm = 5;

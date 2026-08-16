@@ -1,0 +1,10 @@
+item = "fishing_rod";
+name = "Ice Rod";
+include("types/fishing_rod", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/rod/broken_rod";
+rarity = "RARE";
+stats = {
+  damage: 30,
+  fishing_speed: 15
+};
+requirements.skill.fishing = 3;

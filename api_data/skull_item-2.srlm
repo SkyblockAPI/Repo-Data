@@ -1,0 +1,4 @@
+item = "zombie_head";
+name = "Zombie Skull";
+rarity = "RARE";
+soulbound = "COOP";

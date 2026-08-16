@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Soul Campfire God Badge IV";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxNjM5NzU4MzQxMywKICAicHJvZmlsZUlkIiA6ICI3ZGY4NmY1MWFjZmI0MjQzYTkzNDQ1OTAyZDEzYTc0MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNclJpcHRpZGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDEwNmE0ZjIyYjViNTIzYTI2OWU1OWNhYjkzNmQzMjIxYTdhZjk4NzIwMTgzOGUxZjgwNmMwMGMxMzM2ODRhMiIKICAgIH0KICB9Cn0=";
+rarity = "LEGENDARY";
+stats = {
+  mending: 5
+};
+soulbound = "SOLO";

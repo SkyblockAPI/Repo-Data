@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Backwater Belt";
+include("types/belt", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc0MDQxOTAyOTU0MSwKICAicHJvZmlsZUlkIiA6ICIwMzBlMDA1OWQwY2M0YTZhODY3N2RkZWU3MjEzMjg1MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbXVnRm9vZGllIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNjMTUwYmU4NDlhMzkyMDhhMzhhODNjNTYwNWU3OWFlZjkzYTEyYjM3MDcyYjkzMTY5Mzk5MDE5MmNiNzdhMTkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "UNCOMMON";
+stats = {
+  fishing_speed: 2,
+  sea_creature_chance: 1,
+  treasure_chance: 0.1
+};
+requirements.skill.fishing = 5;

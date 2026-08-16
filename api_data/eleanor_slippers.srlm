@@ -1,0 +1,10 @@
+item = "leather_boots";
+name = "Eleanor's Slippers";
+include("types/boots", this);
+rarity = "LEGENDARY";
+rift_transferrable = true;
+stats = {
+  rift_time: 20,
+  health: 40
+};
+soulbound = "SOLO";

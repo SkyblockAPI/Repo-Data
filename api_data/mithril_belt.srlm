@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Mithril Belt";
+include("types/belt", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU5OTQ5NywKICAicHJvZmlsZUlkIiA6ICJmY2ZhYTg0MzA0YjE0NDUxOThkNWYxNzQ3ZjI0Y2Q5MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMYXJzVGhlV29sZiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNzViZGU0Y2E4NTZhOTk3ZjBiYmMwZDY1ZWUyYTJkZGUyMTViNDAyMGY1ZmZkNWY3ZmU5OWY2ZjEwMjRiZDhhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "UNCOMMON";
+stats = {
+  mining_speed: 20,
+  mining_fortune: 5
+};
+requirements.hotm = 2;

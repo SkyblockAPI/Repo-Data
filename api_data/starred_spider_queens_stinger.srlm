@@ -1,0 +1,8 @@
+item = "bow";
+name = "Spider Queen's Stinger";
+include("types/bow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/spider_queens_stinger";
+rarity = "EPIC";
+stats = {
+  damage: 600
+};

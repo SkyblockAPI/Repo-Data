@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Fiery Aurora Helmet";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY0NTUwNDQ2NzQzMCwKICAicHJvZmlsZUlkIiA6ICJmNWQwYjFhZTQxNmU0YTE5ODEyMTRmZGQzMWU3MzA1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXRjaFRoZVdhdmUxMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xODU1YWFiYWZhNDYxZDM1Yjg2NDI5MWQ0OTRjYTM2YTJmNDYzMDdjZWFkYWQzYTI4Nzc0MDU0Zjg2Nzg4ZTgiCiAgICB9CiAgfQp9";
+rarity = "LEGENDARY";
+stats = {
+  defense: 100,
+  health: 320,
+  intelligence: 550,
+  ability_damage_percent: 32
+};
+requirements.skill.combat = 37;
+requirements.kuudra.fiery = 1;

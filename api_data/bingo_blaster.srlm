@@ -1,0 +1,11 @@
+item = "paper";
+name = "Bingo Blaster";
+include("types/wand", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/bingo/bingo_blaster";
+rarity = "EPIC";
+stats = {
+  ability_damage_percent: 20,
+  weapon_ability_damage: 625,
+  intelligence: 300
+};
+soulbound = "SOLO";

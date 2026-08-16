@@ -1,0 +1,4 @@
+item = "paper";
+name = "Perfect Amethyst Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/amethyst/perfect_amethyst_gem";
+rarity = "LEGENDARY";

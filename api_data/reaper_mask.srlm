@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Reaper Mask";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYxNDc0MTY0MTc3NiwKICAicHJvZmlsZUlkIiA6ICIzOTg5OGFiODFmMjU0NmQxOGIyY2ExMTE1MDRkZGU1MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNeVV1aWRJcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xZmMwMTg0NDczZmU4ODJkMjg5NWNlN2NiYzgxOTdiZDQwZmY3MGJmMTBkMzc0NWRlOTdiNmMyYTljNWZjNzhmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "LEGENDARY";
+stats = {
+  defense: 100,
+  health: 150,
+  intelligence: 100,
+  vitality: 60,
+  mending: 60
+};
+requirements.slayer.zombie = 7;

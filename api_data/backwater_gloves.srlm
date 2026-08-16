@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Backwater Gloves";
+include("types/gloves", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc0MDQxOTAyNzQ0MywKICAicHJvZmlsZUlkIiA6ICJmYzFhOTdlNTgxM2Y0NDI2YTNmZTI4ZjJiNDc1ZjA4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJnZXRPbmxpbmVQbGF5ZXJzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlhNmM4ODdiODZiMmE1OWZkZWE1MDUyNDEzZWFiNzRkNDM0YzA3ZjUyMjMxY2U3YWMzM2FmNWIzOTViZWRlZDAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "UNCOMMON";
+stats = {
+  fishing_speed: 2,
+  sea_creature_chance: 1,
+  treasure_chance: 0.1
+};
+requirements.skill.fishing = 5;

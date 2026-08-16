@@ -1,0 +1,12 @@
+item = "leather_leggings";
+name = "Fig Trousers";
+include("types/leggings", this);
+rarity = "RARE";
+stats = {
+  health: 140,
+  defense: 35,
+  foraging_fortune: 30,
+  sweep: 10
+};
+requirements.skill.foraging = 15;
+booster_applicable = true;

@@ -1,0 +1,4 @@
+item = "ender_stone";
+name = "Enchanted End Stone";
+rarity = "UNCOMMON";
+category = "BLOCK";

@@ -1,0 +1,12 @@
+item = "diamond_pickaxe";
+name = "Divan's Drill";
+include("types/drill", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/divans_drill";
+rarity = "MYTHIC";
+stats = {
+  breaking_power: 10,
+  damage: 75,
+  mining_fortune: 150,
+  mining_speed: 1800
+};
+requirements.hotm = 7;

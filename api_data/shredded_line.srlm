@@ -1,0 +1,6 @@
+item = "paper";
+name = "Shredded Line";
+include("types/fishing_rod_part", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/rod_part/line/shredded_line";
+rarity = "RARE";
+requirements.skill.fishing = 20;

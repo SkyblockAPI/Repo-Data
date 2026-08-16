@@ -1,0 +1,10 @@
+item = "iron_sword";
+name = "Silver-Laced Karambit";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/rift/zones/castle/swords/silver_laced_karambit";
+rarity = "EPIC";
+stats = {
+  rift_damage: 5,
+  rift_walk_speed: 10
+};
+requirements.slayer.vampire = 1;

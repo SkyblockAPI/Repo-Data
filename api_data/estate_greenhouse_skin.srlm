@@ -1,0 +1,4 @@
+item = "quartz_block";
+name = "Estate Greenhouse Skin";
+include("types/cosmetic", this);
+rarity = "EPIC";

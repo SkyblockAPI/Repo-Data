@@ -1,0 +1,5 @@
+item = "paper";
+name = "Sparkling Podium";
+this["minecraft:item_model"] = "hypixel_skyblock:item/furniture/sparkling_podium";
+rarity = "EPIC";
+soulbound = "COOP";

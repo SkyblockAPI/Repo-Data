@@ -1,0 +1,5 @@
+item = "paper";
+name = "Tungsten Regulator";
+this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/uncategorized/tungsten_regulator";
+rarity = "RARE";
+requirements.hotm = 8;

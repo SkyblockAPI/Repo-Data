@@ -1,0 +1,8 @@
+item = "bow";
+name = "Savanna Bow";
+include("types/bow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/savanna_bow";
+rarity = "UNCOMMON";
+stats = {
+  damage: 50
+};

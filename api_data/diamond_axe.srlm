@@ -1,0 +1,7 @@
+item = "diamond_axe";
+name = "Diamond Axe";
+include("types/axe", this);
+rarity = "UNCOMMON";
+stats = {
+  damage: 30
+};

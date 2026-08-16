@@ -1,0 +1,7 @@
+item = "chainmail_helmet";
+name = "Chainmail Helmet";
+include("types/helmet", this);
+rarity = "UNCOMMON";
+stats = {
+  defense: 12
+};

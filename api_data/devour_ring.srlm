@@ -1,0 +1,6 @@
+item = "player_head";
+name = "Devour Ring";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzODgwOTE3MCwKICAicHJvZmlsZUlkIiA6ICI3MjI2Mjg2NzYyZWY0YjZlODRlMzc2Y2JkYWNhZjU1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJicmFuZG9uZDI2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhhN2QxYTUyZThjOGRkYWFmMGM0MjhlMWZlNDkwMWVmMzNlZmYyNTFmMjg5ZGUyNzE2Mzk1Y2FkMjBiZjMwOWIiCiAgICB9CiAgfQp9";
+rarity = "RARE";
+requirements.slayer.zombie = 5;

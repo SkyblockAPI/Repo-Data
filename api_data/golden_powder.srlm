@@ -1,0 +1,4 @@
+item = "glowstone_dust";
+name = "Golden Powder";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/golden_powder";
+rarity = "EPIC";

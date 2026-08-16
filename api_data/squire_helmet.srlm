@@ -1,0 +1,10 @@
+item = "chainmail_helmet";
+name = "Squire Helmet";
+include("types/helmet", this);
+rarity = "UNCOMMON";
+stats = {
+  defense: 25,
+  health: 25,
+  strength: 5
+};
+requirements.skill.combat = 4;

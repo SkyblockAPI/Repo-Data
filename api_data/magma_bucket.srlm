@@ -1,0 +1,4 @@
+item = "paper";
+name = "Magma Bucket";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/magma_bucket";
+rarity = "LEGENDARY";

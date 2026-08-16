@@ -1,0 +1,7 @@
+item = "leather_chestplate";
+name = "Rabbit Chestplate";
+include("types/chestplate", this);
+stats = {
+  defense: 40,
+  walk_speed: 5
+};

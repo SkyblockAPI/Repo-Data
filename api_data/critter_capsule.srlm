@@ -1,0 +1,5 @@
+item = "paper";
+name = "Critter Capsule";
+include("types/capsule", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/safari/critter_capsule";
+rarity = "SPECIAL";

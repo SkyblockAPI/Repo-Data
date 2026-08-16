@@ -1,0 +1,4 @@
+item = "paper";
+name = "Jasper Crystal";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/jasper_crystal";
+rarity = "SPECIAL";

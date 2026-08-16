@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Pesthunter Badge";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY5OTU4NzAzMjUyOSwKICAicHJvZmlsZUlkIiA6ICJhYmRiNTFhYjE0Njk0Y2ZkYWU5ZjliNzFiZWJmYWI2YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJZYW5ub3VfXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNGYxZjBjZjNhZGI0YWRjNmI5OTZmZjljYjRlNmQ5ZDg5MTJlMGE1YWI4NTFjMzY2YzhiZmJkYWY4YjJlZjA0IgogICAgfQogIH0KfQ==";
+rarity = "UNCOMMON";
+stats = {
+  bonus_pest_chance: 20
+};

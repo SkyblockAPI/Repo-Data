@@ -1,0 +1,11 @@
+item = "leather_boots";
+name = "Goldor's Boots";
+include("types/boots", this);
+include("types/dungeon", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 165,
+  health: 190,
+  intelligence: 20
+};
+requirements.dungeon_completetion.catacombs = 7;

@@ -1,0 +1,8 @@
+item = "gold_sword";
+name = "Rogue Sword";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/rogue_sword";
+stats = {
+  damage: 20
+};
+soulbound = "COOP";

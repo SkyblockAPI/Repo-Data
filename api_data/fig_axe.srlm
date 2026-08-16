@@ -1,0 +1,13 @@
+item = "wood_axe";
+name = "Fig Hew";
+include("types/axe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/axes/fig_hew";
+rarity = "UNCOMMON";
+stats = {
+  damage: 30,
+  sweep: 15,
+  foraging_fortune: 20,
+  strength: 10
+};
+requirements.skill.foraging = 12;
+booster_applicable = true;

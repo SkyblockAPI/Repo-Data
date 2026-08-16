@@ -1,0 +1,4 @@
+item = "ink_sack";
+name = "Biofuel";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/biofuel";
+rarity = "RARE";

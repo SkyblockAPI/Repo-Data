@@ -1,0 +1,4 @@
+item = "paper";
+name = "Tree the Fish";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/fish_family/tree_the_fish";
+rarity = "SPECIAL";

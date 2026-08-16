@@ -1,0 +1,8 @@
+item = "skeleton_skull";
+name = "Skeleton Hat";
+include("types/helmet", this);
+stats = {
+  walk_speed: 2,
+  weapon_ability_damage: 50,
+  intelligence: 10
+};

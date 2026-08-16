@@ -1,0 +1,4 @@
+item = "chainmail_boots";
+name = "Spring Boots";
+include("types/boots", this);
+rarity = "RARE";

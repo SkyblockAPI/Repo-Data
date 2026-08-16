@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Moonglade Talisman";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjk0NzY1MCwKICAicHJvZmlsZUlkIiA6ICJhNTdmZDE5MGZmM2U0YjBkYTEzMmY2OGUzOTU3ZjViMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4SGFubmFoNyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80Mjk0NWNlOGVhYWFlN2U4ZmYwNzM2OTY1NGM0OGE3YjdlMDJmMGMwMWRlZDc3YWQ0YTdiZDg4OTFiYWEyODk2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "COMMON";
+stats = {
+  fig_fortune: 5,
+  mangrove_fortune: 5
+};

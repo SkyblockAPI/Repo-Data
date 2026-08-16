@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Bee Mask";
+include("types/carnival_mask", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxNDI0NjIyNDg1MywKICAicHJvZmlsZUlkIiA6ICI3ZjU2ZjY1MDI2NjY0ZmM1OWFjNWYyYjVjMTNlZGY3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXhBbnRvbnkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjI0NTBmZjc4N2FiZDk2NmRlN2FlODhkYzhhODEyMTQ5YWM5MWRkZDhmMTIwODY2ZjY5MzlmMmExNzk5OWNkMCIKICAgIH0KICB9Cn0=";
+rarity = "EPIC";
+stats = {
+  health: 7,
+  foraging_fortune: 7,
+  walk_speed: 7
+};

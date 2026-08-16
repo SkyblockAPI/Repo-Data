@@ -1,0 +1,4 @@
+item = "ink_sack";
+name = "Full-Jaw Fanging Kit";
+include("types/reforge_stone", this);
+rarity = "RARE";

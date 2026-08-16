@@ -1,0 +1,4 @@
+item = "stained_clay";
+name = "Hive Barn Skin";
+include("types/cosmetic", this);
+rarity = "LEGENDARY";

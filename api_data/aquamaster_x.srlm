@@ -1,0 +1,5 @@
+item = "carrot_stick";
+name = "AquaMaster™ X";
+include("types/watering_can", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/tools/aquamaster_x";
+rarity = "EPIC";

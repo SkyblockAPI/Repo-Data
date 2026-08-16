@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Gillsplash Cloak";
+include("types/cloak", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY2MjU1OTUxNTkwMSwKICAicHJvZmlsZUlkIiA6ICIxNmQ4NjI4NzYzMWY0NDY2OGQ0NDM2ZTJlY2IwNTllNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXphVG91cm5leSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZGRkZmU3MDEwMGU2OTBmMmZjNWFiOTljMDhhNGJjZGY0ZWUxZjg4MGYwOGQ0OTU4ZThiYzJiYjU2MjRmZjc5IgogICAgfQogIH0KfQ==";
+rarity = "LEGENDARY";
+stats = {
+  health: 25,
+  health_regeneration: 2,
+  fishing_speed: 14
+};

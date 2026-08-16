@@ -1,0 +1,12 @@
+item = "player_head";
+name = "Magma Lord Necklace";
+include("types/necklace", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY1MDM3OTExMjUxMywKICAicHJvZmlsZUlkIiA6ICJkOGNkMTNjZGRmNGU0Y2IzODJmYWZiYWIwOGIyNzQ4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJaYWNoeVphY2giLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTY4YTJiZmU2ZTU2ZGRlYTEwM2RlOGNlYzAwMGVmYTgzZWJiOWE5NTljNjhkODI0MDI1NDNjMDFkNDEzN2QyNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
+rarity = "LEGENDARY";
+stats = {
+  strength: 10,
+  health: 45,
+  ferocity: 2,
+  sea_creature_chance: 2.5
+};
+requirements.skill.fishing = 45;

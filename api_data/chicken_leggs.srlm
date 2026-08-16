@@ -1,0 +1,7 @@
+item = "leather_leggings";
+name = "Chicken Leggs";
+include("types/leggings", this);
+rarity = "RARE";
+stats = {
+  rift_time: 35
+};

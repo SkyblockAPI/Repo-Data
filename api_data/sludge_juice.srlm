@@ -1,0 +1,4 @@
+item = "paper";
+name = "Sludge Juice";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/sludge_juice";
+rarity = "UNCOMMON";

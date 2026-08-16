@@ -1,0 +1,5 @@
+item = "paper";
+name = "Dungeon Chest Key";
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/dungeon_chest_key";
+rarity = "RARE";

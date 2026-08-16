@@ -1,0 +1,8 @@
+item = "paper";
+name = "Torrhus Ring";
+include("types/accessory", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/accessories/torrhus/torrhus_ring";
+rarity = "UNCOMMON";
+stats = {
+  helix_fortune: 10
+};

@@ -1,0 +1,4 @@
+item = "stained_clay";
+name = "The Builder's Clay";
+include("types/helmet", this);
+rarity = "SPECIAL";

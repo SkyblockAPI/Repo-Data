@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Soulflow Engine";
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MTkzNzE5MiwKICAicHJvZmlsZUlkIiA6ICIwMzY2OTMwNzgwY2U0NWMzYWM2OWRiOWZjODdmYzcxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJpcm9uZGVzbyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zYjA0MzNmMWMyMjc5NjA4ZjdiZDJjZWNlYjk4Y2QxNzVjYmFhZGMzZjYyOTlhZTNjY2FlMjU3ZGMyMmE1NWIyIgogICAgfQogIH0KfQ==";
+rarity = "EPIC";
+requirements.slayer.enderman = 5;

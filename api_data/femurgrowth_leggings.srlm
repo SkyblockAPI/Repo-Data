@@ -1,0 +1,9 @@
+item = "leather_leggings";
+name = "Femurgrowth Leggings";
+include("types/leggings", this);
+rarity = "EPIC";
+stats = {
+  rift_time: 65,
+  rift_mana_regen: 5,
+  rift_walk_speed: -4
+};

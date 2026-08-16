@@ -1,0 +1,10 @@
+item = "player_head";
+name = "White Belt";
+include("types/belt", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY0MzYwMDAzNDYwMiwKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMyZDJlM2ZjZjBlMzkwMzdlYWYyMjM4NGRhYjNmMDg1MjJhNmI4OTFkMjdhNDdiNzUyNzkxNmVhODFhZGQzYzUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "COMMON";
+stats = {
+  health: 10,
+  defense: 5
+};
+soulbound = "SOLO";

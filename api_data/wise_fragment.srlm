@@ -1,0 +1,4 @@
+item = "paper";
+name = "Wise Dragon Fragment";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/wise_dragon_fragment";
+rarity = "EPIC";

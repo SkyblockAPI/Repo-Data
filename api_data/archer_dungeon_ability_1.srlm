@@ -1,0 +1,5 @@
+item = "paper";
+name = "Drop Arrows";
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/drop_arrows";
+rarity = "UNCOMMON";

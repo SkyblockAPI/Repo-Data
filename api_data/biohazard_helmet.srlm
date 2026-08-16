@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Biohazard Helmet";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyNzE4ODgwOTg0MCwKICAicHJvZmlsZUlkIiA6ICJjMTJkMmY5ZWJhZGI0ZTllYTIxZmM2M2M3YWY3M2E5NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEcmVhbXlOZW9uIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNlODc2NTQ3ZjNkOTQ2YjcwZTA2ZmI2YjE4Yzc2ZTA5M2FmOTNmYjg5OWZkODQzNTM2ODA5MTI5NjAyOWQwNzgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "UNCOMMON";
+stats = {
+  health: 20,
+  defense: 10,
+  bonus_pest_chance: 16.5
+};
+requirements.garden = 5;

@@ -1,0 +1,13 @@
+item = "leather_chestplate";
+name = "Infernal Terror Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 30,
+  defense: 164,
+  health: 580,
+  critical_damage: 126,
+  intelligence: 13
+};
+requirements.skill.combat = 42;
+requirements.kuudra.infernal = 1;

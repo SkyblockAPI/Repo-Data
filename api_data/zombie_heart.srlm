@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Zombie's Heart";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcwODc3MzM5OTY2MCwKICAicHJvZmlsZUlkIiA6ICJmZmU5MzczY2YyMDM0OWFhYTJlN2NiYzJkZmY2M2I5MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWxvblR1bmExIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY1ZDlkOThhZDZkMTU0ZWYxZjRjNjNkYmE5MmE1MTMzN2NkMWY0ZWIwY2I2NWI5YjJhOTBmZThiMDMwOTZkYjciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "RARE";
+stats = {
+  health: 50,
+  vitality: 30,
+  mending: 30
+};

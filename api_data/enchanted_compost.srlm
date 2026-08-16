@@ -1,0 +1,4 @@
+item = "paper";
+name = "Compost Bundle";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/compost_bundle";
+rarity = "RARE";

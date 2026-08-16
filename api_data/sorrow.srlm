@@ -1,0 +1,4 @@
+item = "ghast_tear";
+name = "Sorrow";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/sorrow";
+rarity = "RARE";

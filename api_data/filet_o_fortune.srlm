@@ -1,0 +1,4 @@
+item = "cooked_fish";
+name = "Filet O' Fortune";
+rarity = "RARE";
+requirements.hotm = 4;

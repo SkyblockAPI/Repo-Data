@@ -1,0 +1,10 @@
+item = "leather_chestplate";
+name = "Goblin Chestplate";
+include("types/chestplate", this);
+rarity = "RARE";
+stats = {
+  health: 140,
+  intelligence: -1,
+  mining_speed: 10,
+  mining_fortune: 4
+};

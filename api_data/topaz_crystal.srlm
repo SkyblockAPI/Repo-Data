@@ -1,0 +1,4 @@
+item = "paper";
+name = "Topaz Crystal";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/topaz_crystal";
+rarity = "SPECIAL";

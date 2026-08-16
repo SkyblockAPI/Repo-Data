@@ -1,0 +1,9 @@
+item = "diamond_chestplate";
+name = "Zombie Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  defense: 40,
+  health: 200
+};
+requirements.dungeons.catacombs = 16;

@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Blood Donor Artifact";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjMxNDE2MCwKICAicHJvZmlsZUlkIiA6ICJiNzRlYjViMTc5OTc0YzZjODk3ZTgwNTM4Y2M1NmYwMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQYW5kYUNoYW4yOCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mZjdiYjk3NDgwYzEwZmRmZWI4ZmFlOTM5MjllNWVlYjRmMDQ5MWQ4Y2NhNzBlZDAwYjQ1ZTNmYjJiNzRmNmM1IgogICAgfQogIH0KfQ==";
+rarity = "RARE";
+rift_transferrable = true;
+stats = {
+  health_regeneration: 3,
+  rift_time: 15,
+  rift_mana_regen: 10
+};

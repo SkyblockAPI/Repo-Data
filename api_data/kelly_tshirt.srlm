@@ -1,0 +1,10 @@
+item = "leather_chestplate";
+name = "Kelly's T-Shirt";
+include("types/chestplate", this);
+rarity = "COMMON";
+stats = {
+  health: 100,
+  defense: 30,
+  foraging_fortune: 6
+};
+soulbound = "SOLO";

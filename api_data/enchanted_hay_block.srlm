@@ -1,0 +1,4 @@
+item = "hay_block";
+name = "Enchanted Hay Bale";
+rarity = "UNCOMMON";
+soulbound = "COOP";

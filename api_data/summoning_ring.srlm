@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Summoning Ring";
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYzNTcxNzczNjM4NiwKICAicHJvZmlsZUlkIiA6ICIwNjNhMTc2Y2RkMTU0ODRiYjU1MjRhNjQyMGM1YjdhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXZpcGF0dXJ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc3MGQxNTk5ZWVmZDU2MjFkMTBhYjY5OTYzZDJhOWIxYjBjOWExZTg5OTllYTg4YTU5NzcyNDQ1ZWQyZjAzOTYiCiAgICB9CiAgfQp9";
+rarity = "RARE";

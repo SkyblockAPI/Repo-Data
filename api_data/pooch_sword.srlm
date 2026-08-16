@@ -1,0 +1,12 @@
+item = "gold_sword";
+name = "Pooch Sword";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/wolf/weapons/pooch_sword";
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 10,
+  damage: 160,
+  strength: 80,
+  attack_speed: 5
+};
+requirements.slayer.wolf = 6;

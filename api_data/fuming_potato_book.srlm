@@ -1,0 +1,5 @@
+item = "book";
+name = "Fuming Potato Book";
+include("types/dungeon", this);
+this["minecraft:item_model"] = "minecraft:written_book";
+rarity = "EPIC";

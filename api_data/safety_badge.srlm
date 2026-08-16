@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Safety Badge";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc3MzA3NzQ0OTA3NywKICAicHJvZmlsZUlkIiA6ICIyYThjZTE5ZWY3Mjg0NTBjYjY2YmEyNzNhNzVmNjI1MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJYRDROVDNfNjY2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EwMTdhZDg4YTc1NDdiMDRmMGQyYzdjODJmMzg0MTkzMjE2OTRmNDZlODMzNWFhYmFiMzY1ZGMxMzA5MmUyMzciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "COMMON";
+stats = {
+  defense: 3,
+  intelligence: 1
+};
+soulbound = "SOLO";

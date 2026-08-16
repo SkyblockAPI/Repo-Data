@@ -1,0 +1,6 @@
+item = "leather_helmet";
+name = "Leather Helmet";
+include("types/helmet", this);
+stats = {
+  defense: 5
+};

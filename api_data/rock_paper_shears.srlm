@@ -1,0 +1,4 @@
+item = "shears";
+name = "Rock Paper Shears";
+rarity = "UNCOMMON";
+requirements.skill.social = 8;

@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Balloon Snake";
+include("types/necklace", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODI0MDc0MSwKICAicHJvZmlsZUlkIiA6ICI2ZDgwYjVkMjQyMGY0MWZkOTQxMjM4YzA3YzVlYzAxNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQb05pWW8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTUzMDg4ZGUzZWRmZDFiMTA5OGQ4ZDhmNTZmNTAwNGE4OTMwNTUxZTA2M2M3Nzg5MWZhMDA3MDNjZjAzMWI5OSIKICAgIH0KICB9Cn0=";
+rarity = "RARE";
+stats = {
+  health: 10,
+  intelligence: 10
+};
+requirements.dungeon_completetion.catacombs = 1;

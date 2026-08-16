@@ -1,0 +1,11 @@
+item = "wood_pickaxe";
+name = "Jungle Pickaxe";
+include("types/pickaxe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/jungle_pickaxe";
+rarity = "UNCOMMON";
+stats = {
+  breaking_power: 5,
+  damage: 50,
+  mining_speed: 330
+};
+requirements.hotm = 4;

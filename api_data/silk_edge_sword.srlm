@@ -1,0 +1,12 @@
+item = "gold_sword";
+name = "Silk-Edge Sword";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/silk_edge_sword";
+rarity = "LEGENDARY";
+stats = {
+  damage: 175,
+  strength: 125,
+  critical_damage: 25,
+  weapon_ability_damage: 400
+};
+requirements.dungeons.catacombs = 13;

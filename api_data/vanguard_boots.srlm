@@ -1,0 +1,7 @@
+item = "leather_boots";
+name = "Vanguard Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  cold_resistance: 1
+};

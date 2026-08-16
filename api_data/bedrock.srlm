@@ -1,0 +1,5 @@
+item = "paper";
+name = "Bedrock";
+this["minecraft:item_model"] = "minecraft:bedrock";
+rarity = "LEGENDARY";
+soulbound = "COOP";

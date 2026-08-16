@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Golden Thorn Head";
+include("types/helmet", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzU1Mzc0OSwKICAicHJvZmlsZUlkIiA6ICJjYzU2NjAzYmZiZjg0OGJmOTM3MzY1N2VjYzUyNGI4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJpc2FhYWFhYV8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTQwMTY4ZTdmN2JjY2QxOWI1YTFlZGU5YTE5NmI0MWM1N2M5MTk4NWVjNzIzYmNmNDIyMDk2NzUyNTU4MjE1OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
+rarity = "SPECIAL";
+stats = {
+  defense: 25,
+  health: 50,
+  strength: 15
+};
+requirements.dungeon_completetion.catacombs = 4;
+soulbound = "COOP";

@@ -1,0 +1,9 @@
+item = "arrow";
+name = "Reinforced Iron Arrow";
+include("types/arrow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/reinforced_iron_arrow";
+stats = {
+  damage: 5
+};
+requirements.skill.combat = 4;
+requirements.target_practice = I;

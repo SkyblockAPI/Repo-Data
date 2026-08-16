@@ -1,0 +1,12 @@
+item = "bow";
+name = "Juju Shortbow";
+include("types/bow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/enderman/weapons/juju_shortbow";
+rarity = "EPIC";
+stats = {
+  damage: 310,
+  strength: 40,
+  critical_damage: 110,
+  critical_chance: 10
+};
+requirements.slayer.enderman = 5;

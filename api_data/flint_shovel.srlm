@@ -1,0 +1,4 @@
+item = "iron_spade";
+name = "Flint Shovel";
+include("types/spade", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/flint_shovel";

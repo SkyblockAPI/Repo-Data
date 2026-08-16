@@ -1,0 +1,5 @@
+item = "paper";
+name = "Concentrated Stone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/concentrated_stone";
+rarity = "RARE";
+category = "BLOCK";

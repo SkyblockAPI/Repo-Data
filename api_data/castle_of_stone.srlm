@@ -1,0 +1,4 @@
+item = "bedrock";
+name = "Castle of Stone";
+include("types/dungeon", this);
+rarity = "UNCOMMON";

@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Crochet Tiger Plushie";
+include("types/pet_item", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTU5MDcxNDc3MjE0NiwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNjZmYjRkOWU2YWUwYzVlNjFlYzZiOTEzMWUwMTVmYjg5NzkyODUyZTE5NWU5Njg2NDY2MmJhNDIyZWYyNmUyIgogICAgfQogIH0KfQ==";
+rarity = "EPIC";

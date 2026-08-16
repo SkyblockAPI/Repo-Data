@@ -1,0 +1,10 @@
+item = "leather_helmet";
+name = "Heavy Helmet";
+include("types/helmet", this);
+include("types/dungeon", this);
+rarity = "RARE";
+requirements.dungeons.catacombs = 2;
+tiered_stats = {
+  walk_speed: [-5, -5, -5, -5, -5, -5, -5, -5, -5, -5],
+  defense: [62, 67, 73, 79, 86, 93, 101, 110, 120, 130]
+};

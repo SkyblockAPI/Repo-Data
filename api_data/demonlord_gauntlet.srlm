@@ -1,0 +1,12 @@
+item = "player_head";
+name = "Demonslayer Gauntlet";
+include("types/gloves", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MTk3NTU5OCwKICAicHJvZmlsZUlkIiA6ICI2NGY0MGFiNzFmM2E0NGZiYjg0N2I5ZWFhOWZjNDRlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJvZGF2aWRjZXNhciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84M2JkNzI2Mjc5MDg4NWUyMzIxYmM1NzcyOWU3NGE5ZjY4ZWFmMjZlY2NlMzY5ZGJiMmZlOGY0M2MyOTgxZDI5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "EPIC";
+stats = {
+  defense: 20,
+  health: 40,
+  critical_damage: 25,
+  true_defense: 20
+};
+requirements.slayer.blaze = 4;

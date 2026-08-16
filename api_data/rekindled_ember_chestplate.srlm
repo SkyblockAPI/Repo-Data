@@ -1,0 +1,12 @@
+item = "chainmail_chestplate";
+name = "Rekindled Ember Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  defense: 70,
+  health: 250,
+  intelligence: 5,
+  strength: 30,
+  critical_damage: 20
+};
+requirements.skill.combat = 22;

@@ -1,0 +1,9 @@
+item = "leather_helmet";
+name = "Helmet of the Pack";
+include("types/helmet", this);
+rarity = "EPIC";
+stats = {
+  defense: 65,
+  health: 70
+};
+requirements.slayer.wolf = 6;

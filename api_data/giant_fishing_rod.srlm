@@ -1,0 +1,8 @@
+item = "fishing_rod";
+name = "Giant Fishing Rod";
+include("types/fishing_rod", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/rod/giant_fishing_rod";
+rarity = "LEGENDARY";
+stats = {
+  double_hook_chance: 10
+};

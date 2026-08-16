@@ -1,0 +1,13 @@
+item = "leather_leggings";
+name = "Fiery Hollow Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 10,
+  defense: 117,
+  health: 439,
+  intelligence: 170,
+  mending: 10
+};
+requirements.skill.combat = 37;
+requirements.kuudra.fiery = 1;

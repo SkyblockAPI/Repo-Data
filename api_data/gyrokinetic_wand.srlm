@@ -1,0 +1,6 @@
+item = "blaze_rod";
+name = "Gyrokinetic Wand";
+include("types/wand", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/enderman/support_items/gyrokinetic_wand";
+rarity = "EPIC";
+requirements.slayer.enderman = 6;

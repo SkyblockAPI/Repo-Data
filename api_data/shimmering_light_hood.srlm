@@ -1,0 +1,12 @@
+item = "player_head";
+name = "Shimmering Light Hood";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY0MzYwODI4OTQ4NiwKICAicHJvZmlsZUlkIiA6ICIxNmFkYTc5YjFjMDk0MjllOWEyOGQ5MjgwZDNjNjE5ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMYXp1bGl0ZV9adG9uZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NjRiMzUyZjg3ZTdiNTIyOTEwNzljMTIwNjEwMTBmM2Y1M2NmMTViZmI5Y2UwMmY2NDdiZGY4NDZhNWFmYjRjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "RARE";
+stats = {
+  defense: 70,
+  health: 80,
+  intelligence: 70,
+  walk_speed: 10
+};
+requirements.skill.combat = 22;

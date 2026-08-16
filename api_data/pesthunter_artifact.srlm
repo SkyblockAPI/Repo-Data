@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Pesthunter Artifact";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY5OTU4Njk4NjYzMiwKICAicHJvZmlsZUlkIiA6ICJkMjdhNDM3YmI2OWQ0N2E0OTY4NjU1OGFhYzA4NzA1OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYWx5bmthYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iM2FlZmQ4YmNhMjM2ZDMxNTkyMGQ1M2JlYTFmZTQ4OTJjOGYxZjMwOGQ2ZDU3NjMwNjc3ZjA1OWEzYjAyOTNmIgogICAgfQogIH0KfQ==";
+rarity = "EPIC";
+stats = {
+  bonus_pest_chance: 60
+};

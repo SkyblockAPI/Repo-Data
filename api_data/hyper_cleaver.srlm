@@ -1,0 +1,12 @@
+item = "gold_sword";
+name = "Hyper Cleaver";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/hyper_cleaver";
+rarity = "EPIC";
+stats = {
+  damage: 175,
+  strength: 100,
+  critical_damage: 100
+};
+requirements.dungeon_completetion.catacombs = 3;

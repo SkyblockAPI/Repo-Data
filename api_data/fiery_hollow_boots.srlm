@@ -1,0 +1,13 @@
+item = "leather_boots";
+name = "Fiery Hollow Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 10,
+  defense: 88,
+  health: 293,
+  intelligence: 170,
+  mending: 10
+};
+requirements.skill.combat = 37;
+requirements.kuudra.fiery = 1;

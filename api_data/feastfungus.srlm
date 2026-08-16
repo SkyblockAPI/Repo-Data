@@ -1,0 +1,4 @@
+item = "paper";
+name = "Feastfungus";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/feastfungus";
+rarity = "UNCOMMON";

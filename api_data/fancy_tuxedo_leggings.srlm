@@ -1,0 +1,8 @@
+item = "leather_leggings";
+name = "Fancy Tuxedo Pants";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  critical_damage: 35,
+  intelligence: 75
+};

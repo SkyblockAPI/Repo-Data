@@ -1,0 +1,4 @@
+item = "dirt";
+name = "Pesthunter's Lair Barn Skin";
+include("types/cosmetic", this);
+rarity = "LEGENDARY";

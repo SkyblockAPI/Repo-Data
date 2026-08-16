@@ -1,0 +1,10 @@
+item = "leather_chestplate";
+name = "Shimmering Light Tunic";
+include("types/chestplate", this);
+rarity = "RARE";
+stats = {
+  defense: 120,
+  health: 130,
+  intelligence: 120
+};
+requirements.skill.combat = 22;

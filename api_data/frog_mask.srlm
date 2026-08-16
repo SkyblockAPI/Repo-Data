@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Frog Mask";
+include("types/carnival_mask", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxNDI0NjI0NzQ1NywKICAicHJvZmlsZUlkIiA6ICJmOTEyM2ZjOGQzMzg0OWMwOWFlMzk5YjQ2NDljZDRjZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJab2VfX01heSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NzUyMmExZWFkZjg5OTZmNDJhOGQyZTVmYjBjYTliZmIzYWI0ODNkM2ZiYWY2OGVmMjlhNDJkZThjZWY3NGM1IgogICAgfQogIH0KfQ==";
+rarity = "EPIC";
+stats = {
+  health: 7,
+  foraging_fortune: 7,
+  walk_speed: 7
+};

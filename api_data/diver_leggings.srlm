@@ -1,0 +1,12 @@
+item = "gold_leggings";
+name = "Diver's Trunks";
+include("types/leggings", this);
+rarity = "EPIC";
+stats = {
+  health: 175,
+  defense: 80,
+  sea_creature_chance: 2,
+  pressure_resistance: 15,
+  respiration: 3
+};
+requirements.skill.fishing = 20;

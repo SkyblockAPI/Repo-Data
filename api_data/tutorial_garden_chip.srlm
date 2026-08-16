@@ -1,0 +1,6 @@
+item = "paper";
+name = "Cropshot Chip";
+include("types/garden_chip", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/chips/cropshot_chip";
+rarity = "RARE";
+soulbound = "SOLO";

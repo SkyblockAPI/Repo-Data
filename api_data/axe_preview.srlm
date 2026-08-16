@@ -1,0 +1,8 @@
+item = "diamond_axe";
+name = "%%green%%Axe Preview %%gray%%(Right-Click)";
+include("types/axe", this);
+rarity = "SPECIAL";
+stats = {
+  sweep: 5
+};
+soulbound = "SOLO";

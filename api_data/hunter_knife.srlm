@@ -1,0 +1,10 @@
+item = "iron_sword";
+name = "Hunter Knife";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/hunters_knife";
+rarity = "UNCOMMON";
+stats = {
+  walk_speed: 40,
+  damage: 50
+};
+soulbound = "COOP";

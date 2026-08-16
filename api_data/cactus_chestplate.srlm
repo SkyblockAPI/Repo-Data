@@ -1,0 +1,8 @@
+item = "leather_chestplate";
+name = "Cactus Chestplate";
+include("types/chestplate", this);
+stats = {
+  defense: 25,
+  health: 15
+};
+requirements.skill.farming = 5;

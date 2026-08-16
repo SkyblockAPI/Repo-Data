@@ -1,0 +1,10 @@
+item = "leather_boots";
+name = "Werewolf Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 125,
+  ferocity: 10,
+  intelligence: 50
+};
+requirements.dungeons.catacombs = 20;

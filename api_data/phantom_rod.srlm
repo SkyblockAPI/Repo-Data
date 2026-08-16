@@ -1,0 +1,11 @@
+item = "fishing_rod";
+name = "Phantom Rod";
+include("types/fishing_rod", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/rod/broken_rod";
+rarity = "LEGENDARY";
+stats = {
+  damage: 200,
+  strength: 125,
+  fishing_speed: 100
+};
+requirements.skill.fishing = 21;

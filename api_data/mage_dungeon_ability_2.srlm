@@ -1,0 +1,4 @@
+item = "prismarine_shard";
+name = "Guided Sheep";
+include("types/dungeon", this);
+rarity = "UNCOMMON";

@@ -1,0 +1,4 @@
+item = "iron_ingot";
+name = "Enchanted Iron Ingot";
+rarity = "UNCOMMON";
+category = "ORE";

@@ -1,0 +1,8 @@
+item = "iron_axe";
+name = "Promising Axe";
+include("types/axe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/promising_axe";
+rarity = "UNCOMMON";
+stats = {
+  damage: 25
+};

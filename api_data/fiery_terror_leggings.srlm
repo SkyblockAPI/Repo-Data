@@ -1,0 +1,13 @@
+item = "leather_leggings";
+name = "Fiery Terror Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 24,
+  defense: 110,
+  health: 410,
+  critical_damage: 100,
+  intelligence: 10
+};
+requirements.skill.combat = 37;
+requirements.kuudra.fiery = 1;

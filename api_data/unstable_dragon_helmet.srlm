@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Unstable Dragon Helmet";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY4OTY4Mzg3ODc0OCwKICAicHJvZmlsZUlkIiA6ICJmNzk3Zjg5ZGVkMjM0YTE4YjAxOGQ2ZmZhMDQ2MGJmMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHBhY2FMZWU2MjEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjA1ZmM0ZTJiNjhjNDUwNTlhZmVmMzk5OWU5YTk1YWEzZDg5NDM1OTdhNzg5NGU1NjkzOTdkNmNmNWQxNjcyYSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
+rarity = "LEGENDARY";
+stats = {
+  defense: 110,
+  health: 70,
+  critical_damage: 15,
+  critical_chance: 5,
+  intelligence: 25
+};
+requirements.skill.combat = 16;

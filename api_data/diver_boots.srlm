@@ -1,0 +1,12 @@
+item = "gold_boots";
+name = "Diver's Boots";
+include("types/boots", this);
+rarity = "EPIC";
+stats = {
+  health: 125,
+  defense: 40,
+  sea_creature_chance: 2,
+  pressure_resistance: 15,
+  respiration: 3
+};
+requirements.skill.fishing = 20;

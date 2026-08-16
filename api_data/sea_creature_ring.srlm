@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Sea Creature Ring";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MDI2NzM2OCwKICAicHJvZmlsZUlkIiA6ICI2OGQyMTg3MDBlYmU0YTliYWU0OTcyNTg3ZDIzNzA4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzbGVlcG5vdGZvcm1lIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdhYzAxZjI4MTMzYzE2YjczNTY3YTc3NDQ0ZTI5YTE0NzUyMDJkOTc0YWNlMjk2MjRjYjY4OGQyNDkxYjBiNTgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "UNCOMMON";
+stats = {
+  sea_creature_chance: 0.2
+};

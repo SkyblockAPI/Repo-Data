@@ -1,0 +1,12 @@
+item = "leather_leggings";
+name = "Infernal Fervor Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 290,
+  health: 529,
+  intelligence: 13,
+  true_defense: 12
+};
+requirements.skill.combat = 42;
+requirements.kuudra.infernal = 1;

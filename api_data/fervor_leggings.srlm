@@ -1,0 +1,12 @@
+item = "leather_leggings";
+name = "Fervor Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 115,
+  health: 210,
+  intelligence: 5,
+  true_defense: 5
+};
+requirements.skill.combat = 22;
+requirements.kuudra.none = 1;

@@ -1,0 +1,5 @@
+item = "iron_hoe";
+name = "Wand of Recall";
+include("types/wand", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/broken/broken_wand";
+rarity = "EPIC";

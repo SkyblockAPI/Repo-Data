@@ -1,0 +1,4 @@
+item = "book";
+name = "Book of Progression";
+include("types/accessory", this);
+rarity = "COMMON";

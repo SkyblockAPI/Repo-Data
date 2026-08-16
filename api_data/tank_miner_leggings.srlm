@@ -1,0 +1,8 @@
+item = "diamond_leggings";
+name = "Miner Leggings";
+include("types/leggings", this);
+rarity = "RARE";
+stats = {
+  defense: 15,
+  mining_speed: 10
+};

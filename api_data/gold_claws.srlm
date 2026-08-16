@@ -1,0 +1,4 @@
+item = "gold_ingot";
+name = "Gold Claws";
+include("types/pet_item", this);
+rarity = "UNCOMMON";

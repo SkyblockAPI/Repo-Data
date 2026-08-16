@@ -1,0 +1,11 @@
+item = "bow";
+name = "Soulstealer Bow";
+include("types/bow", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/soulstealer_bow";
+rarity = "RARE";
+requirements.dungeons.catacombs = 5;
+tiered_stats = {
+  strength: [50],
+  intelligence: [157, 171, 186, 202, 219, 239, 259, 282, 306, 333]
+};

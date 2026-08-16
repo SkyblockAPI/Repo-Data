@@ -1,0 +1,7 @@
+item = "player_head";
+name = "Speed Talisman";
+include("types/accessory", this);
+skin = "eyJ0aW1lc3RhbXAiOjE1MjMzNjc2Nzc0NjAsInByb2ZpbGVJZCI6IjNlMjZiMDk3MWFjZDRjNmQ5MzVjNmFkYjE1YjYyMDNhIiwicHJvZmlsZU5hbWUiOiJOYWhlbGUiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg2MjRiYWNiNWYxOTg2ZTY0NzdhYmNlNGFlN2RjYTE4MjBhNTI2MGI2MjMzYjU1YmExZDliYTkzNmM4NGIifX19";
+stats = {
+  walk_speed: 1
+};

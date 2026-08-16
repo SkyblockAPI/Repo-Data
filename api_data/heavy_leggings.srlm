@@ -1,0 +1,10 @@
+item = "leather_leggings";
+name = "Heavy Leggings";
+include("types/leggings", this);
+include("types/dungeon", this);
+rarity = "RARE";
+requirements.dungeons.catacombs = 2;
+tiered_stats = {
+  walk_speed: [-5, -5, -5, -5, -5, -5, -5, -5, -5, -5],
+  defense: [92, 100, 109, 118, 129, 140, 152, 165, 179, 195]
+};

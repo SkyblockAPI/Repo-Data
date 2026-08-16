@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Pig's Foot";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzODA4OTI1NywKICAicHJvZmlsZUlkIiA6ICI0ZWQ4MjMzNzFhMmU0YmI3YTVlYWJmY2ZmZGE4NDk1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaXJlYnlyZDg4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYwNGZhZWJlZmQwYThmNzIxNDAzZTMxNDJlZmVjYjgzZmJmNGI3ZDFmNzA1ZDBjOWI0NGQ5MWYwYmY0MDEyN2IiCiAgICB9CiAgfQp9";
+rarity = "RARE";
+stats = {
+  walk_speed: 1
+};
+soulbound = "SOLO";

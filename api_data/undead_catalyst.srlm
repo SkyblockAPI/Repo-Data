@@ -1,0 +1,4 @@
+item = "paper";
+name = "Undead Catalyst";
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/zombie/catalysts/undead_catalyst";
+rarity = "RARE";

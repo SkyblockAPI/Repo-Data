@@ -1,0 +1,13 @@
+item = "iron_sword";
+name = "Necron's Blade (Unrefined)";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/necrons_blade";
+rarity = "LEGENDARY";
+stats = {
+  damage: 260,
+  strength: 110,
+  ferocity: 30,
+  intelligence: 50
+};
+requirements.dungeon_completetion.catacombs = 7;

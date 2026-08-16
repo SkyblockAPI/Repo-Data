@@ -1,0 +1,5 @@
+item = "nether_star";
+name = "Extremely Real Shuriken";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/rift/weapons/time_shuriken";
+rarity = "RARE";
+rift_transferrable = true;

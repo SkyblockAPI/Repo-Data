@@ -1,0 +1,8 @@
+item = "leather_boots";
+name = "Cactus Boots";
+include("types/boots", this);
+stats = {
+  defense: 10,
+  health: 5
+};
+requirements.skill.farming = 5;

@@ -1,0 +1,10 @@
+item = "leather_boots";
+name = "Shark Scale Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  health: 125,
+  defense: 100,
+  sea_creature_chance: 2.5
+};
+requirements.skill.fishing = 24;

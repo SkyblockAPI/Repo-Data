@@ -1,0 +1,11 @@
+item = "fishing_rod";
+name = "Yeti Rod";
+include("types/fishing_rod", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/rod/broken_rod";
+rarity = "EPIC";
+stats = {
+  damage: 150,
+  strength: 130,
+  fishing_speed: 75
+};
+requirements.skill.fishing = 25;

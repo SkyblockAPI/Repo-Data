@@ -1,0 +1,5 @@
+item = "paper";
+name = "Enchanted Umber";
+this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/umber/umber";
+rarity = "RARE";
+category = "DWARVEN METAL";

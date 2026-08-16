@@ -1,0 +1,4 @@
+item = "leather";
+name = "Leather Cloth";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/leather_cloth";
+rarity = "EPIC";

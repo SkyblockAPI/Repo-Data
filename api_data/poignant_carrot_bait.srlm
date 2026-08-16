@@ -1,0 +1,5 @@
+item = "paper";
+name = "Poignant Carrot Bait";
+include("types/none", this);
+this["minecraft:item_model"] = "minecraft:orange_candle";
+rarity = "LEGENDARY";

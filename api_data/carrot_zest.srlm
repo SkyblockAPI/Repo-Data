@@ -1,0 +1,4 @@
+item = "paper";
+name = "Carrot Zest";
+this["minecraft:item_model"] = "minecraft:fire_coral";
+rarity = "UNCOMMON";

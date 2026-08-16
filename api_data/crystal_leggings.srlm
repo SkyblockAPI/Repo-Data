@@ -1,0 +1,8 @@
+item = "leather_leggings";
+name = "Crystal Leggings";
+include("types/leggings", this);
+rarity = "EPIC";
+stats = {
+  defense: 30,
+  intelligence: 100
+};

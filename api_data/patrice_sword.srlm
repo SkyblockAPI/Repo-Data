@@ -1,0 +1,7 @@
+item = "gold_sword";
+name = "Épée de Patrice";
+rarity = "LEGENDARY";
+stats = {
+  damage: 100,
+  strength: 50
+};

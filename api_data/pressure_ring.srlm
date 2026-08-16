@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Pressure Ring";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxNjM5MDI4ODA1NCwKICAicHJvZmlsZUlkIiA6ICI2YzdjZWFjNTdjM2Q0ZTdmYWI3MTc3YTRkMDhlMGU2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNRzE0MSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lZDM4Nzc5N2U4Njk5ZGI1MjBkMGNmY2YyYWM2OTI3MDU0MmY2ZmJiYTQwOGQyNTliNmQ4YTBlNDM1ZWZkM2FmIgogICAgfQogIH0KfQ==";
+rarity = "UNCOMMON";
+stats = {
+  pressure_resistance: 20
+};

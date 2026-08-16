@@ -1,0 +1,4 @@
+item = "coal_block";
+name = "Bingo Display";
+include("types/cosmetic", this);
+rarity = "COMMON";

@@ -1,0 +1,4 @@
+item = "rotten_flesh";
+name = "Worm Membrane";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/worm_membrane";
+rarity = "UNCOMMON";

@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Blossom Belt";
+include("types/belt", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc2MTY5NTAyMjAwOCwKICAicHJvZmlsZUlkIiA6ICI1ODM1MmNlODFmM2I0YjQxODFjOWNiYzM3MTY4NGYzNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUdm9JX1NlTVBhSV8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzE4YzQ4Y2JmMzcxYzJkYWY0MWZjMjJlNWE5ZjhhMzVlZTZhNGJiMmU4YmM2MWQ2YjI0NzAwOWJlNDlkZDI1YiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
+rarity = "EPIC";
+stats = {
+  farming_fortune: 7,
+  health: 15
+};
+requirements.garden = 7;
+requirements.skill.farming = 20;

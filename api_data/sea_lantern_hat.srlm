@@ -1,0 +1,4 @@
+item = "sea_lantern";
+name = "Sea Lantern Hat";
+include("types/helmet", this);
+rarity = "UNCOMMON";

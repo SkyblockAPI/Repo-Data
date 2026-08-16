@@ -1,0 +1,12 @@
+item = "leather_leggings";
+name = "Cropie Leggings";
+include("types/leggings", this);
+rarity = "UNCOMMON";
+stats = {
+  farming_fortune: 25,
+  walk_speed: 4,
+  health: 165,
+  defense: 30,
+  bonus_pest_chance: 12.5
+};
+requirements.skill.farming = 30;

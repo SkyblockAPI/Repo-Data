@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Pesthunter Ring";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTY5OTU4Njk2NTg1NiwKICAicHJvZmlsZUlkIiA6ICI4YWFlYTdlYjViOWM0ZWEwODUxNWU3MDhhZGIxODBkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYVBhODA3MTEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWQwNmI3NGQ2YmQwMmI3OTVmN2JjYmYxN2FjM2I3N2QzYmM1N2I2OTVhOGQ1NGExNzcwYzc2ZTg0ODk2YzhmOCIKICAgIH0KICB9Cn0=";
+rarity = "RARE";
+stats = {
+  bonus_pest_chance: 40
+};

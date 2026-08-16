@@ -1,0 +1,11 @@
+item = "leather_chestplate";
+name = "Infernal Aurora Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 164,
+  health: 580,
+  intelligence: 441
+};
+requirements.skill.combat = 42;
+requirements.kuudra.infernal = 1;

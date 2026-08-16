@@ -1,0 +1,5 @@
+item = "firework";
+name = "Alert Flare";
+include("types/deployable", this);
+rarity = "RARE";
+requirements.slayer.blaze = 6;

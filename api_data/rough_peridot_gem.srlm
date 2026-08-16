@@ -1,0 +1,3 @@
+item = "paper";
+name = "Rough Peridot Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/peridot/rough_peridot_gem";

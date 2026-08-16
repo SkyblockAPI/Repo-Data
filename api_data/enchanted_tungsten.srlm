@@ -1,0 +1,5 @@
+item = "paper";
+name = "Enchanted Tungsten";
+this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/tungsten/tungsten";
+rarity = "RARE";
+category = "DWARVEN METAL";

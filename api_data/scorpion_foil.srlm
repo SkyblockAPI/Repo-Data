@@ -1,0 +1,11 @@
+item = "wood_sword";
+name = "Scorpion Foil";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/spider/weapons/scorpion_foil";
+rarity = "EPIC";
+stats = {
+  damage: 120,
+  strength: 60,
+  critical_damage: 30
+};
+requirements.slayer.spider = 6;

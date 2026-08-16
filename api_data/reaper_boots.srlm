@@ -1,0 +1,11 @@
+item = "leather_boots";
+name = "Reaper Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 30,
+  health: 100,
+  strength: 25,
+  intelligence: 250
+};
+requirements.slayer.zombie = 7;

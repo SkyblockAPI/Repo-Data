@@ -1,0 +1,8 @@
+item = "leather_chestplate";
+name = "Crystal Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  defense: 35,
+  intelligence: 120
+};

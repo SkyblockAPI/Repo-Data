@@ -1,0 +1,4 @@
+item = "paper";
+name = "Flawless Jasper Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/jasper/flawless_jasper_gem";
+rarity = "EPIC";

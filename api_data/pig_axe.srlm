@@ -1,0 +1,9 @@
+item = "stone_axe";
+name = "Advanced Pig Axe";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/pig_axe";
+rarity = "UNCOMMON";
+stats = {
+  damage: 20
+};
+requirements.skill.farming = 15;

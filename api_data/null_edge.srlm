@@ -1,0 +1,4 @@
+item = "stick";
+name = "Null Edge";
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/enderman/crafts/null_edge";
+rarity = "EPIC";

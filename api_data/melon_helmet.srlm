@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Tater Helmet";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc4MTE0MDY4MTUzOCwKICAicHJvZmlsZUlkIiA6ICI0YTQ1ZmY3NDM2Njk0YTNiYTc3OTdhYTgyN2IwNDM1NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MjA4NjY5ZTY5OWQ2ZjBkM2E3N2Y3NGIyYjI3MjI4Y2U1MWI5MzU5Njc4ZDI2ZjljMzQwODc2NGIyZTc3OWFhIgogICAgfQogIH0KfQ==";
+rarity = "UNCOMMON";
+stats = {
+  farming_fortune: 15,
+  walk_speed: 2,
+  health: 100,
+  defense: 25,
+  bonus_pest_chance: 10
+};
+requirements.skill.farming = 20;

@@ -1,0 +1,10 @@
+item = "chainmail_helmet";
+name = "Sorrow Helmet";
+include("types/helmet", this);
+rarity = "LEGENDARY";
+stats = {
+  magic_find: 5,
+  mining_fortune: 20,
+  true_defense: 50,
+  mining_speed: 50
+};

@@ -1,0 +1,4 @@
+item = "prismarine_shard";
+name = "Enchanted Shark Fin";
+this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/marina/shark_fin";
+rarity = "EPIC";

@@ -1,0 +1,9 @@
+item = "leather_chestplate";
+name = "Arachne's Chestplate";
+include("types/chestplate", this);
+rarity = "RARE";
+stats = {
+  defense: 60,
+  health: 85
+};
+soulbound = "COOP";

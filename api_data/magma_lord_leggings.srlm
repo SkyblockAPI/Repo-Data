@@ -1,0 +1,12 @@
+item = "leather_leggings";
+name = "Magma Lord Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  health: 250,
+  defense: 200,
+  sea_creature_chance: 4.5,
+  strength: 10,
+  critical_damage: 35
+};
+requirements.skill.fishing = 45;

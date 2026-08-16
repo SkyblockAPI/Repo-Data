@@ -1,0 +1,11 @@
+item = "leather_chestplate";
+name = "Rampart Chestplate";
+include("types/chestplate", this);
+rarity = "RARE";
+stats = {
+  defense: 60,
+  health: 175,
+  intelligence: 5
+};
+requirements.skill.combat = 22;
+soulbound = "COOP";

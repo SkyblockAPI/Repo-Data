@@ -1,0 +1,10 @@
+item = "iron_pickaxe";
+name = "Elle's Pickaxe";
+include("types/pickaxe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/crimson_isle/kuudra/elles_pickaxe";
+rarity = "SPECIAL";
+stats = {
+  breaking_power: 5,
+  damage: 10,
+  mining_speed: 250
+};

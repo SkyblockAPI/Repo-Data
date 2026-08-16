@@ -6,6 +6,9 @@ not_affected_by_cata_level = [
   "magic_find", "true_defense", "crit_chance", "attack_speed", "ferocity", "ability_damage"
 ];
 
+dungeon_level_bonus_lut = static("stat_calc/dungeon_level_lut");
+dungeon_level_bonus = dungeon_level_bonus_lut.bonuses[Math.clamp(48, 0, 50)] / 100;
+
 total_star_count = if ("upgrade_level" in data) {
   Math.clamp(data.upgrade_level, 0, 5)
 } else 0;
@@ -15,6 +18,6 @@ for (stat_entry : Objects.entries(stats)) {
   stats[stat] *= 1 + ((total_star_count * 0.1) + if (not_affected_by_cata_level.contains(stat)) {
     0
   } else {
-    4.65
+    dungeon_level_bonus
   } + 0.05);
 }

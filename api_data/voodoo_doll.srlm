@@ -1,0 +1,7 @@
+item = "raw_fish";
+name = "Voodoo Doll";
+rarity = "RARE";
+stats = {
+  weapon_ability_damage: 1500
+};
+requirements.slayer.zombie = 5;

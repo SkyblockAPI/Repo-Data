@@ -1,0 +1,4 @@
+item = "paper";
+name = "Torn Cloth";
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/torn_cloth";
+rarity = "UNCOMMON";

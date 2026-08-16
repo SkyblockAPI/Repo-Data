@@ -1,0 +1,10 @@
+item = "leather_leggings";
+name = "Leggings of the Coven";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  rift_time: 80,
+  rift_health: 1,
+  rift_mana_regen: 6
+};
+requirements.slayer.vampire = 3;

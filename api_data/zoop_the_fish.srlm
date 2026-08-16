@@ -1,0 +1,4 @@
+item = "raw_fish";
+name = "Zoop the Fish";
+rarity = "SPECIAL";
+rift_transferrable = true;

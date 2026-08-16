@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Smooth Chocolate Bar";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjUyOTM4NywKICAicHJvZmlsZUlkIiA6ICJjYTU4NzNhYmY0Y2U0YWUxODAxZmVmODgzNjhlMWExNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZXRocm9uZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTkzNzJlZmQyY2ExYTZjNmRmYzA2NmYxZWM4M2Y5NDU2NTc1YzM4NTBhMGU3ZDAxMTA5YzRmMWFmMzAwYmE4IgogICAgfQogIH0KfQ==";
+rarity = "UNCOMMON";

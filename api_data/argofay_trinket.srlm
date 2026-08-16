@@ -1,0 +1,8 @@
+item = "player_head";
+name = "Argofay Trinket";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYyNTUxMjIwNzg5MSwKICAicHJvZmlsZUlkIiA6ICJmYzUwMjkzYTVkMGI0NzViYWYwNDJhNzIwMWJhMzBkMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg3NjFlMjM2ZDg2MWRiNGM4YzZhYzA3ODM4MDdkZDE5ZDQ0MGI1MGEyMDNkMWFiNzBmZjE4N2M2MWQ0YTUxNTgiCiAgICB9CiAgfQp9";
+rarity = "EPIC";
+stats = {
+  rift_intelligence: 2
+};

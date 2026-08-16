@@ -1,0 +1,7 @@
+item = "leather_leggings";
+name = "Leaflet Pants";
+include("types/leggings", this);
+stats = {
+  foraging_fortune: 3,
+  health: 20
+};

@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Titanium Artifact";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYxMDQ4MDc5MjAxMiwKICAicHJvZmlsZUlkIiA6ICIxZDUyMzNkMzg4NjI0YmFmYjAwZTMxNTBhN2FhM2E4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMDAwMDAwMDAwMDAwMDBKIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk4ZWMyMWQyMGYxYWFmNTYzNWY0OGJlZGE4ODYyNjQwM2M2Mzg1YjgxNjczZmI3Y2ZhN2ZmODIxNzljNjNlMzkiCiAgICB9CiAgfQp9";
+rarity = "EPIC";
+stats = {
+  mining_speed: 45
+};
+requirements.hotm = 4;

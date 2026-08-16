@@ -1,0 +1,13 @@
+item = "leather_leggings";
+name = "Infernal Hollow Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 13,
+  defense: 146,
+  health: 549,
+  intelligence: 214,
+  mending: 12
+};
+requirements.skill.combat = 42;
+requirements.kuudra.infernal = 1;

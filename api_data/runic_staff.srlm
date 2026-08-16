@@ -1,0 +1,12 @@
+item = "blaze_rod";
+name = "Aurora Staff";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/aurora_staff";
+rarity = "LEGENDARY";
+stats = {
+  damage: 20,
+  weapon_ability_damage: 10000,
+  intelligence: 250
+};
+requirements.skill.combat = 22;
+requirements.kuudra.none = 1;

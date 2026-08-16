@@ -1,0 +1,10 @@
+item = "chainmail_boots";
+name = "Ember Boots";
+include("types/boots", this);
+rarity = "EPIC";
+stats = {
+  defense: 30,
+  health: 35,
+  intelligence: 5
+};
+requirements.skill.combat = 8;

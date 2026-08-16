@@ -1,0 +1,10 @@
+item = "stone_sword";
+name = "Adaptive Blade";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/adaptive_blade";
+rarity = "EPIC";
+stats = {
+  damage: 170
+};
+requirements.dungeon_completetion.catacombs = 2;

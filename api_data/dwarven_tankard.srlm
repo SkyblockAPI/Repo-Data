@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Dwarven Tankard";
+skin = "eyJ0aW1lc3RhbXAiOjE1ODY5OTk0NjE4OTQsInByb2ZpbGVJZCI6ImRkZWQ1NmUxZWY4YjQwZmU4YWQxNjI5MjBmN2FlY2RhIiwicHJvZmlsZU5hbWUiOiJEaXNjb3JkQXBwIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMzNkMTYyY2FlNzMzMzlmNzc1OTE5ZmIxYjUwOGI3ZjFjMjhmZDQ2NTQ5ZTY2MzkwOTQ2ZDg3YWJmNjcxNWM2In19fQ==";
+rarity = "EPIC";
+soulbound = "COOP";

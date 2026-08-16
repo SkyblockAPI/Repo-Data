@@ -1,0 +1,10 @@
+item = "leather_boots";
+name = "Biohazard Boots";
+include("types/boots", this);
+rarity = "UNCOMMON";
+stats = {
+  health: 20,
+  defense: 5,
+  bonus_pest_chance: 16.5
+};
+requirements.garden = 5;

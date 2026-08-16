@@ -1,0 +1,4 @@
+item = "long_grass";
+name = "Safari Barn Skin";
+include("types/cosmetic", this);
+rarity = "LEGENDARY";

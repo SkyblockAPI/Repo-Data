@@ -1,0 +1,6 @@
+item = "blaze_rod";
+name = "Magical Staff";
+rarity = "UNCOMMON";
+stats = {
+  damage: 20
+};

@@ -1,0 +1,11 @@
+item = "player_head";
+name = "Ember Helmet";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTU5MDE0ODAyNTEwOCwKICAicHJvZmlsZUlkIiA6ICJiOWJjMWVkYjRmMjE0NGMwODJlMGUyYjFlMzFlMmEzNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTY3l0aGljYWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzhkMTk5ZTIzYzE3NDg4YTAxYTA3MDA1YTQxZmUzMzBiMWQyMmIwNGU5OTk0M2M5ZjhjODk3ZDE1NmU5NTU1YSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
+rarity = "EPIC";
+stats = {
+  defense: 35,
+  health: 40,
+  intelligence: 5
+};
+requirements.skill.combat = 8;

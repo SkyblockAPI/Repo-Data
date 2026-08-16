@@ -1,0 +1,4 @@
+item = "player_head";
+name = "Portal to The Wizard Tower";
+include("types/portal", this);
+skin = "eyJ0aW1lc3RhbXAiOjE1MzA4NzgzNzc1MjYsInByb2ZpbGVJZCI6ImQ4N2ViYjVhODhiNTQxYjBhZjVlYWE2MGI3YmNkZmM1IiwicHJvZmlsZU5hbWUiOiJLYWlvbm9uIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yZjY5YWIyZjRlNzM0MWFjMjYyNTk3MDgzY2EzOGFkMDFiZmJiZjg3MzBmYmZiZGQxMGNhOTBhZWUzMzdhMmRkIn19fQ==";

@@ -1,0 +1,11 @@
+item = "chainmail_chestplate";
+name = "Lively Sepulture Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  rift_time: 65,
+  rift_health: 1,
+  rift_intelligence: 30,
+  rift_mana_regen: 25
+};
+requirements.slayer.vampire = 5;

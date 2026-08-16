@@ -1,0 +1,9 @@
+item = "iron_sword";
+name = "Flaming Sword";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/flaming_sword";
+rarity = "UNCOMMON";
+stats = {
+  damage: 50,
+  strength: 20
+};

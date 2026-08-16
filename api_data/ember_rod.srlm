@@ -1,0 +1,12 @@
+item = "blaze_rod";
+name = "Ember Rod";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/ember_rod";
+rarity = "EPIC";
+stats = {
+  damage: 80,
+  strength: 35,
+  weapon_ability_damage: 30,
+  intelligence: 50
+};
+requirements.skill.combat = 8;

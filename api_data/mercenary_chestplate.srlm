@@ -1,0 +1,10 @@
+item = "iron_chestplate";
+name = "Mercenary Chestplate";
+include("types/chestplate", this);
+rarity = "RARE";
+stats = {
+  defense: 70,
+  health: 70,
+  strength: 10
+};
+requirements.skill.combat = 8;

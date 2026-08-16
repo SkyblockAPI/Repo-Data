@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Golden Scarf Head";
+include("types/helmet", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzIxODg3MCwKICAicHJvZmlsZUlkIiA6ICJkM2Y5MjEyMjY3YzM0YzEwYWNjOWZkNGI5MDFkYjI0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXl3ZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MTJmOTBhMmE2NmQ3ZjkzN2NmOWZiMTVjN2Q4YWVmOTdkMzhmNTYyYmQ5Njc4YjI0ZjRjOTA0YjY1YmNjNjBjIgogICAgfQogIH0KfQ==";
+rarity = "SPECIAL";
+stats = {
+  defense: 15,
+  health: 30,
+  strength: 10
+};
+requirements.dungeon_completetion.catacombs = 2;
+soulbound = "COOP";

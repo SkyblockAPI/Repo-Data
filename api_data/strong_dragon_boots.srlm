@@ -1,0 +1,10 @@
+item = "leather_boots";
+name = "Strong Dragon Boots";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 90,
+  health: 60,
+  strength: 25
+};
+requirements.skill.combat = 16;

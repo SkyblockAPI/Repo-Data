@@ -1,0 +1,10 @@
+item = "leather_helmet";
+name = "Bouncy Helmet";
+include("types/helmet", this);
+include("types/dungeon", this);
+rarity = "RARE";
+requirements.dungeons.catacombs = 12;
+tiered_stats = {
+  health: [65, 73, 81, 91, 102, 114, 128, 143, 161, 180],
+  critical_chance: [5, 5, 6, 6, 7, 7, 8, 8, 9, 10]
+};

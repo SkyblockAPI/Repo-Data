@@ -1,0 +1,4 @@
+item = "creeper_head";
+name = "Creeper Skull";
+rarity = "RARE";
+soulbound = "COOP";

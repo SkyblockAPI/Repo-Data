@@ -1,0 +1,4 @@
+item = "paper";
+name = "Spider Catalyst";
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/spider/spider_catalyst";
+rarity = "RARE";

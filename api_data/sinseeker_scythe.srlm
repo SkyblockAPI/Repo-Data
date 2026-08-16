@@ -1,0 +1,10 @@
+item = "gold_hoe";
+name = "§4Sin§5seeker Scythe";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/enderman/weapons/sinseeker_scythe";
+rarity = "EPIC";
+stats = {
+  damage: 100,
+  strength: 100
+};
+requirements.slayer.enderman = 6;

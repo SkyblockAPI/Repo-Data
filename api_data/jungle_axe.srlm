@@ -1,0 +1,9 @@
+item = "wood_axe";
+name = "Spruce Axe";
+include("types/axe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/axes/spruce_axe";
+rarity = "UNCOMMON";
+stats = {
+  sweep: 4
+};
+booster_applicable = true;

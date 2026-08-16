@@ -1,0 +1,4 @@
+item = "paper";
+name = "Flawless Jade Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/jade/flawless_jade_gem";
+rarity = "EPIC";

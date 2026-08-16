@@ -1,0 +1,12 @@
+item = "wood_axe";
+name = "Seriously Damaged Axe";
+include("types/axe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/axes/seriously_damaged_axe";
+rarity = "UNCOMMON";
+stats = {
+  foraging_fortune: 5,
+  sweep: 10,
+  damage: 10
+};
+requirements.skill.foraging = 12;
+booster_applicable = true;

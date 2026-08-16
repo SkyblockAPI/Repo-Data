@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Wolf Paw";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzNzc4MDU3NywKICAicHJvZmlsZUlkIiA6ICIwNjEzY2I1Y2QxYjg0M2JjYjI4OTk1NWU4N2QzMGEyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJicmVhZGxvYWZzcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83YWZkMjI3MDRlZWI1YzY3YmU2NDlkZGZlMWRhMGM2NTgxNThhNzA1OGQwMTczOWRlMzFjOTRmNmI5ODA4ODY5IgogICAgfQogIH0KfQ==";
+rarity = "UNCOMMON";
+stats = {
+  walk_speed: 1
+};
+soulbound = "SOLO";

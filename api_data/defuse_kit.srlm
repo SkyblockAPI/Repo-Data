@@ -1,0 +1,4 @@
+item = "shears";
+name = "Defuse Kit";
+include("types/dungeon", this);
+rarity = "UNCOMMON";

@@ -1,0 +1,4 @@
+item = "diamond_hoe";
+name = "Diamond Hoe";
+include("types/farming_tool", this);
+rarity = "UNCOMMON";

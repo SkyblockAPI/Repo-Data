@@ -1,0 +1,12 @@
+item = "bow";
+name = "Machine Gun Shortbow";
+include("types/bow", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/machine_gun_shortbow";
+rarity = "RARE";
+requirements.dungeons.catacombs = 2;
+tiered_stats = {
+  damage: [75, 82, 89, 96, 105, 114, 124, 135, 146, 159],
+  strength: [20, 23, 25, 27, 29, 32, 34, 37, 40, 44],
+  critical_damage: [12, 13, 15, 16, 17, 19, 20, 22, 24, 26]
+};

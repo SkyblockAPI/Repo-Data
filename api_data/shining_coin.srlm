@@ -1,0 +1,4 @@
+item = "paper";
+name = "Shining Coin";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/safari/shining_coin";
+rarity = "SPECIAL";

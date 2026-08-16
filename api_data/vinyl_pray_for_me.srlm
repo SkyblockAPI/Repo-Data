@@ -1,0 +1,4 @@
+item = "record_7";
+name = "Pray For Me Vinyl";
+this["minecraft:item_model"] = "minecraft:music_disc_creator";
+rarity = "UNCOMMON";

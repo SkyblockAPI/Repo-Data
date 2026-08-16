@@ -1,0 +1,6 @@
+item = "player_head";
+name = "Legendary Ring of Love";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzOTg5NjUyMywKICAicHJvZmlsZUlkIiA6ICJiZWNkZGIyOGEyYzg0OWI0YTliMDkyMmE1ODA1MTQyMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdFR2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhmYjI2NWM4Y2M2MTM2MDYzYjRlYjE1NDUwZmUxZmUxYWI3NzM4YjBiZjU0ZDI2NTQ5MGUxZWY0OWRhNjBiN2MiCiAgICB9CiAgfQp9";
+rarity = "LEGENDARY";
+soulbound = "COOP";

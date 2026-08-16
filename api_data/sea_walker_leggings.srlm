@@ -1,0 +1,4 @@
+item = "leather_leggings";
+name = "Sea Walker Leggings";
+include("types/leggings", this);
+rarity = "UNCOMMON";

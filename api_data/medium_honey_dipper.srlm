@@ -1,0 +1,4 @@
+item = "paper";
+name = "Medium Honey Dipper";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/medium_honey_dipper";
+rarity = "RARE";

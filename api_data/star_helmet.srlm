@@ -1,0 +1,9 @@
+item = "gold_helmet";
+name = "Helmet of the Stars";
+include("types/helmet", this);
+rarity = "UNOBTAINABLE";
+stats = {
+  defense: 3000,
+  health: 10000,
+  intelligence: 1000
+};

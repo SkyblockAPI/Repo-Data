@@ -1,0 +1,4 @@
+item = "paper";
+name = "Flawless Citrine Gemstone";
+this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/citrine/flawless_citrine_gem";
+rarity = "EPIC";

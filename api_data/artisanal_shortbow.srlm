@@ -1,0 +1,9 @@
+item = "bow";
+name = "Artisanal Shortbow";
+include("types/bow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/artisanal_shortbow";
+rarity = "RARE";
+stats = {
+  damage: 40
+};
+requirements.skill.combat = 4;

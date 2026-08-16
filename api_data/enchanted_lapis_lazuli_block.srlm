@@ -1,0 +1,4 @@
+item = "lapis_block";
+name = "Enchanted Lapis Lazuli Block";
+rarity = "RARE";
+category = "ORE";

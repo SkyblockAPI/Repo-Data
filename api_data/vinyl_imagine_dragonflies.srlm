@@ -1,0 +1,4 @@
+item = "green_record";
+name = "Imagine Dragonflies Vinyl";
+this["minecraft:item_model"] = "minecraft:music_disc_relic";
+rarity = "UNCOMMON";

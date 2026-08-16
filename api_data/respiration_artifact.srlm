@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Respiration Artifact";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc0NjcwMDU1OTQ5NSwKICAicHJvZmlsZUlkIiA6ICIwMTIxYzFjZDUxOTM0M2NmYWM4YzgyZThiNjVjYTFjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfVmV4X1RWIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFhZjgzOWMxYmZhYTg4YWVmZTY1YTBhNzk5ZjRmMzJjZjM2NjY3ZDlmZTBlN2Y5ZmMyMDBiMzMwNjk3MjZmNzgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "RARE";
+rift_transferrable = true;
+stats = {
+  respiration: 15
+};

@@ -1,0 +1,8 @@
+item = "gold_helmet";
+name = "Crown of Greed";
+include("types/helmet", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 50,
+  health: 100
+};

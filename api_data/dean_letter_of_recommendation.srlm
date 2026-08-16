@@ -1,0 +1,4 @@
+item = "paper";
+name = "Letter of Recommendation";
+rarity = "RARE";
+soulbound = "SOLO";

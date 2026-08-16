@@ -1,0 +1,8 @@
+item = "diamond_axe";
+name = "Full-Tree Axe";
+include("types/axe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/axes/sweep_axe";
+rarity = "UNOBTAINABLE";
+stats = {
+  sweep: 500
+};

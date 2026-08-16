@@ -1,0 +1,8 @@
+item = "iron_leggings";
+name = "Golem Armor Leggings";
+include("types/leggings", this);
+rarity = "RARE";
+stats = {
+  defense: 75,
+  health: 55
+};

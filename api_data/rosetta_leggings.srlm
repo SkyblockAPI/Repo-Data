@@ -1,0 +1,7 @@
+item = "diamond_leggings";
+name = "Rosetta's Leggings";
+include("types/leggings", this);
+rarity = "UNCOMMON";
+stats = {
+  defense: 30
+};

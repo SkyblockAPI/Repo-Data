@@ -1,0 +1,4 @@
+item = "brick";
+name = "Pop-up Wall";
+include("types/dungeon", this);
+rarity = "UNCOMMON";

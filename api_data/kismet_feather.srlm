@@ -1,0 +1,4 @@
+item = "feather";
+name = "Kismet Feather";
+this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/bits_shop/kismet_feather";
+rarity = "RARE";

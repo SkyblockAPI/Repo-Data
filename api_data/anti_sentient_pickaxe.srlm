@@ -1,0 +1,8 @@
+item = "wood_pickaxe";
+name = "Anti-Sentient Pickaxe";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/rift/zones/mountaintop/anti_sentient_pickaxe";
+rarity = "EPIC";
+stats = {
+  rift_damage: 5
+};

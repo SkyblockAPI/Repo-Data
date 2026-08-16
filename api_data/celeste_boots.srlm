@@ -1,0 +1,10 @@
+item = "leather_boots";
+name = "Celeste Boots";
+include("types/boots", this);
+rarity = "UNCOMMON";
+stats = {
+  defense: 10,
+  intelligence: 20,
+  health: 10
+};
+requirements.skill.combat = 4;

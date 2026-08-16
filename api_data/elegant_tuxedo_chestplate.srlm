@@ -1,0 +1,8 @@
+item = "leather_chestplate";
+name = "Elegant Tuxedo Jacket";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  critical_damage: 100,
+  intelligence: 300
+};

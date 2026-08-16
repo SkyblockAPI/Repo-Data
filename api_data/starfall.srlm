@@ -1,0 +1,4 @@
+item = "paper";
+name = "Starfall";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/starfall";
+rarity = "RARE";

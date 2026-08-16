@@ -1,0 +1,8 @@
+item = "bow";
+name = "Raygun";
+include("types/bow", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/ray_gun";
+rarity = "UNOBTAINABLE";
+stats = {
+  damage: 99999999
+};

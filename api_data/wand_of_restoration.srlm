@@ -1,0 +1,6 @@
+item = "stick";
+name = "Wand of Restoration";
+include("types/wand", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/zombie/wands/wand_of_restoration";
+rarity = "EPIC";
+requirements.slayer.zombie = 6;

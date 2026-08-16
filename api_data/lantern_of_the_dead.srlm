@@ -1,0 +1,4 @@
+item = "redstone_lamp_off";
+name = "Lantern of the Dead";
+rarity = "SPECIAL";
+soulbound = "COOP";

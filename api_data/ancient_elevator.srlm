@@ -1,0 +1,4 @@
+item = "quartz_stairs";
+name = "Ancient Elevator";
+rarity = "SPECIAL";
+rift_transferrable = true;

@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Prismarine Necklace";
+include("types/necklace", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcwMzE5NDQxOTc3MCwKICAicHJvZmlsZUlkIiA6ICI4NTZkNmYzMDgzYWY0MDNjODUyMTRlMGQ3NzFhY2ExNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJLb29yeEF0aWxsYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kOTE5YzM0ODhmZTlmNDkzNDQyOTg1NmZiNDNmODYwYjhkYWI2MDk2NDgyZTg2MzIwNTA4MTBmNDRlZjdjYjE3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "RARE";
+stats = {
+  fishing_speed: 2,
+  trophy_fish_chance: 1
+};

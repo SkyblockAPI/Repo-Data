@@ -1,0 +1,6 @@
+item = "gold_axe";
+name = "Stranded Treecapitator";
+include("types/axe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/stranded_only/stranded_treecapitator";
+rarity = "EPIC";
+booster_applicable = true;

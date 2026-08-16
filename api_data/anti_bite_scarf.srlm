@@ -1,0 +1,10 @@
+item = "carpet";
+name = "Anti-Bite Scarf";
+include("types/helmet", this);
+rarity = "LEGENDARY";
+stats = {
+  rift_time: 100,
+  rift_intelligence: 20,
+  rift_health: 1
+};
+requirements.slayer.vampire = 1;

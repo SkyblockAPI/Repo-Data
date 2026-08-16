@@ -1,0 +1,10 @@
+item = "mutton";
+name = "Edible Mace";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/wolf/weapons/edible_mace";
+rarity = "RARE";
+stats = {
+  damage: 125,
+  strength: 25
+};
+requirements.slayer.wolf = 5;

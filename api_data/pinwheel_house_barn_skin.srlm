@@ -1,0 +1,4 @@
+item = "wood";
+name = "Pinwheel House Barn Skin";
+include("types/cosmetic", this);
+rarity = "LEGENDARY";

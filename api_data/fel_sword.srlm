@@ -1,0 +1,11 @@
+item = "stone_sword";
+name = "Fel Sword";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/fel_sword";
+rarity = "EPIC";
+stats = {
+  damage: 190,
+  strength: 135
+};
+requirements.dungeons.catacombs = 20;

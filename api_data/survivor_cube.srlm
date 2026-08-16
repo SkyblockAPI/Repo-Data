@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Survivor Cube";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzODYzMDQ4MywKICAicHJvZmlsZUlkIiA6ICJjOGY3Y2M4Y2QxNjY0NTFlOTMxMjE5YmM5YTY3MDg5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUcmlTdGFyMTYxNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMTViMWM3Njk2NmEyOWY0OTkyMTlkNGM2MmE4NTMyN2E4Y2I2NGE2NmU4MGY3OWJkNjZkZmI3MGExMDliYTVlIgogICAgfQogIH0KfQ==";
+rarity = "RARE";
+stats = {
+  vitality: 3
+};
+requirements.slayer.spider = 7;
+soulbound = "SOLO";

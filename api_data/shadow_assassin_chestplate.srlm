@@ -1,0 +1,13 @@
+item = "leather_chestplate";
+name = "Shadow Assassin Chestplate";
+include("types/chestplate", this);
+include("types/dungeon", this);
+rarity = "EPIC";
+stats = {
+  walk_speed: 7,
+  defense: 110,
+  health: 240,
+  strength: 25,
+  critical_damage: 25
+};
+requirements.dungeon_completetion.catacombs = 5;

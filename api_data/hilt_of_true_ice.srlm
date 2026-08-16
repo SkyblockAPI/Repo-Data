@@ -1,0 +1,4 @@
+item = "paper";
+name = "True Ice";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/hilt_of_true_ice";
+rarity = "LEGENDARY";

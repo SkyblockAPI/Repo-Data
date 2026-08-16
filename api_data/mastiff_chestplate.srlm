@@ -1,0 +1,9 @@
+item = "gold_chestplate";
+name = "Mastiff Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  health: 500,
+  critical_damage: 15
+};
+requirements.slayer.wolf = 4;

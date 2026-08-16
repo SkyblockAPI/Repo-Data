@@ -1,0 +1,4 @@
+item = "brick";
+name = "Botanical Garden Greenhouse Skin";
+include("types/cosmetic", this);
+rarity = "RARE";

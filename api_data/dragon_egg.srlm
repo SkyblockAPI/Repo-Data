@@ -1,0 +1,5 @@
+item = "paper";
+name = "Dragon Egg";
+this["minecraft:item_model"] = "minecraft:dragon_egg";
+rarity = "LEGENDARY";
+soulbound = "COOP";

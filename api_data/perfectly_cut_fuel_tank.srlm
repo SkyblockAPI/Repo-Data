@@ -1,0 +1,5 @@
+item = "paper";
+name = "Perfectly-Cut Fuel Tank";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/perfectly_cut_fuel_tank";
+rarity = "RARE";
+requirements.hotm = 7;

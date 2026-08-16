@@ -1,0 +1,4 @@
+item = "paper";
+name = "Ink Splat";
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/ink_splat";
+rarity = "RARE";

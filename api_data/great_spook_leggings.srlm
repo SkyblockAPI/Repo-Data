@@ -1,0 +1,7 @@
+item = "leather_leggings";
+name = "Great Spook Leggings";
+include("types/leggings", this);
+rarity = "EPIC";
+stats = {
+  fear: 5
+};

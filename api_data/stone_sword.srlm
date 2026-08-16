@@ -1,0 +1,6 @@
+item = "stone_sword";
+name = "Stone Sword";
+include("types/sword", this);
+stats = {
+  damage: 25
+};

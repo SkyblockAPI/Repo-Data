@@ -1,0 +1,12 @@
+item = "iron_sword";
+name = "Giant's Eye Sword";
+include("types/longsword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/broken/broken_sword";
+rarity = "LEGENDARY";
+stats = {
+  damage: 500,
+  weapon_ability_damage: 100000,
+  swing_range: 1
+};
+requirements.dungeon_completetion.master_catacombs = 6;

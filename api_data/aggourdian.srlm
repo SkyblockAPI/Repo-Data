@@ -1,0 +1,4 @@
+item = "paper";
+name = "Aggourdian";
+this["minecraft:item_model"] = "minecraft:goat_horn";
+rarity = "UNCOMMON";

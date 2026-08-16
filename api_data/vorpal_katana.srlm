@@ -1,0 +1,12 @@
+item = "blaze_rod";
+name = "Vorpal Katana";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/enderman/weapons/katanas/vorpal_katana";
+rarity = "EPIC";
+stats = {
+  damage: 190,
+  strength: 80,
+  critical_damage: 30,
+  intelligence: 200
+};
+requirements.slayer.enderman = 5;

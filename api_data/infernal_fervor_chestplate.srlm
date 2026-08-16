@@ -1,0 +1,12 @@
+item = "leather_chestplate";
+name = "Infernal Fervor Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 353,
+  health: 668,
+  intelligence: 13,
+  true_defense: 12
+};
+requirements.skill.combat = 42;
+requirements.kuudra.infernal = 1;

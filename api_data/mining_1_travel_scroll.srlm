@@ -1,0 +1,4 @@
+item = "empty_map";
+name = "Travel Scroll to the Gold Mine";
+include("types/travel_scroll", this);
+rarity = "RARE";

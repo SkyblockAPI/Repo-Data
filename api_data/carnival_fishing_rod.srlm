@@ -1,0 +1,6 @@
+item = "fishing_rod";
+name = "Carnival Rod";
+include("types/fishing_rod", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/carnival_rod";
+rarity = "UNCOMMON";
+soulbound = "SOLO";

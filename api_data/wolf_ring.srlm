@@ -1,0 +1,5 @@
+item = "player_head";
+name = "Wolf Ring";
+include("types/accessory", this);
+skin = "eyJ0aW1lc3RhbXAiOjE1MDExNzcwNjg4ODcsInByb2ZpbGVJZCI6ImJiMDgwOTFhOTJlZDQzYWQ5NGYxZWRmZDc0NmIwYTJjIiwicHJvZmlsZU5hbWUiOiJJcDRuZHgiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y4M2EyYWE5ZDM3MzRiOTE5YWMyNGM5NjU5ZTVlMGY4NmVjYWZiZjY0ZDQ3ODhjZmE0MzNiYmVjMTg5ZTgifX19";
+rarity = "RARE";

@@ -1,0 +1,8 @@
+item = "gold_axe";
+name = "Prime Huntaxe - Nex Titanum";
+include("types/axe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/hunting_weapons/prime_huntaxe";
+rarity = "LEGENDARY";
+stats = {
+  damage: 25
+};

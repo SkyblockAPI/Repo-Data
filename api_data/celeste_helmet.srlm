@@ -1,0 +1,10 @@
+item = "leather_helmet";
+name = "Celeste Helmet";
+include("types/helmet", this);
+rarity = "UNCOMMON";
+stats = {
+  defense: 15,
+  intelligence: 30,
+  health: 15
+};
+requirements.skill.combat = 4;

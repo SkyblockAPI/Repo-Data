@@ -1,0 +1,4 @@
+item = "paper";
+name = "Burning Eye";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/burning_eye";
+rarity = "UNCOMMON";

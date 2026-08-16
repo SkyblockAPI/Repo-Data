@@ -1,0 +1,4 @@
+item = "nether_star";
+name = "Energy Crystal";
+include("types/dungeon", this);
+rarity = "SPECIAL";

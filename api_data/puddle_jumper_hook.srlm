@@ -1,0 +1,7 @@
+item = "paper";
+name = "Puddle Jumper Hook";
+include("types/fishing_rod_part", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/rod_part/hook/puddle_jumper_hook";
+rarity = "RARE";
+requirements.skill.fishing = 25;
+requirements.collection.lotus = 8;

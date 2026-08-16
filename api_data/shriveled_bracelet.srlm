@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Shriveled Bracelet";
+include("types/gloves", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc1MzA5MzQwNTYwMSwKICAicHJvZmlsZUlkIiA6ICI2M2VkZjY1ZDcxNmE0NGZmYmUzOWU5MWVkMmNiMjM3YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2aWxlX3NsYXZlbWFzdGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVkMWRiZmM0NGNkNTUxMjE3NWYwYzdhNmUwODRhYWIwZmNjYTQyZjJjZmY2M2I3NmM2NWUzYmYyYWU2MWI1YjEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "EPIC";
+stats = {
+  critical_damage: 15,
+  strength: 10
+};
+requirements.slayer.spider = 7;

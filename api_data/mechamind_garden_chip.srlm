@@ -1,0 +1,5 @@
+item = "paper";
+name = "Mechamind Chip";
+include("types/garden_chip", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/chips/mechamind_chip";
+rarity = "RARE";

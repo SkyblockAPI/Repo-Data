@@ -1,0 +1,9 @@
+item = "gold_axe";
+name = "Throwing Axe";
+include("types/axe", this);
+include("types/dungeon", this);
+rarity = "UNOBTAINABLE";
+stats = {
+  damage: 120,
+  strength: 50
+};

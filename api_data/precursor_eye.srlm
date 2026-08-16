@@ -1,0 +1,12 @@
+item = "player_head";
+name = "Precursor Eye";
+include("types/helmet", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwMTQ3OTI0MjkyNCwKICAicHJvZmlsZUlkIiA6ICI1NjY3NWIyMjMyZjA0ZWUwODkxNzllOWM5MjA2Y2ZlOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVJbmRyYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MmMwNjgzYjIwMTljYTNkMzk0NzI3M2UzOTRiZmNhMWI0ZDcxYjYxYjY3YjM5NDc0YzJkNmQ3M2E5YjY3NTA4IgogICAgfQogIH0KfQ==";
+rarity = "LEGENDARY";
+stats = {
+  defense: 222,
+  health: 222,
+  intelligence: 222
+};
+requirements.dungeon_completetion.catacombs = 6;

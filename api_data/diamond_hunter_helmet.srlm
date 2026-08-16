@@ -1,0 +1,9 @@
+item = "diamond_helmet";
+name = "Diamond Hunter Helmet";
+include("types/helmet", this);
+rarity = "LEGENDARY";
+stats = {
+  health: 125
+};
+requirements.trophy.LAVA = "DIAMOND";
+soulbound = "SOLO";

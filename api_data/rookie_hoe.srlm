@@ -1,0 +1,8 @@
+item = "stone_hoe";
+name = "Rookie Hoe";
+include("types/farming_tool", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/rookie_hoe";
+stats = {
+  farming_fortune: 5
+};
+requirements.skill.farming = 1;

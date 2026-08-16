@@ -1,0 +1,12 @@
+item = "iron_sword";
+name = "Bone Reaver";
+include("types/longsword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/dungeons/bone_reaver";
+rarity = "EPIC";
+stats = {
+  damage: 235,
+  strength: 90,
+  swing_range: 0.5
+};
+requirements.dungeon_completetion.catacombs = 4;

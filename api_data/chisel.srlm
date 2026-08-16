@@ -1,0 +1,4 @@
+item = "armor_stand";
+name = "Chisel";
+include("types/chisel", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/chisel/chisel";

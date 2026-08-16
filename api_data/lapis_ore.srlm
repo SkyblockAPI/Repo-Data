@@ -1,0 +1,4 @@
+item = "lapis_ore";
+name = "Lapis Lazuli Ore";
+rarity = "UNCOMMON";
+category = "ORE";

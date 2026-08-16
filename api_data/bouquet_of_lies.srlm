@@ -1,0 +1,12 @@
+item = "double_plant";
+name = "Bouquet of Lies";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/dungeons/bouqet_of_lies";
+rarity = "LEGENDARY";
+stats = {
+  damage: 220,
+  strength: 300,
+  critical_damage: 50
+};
+requirements.dungeon_completetion.catacombs = 6;

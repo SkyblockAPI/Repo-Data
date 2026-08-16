@@ -1,0 +1,13 @@
+item = "player_head";
+name = "Crystallized Heart";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjA0MzA4MCwKICAicHJvZmlsZUlkIiA6ICI3ZGY4NmY1MWFjZmI0MjQzYTkzNDQ1OTAyZDEzYTc0MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNclJpcHRpZGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODdkZmI3YzFlZTRkZTMxZjU0OTMxZWFjNWM2NTdjMTQ1ZTRmYTdmYTA5ZTNmNTJiMTc4OGE2ODJiNjVhYzc1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
+rarity = "RARE";
+stats = {
+  defense: 10,
+  health: 50,
+  intelligence: 50,
+  vitality: 40,
+  mending: 40
+};
+requirements.slayer.zombie = 3;

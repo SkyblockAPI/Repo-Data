@@ -1,0 +1,8 @@
+item = "red_rose";
+name = "Staff of the Rising Moon";
+include("types/wand", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/rift/wands/staff_of_the_rising_moon";
+rarity = "EPIC";
+stats = {
+  weapon_ability_damage: 1
+};

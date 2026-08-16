@@ -1,0 +1,10 @@
+item = "leather_chestplate";
+name = "Final Destination Chestplate";
+include("types/chestplate", this);
+rarity = "LEGENDARY";
+stats = {
+  defense: 100,
+  health: 200,
+  intelligence: 100
+};
+requirements.slayer.enderman = 3;

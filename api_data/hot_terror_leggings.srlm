@@ -1,0 +1,13 @@
+item = "leather_leggings";
+name = "Hot Terror Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  walk_speed: 15,
+  defense: 69,
+  health: 258,
+  critical_damage: 63,
+  intelligence: 6
+};
+requirements.skill.combat = 27;
+requirements.kuudra.hot = 1;

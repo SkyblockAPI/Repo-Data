@@ -1,0 +1,6 @@
+item = "player_head";
+name = "Reaper Orb";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTYxODYwNjE0ODU2NiwKICAicHJvZmlsZUlkIiA6ICJjMGYzYjI3YTUwMDE0YzVhYjIxZDc5ZGRlMTAxZGZlMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDEzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNhN2NkYTkwMDRmYzE5N2Q2NmFmYmMyYjAwM2E1YjllZjEzY2Y0NjAwYjFmYzc0OTAwNjc1OTBmMDQ3MTgxZSIKICAgIH0KICB9Cn0=";
+rarity = "LEGENDARY";
+requirements.slayer.zombie = 8;

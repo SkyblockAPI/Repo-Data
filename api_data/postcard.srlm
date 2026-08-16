@@ -1,0 +1,4 @@
+item = "paper";
+name = "Postcard";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/rift/zones/mountaintop/misc/postcard";
+rarity = "LEGENDARY";

@@ -1,0 +1,10 @@
+item = "chainmail_boots";
+name = "Ender Boots";
+include("types/boots", this);
+rarity = "EPIC";
+stats = {
+  defense: 25,
+  health: 15
+};
+requirements.skill.combat = 12;
+soulbound = "COOP";

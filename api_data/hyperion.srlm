@@ -1,0 +1,13 @@
+item = "iron_sword";
+name = "Hyperion";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/hyperion";
+rarity = "LEGENDARY";
+stats = {
+  damage: 260,
+  strength: 150,
+  ferocity: 30,
+  intelligence: 350
+};
+requirements.dungeon_completetion.catacombs = 7;

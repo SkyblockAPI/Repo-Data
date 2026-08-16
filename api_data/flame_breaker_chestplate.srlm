@@ -1,0 +1,12 @@
+item = "chainmail_chestplate";
+name = "Flamebreaker Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  defense: 70,
+  health: 70,
+  mining_fortune: 15,
+  mining_speed: 25,
+  heat_resistance: 5
+};
+requirements.collection.hard_stone = 5;

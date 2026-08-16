@@ -1,0 +1,10 @@
+item = "iron_sword";
+name = "Silver-Twist Karambit";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/rift/zones/castle/swords/silver_twist_karambit";
+rarity = "EPIC";
+stats = {
+  rift_damage: 6,
+  rift_walk_speed: 15
+};
+requirements.slayer.vampire = 4;

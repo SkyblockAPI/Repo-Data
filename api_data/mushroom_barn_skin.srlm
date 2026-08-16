@@ -1,0 +1,4 @@
+item = "red_mushroom";
+name = "Mushroom Barn Skin";
+include("types/cosmetic", this);
+rarity = "LEGENDARY";

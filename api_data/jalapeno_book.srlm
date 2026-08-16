@@ -1,0 +1,4 @@
+item = "book";
+name = "Jalapeno Book";
+this["minecraft:item_model"] = "minecraft:knowledge_book";
+rarity = "EPIC";

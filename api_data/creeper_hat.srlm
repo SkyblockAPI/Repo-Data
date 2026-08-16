@@ -1,0 +1,11 @@
+item = "creeper_head";
+name = "Creeper Hat";
+include("types/helmet", this);
+stats = {
+  defense: 5,
+  health: 5,
+  strength: 5,
+  critical_damage: 5,
+  critical_chance: 5,
+  intelligence: 5
+};

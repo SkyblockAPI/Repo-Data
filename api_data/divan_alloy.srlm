@@ -1,0 +1,4 @@
+item = "paper";
+name = "Divan's Alloy";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/divans_alloy";
+rarity = "LEGENDARY";

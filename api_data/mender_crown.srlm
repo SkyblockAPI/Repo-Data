@@ -1,0 +1,10 @@
+item = "player_head";
+name = "Mender Crown";
+include("types/helmet", this);
+include("types/dungeon", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxOTg2Mjg1NDkzOSwKICAicHJvZmlsZUlkIiA6ICJmNmYxY2IxMmYzNDU0MDRlYjZlNjU2NGE2ZDlmMjU2NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdXJlbGl1c0dlbWluaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82YzdlMTA3MGQxMjU4MWJkNDhlODBmNTkwNTRlOTI0MTJlNDUzYTYyN2VkMjk4OGIzYTVhMzVmZDVjNzA4ZTBkIgogICAgfQogIH0KfQ==";
+rarity = "EPIC";
+stats = {
+  health: 270
+};
+requirements.dungeon_completetion.catacombs = 6;

@@ -1,0 +1,9 @@
+item = "player_head";
+name = "Organ Donor Talisman";
+include("types/accessory", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTc3MDczOTk0Mjc1NSwKICAicHJvZmlsZUlkIiA6ICI0YzZhZTVkNzc0ZDE0MjBkYmJiNThjNDMzZGM3NjNlMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJKdXN0VHJhbnNHaXJsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FlNzAwNzA2NGMzNWQwMzM4OWQyMzBhYWQzZjcyODRlYWUwMDgxN2Y5Y2QyZjdkNWZhODg1NjdlYWZmNDU4YjAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
+rarity = "COMMON";
+stats = {
+  cold_resistance: 0.5
+};
+soulbound = "SOLO";

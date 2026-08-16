@@ -1,0 +1,4 @@
+item = "bedrock";
+name = "Thunderstorm";
+include("types/dungeon", this);
+rarity = "UNCOMMON";

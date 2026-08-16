@@ -1,0 +1,10 @@
+item = "leather_leggings";
+name = "Nutcracker Leggings";
+include("types/leggings", this);
+rarity = "LEGENDARY";
+stats = {
+  health: 85,
+  defense: 35,
+  sea_creature_chance: 1.5
+};
+requirements.skill.fishing = 28;

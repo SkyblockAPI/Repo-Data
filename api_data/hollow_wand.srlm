@@ -1,0 +1,13 @@
+item = "feather";
+name = "Hollow Wand";
+include("types/wand", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/crimson_isle/armors/hollow/hollow_wand";
+rarity = "LEGENDARY";
+stats = {
+  damage: 150,
+  strength: 20,
+  intelligence: 120,
+  weapon_ability_damage: 15000
+};
+requirements.skill.combat = 22;
+requirements.kuudra.none = 1;

@@ -1,0 +1,5 @@
+item = "stick";
+name = "Grandma's Knitting Needle";
+include("types/pet_item", this);
+rarity = "RARE";
+rift_transferrable = true;

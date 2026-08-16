@@ -1,0 +1,5 @@
+item = "paper";
+name = "Blooming Thorns";
+include("types/reforge_stone", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/blooming_thorns";
+rarity = "EPIC";

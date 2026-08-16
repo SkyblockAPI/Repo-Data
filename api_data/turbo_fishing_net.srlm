@@ -1,0 +1,8 @@
+item = "paper";
+name = "Turbo Fishing Net";
+include("types/fishing_net", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/nets/turbo_fishing_net";
+rarity = "EPIC";
+stats = {
+  pull: 50
+};

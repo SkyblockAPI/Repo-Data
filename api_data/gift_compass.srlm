@@ -1,0 +1,4 @@
+item = "compass";
+name = "Gift Compass";
+rarity = "UNCOMMON";
+soulbound = "COOP";

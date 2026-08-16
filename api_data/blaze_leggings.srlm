@@ -1,0 +1,10 @@
+item = "leather_leggings";
+name = "Blaze Leggings";
+include("types/leggings", this);
+rarity = "EPIC";
+stats = {
+  walk_speed: 2,
+  defense: 130,
+  strength: 30
+};
+requirements.skill.combat = 22;

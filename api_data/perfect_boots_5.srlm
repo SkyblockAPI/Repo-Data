@@ -1,0 +1,7 @@
+item = "diamond_boots";
+name = "Perfect Boots - Tier V";
+include("types/boots", this);
+rarity = "EPIC";
+stats = {
+  defense: 170
+};

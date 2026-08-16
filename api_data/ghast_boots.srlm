@@ -1,0 +1,7 @@
+item = "chainmail_boots";
+name = "Ghast Boots";
+include("types/boots", this);
+rarity = "RARE";
+stats = {
+  health: 100
+};

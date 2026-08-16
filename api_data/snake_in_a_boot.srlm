@@ -1,0 +1,8 @@
+item = "leather_boots";
+name = "Snake-in-a-Boot";
+include("types/boots", this);
+rarity = "LEGENDARY";
+stats = {
+  rift_time: 60,
+  rift_walk_speed: 7
+};

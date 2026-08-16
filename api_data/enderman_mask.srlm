@@ -1,0 +1,12 @@
+item = "player_head";
+name = "Enderman Mask";
+include("types/helmet", this);
+skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzUwOTU0MCwKICAicHJvZmlsZUlkIiA6ICI1MjhlYzVmMmEzZmM0MDA0YjYwY2IwOTA5Y2JiMjdjYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdWxpenppIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzViYzRjMmNiOTlmNjQ3MjE3YmFhN2MxOWQ3NGVlMWYwMjU3Y2ZkZmMxYmVmYWI0MzA0ZDM0NTVkNDY2ZTg0MSIKICAgIH0KICB9Cn0=";
+rarity = "UNCOMMON";
+stats = {
+  defense: 1,
+  health: 1,
+  strength: 1,
+  intelligence: -99
+};
+soulbound = "COOP";

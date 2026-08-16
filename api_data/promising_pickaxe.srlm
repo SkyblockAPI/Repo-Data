@@ -1,0 +1,10 @@
+item = "iron_pickaxe";
+name = "Promising Pickaxe";
+include("types/pickaxe", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/promising_pickaxe";
+rarity = "UNCOMMON";
+stats = {
+  breaking_power: 3,
+  damage: 20,
+  mining_speed: 50
+};

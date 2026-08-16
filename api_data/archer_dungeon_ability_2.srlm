@@ -1,0 +1,6 @@
+item = "bow";
+name = "Stun Bow";
+include("types/bow", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/broken/broken_bow";
+rarity = "UNCOMMON";

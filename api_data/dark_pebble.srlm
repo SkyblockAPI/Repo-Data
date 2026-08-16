@@ -1,0 +1,3 @@
+item = "flint";
+name = "Dark Pebble";
+rift_transferrable = true;

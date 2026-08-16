@@ -1,0 +1,9 @@
+item = "gold_chestplate";
+name = "Gold Hunter Chestplate";
+include("types/chestplate", this);
+rarity = "EPIC";
+stats = {
+  health: 150
+};
+requirements.trophy.LAVA = "GOLD";
+soulbound = "SOLO";

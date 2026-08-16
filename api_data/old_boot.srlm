@@ -1,0 +1,4 @@
+item = "leather_boots";
+name = "Old Boot";
+include("types/accessory", this);
+rarity = "RARE";
