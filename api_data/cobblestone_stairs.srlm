@@ -1,2 +1,3 @@
 item = "cobblestone_stairs";
 name = "Cobblestone Stairs";
+rarity = "COMMON";

@@ -1,2 +1,3 @@
 item = "stone";
 name = "Polished Granite";
+rarity = "COMMON";

@@ -1,2 +1,3 @@
 item = "activator_rail";
 name = "Activator Rail";
+rarity = "COMMON";

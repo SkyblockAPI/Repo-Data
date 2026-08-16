@@ -2,3 +2,4 @@ item = "monster_egg";
 name = "Inflatable Jerry";
 include("types/dungeon", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/inflatable_jerry";
+rarity = "COMMON";

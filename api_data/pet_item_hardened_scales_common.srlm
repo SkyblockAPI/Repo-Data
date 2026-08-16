@@ -1,3 +1,4 @@
 item = "prismarine_crystals";
 name = "Hardened Scales";
 include("types/pet_item", this);
+rarity = "COMMON";

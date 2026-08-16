@@ -1,9 +1,5 @@
 meta {
-    rarity = "UNCOMMON";
-    item = "paper";
-    name = "Enchant test";
-    include("types/axe", this);
-
+    include("api_data/helianthus_relic", this);
     never_compact_enchants = true;
     booster_applicable = true;
 }

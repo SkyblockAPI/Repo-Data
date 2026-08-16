@@ -1,6 +1,7 @@
 item = "creeper_head";
 name = "Creeper Hat";
 include("types/helmet", this);
+rarity = "COMMON";
 stats = {
   defense: 5,
   health: 5,

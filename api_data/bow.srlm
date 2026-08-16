@@ -1,6 +1,7 @@
 item = "bow";
 name = "Bow";
 include("types/bow", this);
+rarity = "COMMON";
 stats = {
   damage: 30
 };

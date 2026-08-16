@@ -1,3 +1,4 @@
 item = "stone_hoe";
 name = "Stone Hoe";
 include("types/farming_tool", this);
+rarity = "COMMON";

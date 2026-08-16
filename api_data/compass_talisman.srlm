@@ -1,3 +1,4 @@
 item = "compass";
 name = "Compass Talisman";
 include("types/accessory", this);
+rarity = "COMMON";

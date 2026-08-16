@@ -2,6 +2,7 @@ item = "fishing_rod";
 name = "Prismarine Rod";
 include("types/fishing_rod", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/rod/broken_rod";
+rarity = "COMMON";
 stats = {
   damage: 15,
   strength: 10,

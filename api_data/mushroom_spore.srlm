@@ -1,2 +1,3 @@
 item = "brown_mushroom";
 name = "Mushroom Spore";
+rarity = "COMMON";

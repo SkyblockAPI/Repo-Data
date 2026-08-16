@@ -1,3 +1,4 @@
 item = "flint";
 name = "Dark Pebble";
+rarity = "COMMON";
 rift_transferrable = true;

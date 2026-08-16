@@ -1,3 +1,4 @@
 item = "monster_egg";
 name = "Move Jerry";
 this["minecraft:item_model"] = "minecraft:villager_spawn_egg";
+rarity = "COMMON";

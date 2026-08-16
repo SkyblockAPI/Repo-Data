@@ -1,6 +1,7 @@
 item = "iron_leggings";
 name = "Iron Leggings";
 include("types/leggings", this);
+rarity = "COMMON";
 stats = {
   defense: 25
 };

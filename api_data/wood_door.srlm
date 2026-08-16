@@ -1,2 +1,3 @@
 item = "wood_door";
 name = "Oak Door";
+rarity = "COMMON";

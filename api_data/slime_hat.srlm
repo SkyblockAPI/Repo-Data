@@ -2,6 +2,7 @@ item = "player_head";
 name = "Slime Hat";
 include("types/helmet", this);
 skin = "eyJ0aW1lc3RhbXAiOjE1MzA3MTAxMjgzMjksInByb2ZpbGVJZCI6IjU4ZjA0OWE1ZmY3NTRmMGFhYzdlYmM5MmYzY2RiZmYwIiwicHJvZmlsZU5hbWUiOiJwYWJsb2NucyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTIwZTg0ZDMyZDFlOWM5MTlkM2ZkYmI1M2YyYjM3YmEyNzRjMTIxYzU3YjI4MTBlNWE0NzJmNDBkYWNmMDA0ZiJ9fX0=";
+rarity = "COMMON";
 stats = {
   health: 50
 };

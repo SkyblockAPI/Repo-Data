@@ -1,4 +1,5 @@
 item = "gold_nugget";
 name = "§eYellow Rock of Love";
 include("types/accessory", this);
+rarity = "COMMON";
 soulbound = "COOP";

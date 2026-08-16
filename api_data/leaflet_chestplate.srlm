@@ -1,6 +1,7 @@
 item = "leather_chestplate";
 name = "Leaflet Tunic";
 include("types/chestplate", this);
+rarity = "COMMON";
 stats = {
   foraging_fortune: 3,
   health: 80

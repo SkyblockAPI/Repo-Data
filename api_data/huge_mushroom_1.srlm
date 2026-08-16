@@ -1,2 +1,3 @@
 item = "huge_mushroom_1";
 name = "Brown Mushroom Block";
+rarity = "COMMON";

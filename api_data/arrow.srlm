@@ -2,6 +2,7 @@ item = "arrow";
 name = "Flint Arrow";
 include("types/arrow", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/flint_arrow";
+rarity = "COMMON";
 stats = {
   damage: 1
 };

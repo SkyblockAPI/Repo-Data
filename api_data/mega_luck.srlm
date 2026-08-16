@@ -2,7 +2,7 @@ item = "player_head";
 name = "Arenjey God";
 include("types/helmet", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTY3MTU0NzE1NDI4MSwKICAicHJvZmlsZUlkIiA6ICJkZjY2OWIyOGFmNWE0MTNjODFhNjcwOGQ0ZDIyM2FlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJlbW9fbGFuZyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ZGM1YmNkNjNlNGE5ODgwZmM4ZDc5ZWMwOWE2ODQwZDMyNzM2YzYwOWI4OWRmYjQyNzY1OTM4MWVmYzY3NTRkIgogICAgfQogIH0KfQ==";
-rarity = "UNOBTAINABLE";
+rarity = "ADMIN";
 stats = {
   magic_find: 1000
 };

@@ -1,3 +1,4 @@
 item = "mycel";
 name = "Mycelium";
+rarity = "COMMON";
 category = "BLOCK";

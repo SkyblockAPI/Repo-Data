@@ -1,3 +1,4 @@
 item = "quartz";
 name = "Sharp Rock";
+rarity = "COMMON";
 soulbound = "COOP";

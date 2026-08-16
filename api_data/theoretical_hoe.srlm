@@ -1,3 +1,4 @@
 item = "iron_hoe";
 name = "Mathematical Hoe Blueprint";
 this["minecraft:item_model"] = "hypixel_skyblock:item/jacob/theoretical_hoe";
+rarity = "COMMON";

@@ -1,0 +1,26 @@
+static {
+  ap: {
+    COMMON: 3,
+    UNCOMMON: 5,
+    RARE: 8,
+    EPIC: 12,
+    LEGENDARY: 16,
+    MYTHIC: 22,
+    DIVINE: 28,
+    SPECIAL: 3,
+    VERY_SPECIAL: 5,
+    ULTIMATE: 1,
+    ADMIN: 22
+  }
+};
+if (!meta.categories.contains("accessory")) return;
+accessory_power = static_data.ap[Rarity.stack()];
+
+stack.lore.add({
+  text: "Accessory Power: ", 
+  color: "gray", 
+  extra: [{
+    text: String.formatted(accessory_power),
+    color: "orange"
+  }]
+});

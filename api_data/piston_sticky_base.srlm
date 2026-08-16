@@ -1,2 +1,3 @@
 item = "piston_sticky_base";
 name = "Sticky Piston";
+rarity = "COMMON";

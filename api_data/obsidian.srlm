@@ -1,3 +1,4 @@
 item = "obsidian";
 name = "Obsidian";
+rarity = "COMMON";
 category = "BLOCK";

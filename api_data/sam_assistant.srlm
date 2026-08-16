@@ -1,3 +1,4 @@
 item = "monster_egg";
 name = "Move Sam";
 this["minecraft:item_model"] = "minecraft:rabbit_spawn_egg";
+rarity = "COMMON";

@@ -2,3 +2,4 @@ item = "player_head";
 name = "Vaccine Talisman";
 include("types/accessory", this);
 skin = "eyJ0aW1lc3RhbXAiOjE0OTkzODk3MjY0OTIsInByb2ZpbGVJZCI6IjIzZjFhNTlmNDY5YjQzZGRiZGI1MzdiZmVjMTA0NzFmIiwicHJvZmlsZU5hbWUiOiIyODA3Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MTQwOGVkZThiNGY0NDQwMTVjNTlhYmQ1Y2QzMmI4NzY5ZGU1MTg4MWVkYWJjYzE1YWJiNjUxOWY1YjQ5In19fQ==";
+rarity = "COMMON";

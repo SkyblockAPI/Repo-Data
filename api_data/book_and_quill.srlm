@@ -1,2 +1,3 @@
 item = "book_and_quill";
 name = "Book and Quill";
+rarity = "COMMON";

@@ -1,6 +1,7 @@
 item = "gold_sword";
 name = "Golden Sword";
 include("types/sword", this);
+rarity = "COMMON";
 stats = {
   damage: 20
 };

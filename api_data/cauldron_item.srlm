@@ -1,2 +1,3 @@
 item = "cauldron_item";
 name = "Cauldron";
+rarity = "COMMON";

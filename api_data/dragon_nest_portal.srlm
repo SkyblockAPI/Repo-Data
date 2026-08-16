@@ -2,3 +2,4 @@ item = "player_head";
 name = "Portal to the Dragon's Nest";
 include("types/portal", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTYyMDY2NDExNDg5NiwKICAicHJvZmlsZUlkIiA6ICI2MWVhMDkyM2FhNDQ0OTEwYmNlZjViZmQ2ZDNjMGQ1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVEYXJ0aEZhdGhlciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lY2YxYjM1NDBmZDJmNjAzY2NmNDI2NzdjOGU4Y2FlN2NmZmIwZTFhZTIzYzYxYzUyMjI5OGVjNDRkMzEyZGNjIgogICAgfQogIH0KfQ==";
+rarity = "COMMON";

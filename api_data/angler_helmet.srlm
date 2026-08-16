@@ -1,6 +1,7 @@
 item = "diamond_helmet";
 name = "Angler Helmet";
 include("types/helmet", this);
+rarity = "COMMON";
 stats = {
   defense: 20,
   sea_creature_chance: 1

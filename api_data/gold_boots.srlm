@@ -1,6 +1,7 @@
 item = "gold_boots";
 name = "Golden Boots";
 include("types/boots", this);
+rarity = "COMMON";
 stats = {
   defense: 5
 };

@@ -2,7 +2,7 @@ item = "wood_pickaxe";
 name = "Zoom";
 include("types/pickaxe", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/zoom";
-rarity = "UNOBTAINABLE";
+rarity = "ADMIN";
 stats = {
   breaking_power: 10,
   damage: 99999999,

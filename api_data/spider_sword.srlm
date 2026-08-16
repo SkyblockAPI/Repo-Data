@@ -2,6 +2,7 @@ item = "iron_sword";
 name = "Spider Sword";
 include("types/sword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/spider_sword";
+rarity = "COMMON";
 stats = {
   damage: 30
 };

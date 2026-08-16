@@ -1,3 +1,4 @@
 item = "snow_ball";
 name = "Frosty Snowball";
+rarity = "COMMON";
 soulbound = "COOP";

@@ -1,7 +1,7 @@
 item = "leather_chestplate";
 name = "Test Vampire Chestplate";
 include("types/chestplate", this);
-rarity = "UNOBTAINABLE";
+rarity = "ADMIN";
 stats = {
   rift_damage: 60,
   rift_intelligence: 50,

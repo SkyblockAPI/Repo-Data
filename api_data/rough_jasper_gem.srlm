@@ -1,3 +1,4 @@
 item = "paper";
 name = "Rough Jasper Gemstone";
 this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/jasper/rough_jasper_gem";
+rarity = "COMMON";

@@ -1,2 +1,3 @@
 item = "ink_sack";
 name = "Gray Dye";
+rarity = "COMMON";

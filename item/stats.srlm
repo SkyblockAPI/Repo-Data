@@ -14,6 +14,7 @@ if ("stats" in this) {
     include("item/stats/shot_cooldown");
     include("item/stats/gem_slots");
     include("item/stats/boosters");
+    include("item/stats/accessory_power");
 
     stack.lore.endSection();
 };

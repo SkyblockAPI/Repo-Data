@@ -1,3 +1,4 @@
 item = "stone";
 name = "Hard Stone";
+rarity = "COMMON";
 category = "BLOCK";

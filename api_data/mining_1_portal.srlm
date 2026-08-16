@@ -2,3 +2,4 @@ item = "player_head";
 name = "Portal to the Gold Mine";
 include("types/portal", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTYxODk5ODk1MzM3MSwKICAicHJvZmlsZUlkIiA6ICIzYTNmNzhkZmExZjQ0OTllYjE5NjlmYzlkOTEwZGYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb19jcmVyYXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDg1NzNlZDkxNzQ0NDMxNmIwYjI4ZGQ5OTI3ZmQ2OGU1NmY2NjI1ZmNmYTczYWQ4MGI4NzcwZDUxMzk4OTFiMSIKICAgIH0KICB9Cn0=";
+rarity = "COMMON";

@@ -2,3 +2,4 @@ item = "player_head";
 name = "Festive Skeleton Minion Skin";
 include("types/cosmetic", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwODEzODUwNzU3OSwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kZWM3NmZmZTJjZGRlMGEwY2UyZWI4NjEyMTg3OTZlOTIwYTIzYjEzNmNmMjkzZmIyZWM4YTljMjY1MGQ1ZjBlIgogICAgfQogIH0KfQ==";
+rarity = "COMMON";

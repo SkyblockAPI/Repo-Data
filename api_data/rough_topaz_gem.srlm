@@ -1,3 +1,4 @@
 item = "paper";
 name = "Rough Topaz Gemstone";
 this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/topaz/rough_topaz_gem";
+rarity = "COMMON";

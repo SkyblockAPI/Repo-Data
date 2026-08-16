@@ -1,2 +1,3 @@
 item = "wood_button";
 name = "Wooden Button";
+rarity = "COMMON";

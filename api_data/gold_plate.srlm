@@ -1,2 +1,3 @@
 item = "gold_plate";
 name = "Light Weighted Pressure Plate";
+rarity = "COMMON";

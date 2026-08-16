@@ -1,2 +1,3 @@
 item = "ladder";
 name = "Ladder";
+rarity = "COMMON";

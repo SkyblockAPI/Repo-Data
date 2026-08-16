@@ -1,3 +1,4 @@
 item = "iron_plate";
 name = "Parkour Checkpoint";
+rarity = "COMMON";
 requirements.skill.social = 1;

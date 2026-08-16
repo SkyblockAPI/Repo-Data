@@ -1,5 +1,6 @@
 item = "diamond_helmet";
 name = "Helmet of Live Reloading";
+rarity = "COMMON";
 stats = {
   health: 2000
 };

@@ -1,6 +1,7 @@
 item = "gold_pickaxe";
 name = "Golden Pickaxe";
 include("types/pickaxe", this);
+rarity = "COMMON";
 stats = {
   breaking_power: 1,
   damage: 15,

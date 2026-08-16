@@ -1,2 +1,3 @@
 item = "gold_nugget";
 name = "§eYellow Rock";
+rarity = "COMMON";

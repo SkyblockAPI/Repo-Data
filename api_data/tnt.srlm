@@ -1,2 +1,3 @@
 item = "tnt";
 name = "TNT";
+rarity = "COMMON";

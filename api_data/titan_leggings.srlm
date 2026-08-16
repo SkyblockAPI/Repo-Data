@@ -1,7 +1,7 @@
 item = "diamond_leggings";
 name = "Titan's Leggings";
 include("types/leggings", this);
-rarity = "UNOBTAINABLE";
+rarity = "ADMIN";
 stats = {
   defense: 175,
   health: 200,

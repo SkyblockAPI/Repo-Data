@@ -1,3 +1,4 @@
 item = "quartz";
 name = "Nether Quartz";
+rarity = "COMMON";
 category = "ORE";

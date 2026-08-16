@@ -1,6 +1,7 @@
 item = "leather_boots";
 name = "Cactus Boots";
 include("types/boots", this);
+rarity = "COMMON";
 stats = {
   defense: 10,
   health: 5

@@ -1,2 +1,3 @@
 item = "item_frame";
 name = "Item Frame";
+rarity = "COMMON";

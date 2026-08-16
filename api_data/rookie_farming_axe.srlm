@@ -2,6 +2,7 @@ item = "stone_axe";
 name = "Rookie Farming Axe";
 include("types/farming_tool", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/rookie_farming_axe";
+rarity = "COMMON";
 stats = {
   farming_fortune: 5
 };

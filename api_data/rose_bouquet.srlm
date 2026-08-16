@@ -1,3 +1,4 @@
 item = "double_plant";
 name = "§cRose Bouquet";
+rarity = "COMMON";
 soulbound = "COOP";

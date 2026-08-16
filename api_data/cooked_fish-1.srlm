@@ -1,2 +1,3 @@
 item = "cooked_fish";
 name = "Cooked Salmon";
+rarity = "COMMON";

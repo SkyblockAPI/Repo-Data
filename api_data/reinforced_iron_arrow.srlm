@@ -2,6 +2,7 @@ item = "arrow";
 name = "Reinforced Iron Arrow";
 include("types/arrow", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/reinforced_iron_arrow";
+rarity = "COMMON";
 stats = {
   damage: 5
 };

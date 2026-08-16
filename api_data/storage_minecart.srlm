@@ -1,2 +1,3 @@
 item = "storage_minecart";
 name = "Minecart with Chest";
+rarity = "COMMON";

@@ -1,2 +1,3 @@
 item = "acacia_door_item";
 name = "Acacia Door";
+rarity = "COMMON";

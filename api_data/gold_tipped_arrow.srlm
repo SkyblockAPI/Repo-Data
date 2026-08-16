@@ -2,6 +2,7 @@ item = "arrow";
 name = "Gold-tipped Arrow";
 include("types/arrow", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/gold_tipped_arrow";
+rarity = "COMMON";
 stats = {
   damage: 10
 };

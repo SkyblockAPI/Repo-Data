@@ -1,2 +1,3 @@
 item = "powered_minecart";
 name = "Minecart with Furnace";
+rarity = "COMMON";

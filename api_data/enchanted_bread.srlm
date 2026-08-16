@@ -1,2 +1,3 @@
 item = "bread";
 name = "Enchanted Bread";
+rarity = "COMMON";

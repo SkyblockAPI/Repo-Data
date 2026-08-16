@@ -1,2 +1,3 @@
 item = "sponge";
 name = "Wet Sponge";
+rarity = "COMMON";

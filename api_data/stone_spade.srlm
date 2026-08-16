@@ -1,6 +1,7 @@
 item = "stone_spade";
 name = "Stone Shovel";
 include("types/spade", this);
+rarity = "COMMON";
 stats = {
   damage: 20
 };

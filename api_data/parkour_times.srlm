@@ -1,3 +1,4 @@
 item = "iron_block";
 name = "Parkour Times";
+rarity = "COMMON";
 requirements.skill.social = 1;

@@ -1,2 +1,3 @@
 item = "wood";
 name = "Oak Planks";
+rarity = "COMMON";

@@ -1,2 +1,3 @@
 item = "trap_door";
 name = "Wooden Trapdoor";
+rarity = "COMMON";

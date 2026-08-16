@@ -2,3 +2,4 @@ item = "stone_axe";
 name = "Sculptor's Axe";
 include("types/axe", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/sculptors_axe";
+rarity = "COMMON";

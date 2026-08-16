@@ -1,3 +1,4 @@
 item = "redstone";
 name = "Redstone Dust";
+rarity = "COMMON";
 category = "ORE";

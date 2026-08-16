@@ -1,2 +1,3 @@
 item = "hay_block";
 name = "Hay Bale";
+rarity = "COMMON";

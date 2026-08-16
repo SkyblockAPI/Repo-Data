@@ -1,2 +1,3 @@
 item = "flint_and_steel";
 name = "Flint and Steel";
+rarity = "COMMON";

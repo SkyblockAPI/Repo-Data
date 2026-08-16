@@ -1,3 +1,4 @@
 item = "lapis_block";
 name = "Block of Lapis Lazuli";
+rarity = "COMMON";
 category = "ORE";

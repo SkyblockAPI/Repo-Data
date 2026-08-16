@@ -1,3 +1,4 @@
 item = "iron_ingot";
 name = "Iron Ingot";
+rarity = "COMMON";
 category = "ORE";

@@ -1,2 +1,3 @@
 item = "watch";
 name = "Clock";
+rarity = "COMMON";

@@ -1,2 +1,3 @@
 item = "water_lily";
 name = "Lily Pad";
+rarity = "COMMON";

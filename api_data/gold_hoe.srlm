@@ -1,3 +1,4 @@
 item = "gold_hoe";
 name = "Golden Hoe";
 include("types/farming_tool", this);
+rarity = "COMMON";

@@ -1,2 +1,3 @@
 item = "emerald_block";
 name = "Block of Emerald";
+rarity = "COMMON";

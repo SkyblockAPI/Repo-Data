@@ -1,6 +1,7 @@
 item = "skeleton_skull";
 name = "Skeleton Hat";
 include("types/helmet", this);
+rarity = "COMMON";
 stats = {
   walk_speed: 2,
   weapon_ability_damage: 50,

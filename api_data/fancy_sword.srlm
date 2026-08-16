@@ -2,6 +2,7 @@ item = "gold_sword";
 name = "Fancy Sword";
 include("types/sword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/fancy_sword";
+rarity = "COMMON";
 stats = {
   damage: 20
 };

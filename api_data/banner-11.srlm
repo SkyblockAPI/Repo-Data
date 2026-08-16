@@ -1,4 +1,5 @@
 item = "paper";
 name = "Yellow Banner";
 this["minecraft:item_model"] = "minecraft:yellow_banner";
+rarity = "COMMON";
 soulbound = "COOP";

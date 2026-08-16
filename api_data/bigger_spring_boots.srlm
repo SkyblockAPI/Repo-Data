@@ -1,6 +1,7 @@
 item = "iron_boots";
 name = "Bigger Spring Boots";
 include("types/boots", this);
+rarity = "COMMON";
 stats = {
   defense: 10
 };

@@ -1,3 +1,4 @@
 item = "shears";
 name = "Shears";
 include("types/shears", this);
+rarity = "COMMON";

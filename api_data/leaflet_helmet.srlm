@@ -1,6 +1,7 @@
 item = "leaves";
 name = "Leaflet Hat";
 include("types/helmet", this);
+rarity = "COMMON";
 stats = {
   foraging_fortune: 3,
   health: 70

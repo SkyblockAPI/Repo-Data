@@ -1,3 +1,4 @@
 item = "flint";
 name = "Polished Pebble";
+rarity = "COMMON";
 soulbound = "COOP";

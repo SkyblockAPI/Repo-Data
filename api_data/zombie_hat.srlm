@@ -1,6 +1,7 @@
 item = "zombie_head";
 name = "Zombie Hat";
 include("types/helmet", this);
+rarity = "COMMON";
 stats = {
   defense: 10
 };

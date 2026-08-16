@@ -1,2 +1,3 @@
 item = "poisonous_potato";
 name = "Poisonous Potato";
+rarity = "COMMON";

@@ -1,3 +1,4 @@
 item = "skeleton_skull";
 name = "Skeleton Talisman";
 include("types/accessory", this);
+rarity = "COMMON";

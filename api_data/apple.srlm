@@ -1,2 +1,3 @@
 item = "apple";
 name = "Apple";
+rarity = "COMMON";

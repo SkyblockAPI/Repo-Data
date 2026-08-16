@@ -1,3 +1,4 @@
 item = "iron_hoe";
 name = "Farming Exp Boost";
 include("types/pet_item", this);
+rarity = "COMMON";

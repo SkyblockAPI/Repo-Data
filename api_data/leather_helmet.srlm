@@ -1,6 +1,7 @@
 item = "leather_helmet";
 name = "Leather Helmet";
 include("types/helmet", this);
+rarity = "COMMON";
 stats = {
   defense: 5
 };

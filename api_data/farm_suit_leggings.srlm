@@ -1,6 +1,7 @@
 item = "leather_leggings";
 name = "Farmhand Leggings";
 include("types/leggings", this);
+rarity = "COMMON";
 stats = {
   defense: 10,
   farming_fortune: 5

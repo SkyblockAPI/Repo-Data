@@ -2,3 +2,4 @@ item = "paper";
 name = "Carrot Bait";
 include("types/bait", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/bait/carrot_bait";
+rarity = "COMMON";

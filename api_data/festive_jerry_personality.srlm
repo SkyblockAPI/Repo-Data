@@ -2,3 +2,4 @@ item = "player_head";
 name = "Festive Jerry Minion Skin";
 include("types/cosmetic", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTYzODEyMjczMzU3NiwKICAicHJvZmlsZUlkIiA6ICJmZDQ3Y2I4YjgzNjQ0YmY3YWIyYmUxODZkYjI1ZmMwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDEyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyZGMzZDJmMGQ1N2RiMzlkMGQwNDUzZTJiMGRlZjkxZGFhZTE1ZWVlMzE4Y2ZhZThjMDg2NjMzMTQzMGQxMTQiCiAgICB9CiAgfQp9";
+rarity = "COMMON";

@@ -1,3 +1,4 @@
 item = "player_head";
 name = "Orange Lamp";
 skin = "eyJ0aW1lc3RhbXAiOjE1NTczMzk0MDk2MTAsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTI5YjFmMGZmNjI1YjJjYjkyYWRjNTIwOGQzMTc1MzNmYjgzYTg4MmIwNTA0ZDhjM2Y5ZTcxMzczZTcyNTZlMyJ9fX0=";
+rarity = "COMMON";

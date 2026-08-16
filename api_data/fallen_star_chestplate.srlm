@@ -1,3 +1,4 @@
 item = "leather_chestplate";
 name = "Fallen Star Chestplate";
 include("types/chestplate", this);
+rarity = "COMMON";

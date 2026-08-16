@@ -1,6 +1,7 @@
 item = "leather_chestplate";
 name = "Angler Chestplate";
 include("types/chestplate", this);
+rarity = "COMMON";
 stats = {
   defense: 40,
   sea_creature_chance: 1

@@ -1,6 +1,7 @@
 item = "leather_helmet";
 name = "Farmhand Helmet";
 include("types/helmet", this);
+rarity = "COMMON";
 stats = {
   defense: 10,
   farming_fortune: 5

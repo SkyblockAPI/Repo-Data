@@ -2,3 +2,4 @@ item = "player_head";
 name = "Portal to Birch Park";
 include("types/portal", this);
 skin = "eyJ0aW1lc3RhbXAiOjE1MTc5ODAwMTc2NjQsInByb2ZpbGVJZCI6IjQzYTgzNzNkNjQyOTQ1MTBhOWFhYjMwZjViM2NlYmIzIiwicHJvZmlsZU5hbWUiOiJTa3VsbENsaWVudFNraW42Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMjIxZjgxM2RhY2VlMGZlZjhjNTlmNzY4OTRkYmIyNjQxNTQ3OGQ5ZGRmYzQ0YzJlNzA4YTZkM2I3NTQ5YiJ9fX0=";
+rarity = "COMMON";

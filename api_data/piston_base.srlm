@@ -1,2 +1,3 @@
 item = "piston_base";
 name = "Piston";
+rarity = "COMMON";

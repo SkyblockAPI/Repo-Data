@@ -2,6 +2,7 @@ item = "stone_pickaxe";
 name = "Rookie Pickaxe";
 include("types/pickaxe", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/rookie_pickaxe";
+rarity = "COMMON";
 stats = {
   breaking_power: 2,
   damage: 15,

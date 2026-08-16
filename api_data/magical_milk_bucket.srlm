@@ -1,2 +1,3 @@
 item = "milk_bucket";
 name = "Magical Milk Bucket";
+rarity = "COMMON";

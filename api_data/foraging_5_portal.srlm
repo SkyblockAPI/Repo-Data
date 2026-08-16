@@ -2,3 +2,4 @@ item = "player_head";
 name = "Portal to Dark Thicket";
 include("types/portal", this);
 skin = "eyJ0aW1lc3RhbXAiOjE1NTczMzQyNjc3MDAsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE4YTJiZTg0YmQ2Y2U3ZjQ2YmM0YTFmYTAzNGNmNmZkZjYzZDYyMDA1NzhhY2M3NWY5ZjMxODE2NGIzOTY3YiJ9fX0=";
+rarity = "COMMON";

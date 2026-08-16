@@ -1,2 +1,3 @@
 item = "diode";
 name = "Repeater";
+rarity = "COMMON";

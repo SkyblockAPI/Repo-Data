@@ -1,6 +1,7 @@
 item = "leather_chestplate";
 name = "Leather Chestplate";
 include("types/chestplate", this);
+rarity = "COMMON";
 stats = {
   defense: 15
 };

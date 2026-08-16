@@ -2,3 +2,4 @@ item = "player_head";
 name = "Portal to Spruce Woods";
 include("types/portal", this);
 skin = "eyJ0aW1lc3RhbXAiOjE1MTc5ODAyNTU4ODcsInByb2ZpbGVJZCI6IjBiZTU2MmUxNzIyODQ3YmQ5MDY3MWYxNzNjNjA5NmNhIiwicHJvZmlsZU5hbWUiOiJ4Y29vbHgzIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NjZjYmRlZjhlZmI5MTRkNDNhMjEzYmU2NmI1Mzk2Zjc1ZTVjMWI5MTI0Zjc2ZjY3ZDdjZDMyNTI1NzQ4In19fQ==";
+rarity = "COMMON";
