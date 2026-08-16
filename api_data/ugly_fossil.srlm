@@ -2,3 +2,4 @@ item = "paper";
 name = "Ugly Fossil";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/fossils/ugly_fossil";
 rarity = "LEGENDARY";
+lore.after_ability = Component.splitToLength([{text: "The ugliest fossil to ever exist. It has a face only a mother could love."}], 35);

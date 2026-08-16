@@ -3,3 +3,4 @@ name = "Bag of Gold";
 skin = "eyJ0aW1lc3RhbXAiOjE0ODU0NjAwMjA1OTgsInByb2ZpbGVJZCI6IjdkYTJhYjNhOTNjYTQ4ZWU4MzA0OGFmYzNiODBlNjhlIiwicHJvZmlsZU5hbWUiOiJHb2xkYXBmZWwiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UzNmU5NGY2YzM0YTM1NDY1ZmNlNGE5MGYyZTI1OTc2Mzg5ZWI5NzA5YTEyMjczNTc0ZmY3MGZkNGRhYTY4NTIifX19";
 rarity = "RARE";
 soulbound = "SOLO";
+lore.after_ability = Component.splitToLength([{color: "gold", bold: false, italic: false, text: "A thank you present from a grateful person in the Crimson Isle."}], 35);

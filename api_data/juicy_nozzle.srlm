@@ -2,3 +2,4 @@ item = "paper";
 name = "Juicy Nozzle";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/pests/juicy_nozzle";
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{text: "Can be used at ", extra: [{color: "green", bold: false, italic: false, text: "SkyMart "}, {color: "gray", bold: false, italic: false, text: "to upgrade the "}, {color: "green", bold: false, italic: false, text: "Sprayonator "}, {color: "gray", bold: false, italic: false, text: "to the "}, {color: "blue", bold: false, italic: false, text: "Juicy Sprayonator"}, {color: "gray", bold: false, italic: false, text: "."}]}], 35);

@@ -2,3 +2,4 @@ item = "clay_ball";
 name = "Dark Queen's Soul";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{text: "A portion of Arachne's Soul that can be used to craft items."}], 35);

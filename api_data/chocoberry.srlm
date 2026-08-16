@@ -3,3 +3,4 @@ name = "Chocoberry";
 include("types/mutation", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc1OTc2MzM5MDI5NiwKICAicHJvZmlsZUlkIiA6ICI5MGQ1NDY0OGEzNWE0YmExYTI2Yjg1YTg4NTU4OGJlOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFdW4wbWlhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE2N2JiOTg4MGEzYWIzNzQzNWEyMWIxZjEzNWEwMWE5NmNjYTQ1YjQ5ZGFlYjRhMWU5MWJhZjM1OGUzN2Q4OWQiCiAgICB9CiAgfQp9";
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{text: "It looks incredibly tasty, taking a small bite wouldn't hurt the plant, right? Right?"}], 35);

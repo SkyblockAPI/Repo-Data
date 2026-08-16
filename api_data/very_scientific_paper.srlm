@@ -1,3 +1,4 @@
 item = "map";
 name = "Very Scientific Paper";
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{text: "Authored, peer-reviewed and published by Kay."}], 35);

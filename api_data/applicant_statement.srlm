@@ -8,3 +8,4 @@ stats = {
 };
 requirements.trophy.FROG = "BRONZE";
 soulbound = "SOLO";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A single-page printout outlining why the candidate's application should be accepted. Why are these a thing? Just read the application itself..."}]}], 35);

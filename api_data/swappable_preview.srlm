@@ -3,3 +3,4 @@ name = "%%green%%Swappable Preview %%gray%%(Click)";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTcwMDQxODM0MTc3MCwKICAicHJvZmlsZUlkIiA6ICI0M2NmNWJkNjUyMDM0YzU5ODVjMDIwYWI3NDE0OGQxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJrYW1pbDQ0NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYmNjOTVhYzNiM2U2ZjdlZjA4NTUzMDNmZjBhMTAwMzUyMTQxZmJiZmEwNjczODZiZjlhZmUyZTM3NjI2OWQyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
 rarity = "COMMON";
 soulbound = "SOLO";
+lore.after_ability = Component.splitToLength([{text: "Cycle between all the variations of the selected preview!"}], 35);

@@ -2,3 +2,4 @@ item = "paper";
 name = "Half-Eaten Mushroom";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/half_eaten_mushroom";
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Whatever was tasked with guarding this valuable mushroom looks to have gotten a little hungry."}]}], 35);

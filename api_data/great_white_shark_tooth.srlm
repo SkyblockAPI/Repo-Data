@@ -3,3 +3,4 @@ name = "Great White Shark Tooth";
 this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/marina/great_white_shark_tooth";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
+lore.after_ability = Component.splitToLength([{text: "Dropped by a Shark during Fishing Festival."}], 35);

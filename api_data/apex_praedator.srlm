@@ -6,3 +6,4 @@ rarity = "EPIC";
 stats = {
   damage: 20
 };
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Supra omnes, Apex Praedator solus regnat."}]}], 35);

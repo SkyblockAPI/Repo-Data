@@ -3,3 +3,4 @@ name = "Burning Eye";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/burning_eye";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Probably the single most regrettable effect of Sulphur on the island's fauna. You can't kill a spider with fire if it's already burning."}], 35);

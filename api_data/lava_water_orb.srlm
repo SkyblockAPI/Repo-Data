@@ -3,3 +3,4 @@ name = "Lava Water Orb";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/crimson_isle/bobbin_time/lava_water_orb";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
+lore.after_ability = Component.splitToLength([{text: "Extremely hot to the touch."}, "", {color: "dark_gray", bold: false, italic: false, text: "Shouldn't this be steam..?"}], 35);

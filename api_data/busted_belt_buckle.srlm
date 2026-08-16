@@ -2,3 +2,4 @@ item = "paper";
 name = "Busted Belt Buckle";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/junk/busted_belt_buckle";
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Somehow still intact, but covered in moss."}]}], 35);

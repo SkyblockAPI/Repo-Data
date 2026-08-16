@@ -10,3 +10,4 @@ stats = {
   ferocity: 2
 };
 requirements.rabbit.zorro = 1;
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Not all Rabbits wear capes."}]}], 35);

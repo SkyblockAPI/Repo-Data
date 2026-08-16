@@ -3,3 +3,4 @@ name = "Horn of Taurus";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/horn_of_taurus";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Popular among Piglins, often used as a war charm."}], 35);

@@ -3,3 +3,4 @@ name = "Orb of Energy";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/orb_of_energy";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "According to Professor Selta they are 9V batteries and can supply about 50mA of current. Professor Selta is currently in a mental asylum."}], 35);

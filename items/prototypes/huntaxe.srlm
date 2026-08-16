@@ -1,6 +1,7 @@
 include("types/axe", this);
 type = "Hunting Tool";
 item = "golden_axe";
+can_be_reforged = true;
 
 abilities = [
     {

@@ -3,3 +3,4 @@ name = "Expensive Toy";
 include("types/memento", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTY5OTM5NDI1NDY1NSwKICAicHJvZmlsZUlkIiA6ICI4YWFlYTdlYjViOWM0ZWEwODUxNWU3MDhhZGIxODBkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYVBhODA3MTEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjRhYmQ3MGY3ZDlkZmE0N2MzMGEwOTkyZDNiN2Y1M2Q3NGU3M2VkY2JiM2Y1ZmE4MDYzYjkxNDg2YWM5ZmY0YyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
 rarity = "SPECIAL";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "This toy is said to bring extraordinary luck and prosperity to its owner. But remember, with great power comes an even greater price tag."}]}], 35);

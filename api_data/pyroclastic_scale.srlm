@@ -2,3 +2,4 @@ item = "prismarine_shard";
 name = "Pyroclastic Scale";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/pyroclastic_scale";
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: 'Makes pretty "drip" necklaces, according to the local youth.'}], 35);

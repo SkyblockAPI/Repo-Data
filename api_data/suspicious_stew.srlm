@@ -2,3 +2,4 @@ item = "player_head";
 name = "Suspicious Stew";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NDAzOTY3OSwKICAicHJvZmlsZUlkIiA6ICI0NTM1Y2RjNjk3NGU0Nzk4YjljYzY4ODlkZWY1MDk2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICIzZXlyZW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWE2YzE5YzQ1YTQwMjZkMzM1MThjNTJmZWY3N2I0OTg1YjhhMmUzNjM3Yzc0NTQzYjJhZjY5MTAwODEzNDVlNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{text: 'Comes with a Health Disclaimer: "Expired in the year 87. Do not consume." ', extra: [{color: "black", bold: false, italic: false, text: "ඞ"}]}], 35);

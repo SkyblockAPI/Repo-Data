@@ -3,3 +3,4 @@ name = "Inferno Fuel Block";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTY1OTc5MjIxNjIzNywKICAicHJvZmlsZUlkIiA6ICJjNTZlMjI0MmNiZWY0MWE2ODdlMzI2MGRjMGNmOTM2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMSlI3MzEwMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yOGExODg0ZWUzZjhhNmU2NjY5MmE5MWVkNzYzY2I3OGQ5ZjIwMTc3MDZkOGI0MmE5MjYzYjQxN2IyZDcxNWQyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{text: "Reacts with gabagool in the crafting of Inferno minion fuels."}], 35);

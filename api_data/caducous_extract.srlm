@@ -2,3 +2,4 @@ item = "player_head";
 name = "Caducous Extract";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjUxODI2NCwKICAicHJvZmlsZUlkIiA6ICJkM2Y5MjEyMjY3YzM0YzEwYWNjOWZkNGI5MDFkYjI0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXl3ZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMmM2YjU3YjJkMGU3NzhiMTM5ZWJjZDUxODgxNmU0YmQwYWVhZWNkYWEwOTQ0YmIzZmVmNmZmN2UxZjNkMmYxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{text: "Bundling what bees find attractive together in an industrial production process is definitely what nature planned."}], 35);

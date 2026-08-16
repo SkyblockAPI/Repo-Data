@@ -3,3 +3,4 @@ name = "Water Orb";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/crimson_isle/bobbin_time/water_orb";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{text: "A perfectly smooth, highly condensed orb of pure fish matter."}, "", {text: "Used as a core ingredient in high level fishing crafts."}, "", {color: "dark_gray", bold: false, italic: false, text: "Smells like fish..."}], 35);

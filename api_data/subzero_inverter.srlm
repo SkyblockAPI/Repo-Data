@@ -3,3 +3,4 @@ name = "Subzero Inverter";
 this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/blaze/pets_related/subzero_inverter";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
+lore.after_ability = Component.splitToLength([{text: "Drops extremely rarely from the Inferno Demonlord."}], 35);

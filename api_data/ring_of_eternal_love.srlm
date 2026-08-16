@@ -6,3 +6,4 @@ rarity = "LEGENDARY";
 stats = {
   rift_time: 80
 };
+lore.after_ability = Component.splitToLength([{text: "Ramero and Joliet's love transcends the boundaries of time, space, and fate itself."}], 35);

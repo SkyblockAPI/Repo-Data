@@ -3,3 +3,4 @@ name = "Choconut";
 include("types/mutation", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc1OTc2MzM5MTk5OCwKICAicHJvZmlsZUlkIiA6ICI3MjU1MDA3NjQzYzQ0YTZiYjM3MjJlNzc3OTk5OTFkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4M250YW55IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJhOGQ3NGI3N2EwZTUxMGQwNThjNTQ0YzcyOTJhODg0NGU3MGI5MjkzODgwY2FmZmM1NjJjZTVhYjVhNDlhZDgiCiAgICB9CiAgfQp9";
 rarity = "COMMON";
+lore.after_ability = Component.splitToLength([{text: "Its shell is tough, but inside, it's filled with pure chocolate."}], 35);

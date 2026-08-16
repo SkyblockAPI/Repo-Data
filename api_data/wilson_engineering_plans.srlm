@@ -2,3 +2,4 @@ item = "paper";
 name = "Wilson's Engineering Plans";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
+lore.after_ability = Component.splitToLength([{text: "Drops very rarely from the Inferno Demonlord."}], 35);

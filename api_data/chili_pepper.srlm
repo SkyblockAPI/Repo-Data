@@ -2,3 +2,4 @@ item = "player_head";
 name = "Chili Pepper";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTY3OTU2MTY4OTMyMSwKICAicHJvZmlsZUlkIiA6ICI3MWM1OTI5YmYzOTI0MGQwODBhYWM1OTNlODFkZTQ0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJkb2NrbGFuZGJveTk5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y4NTljOGRmMTEwOWMwOGE3NTYyNzVmMWQyODg3YzI3NDgwNDlmZTMzODc3NzY5YTdiNDE1ZDU2ZWRhNDY5ZDgiCiAgICB9CiAgfQp9";
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{text: "It's red hot, but green!"}], 35);

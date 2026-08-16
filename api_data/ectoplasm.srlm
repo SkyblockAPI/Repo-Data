@@ -2,3 +2,4 @@ item = "prismarine_crystals";
 name = "Ectoplasm";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{text: "Spooky, yet practical."}], 35);

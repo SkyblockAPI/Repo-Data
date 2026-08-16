@@ -3,3 +3,4 @@ name = "Noctilume";
 include("types/mutation", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc2Mjc3NjA2Mjk0OCwKICAicHJvZmlsZUlkIiA6ICJmM2VlZmVlYTk1NTU0MzhhODllNWQyNjMwZjVhNDUyNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTcG9va3lBdG9tMDkwNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjFiMTg0OTNkNTBmZjg5NzJmN2VmMzU5ODkzZDkwNjNmZGM1NGNiODIyYzY3OTAwMjk1N2MyOTRmYzhiMDAwNSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{text: "A delicate flower that needs just the right balance of day and night, changing colors to show when it's craving more light or darkness."}], 35);

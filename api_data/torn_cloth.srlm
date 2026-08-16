@@ -3,3 +3,4 @@ name = "Torn Cloth";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/torn_cloth";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "A torn article of men's clothing, waterlogged and mossy. Probably too late to ask for a refund."}], 35);

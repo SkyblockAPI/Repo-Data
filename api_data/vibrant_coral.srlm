@@ -3,3 +3,4 @@ name = "Vibrant Coral";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTY0MDIwODQwMzI1MCwKICAicHJvZmlsZUlkIiA6ICJiNjM2OWQ0MzMwNTU0NGIzOWE5OTBhODYyNWY5MmEwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb2JpbmhvXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NTNkZDZjNmFkZDA5YzExZmYxOWY1ZmU3NTM3MGI2Y2VjMTczMjQ5NDVjYWMwNWMwZTJjNDYzMWZmNDE4NjcyIgogICAgfQogIH0KfQ==";
 this["minecraft:item_model"] = "minecraft:tube_coral";
 rarity = "LEGENDARY";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Coral flourishes under the immense pressure of the Murkwater Loch. It is believed to be the favorite food of Nessie."}]}], 35);

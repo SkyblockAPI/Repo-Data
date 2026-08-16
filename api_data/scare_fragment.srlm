@@ -2,3 +2,4 @@ item = "stained_glass";
 name = "Scare Fragment";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Imbued with the pure essence of terror, this shard pulsates with an unsettling energy."}], 35);

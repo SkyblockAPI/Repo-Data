@@ -2,3 +2,4 @@ item = "paper";
 name = "Old Leather Boot";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/junk/old_leather_boot";
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Well-worn and waterlogged."}]}], 35);

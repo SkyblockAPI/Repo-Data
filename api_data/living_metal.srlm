@@ -2,3 +2,4 @@ item = "stained_glass";
 name = "Living Metal";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{text: "It snakes around your blocky hand as you hold it."}], 35);

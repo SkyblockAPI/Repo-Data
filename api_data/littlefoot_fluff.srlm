@@ -2,3 +2,4 @@ item = "ink_sack";
 name = "Littlefoot Fluff";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "A poignant reminder of the day you almost caught Bigfoot’s younger, lesser-known brother. Even collectors don’t want it, so it’s yours to keep."}], 35);

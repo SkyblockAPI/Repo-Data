@@ -4,3 +4,4 @@ include("types/dungeon", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/jolly_pink_rock";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{text: "The hottest shade of pink ever worn by a Giant."}], 35);

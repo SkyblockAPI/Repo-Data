@@ -3,3 +3,4 @@ name = "Bobbin' Scriptures";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/crimson_isle/bobbin_time/bobbin_scriptures";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{text: "The sacred ways of bobbin', written by a long-forgotten worshipper of Kuudra."}], 35);

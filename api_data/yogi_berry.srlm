@@ -2,3 +2,4 @@ item = "paper";
 name = "Yogi Berry";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/safari/quest/yogi_berry";
 rarity = "SPECIAL";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A large, tasty berry. Whatever critter eats this won't be hungry anytime soon."}]}], 35);

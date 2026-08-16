@@ -3,3 +3,4 @@ name = "Kelvin Inverter";
 this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/blaze/pets_related/kelvin_inverter";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{text: "Drops rarely from the Inferno Demonlord."}], 35);

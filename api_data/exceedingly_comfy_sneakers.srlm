@@ -6,3 +6,4 @@ stats = {
   rift_time: 45,
   rift_walk_speed: 5
 };
+lore.after_ability = Component.splitToLength([{text: "Stay classy."}], 35);

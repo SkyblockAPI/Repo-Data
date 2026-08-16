@@ -3,3 +3,4 @@ name = "Game Fixer";
 include("types/pickaxe", this);
 rarity = "VERY_SPECIAL";
 soulbound = "COOP";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Given to individuals who broke the game too many times. Thanks for your great help!"}], 35);

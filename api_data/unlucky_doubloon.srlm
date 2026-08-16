@@ -3,3 +3,4 @@ name = "Unlucky Doubloon";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/lotus_atoll/unlucky_doubloon";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{text: "The prized possession of an ill-fated captain. It was thought by his crew to bring him good luck."}], 35);

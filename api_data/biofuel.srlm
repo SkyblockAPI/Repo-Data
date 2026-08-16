@@ -2,3 +2,4 @@ item = "ink_sack";
 name = "Biofuel";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/biofuel";
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "100% renewable energy!"}]}], 35);

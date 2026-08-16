@@ -2,3 +2,4 @@ item = "coal_block";
 name = "Bingo Display";
 include("types/cosmetic", this);
 rarity = "COMMON";
+lore.after_ability = Component.splitToLength([{text: "", extra: [{color: "gray", bold: false, italic: false, text: "Show off your total "}, {color: "gold", bold: false, italic: false, text: "Bingo Points"}, {color: "gray", bold: false, italic: false, text: "!"}]}], 35);

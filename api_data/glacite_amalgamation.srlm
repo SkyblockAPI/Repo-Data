@@ -2,3 +2,4 @@ item = "paper";
 name = "Glacite Amalgamation";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/glacite/glacite_amalgamation";
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{text: "Glacite resists even the heat of the great Dwarven Forge. The key is to combine rather than to try to reduce."}], 35);

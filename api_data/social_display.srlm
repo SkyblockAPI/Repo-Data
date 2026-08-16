@@ -2,3 +2,4 @@ item = "gold_block";
 name = "Social Display";
 rarity = "UNCOMMON";
 requirements.skill.social = 2;
+lore.after_ability = Component.splitToLength([{text: "Places a hologram displaying the top players on your island by points."}], 35);

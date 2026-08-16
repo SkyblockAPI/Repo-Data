@@ -3,3 +3,4 @@ name = "Honeycomb";
 this["minecraft:item_model"] = "minecraft:honeycomb";
 ::items::prototypes::ingredient::(this);
 rarity = "COMMON";
+lore.after_ability = Component.splitToLength([{text: "The famed, sweet-smelling produce of Torrhus Canyon."}], 35);

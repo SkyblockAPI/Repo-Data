@@ -3,3 +3,4 @@ name = "Super Enchanted Egg";
 this["minecraft:item_model"] = "minecraft:turtle_egg";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{text: "Used to craft more advanced pets."}], 35);

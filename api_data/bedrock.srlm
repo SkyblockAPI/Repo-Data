@@ -3,3 +3,4 @@ name = "Bedrock";
 this["minecraft:item_model"] = "minecraft:bedrock";
 rarity = "LEGENDARY";
 soulbound = "COOP";
+lore.after_ability = Component.splitToLength([{color: "red", bold: false, italic: false, text: "I guess you have this now."}], 35);

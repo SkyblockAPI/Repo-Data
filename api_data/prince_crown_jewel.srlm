@@ -2,3 +2,4 @@ item = "gold_nugget";
 name = "Prince's Crown Jewel";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
+lore.after_ability = Component.splitToLength([{text: "A splendid jewel, once thrown into the Lotus Eater's pond as tribute. It now serves as the centerpiece of the Frog Prince's makeshift crown."}], 35);

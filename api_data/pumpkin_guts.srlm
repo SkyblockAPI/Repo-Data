@@ -2,3 +2,4 @@ item = "pumpkin_seeds";
 name = "Pumpkin Guts";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{text: "Why does Halloween have to be so gross?"}], 35);

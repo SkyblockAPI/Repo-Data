@@ -3,3 +3,4 @@ name = "Broken Radar";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/broken_radar";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Snapping Turtles will bite into just about anything, radars included. Maybe you can fix it?"}], 35);

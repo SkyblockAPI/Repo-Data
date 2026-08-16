@@ -3,3 +3,4 @@ name = "Sulphur";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/sulphur";
 rarity = "UNCOMMON";
 category = "ORE";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: "\"Give me some Sulphur and I'll make a wand. Give me all the Sulphur and I'll conquer the world.\" - Unnamed Mage."}]}], 35);

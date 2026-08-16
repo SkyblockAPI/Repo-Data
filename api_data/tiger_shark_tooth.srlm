@@ -3,3 +3,4 @@ name = "Tiger Shark Tooth";
 this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/marina/tiger_shark_tooth";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{text: "Dropped by a Shark during Fishing Festival."}], 35);

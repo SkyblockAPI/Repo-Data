@@ -3,3 +3,4 @@ name = "Puff Crux";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyNDA4MzEyOTI3MCwKICAicHJvZmlsZUlkIiA6ICI5ZTA5YzM4ZGUzZTY0MDA2OTAwYzAwZTJiOTQ3ZTQwMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4RFRPTUFTX1lUIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJmMjdlNTNmMTAxYzM0OTgwMWZjMzMyYWQyM2EzMjU0NzI1ODE4YTAxNzA3ZDU1MmU2MzNhNjM0YWUyY2YwZDEiCiAgICB9CiAgfQp9";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{text: "Pure CO²."}], 35);

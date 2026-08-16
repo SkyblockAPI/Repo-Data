@@ -6,3 +6,4 @@ rarity = "LEGENDARY";
 stats = {
   rift_time: 80
 };
+lore.after_ability = Component.splitToLength([{text: "This time around, fate really got in the way of love."}], 35);

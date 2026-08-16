@@ -8,3 +8,4 @@ rift_transferrable = true;
 stats = {
   rift_time: 12
 };
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: 'Dark and powerful spells, includes his favorite "Barrier" that his Professor taught him.'}]}], 35);

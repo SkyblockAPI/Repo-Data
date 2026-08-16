@@ -2,3 +2,4 @@ item = "stone";
 name = "Hard Stone";
 rarity = "COMMON";
 category = "BLOCK";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "A condensed form of rock only found at extreme depths."}], 35);

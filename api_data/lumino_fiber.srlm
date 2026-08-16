@@ -3,3 +3,4 @@ name = "Lumino Fiber";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/lumino_fiber";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Changes color based on the angle you look at it."}], 35);

@@ -2,3 +2,4 @@ item = "paper";
 name = "Clubbed Fossil";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/fossils/clubbed_fossil";
 rarity = "LEGENDARY";
+lore.after_ability = Component.splitToLength([{text: "A tail ending in a thick club that was used to fend off predators."}], 35);

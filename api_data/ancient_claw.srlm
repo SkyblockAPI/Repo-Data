@@ -2,3 +2,4 @@ item = "flint";
 name = "Ancient Claw";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{text: "The claw of an ancient beast, hardened by time and countless battles."}], 35);

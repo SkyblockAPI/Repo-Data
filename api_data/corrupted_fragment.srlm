@@ -3,3 +3,4 @@ name = "Corrupted Fragment";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/corrupted_fragment";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Spreads fast."}], 35);

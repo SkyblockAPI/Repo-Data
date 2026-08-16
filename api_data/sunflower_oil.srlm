@@ -2,3 +2,4 @@ item = "paper";
 name = "Sunflower Oil";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/greenhouse/sunflower/sunflower_oil";
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Can be used in your daily diet or in heavy machinery."}]}], 35);

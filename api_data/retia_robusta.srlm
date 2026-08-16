@@ -4,3 +4,4 @@ include("types/trap", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/traps/large_huntrap";
 rarity = "RARE";
 requirements.skill.hunting = 10;
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: "In robore, fiducia."}]}], 35);

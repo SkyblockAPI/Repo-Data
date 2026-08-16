@@ -2,3 +2,4 @@ item = "paper";
 name = "Cup of Blood";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/cup_of_blood";
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: "Eww"}]}], 35);

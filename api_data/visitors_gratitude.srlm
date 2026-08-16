@@ -3,3 +3,4 @@ name = "Visitors' Gratitude";
 this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/finnegan/visitors_gratitude";
 ::items::prototypes::ingredient::(this);
 rarity = "COMMON";
+lore.after_ability = Component.splitToLength([{text: "You made someone smile today! ", extra: [{color: "light_purple", bold: false, italic: false, text: "❤"}]}], 35);

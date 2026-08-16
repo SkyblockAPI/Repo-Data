@@ -9,3 +9,4 @@ rift_transferrable = true;
 stats = {
   rift_time: 10
 };
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: "The collection of his studies, beautiful handwriting!"}]}], 35);

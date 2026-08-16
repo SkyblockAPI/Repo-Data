@@ -3,3 +3,4 @@ name = "Titanoboa Shed";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/titanboa_shed";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "A massive set of discarded snake skin. There's so much of it that it's hard to lift."}], 35);

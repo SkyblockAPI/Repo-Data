@@ -3,3 +3,4 @@ name = "Magma Chunk";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/magma_chunk";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: '"If Magma Cream is the cement, Magma Chunks are the bricks." - Magma Cube local expert.'}]}], 35);

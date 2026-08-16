@@ -3,3 +3,4 @@ name = "Hallowed Skull";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/hallowed_skull";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Incredibly heavy. Put one on each side of a stick and you just crafted yourself very stylish dumbbells."}], 35);

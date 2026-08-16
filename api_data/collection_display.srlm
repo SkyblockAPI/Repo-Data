@@ -2,3 +2,4 @@ item = "diamond_block";
 name = "Collection Display";
 include("types/cosmetic", this);
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Show off your collection progress!"}], 35);

@@ -3,3 +3,4 @@ name = "Crude Gabagool";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTY2MTYwNjkyNjE3OSwKICAicHJvZmlsZUlkIiA6ICIwOTZkYWUzZWY1MmU0YWU4ODk3ODY2N2EyOGIwZWFhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJHd0FiaXlCZ2dnIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdlNjU2NGJiZmE3NDljOWUwZWYzYWMyYTNmMjExMDEzOWE1NTk0NDg0MWQxMDczNWNmOTAwZDFlMjkwMzk0MTgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{text: "Created by Inferno minions, use to feed Wisp pets or tier up into Fuel Gabagool."}], 35);

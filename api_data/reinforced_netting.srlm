@@ -3,3 +3,4 @@ name = "Reinforced Netting";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/reinforced_netting";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
+lore.after_ability = Component.splitToLength([{text: "", extra: [{color: "gray", bold: false, italic: false, text: "Dropped by the "}, {color: "dark_purple", bold: false, italic: false, text: "Giant Isopod "}, {color: "dark_aqua", bold: false, italic: false, text: "Sea Creature "}, {color: "gray", bold: false, italic: false, text: "in "}, {color: "gold", bold: false, italic: false, text: "Torrhus Canyon"}, {color: "gray", bold: false, italic: false, text: "."}]}, "", {text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A massive, sturdy piece of netting that would be more than strong enough to catch most critters when used as a net. Unfortunately, for whoever owned it, the Giant Isopod is a bit larger than your average critter."}]}], 35);

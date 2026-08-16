@@ -3,3 +3,4 @@ name = "Hyper Catalyst Upgrade";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwNzA3NDgyMTQ3NSwKICAicHJvZmlsZUlkIiA6ICI0ZWQ4MjMzNzFhMmU0YmI3YTVlYWJmY2ZmZGE4NDk1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaXJlYnlyZDg4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzEyZTRlYjhhOTAzYzU4NWE3OTU5ZWZlM2Q3YWYwOWFjZDExOWVmMGE2OGRmODYxMTUyYzg0ODA4MDRmODIyODEiCiAgICB9CiAgfQp9";
 ::items::prototypes::ingredient::(this);
 rarity = "SPECIAL";
+lore.after_ability = Component.splitToLength([{text: "Combine with ", extra: [{color: "blue", bold: false, italic: false, text: "Catalysts"}, {color: "gray", bold: false, italic: false, text: ", buffing the fuel to "}, {color: "green", bold: false, italic: false, text: "x4 "}, {color: "gray", bold: false, italic: false, text: "for 6 hours duration."}]}], 35);

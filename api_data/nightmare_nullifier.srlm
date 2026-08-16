@@ -2,3 +2,4 @@ item = "clay_ball";
 name = "Nightmare Nullifier";
 rarity = "UNCOMMON";
 soulbound = "COOP";
+lore.after_ability = Component.splitToLength([{text: "Why have nightmares when you can drink coffee instead?"}], 35);

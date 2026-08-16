@@ -2,3 +2,4 @@ item = "paper";
 name = "Volta";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/volta";
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Bzzzt"}]}], 35);

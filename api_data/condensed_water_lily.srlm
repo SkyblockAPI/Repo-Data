@@ -3,3 +3,4 @@ name = "Condensed Lily Pad";
 this["minecraft:item_model"] = "hypixel_skyblock:item/collections/lily_pad/condensed_lily_pad";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "A truly massive amount of Lily Pads mashed into a large ball."}], 35);

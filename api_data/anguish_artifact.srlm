@@ -7,3 +7,4 @@ stats = {
   magic_find: 3,
   true_defense: 1.5
 };
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Why are we still here? Just to suffer?"}]}], 35);

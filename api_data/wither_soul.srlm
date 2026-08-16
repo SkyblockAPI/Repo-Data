@@ -3,3 +3,4 @@ name = "Wither Soul";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/wither_soul";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{text: "You can still hear their cries from the other side."}], 35);

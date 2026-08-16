@@ -3,10 +3,11 @@ static eval {
 };
 
 static_data = static(::root::);
-custom_path = data.id in static_data;
+data_id = String.lowercase(data.id);
+custom_path = data_id in static_data;
 
 file = if (custom_path) {
-    String.concat("items/", static_data[data.id])
+    String.concat("items/", static_data[data_id])
 } else {
     String.concat("items/", String.lowercase(data.id))
 }

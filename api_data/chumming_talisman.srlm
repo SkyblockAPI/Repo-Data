@@ -7,3 +7,4 @@ stats = {
   fishing_speed: 1,
   fishing_wisdom: 1
 };
+lore.after_ability = Component.splitToLength([{text: "Listen, it's for real chums of Moby, ok?"}], 35);

@@ -3,3 +3,4 @@ name = "X";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/x";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "One Dimensional"}], 35);

@@ -2,3 +2,4 @@ item = "melon_block";
 name = "Vampiric Melon";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{text: "Perfect ingredient for a healing melon."}], 35);

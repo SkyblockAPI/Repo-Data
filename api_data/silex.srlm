@@ -2,3 +2,4 @@ item = "quartz";
 name = "Sharp Rock";
 rarity = "COMMON";
 soulbound = "COOP";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "A sharp rock with sturdy construction."}], 35);

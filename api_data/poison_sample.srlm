@@ -3,3 +3,4 @@ name = "Poison Sample";
 this["minecraft:item_model"] = "hypixel_skyblock:item/combat_1/poison_sample";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{text: "Dropped from ", extra: [{color: "green", bold: false, italic: false, text: "Slimes"}, {color: "gray", bold: false, italic: false, text: ", but only the especially toxic ones!"}]}], 35);

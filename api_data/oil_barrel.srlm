@@ -2,3 +2,4 @@ item = "paper";
 name = "Oil Barrel";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/oil_barrel";
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "100% unrenewable energy!"}]}], 35);

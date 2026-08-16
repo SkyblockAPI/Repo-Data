@@ -2,3 +2,4 @@ item = "player_head";
 name = "Severed Pincer";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTczOTY2NjM2MDYxMSwKICAicHJvZmlsZUlkIiA6ICIxNTUyNmU1OGZhOWE0NjBmODhhNmZhNjk1M2RlNjgzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJQaWVkcml0YTE3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdlMWUwNzAxZjFmOWU5NzQ3NjVlNGYyYTdjMzNhOTQ1OGM1OTgzMzQ0MDE1MzhkYzlmMjFmNWVkN2UzNWY3OWEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
 rarity = "LEGENDARY";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Hopefully he doesn't want this back."}]}], 35);

@@ -2,3 +2,4 @@ item = "player_head";
 name = "Orange Gem";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA1NjE4OSwKICAicHJvZmlsZUlkIiA6ICJjYmNkNDQzZGE1NTI0OGU3ODM3NWNmZjYwMmQzZWI0NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJPX1JlaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lZmI2MDMwM2E4OGYxYTJhMDg4MTBiYTVhNjhlNTFhYTA4MDM2MjQwMDRiY2U2MGY0MzE0YTYxY2FjZjcyNThmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
 rarity = "SPECIAL";
+lore.after_ability = Component.splitToLength([{color: "dark_gray", bold: false, italic: false, text: "A shiny orange gem that glows faintly."}], 35);

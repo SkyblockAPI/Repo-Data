@@ -4,3 +4,4 @@ include("types/dungeon", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/spirit_wing";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{text: "Spirits of bats often take refuge in their own wings. They sometimes grow in power and gain tremendous magical properties."}], 35);

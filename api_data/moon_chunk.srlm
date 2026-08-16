@@ -2,3 +2,4 @@ item = "ender_stone";
 name = "§fChunk of the Moon";
 rarity = "RARE";
 soulbound = "COOP";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Where love is rife, the preconceived laws of physics mean nothing."}]}], 35);

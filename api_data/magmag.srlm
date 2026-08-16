@@ -2,3 +2,4 @@ item = "paper";
 name = "Magmag";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/magmag";
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Used in love potions, and laxatives."}], 35);

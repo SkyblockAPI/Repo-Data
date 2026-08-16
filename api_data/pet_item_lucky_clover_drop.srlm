@@ -2,3 +2,4 @@ item = "ink_sack";
 name = "Lucky Clover Core";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{text: "Used to craft the Lucky Clover pet item."}], 35);

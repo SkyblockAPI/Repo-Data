@@ -3,3 +3,4 @@ name = "Timestalk";
 include("types/mutation", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc2MTkxMjM0NzQ4NSwKICAicHJvZmlsZUlkIiA6ICJmYzFhOTdlNTgxM2Y0NDI2YTNmZTI4ZjJiNDc1ZjA4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJnZXRPbmxpbmVQbGF5ZXJzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFiOWFkZDQzZTBlNzcwYjdjNGNjZGNmNjcwOGY4YjllODc1ZmYxM2IyYTc1YWI2M2ZmNjlmMmYwZTU3YWY5ZTUiCiAgICB9CiAgfQp9";
 rarity = "LEGENDARY";
+lore.after_ability = Component.splitToLength([{text: "The timestalk is a mysterious plant that defies time itself, starting fully grown and slowly aging backwards."}], 35);

@@ -6,3 +6,4 @@ stats = {
   rift_time: 60,
   rift_walk_speed: 7
 };
+lore.after_ability = Component.splitToLength([{text: "You've got a friend in me."}], 35);

@@ -2,3 +2,4 @@ item = "paper";
 name = "Mangcore";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/logs/stacked/mangcore";
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{italic: true, text: "Mangroves' finest gift, a shard echoing with tales of brine and bristle."}], 35);

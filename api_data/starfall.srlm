@@ -2,3 +2,4 @@ item = "paper";
 name = "Starfall";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/starfall";
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "No one knows how and when the Starfall appeared. All we know is that it was already there when the Dwarves discovered the cavern."}], 35);

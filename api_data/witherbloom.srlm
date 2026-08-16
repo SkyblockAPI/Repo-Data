@@ -3,3 +3,4 @@ name = "Witherbloom";
 include("types/mutation", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc1OTc2MzM1MjU4OCwKICAicHJvZmlsZUlkIiA6ICI0NDAzZGM1NDc1YmM0YjE1YTU0OGNmZGE2YjBlYjdkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICI4Qml0czFCeXRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VmODMxMDUxY2YxOGE0YzNlYTdhMmE4MzMxMWYyMThmNDNiMDMyNzEyNzk5Y2M4MTkxMGFiNjdlZTczOTdiMzIiCiAgICB9CiAgfQp9";
 rarity = "COMMON";
+lore.after_ability = Component.splitToLength([{text: "A plant that only thrives in the presence of decay, its petals growing strong where life once was. Only death thrives the living."}], 35);

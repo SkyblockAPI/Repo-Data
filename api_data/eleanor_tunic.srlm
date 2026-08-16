@@ -8,3 +8,4 @@ stats = {
   health: 100
 };
 soulbound = "SOLO";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A beautifully tailored tunic, featuring intricate stitching and a soft, radiant finish."}]}], 35);

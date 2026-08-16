@@ -2,3 +2,4 @@ item = "raw_fish";
 name = "Pre-Digestion Fish";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{text: "The obvious result of mixing cat food, spacetime bending and mystical mythology."}], 35);

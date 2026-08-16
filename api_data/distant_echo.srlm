@@ -2,3 +2,4 @@ item = "paper";
 name = "Distant Echo";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/enchantmentupgrades/distant_echo";
 rarity = "LEGENDARY";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "The Silkbreeze passes through the forest at such speed that, in most cases, it can only be heard, not seen."}]}], 35);

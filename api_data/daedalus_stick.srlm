@@ -2,3 +2,4 @@ item = "stick";
 name = "Daedalus Stick";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
+lore.after_ability = Component.splitToLength([{text: "Drops rarely off of Minotaurs from Diana's Mythological Ritual."}], 35);

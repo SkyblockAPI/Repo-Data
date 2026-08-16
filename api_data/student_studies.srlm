@@ -8,3 +8,4 @@ stats = {
 };
 requirements.trophy.FROG = "SILVER";
 soulbound = "SOLO";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A hastily-written infodump explaining the key differences between various frog species. It uses the wrong citation style and is thus deemed worthless, regardless of the information contained within."}]}], 35);

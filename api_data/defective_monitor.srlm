@@ -7,3 +7,4 @@ stats = {
   rift_intelligence: 6,
   rift_time: 60
 };
+lore.after_ability = Component.splitToLength([{text: "Obtained from a Kloon who doesn't seem too stable."}], 35);

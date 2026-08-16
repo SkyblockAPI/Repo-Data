@@ -2,3 +2,4 @@ item = "mutton";
 name = "Agarimoo Tongue";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{text: "Agarimoos have five stomachs and 3 tongues. For this specific Agarimoo, past tense is more accurate."}], 35);

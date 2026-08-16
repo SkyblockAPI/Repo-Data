@@ -2,3 +2,4 @@ item = "paper";
 name = "Divan's Alloy";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/divans_alloy";
 rarity = "LEGENDARY";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "The legendary Divan explored where no other man has set foot, and came back with this incredibly rare alloy."}], 35);

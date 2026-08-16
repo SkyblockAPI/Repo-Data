@@ -2,3 +2,4 @@ item = "paper";
 name = "Spine Fossil";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/fossils/spine_fossil";
 rarity = "LEGENDARY";
+lore.after_ability = Component.splitToLength([{text: "A well-preserved set of neural spines. Whatever possessed these was an adept swimmer."}], 35);

@@ -8,3 +8,4 @@ stats = {
   health_regeneration: 1,
   rift_time: 5
 };
+lore.after_ability = Component.splitToLength([{text: "Do your part bro."}], 35);

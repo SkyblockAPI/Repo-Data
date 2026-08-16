@@ -2,3 +2,4 @@ item = "paper";
 name = "Glacite Jewel";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/glacite_jewel";
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "It is said that there is a lost village made of Glacite, deep under the Dwarven Mines."}], 35);

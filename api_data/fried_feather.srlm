@@ -3,3 +3,4 @@ name = "Fried Feather";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/fried_feather";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "A greasy feather, somehow still in one piece despite having been doused in boiling-hot lava."}], 35);

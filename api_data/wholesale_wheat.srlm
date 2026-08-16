@@ -1,3 +1,4 @@
 item = "wheat";
 name = "Wholesale Wheat";
 rarity = "SPECIAL";
+lore.after_ability = Component.splitToLength([{text: "Looks delicious. Perhaps a certain ", extra: [{color: "green", text: " Critter"}, "", {color: "gray", bold: false, italic: false, text: " would like it?"}]}], 35);

@@ -2,3 +2,4 @@ item = "paper";
 name = "Divan Fragment";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/divan_fragment";
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "One of the greatest alloys naturally found in the Crystal Hollows, named after the first Dwarf to find them."}], 35);

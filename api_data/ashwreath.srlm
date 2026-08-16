@@ -3,3 +3,4 @@ name = "Ashwreath";
 include("types/mutation", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc1OTc2MzM2NjQ2OSwKICAicHJvZmlsZUlkIiA6ICJiZTFkOTJiYTkwY2E0NzMwYTIyMzQ2MTIxZWM2MTNmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZW5zb3JCeXRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU4OTBmNTA3ODBmZGVjZWRhYTg1YWE0MGJmMzM5OWU5NDM5ZWU2ODU5NGM2ZDAyMjY4ODE2NTYwODE3MTY4MWQiCiAgICB9CiAgfQp9";
 rarity = "COMMON";
+lore.after_ability = Component.splitToLength([{text: "It rises from ashen ground, gray and whispering."}], 35);

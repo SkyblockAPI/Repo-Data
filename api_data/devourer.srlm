@@ -3,3 +3,4 @@ name = "Devourer";
 include("types/mutation", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc2MTkxMTk0MTM4OCwKICAicHJvZmlsZUlkIiA6ICIyMDZlMWZkYjI5Yzk0NGYxOTQ5OTg4NzAwNTQxMGQ2NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJoNHlsMzMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDEwMGQzYjgxYzhkZDBhZjIyYWYzYjQyYzk3MDQ1YmQ4NDQ0MzhkMmYwMjk3YjBmMjY3YTQ2YmQzNWZmYjMzZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
 rarity = "LEGENDARY";
+lore.after_ability = Component.splitToLength([{text: "A relentless plant that spreads its root far and wide, consuming and destroying everything in its path."}], 35);

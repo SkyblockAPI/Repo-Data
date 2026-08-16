@@ -3,3 +3,4 @@ name = "Scourroot";
 include("types/mutation", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc1OTc2MzM5NTE0MCwKICAicHJvZmlsZUlkIiA6ICJiM2E1M2VlMDgwMmI0NzE5OGVkM2VhMjRmYjZmNmQ3YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4WF9Kb2JsZXNzX1h4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E5ZGEzYjhkY2ZmYmI1ZGQ5NzA4YjgzZTU0NzQ2ZmNlZDQ3NWYwZWUxNmM2YzBjZTQ2NjhjY2E3OTk5YzRkMWUiCiAgICB9CiAgfQp9";
 rarity = "COMMON";
+lore.after_ability = Component.splitToLength([{text: "Bitter to the core, as if cursed by the soil."}], 35);

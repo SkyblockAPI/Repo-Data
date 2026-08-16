@@ -1,3 +1,4 @@
 item = "iron_plate";
 name = "Festive Frisbee";
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{text: "Doesn't do anything... yet!"}], 35);

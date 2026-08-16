@@ -2,3 +2,4 @@ item = "paper";
 name = "Refined Diamond";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/refined_diamond";
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Looking at it for too long may cause eye trauma."}], 35);

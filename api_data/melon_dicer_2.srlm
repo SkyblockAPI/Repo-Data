@@ -6,3 +6,4 @@ this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/mel
 rarity = "RARE";
 requirements.skill.farming = 15;
 requirements.garden = 6;
+lore.after_ability = Component.splitToLength([{italic: true, text: "Same as the Melon Dicer Mk. I, just better!"}], 35);

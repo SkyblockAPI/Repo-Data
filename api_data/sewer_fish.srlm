@@ -2,3 +2,4 @@ item = "raw_fish";
 name = "Sewer Fish";
 rarity = "UNCOMMON";
 soulbound = "COOP";
+lore.after_ability = Component.splitToLength([{text: "Where did you find these? They stink!"}], 35);

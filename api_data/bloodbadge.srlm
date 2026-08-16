@@ -2,3 +2,4 @@ item = "ink_sack";
 name = "Bloodbadge";
 rarity = "RARE";
 requirements.slayer.vampire = 3;
+lore.after_ability = Component.splitToLength([{text: "You and killing stuff in the rift, name a more iconic duo."}], 35);

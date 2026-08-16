@@ -3,3 +3,4 @@ name = "Ritual Residue";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/combat_3/ritual_residue";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "It's all that's left from a draconic sacrifice."}]}], 35);

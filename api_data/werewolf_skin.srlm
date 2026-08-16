@@ -3,3 +3,4 @@ name = "Werewolf Skin";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/werewolf_skin";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{text: "Dropped by Werewolf sea creatures during the Spooky Festival."}], 35);

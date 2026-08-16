@@ -2,3 +2,4 @@ item = "book";
 name = "There and Back Again";
 include("types/memento", this);
 rarity = "SPECIAL";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: "This book will never find a publisher."}]}], 35);

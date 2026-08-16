@@ -3,3 +3,4 @@ name = "Singed Powder";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/singed_powder";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{text: "", extra: [{color: "gray", bold: false, italic: false, text: "Before she mastered this ingredient, the "}, {color: "dark_purple", bold: false, italic: false, text: "Fireproof Witch "}, {color: "gray", bold: false, italic: false, text: "was but a mere witch."}]}], 35);

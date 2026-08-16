@@ -3,3 +3,4 @@ name = "§eVery Official Yellow Rock of Love!";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxOTQyMjE2ODIwMiwKICAicHJvZmlsZUlkIiA6ICIyMmNiM2U0ZDdmOTY0ZmNjYjE1MDIyNWIwN2YzMTEyMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0dWxleW1hbkIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODY5MGMxOGUyYjg3ODBjOTI3ZmQxMjFkNWEzNjE5NmE1M2E3MmM2NzBhODlkNzg1ZGVlZGVlMzE1NTAyNGIyYSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
 rarity = "LEGENDARY";
 soulbound = "COOP";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A majestic, one-of-a-kind mineral that glistens in the morning sun."}]}], 35);

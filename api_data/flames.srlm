@@ -3,3 +3,4 @@ name = "Flames";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/flames";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Some say that the same substance can be found in the abdomen of Dragons, allowing them to breathe fire. Cinderbats are much cuter though."}], 35);

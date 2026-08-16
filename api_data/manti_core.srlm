@@ -3,3 +3,4 @@ name = "Manti-core";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc1MjUxNDEzNDgxMSwKICAicHJvZmlsZUlkIiA6ICI3ZGExYjViODdhMTg0NzgyOTQ2ZjZiYTdhMmNiMDhlMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSeWt1bk9jYXJhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q0ZjFlYjI5YmY4MzE0NzAzMzk0YzYyNGM1ODMyZTBkZmJjZThmYTZjMjU4NzAyMDVkNjdkOTZlZDc0M2JmOTAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
+lore.after_ability = Component.splitToLength([{text: "An array of cells from different creatures mashed together in some crude, unnatural arrangement."}], 35);

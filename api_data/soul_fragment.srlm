@@ -3,3 +3,4 @@ name = "Soul Fragment";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/soul_fragment";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{text: "Dropped by Grim Reaper sea creatures during the Spooky Festival."}], 35);

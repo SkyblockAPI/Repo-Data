@@ -2,3 +2,4 @@ item = "paper";
 name = "Sludge Juice";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/sludge_juice";
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "A green viscous substance highly valued by the Kalhuiki Tribe for its stickiness."}], 35);

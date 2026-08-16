@@ -1,3 +1,4 @@
 item = "raw_fish";
 name = "Flavor-packed Fish";
 rarity = "SPECIAL";
+lore.after_ability = Component.splitToLength([{text: "Looks flavorsome. Perhaps a certain ", extra: [{color: "green", text: " Critter"}, "", {color: "gray", bold: false, italic: false, text: " would like it?"}]}], 35);

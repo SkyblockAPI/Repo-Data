@@ -6,3 +6,4 @@ rarity = "UNCOMMON";
 stats = {
   damage: 10
 };
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Silva vocat, Dominus respondet."}]}], 35);

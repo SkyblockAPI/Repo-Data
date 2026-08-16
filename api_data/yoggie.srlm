@@ -3,3 +3,4 @@ name = "Yoggie";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/yoggie";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{text: "Harvested from the core of Yogs. Used to upgrade Magma equipment."}], 35);

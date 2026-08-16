@@ -1,3 +1,4 @@
 item = "gold_nugget";
 name = "§eYellow Rock";
 rarity = "COMMON";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A little rough around the edges, but beauty can be found within."}]}], 35);

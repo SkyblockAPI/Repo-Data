@@ -1,3 +1,4 @@
 item = "melon_block";
 name = "Enchanted Vampiric Melon";
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{text: "Worth more ", extra: [{color: "light_purple", bold: false, italic: false, text: "Motes "}, {color: "gray", bold: false, italic: false, text: "than the sum of its parts, because it's glowing!"}]}], 35);

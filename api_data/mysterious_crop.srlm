@@ -1,3 +1,4 @@
 item = "dead_bush";
 name = "Mysterious Crop";
 rarity = "COMMON";
+lore.after_ability = Component.splitToLength([{text: "Back to the roots... but which ones?"}], 35);

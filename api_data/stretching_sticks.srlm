@@ -3,3 +3,4 @@ name = "Stretching Sticks";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/stretching_sticks";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{italic: true, text: "These slender sticks have a natural flexibility, making them ideal for crafting and building."}], 35);

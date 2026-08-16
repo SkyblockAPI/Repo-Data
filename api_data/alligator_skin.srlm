@@ -3,3 +3,4 @@ name = "Alligator Skin";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/alligator_skin";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Harsh, jagged skin that is rough to the touch."}], 35);

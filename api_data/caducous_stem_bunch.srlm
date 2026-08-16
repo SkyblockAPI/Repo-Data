@@ -2,3 +2,4 @@ item = "player_head";
 name = "Caducous Stem Bunch";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTY3NzI4NzM0MDYzNywKICAicHJvZmlsZUlkIiA6ICIwZTM3MmZiOGEzOTk0YTkzODliMGY3NGUzZmJlZjY1ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBVVNUSU5MT0wwN19ZVCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNzY3MzkxNTk4NjgwYjQ2NWYyMTA2YjcwZTIxZWY1MTk2ZGExNGYwODdkMWU3NzlkZDY1MGQ0MzIwYjY5NjJhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{text: "Bundling what bees find attractive together in an industrial production process is definitely what nature planned."}], 35);

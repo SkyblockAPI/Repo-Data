@@ -3,3 +3,4 @@ name = "Enchanted Honeycomb Block";
 this["minecraft:item_model"] = "minecraft:honeycomb_block";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{text: "A solid chunk of sweet-smelling honey. Its smell attracts all sorts of critters."}], 35);

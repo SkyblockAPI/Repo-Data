@@ -3,3 +3,4 @@ name = "Blue Ring";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/blue_ring";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "As the Octopus makes its great escape, it accidentally leaves something behind..."}], 35);

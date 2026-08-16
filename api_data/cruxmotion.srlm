@@ -2,3 +2,4 @@ item = "player_head";
 name = "Cruxmotion";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTYxOTI2ODM5NjI2MSwKICAicHJvZmlsZUlkIiA6ICI4MmM2MDZjNWM2NTI0Yjc5OGI5MWExMmQzYTYxNjk3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3ROb3RvcmlvdXNOZW1vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFlODJhMTBhN2RhMjNlM2UxYjE5NTQ1MjlkNDNkODViYzE5NmE5NTFmNWM1Y2FjYTI0NDQyMWE2ZTNiMDVmIgogICAgfQogIH0KfQ==";
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{text: "Ultimately, it's life that is weird."}], 35);

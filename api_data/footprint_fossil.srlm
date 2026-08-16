@@ -2,3 +2,4 @@ item = "paper";
 name = "Footprint Fossil";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/fossils/footprint_fossil";
 rarity = "LEGENDARY";
+lore.after_ability = Component.splitToLength([{text: "The daunting footprint of what was once a colossal and bloodthirsty predator."}], 35);

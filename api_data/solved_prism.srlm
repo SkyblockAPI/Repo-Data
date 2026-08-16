@@ -3,3 +3,4 @@ name = "§bSolved Rubix Prism";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTU5MDE5MjA2MDMwMywKICAicHJvZmlsZUlkIiA6ICIyYzEwNjRmY2Q5MTc0MjgyODRlM2JmN2ZhYTdlM2UxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYWVtZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NWZmMTcyZTZkNWRhYjdlMTg1M2E1M2FmOTA4ODFjYzQ3ZWVkN2Q0ZTQxYzM1M2ZkNjM2OGI0YzgyMjRkMTk4IgogICAgfQogIH0KfQ==";
 rarity = "EPIC";
 soulbound = "COOP";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "It took hard work and patience, but that's what love is all about!"}]}], 35);

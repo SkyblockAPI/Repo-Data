@@ -3,3 +3,4 @@ name = "Creambloom";
 include("types/mutation", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc1OTc2MzM5Njc5MSwKICAicHJvZmlsZUlkIiA6ICJkMTQ4NjFiM2UwZmM0Njk5OTFlMTcyNTllMzdiZjZhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJyYXhpdG9jbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MGU5OGMwYjU5OGUyZjVjZTdjNWVlODE4M2VkMTU3YzU0MzZhMDA1ODVkYTcxMWY4YTg3ZjI0ZWExZmYwNTViIgogICAgfQogIH0KfQ==";
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{text: "A flower so soft and creamy, it could almost pass for milk. Just don't be tempted to try drinking it."}], 35);

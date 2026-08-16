@@ -3,3 +3,4 @@ name = "Barrel of Riches";
 include("types/pet_item", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc3MzM2NzEzNDk5OSwKICAicHJvZmlsZUlkIiA6ICIwM2FlZmNjYWE2NzE0ZDFhOThhY2Q2N2QxNjA0NzQyZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYXpyaXh4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E4YzMzMmQ2YTAwMzJjYjM3ZTNkMmRlN2JkN2ZhNjcyZDFmYmYwZDY3YmViMDIzODgxNzRhMDFlZDQ0ZGU3MmIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A wooden barrel, stuffed to the brim with riches of all sorts. The lid won't even fit on it!"}]}], 35);

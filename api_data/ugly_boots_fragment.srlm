@@ -3,3 +3,4 @@ name = "Ugly Boots Fragment";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyNTk5MzE0MDU4MiwKICAicHJvZmlsZUlkIiA6ICJmNzM0MmExODMxZDA0ZDA5ODc4Y2ViOTVmOTUxYTllMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3RNMWtzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EzZmVjZWFkOTdlOTZjMWM5NzdkNzI3YjZiODI5ZDRlNjM2NGI1YjgyZWU0ZTQ5YjA4NzUxMTY1NzI0ZWNkYyIKICAgIH0KICB9Cn0=";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: "Use these in your armor to truly embrace the art of not caring."}]}], 35);

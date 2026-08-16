@@ -6,3 +6,4 @@ rarity = "LEGENDARY";
 stats = {
   damage: 25
 };
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Titanum ruina, mundi mutatio."}]}], 35);

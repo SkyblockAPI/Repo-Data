@@ -3,3 +3,4 @@ name = "Spell Powder";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/spell_powder";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Looks like Sulphur, smells like Sulphur... Suspicious."}], 35);

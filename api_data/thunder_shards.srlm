@@ -3,3 +3,4 @@ name = "Thunder Fragment";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/thunder_fragment";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Wear gloves when handling, and be cautious around water pools."}], 35);

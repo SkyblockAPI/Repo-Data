@@ -4,3 +4,4 @@ skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNTg1ODY5MCwKICAicHJvZmlsZUlkIiA6ICIyMWUz
 this["minecraft:item_model"] = "minecraft:mangrove_log";
 ::items::prototypes::ingredient::(this);
 rarity = "COMMON";
+lore.after_ability = Component.splitToLength([{italic: true, text: "Sturdy yet flexible, a dance of survival."}], 35);

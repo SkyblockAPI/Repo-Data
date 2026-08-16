@@ -6,3 +6,4 @@ rarity = "RARE";
 stats = {
   damage: 15
 };
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Fera fugit, cursus sequitur."}]}], 35);

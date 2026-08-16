@@ -2,3 +2,4 @@ item = "egg";
 name = "Metaphoric Egg";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{text: "A ticking time bomb to new life. Acquired using Berberis Blowgun."}], 35);

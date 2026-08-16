@@ -3,3 +3,4 @@ name = "Plasma";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/plasma";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Stable magnetic field, but handle with caution."}], 35);
