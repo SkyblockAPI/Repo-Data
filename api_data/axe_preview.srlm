@@ -6,4 +6,4 @@ stats = {
   sweep: 5
 };
 soulbound = "SOLO";
-lore.after_ability = Component.splitToLength([{text: "Use to preview the current axe rune!"}], 35);
+lore.after_ability = Component.splitToLength([{text: "Use to preview the current axe rune!"}], 38);

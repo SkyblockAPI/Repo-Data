@@ -2,4 +2,4 @@ item = "ink_sack";
 name = "Exp Share Core";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{text: "Used to craft the Exp Share pet item."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Used to craft the Exp Share pet item."}], 38);

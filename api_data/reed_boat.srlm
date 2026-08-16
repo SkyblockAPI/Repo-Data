@@ -1,4 +1,4 @@
 item = "boat";
 name = "Rift Boat";
 rarity = "UNCOMMON";
-lore.after_ability = Component.splitToLength([{text: "Built by Reed, who turns out to be a bit of a scammer."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Built by Reed, who turns out to be a bit of a scammer."}], 38);

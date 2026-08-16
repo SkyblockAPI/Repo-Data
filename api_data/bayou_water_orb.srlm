@@ -3,4 +3,4 @@ name = "Bayou Water Orb";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/crimson_isle/bobbin_time/bayou_water_orb";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "A green mass of coagulated swamp."}], 35);
+lore.after_ability = Component.splitToLength([{text: "A green mass of coagulated swamp."}], 38);

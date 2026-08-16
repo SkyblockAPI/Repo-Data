@@ -9,4 +9,4 @@ rift_transferrable = true;
 stats = {
   rift_time: 11
 };
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: "A research on how to preserve and enhance class abilities in death."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: "A research on how to preserve and enhance class abilities in death."}]}], 38);

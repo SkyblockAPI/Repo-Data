@@ -1,4 +1,4 @@
 item = "anvil";
 name = "Living Metal Anchor";
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{text: "This anchor has a life."}, {color: "gray", bold: false, italic: false, text: "It likes music!"}, {color: "gray", bold: false, italic: false, text: "Its favorite genre?"}, {color: "gray", bold: false, italic: false, text: "Heavy metal."}, "", {color: "dark_gray", bold: false, italic: false, text: "Reed needs this item."}], 35);
+lore.after_ability = Component.splitToLength([{text: "This anchor has a life."}, {color: "gray", bold: false, italic: false, text: "It likes music!"}, {color: "gray", bold: false, italic: false, text: "Its favorite genre?"}, {color: "gray", bold: false, italic: false, text: "Heavy metal."}, "", {color: "dark_gray", bold: false, italic: false, text: "Reed needs this item."}], 38);

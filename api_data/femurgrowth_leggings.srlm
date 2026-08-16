@@ -7,4 +7,4 @@ stats = {
   rift_mana_regen: 5,
   rift_walk_speed: -4
 };
-lore.after_ability = Component.splitToLength([{color: "dark_gray", bold: false, italic: false, text: "It's infected slime, it makes you slower."}], 35);
+lore.after_ability = Component.splitToLength([{color: "dark_gray", bold: false, italic: false, text: "It's infected slime, it makes you slower."}], 38);

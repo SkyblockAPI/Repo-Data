@@ -1,4 +1,4 @@
 item = "water_lily";
 name = "Lil' Pad";
 rarity = "UNCOMMON";
-lore.after_ability = Component.splitToLength([{text: "Can be placed on water, especially if you're scared of said water."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Can be placed on water, especially if you're scared of said water."}], 38);

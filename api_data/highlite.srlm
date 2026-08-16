@@ -4,4 +4,4 @@ skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMzY2NjQ5MjQwMiwKICAicHJvZmlsZUlkIiA6ICIxNmQ4
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
 rift_transferrable = true;
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "This is what happens when time does a victory lap."}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "This is what happens when time does a victory lap."}], 38);

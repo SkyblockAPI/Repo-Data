@@ -2,4 +2,4 @@ item = "paper";
 name = "Shining Coin";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/safari/shining_coin";
 rarity = "SPECIAL";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Throwing coins into fountains and other bodies of water is said to bring good luck in some cultures."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Throwing coins into fountains and other bodies of water is said to bring good luck in some cultures."}]}], 38);

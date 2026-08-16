@@ -2,4 +2,4 @@ item = "paper";
 name = "Frogcoin";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/frogcoin";
 rarity = "UNCOMMON";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A small coin depicting a wrinkly, bearded frog. Coins of this nature are said to bring good luck when thrown into small fountains or ponds."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A small coin depicting a wrinkly, bearded frog. Coins of this nature are said to bring good luck when thrown into small fountains or ponds."}]}], 38);

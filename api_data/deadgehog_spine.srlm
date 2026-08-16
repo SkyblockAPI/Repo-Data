@@ -2,4 +2,4 @@ item = "arrow";
 name = "Deadgehog Spine";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
-lore.after_ability = Component.splitToLength([{text: "Contrary to popular belief, Deadgehogs aren't rodents."}, "", {text: "They are in fact mangled wraith remnants of warriors who couldn't find true love."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Contrary to popular belief, Deadgehogs aren't rodents."}, "", {text: "They are in fact mangled wraith remnants of warriors who couldn't find true love."}], 38);

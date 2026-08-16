@@ -3,4 +3,4 @@ name = "PlantBoy Advance";
 include("types/mutation", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc1OTc2NTQ1Mjg5OSwKICAicHJvZmlsZUlkIiA6ICIzZmM3ZmRmOTM5NjM0YzQxOTExOTliYTNmN2NjM2ZlZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJZZWxlaGEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzY1YWNjYjE5NWFhZDBkNzIxMmVlZGQ2NDdlM2Y4MGVkNWQ0YWNkZmZlNDMyOWVhZDA3NGY3NTg3ZjM2NjQ1NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{text: "This plant loves a good challenge. Every time you harvest it, it'll challenge you to a quick game. Win, and it thrives. Lose, though, and it's game over for this little guy."}], 35);
+lore.after_ability = Component.splitToLength([{text: "This plant loves a good challenge. Every time you harvest it, it'll challenge you to a quick game. Win, and it thrives. Lose, though, and it's game over for this little guy."}], 38);

@@ -1,4 +1,4 @@
 item = "brown_mushroom";
 name = "Mushroom Spore";
 rarity = "COMMON";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "The life cycle of a mushroom starts with the spore, which germs and becomes Mycelium, which develops fruit bodies into a mature mushroom, and that mushroom will release spores."}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "The life cycle of a mushroom starts with the spore, which germs and becomes Mycelium, which develops fruit bodies into a mature mushroom, and that mushroom will release spores."}], 38);

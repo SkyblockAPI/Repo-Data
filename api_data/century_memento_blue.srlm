@@ -3,4 +3,4 @@ name = "Cake Slice of the Century";
 include("types/memento", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTY5MzQzMTQ3OTAzMywKICAicHJvZmlsZUlkIiA6ICI2NDZhMmVhYzg2OWM0N2ZmYmYzZjRiMTc3Y2FhNDM0MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXJwZW50U2FnZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDU2NTgwYTFjMTAzZjAwZTczZGM1MGE2OGIzNmJlZWJhNWI3NWQ3ZTUxOGZhNzg5MzJjMmQwMmVlNWQ5MjFkNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
 rarity = "SPECIAL";
-lore.after_ability = Component.splitToLength([{text: "Taste of blueberry."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Taste of blueberry."}], 38);

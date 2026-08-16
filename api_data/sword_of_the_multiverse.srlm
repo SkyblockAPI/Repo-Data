@@ -7,4 +7,4 @@ stats = {
   rift_damage: 99999999,
   swing_range: 15
 };
-lore.after_ability = Component.splitToLength([{text: "", extra: [{color: "gray", bold: false, italic: false, text: "┻━┻"}, {color: "white", bold: false, italic: false, text: "︵ "}, {color: "red", bold: false, italic: false, text: "\(°□°)/ "}, {color: "white", bold: false, italic: false, text: "︵"}, {color: "gray", bold: false, italic: false, text: "┻━┻"}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: [{color: "gray", bold: false, italic: false, text: "┻━┻"}, {color: "white", bold: false, italic: false, text: "︵ "}, {color: "red", bold: false, italic: false, text: "\(°□°)/ "}, {color: "white", bold: false, italic: false, text: "︵"}, {color: "gray", bold: false, italic: false, text: "┻━┻"}]}], 38);

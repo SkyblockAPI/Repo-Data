@@ -4,4 +4,4 @@ include("types/dungeon", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/spirit_bone";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{text: "A Wolf Spirit is attached to this bone. Wolf Spirits always come back to their masters."}], 35);
+lore.after_ability = Component.splitToLength([{text: "A Wolf Spirit is attached to this bone. Wolf Spirits always come back to their masters."}], 38);

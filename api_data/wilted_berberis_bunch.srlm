@@ -2,4 +2,4 @@ item = "dead_bush";
 name = "Wilted Berberis Bunch";
 rarity = "UNCOMMON";
 rift_transferrable = true;
-lore.after_ability = Component.splitToLength([{text: "The plant equivalent of... ALIEN revenant viscera?"}], 35);
+lore.after_ability = Component.splitToLength([{text: "The plant equivalent of... ALIEN revenant viscera?"}], 38);

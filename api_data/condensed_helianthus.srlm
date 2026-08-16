@@ -3,4 +3,4 @@ name = "Condensed Helianthus";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/condensed_helianthus";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "The Crème de la Crop"}], 35);
+lore.after_ability = Component.splitToLength([{text: "The Crème de la Crop"}], 38);

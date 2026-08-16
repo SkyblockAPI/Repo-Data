@@ -3,4 +3,4 @@ name = "Ink Splat";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/ink_splat";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{text: "Avoid getting in eyes. It’ll hurt!"}], 35);
+lore.after_ability = Component.splitToLength([{text: "Avoid getting in eyes. It’ll hurt!"}], 38);

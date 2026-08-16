@@ -3,4 +3,4 @@ name = "Tarantula Catalyst";
 this["minecraft:item_model"] = "hypixel_skyblock:item/combat_1/tarantula_catalyst";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{text: "Drops rarely from Tarantula Broodfather when you are at least Spider Slayer LVL 6."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Drops rarely from Tarantula Broodfather when you are at least Spider Slayer LVL 6."}], 38);

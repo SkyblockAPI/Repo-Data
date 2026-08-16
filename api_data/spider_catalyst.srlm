@@ -3,4 +3,4 @@ name = "Spider Catalyst";
 this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/spider/spider_catalyst";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{text: "Drops rarely from Tarantula Broodfather when you are at least Spider Slayer LVL 2."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Drops rarely from Tarantula Broodfather when you are at least Spider Slayer LVL 2."}], 38);

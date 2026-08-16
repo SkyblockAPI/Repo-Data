@@ -2,4 +2,4 @@ item = "paper";
 name = "Heavy Pearl";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/heavy_pearl";
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "It can take years for Hellwisp to create a pearl, but the Matriarch secretes so much fluid that it can make multiple of those pearls every day."}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "It can take years for Hellwisp to create a pearl, but the Matriarch secretes so much fluid that it can make multiple of those pearls every day."}], 38);

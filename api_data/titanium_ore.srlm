@@ -3,4 +3,4 @@ name = "Titanium";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/titanium";
 rarity = "RARE";
 category = "DWARVEN METAL";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Its strength and resistance to corrosion are the highest of any metallic element."}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Its strength and resistance to corrosion are the highest of any metallic element."}], 38);

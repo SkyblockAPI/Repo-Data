@@ -3,4 +3,4 @@ name = "Omega Enchanted Egg";
 this["minecraft:item_model"] = "minecraft:ghast_spawn_egg";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{text: "Used to craft the strangest of pets."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Used to craft the strangest of pets."}], 38);

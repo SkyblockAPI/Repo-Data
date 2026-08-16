@@ -3,4 +3,4 @@ name = "Blue Shark Tooth";
 this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/marina/blue_shark_tooth";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{text: "Dropped by a Shark during Fishing Festival."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Dropped by a Shark during Fishing Festival."}], 38);

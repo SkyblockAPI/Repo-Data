@@ -1,4 +1,4 @@
 item = "ink_sack";
 name = "Great White Tooth Meal";
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "It smells like blood and fear."}], 35);
+lore.after_ability = Component.splitToLength([{text: "It smells like blood and fear."}], 38);

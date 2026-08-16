@@ -4,4 +4,4 @@ include("types/none", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/winter/glacial_fragment";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{text: "A small piece of a giant glacier. Doesn't ever melt."}], 35);
+lore.after_ability = Component.splitToLength([{text: "A small piece of a giant glacier. Doesn't ever melt."}], 38);

@@ -4,4 +4,4 @@ include("types/lasso", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/abysmal_lasso";
 rarity = "COMMON";
 soulbound = "SOLO";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: "This is barely holding together, seriously who made this?"}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: "This is barely holding together, seriously who made this?"}]}], 38);

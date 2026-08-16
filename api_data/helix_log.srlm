@@ -3,4 +3,4 @@ name = "Helix Log";
 this["minecraft:item_model"] = "minecraft:stripped_mangrove_log";
 ::items::prototypes::ingredient::(this);
 rarity = "COMMON";
-lore.after_ability = Component.splitToLength([{text: "A particularly resilient type of log that, should they not know the secret to cutting it, will outlast most foragers."}], 35);
+lore.after_ability = Component.splitToLength([{text: "A particularly resilient type of log that, should they not know the secret to cutting it, will outlast most foragers."}], 38);

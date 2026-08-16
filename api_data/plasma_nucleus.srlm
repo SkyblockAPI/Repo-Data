@@ -2,4 +2,4 @@ item = "ink_sack";
 name = "Plasma Nucleus";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "Combine with an ", extra: [{color: "dark_purple", bold: false, italic: false, text: "Overflux Power Orb "}, {color: "gray", bold: false, italic: false, text: "to increase its strength and create a "}, {color: "gold", bold: false, italic: false, text: "Plasmaflux Power Orb"}, {color: "gray", bold: false, italic: false, text: "."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "Combine with an ", extra: [{color: "dark_purple", bold: false, italic: false, text: "Overflux Power Orb "}, {color: "gray", bold: false, italic: false, text: "to increase its strength and create a "}, {color: "gold", bold: false, italic: false, text: "Plasmaflux Power Orb"}, {color: "gray", bold: false, italic: false, text: "."}]}], 38);

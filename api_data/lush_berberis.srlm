@@ -2,4 +2,4 @@ item = "double_plant";
 name = "Lush Berberis";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
-lore.after_ability = Component.splitToLength([{text: "A wonderful plant!"}], 35);
+lore.after_ability = Component.splitToLength([{text: "A wonderful plant!"}], 38);

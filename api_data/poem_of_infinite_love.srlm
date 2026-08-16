@@ -2,4 +2,4 @@ item = "paper";
 name = "§dPoem of True Love";
 rarity = "EPIC";
 soulbound = "COOP";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Filled with poor punctuation and misspellings, but its message is profound."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Filled with poor punctuation and misspellings, but its message is profound."}]}], 38);

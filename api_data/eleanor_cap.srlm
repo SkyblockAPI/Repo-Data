@@ -8,4 +8,4 @@ stats = {
   health: 50
 };
 soulbound = "SOLO";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Delicately crafted from the finest enchanted silk, this cap combines elegance with subtlety."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Delicately crafted from the finest enchanted silk, this cap combines elegance with subtlety."}]}], 38);

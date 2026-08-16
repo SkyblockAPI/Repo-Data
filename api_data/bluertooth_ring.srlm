@@ -7,4 +7,4 @@ stats = {
   intelligence: -2,
   walk_speed: -3
 };
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Though it may not be bluer visually, it is in spirit."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Though it may not be bluer visually, it is in spirit."}]}], 38);

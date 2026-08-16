@@ -2,4 +2,4 @@ item = "wood_axe";
 name = "Cocoa Net";
 ::items::prototypes::ingredient::(this);
 rarity = "COMMON";
-lore.after_ability = Component.splitToLength([{text: "A tool only large enough to be used by a minion. Its scent is known to attract Pests."}], 35);
+lore.after_ability = Component.splitToLength([{text: "A tool only large enough to be used by a minion. Its scent is known to attract Pests."}], 38);

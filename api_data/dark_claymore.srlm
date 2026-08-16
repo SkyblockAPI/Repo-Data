@@ -11,4 +11,4 @@ stats = {
   swing_range: 2
 };
 requirements.dungeon_completetion.master_catacombs = 7;
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "That thing was too big to be called a sword, it was more like a large hunk of stone."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "That thing was too big to be called a sword, it was more like a large hunk of stone."}]}], 38);

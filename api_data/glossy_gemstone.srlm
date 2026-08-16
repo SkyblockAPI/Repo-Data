@@ -3,4 +3,4 @@ name = "Glossy Gemstone";
 this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/cole/glossy_gemstone";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{italic: true, text: "You can see thousands of glittering reflections as you stare into its intricate patterns. Maybe you should stop gazing and keep mining..."}], 35);
+lore.after_ability = Component.splitToLength([{italic: true, text: "You can see thousands of glittering reflections as you stare into its intricate patterns. Maybe you should stop gazing and keep mining..."}], 38);

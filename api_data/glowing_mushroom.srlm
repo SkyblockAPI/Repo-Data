@@ -2,4 +2,4 @@ item = "paper";
 name = "Glowing Mushroom";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/farming_1/glowing_mushroom";
 rarity = "UNCOMMON";
-lore.after_ability = Component.splitToLength([{text: "Did you hear the joke about fungus? You won't like it, but it will grow on you."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Did you hear the joke about fungus? You won't like it, but it will grow on you."}], 38);

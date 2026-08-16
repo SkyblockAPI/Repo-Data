@@ -3,4 +3,4 @@ name = "Helixis";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/logs/helixis";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{text: "Perhaps even the trees of Galatea have something to say about its technological intricacies."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Perhaps even the trees of Galatea have something to say about its technological intricacies."}], 38);

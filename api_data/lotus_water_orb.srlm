@@ -3,4 +3,4 @@ name = "Lotus Water Orb";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/lotus_atoll/lotus_water_orb";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "Smells of rust and Lotus... what an interesting mix."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Smells of rust and Lotus... what an interesting mix."}], 38);

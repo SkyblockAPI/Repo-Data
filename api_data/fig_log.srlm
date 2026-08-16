@@ -4,4 +4,4 @@ skin = "ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNTYzNjIzMSwKICAicHJvZmlsZUlkIiA6ICJmMjc0
 this["minecraft:item_model"] = "minecraft:stripped_spruce_log";
 ::items::prototypes::ingredient::(this);
 rarity = "COMMON";
-lore.after_ability = Component.splitToLength([{italic: true, text: "Each ring tells tales of sun-kissed days. Hold it close, and you might hear its stories."}], 35);
+lore.after_ability = Component.splitToLength([{italic: true, text: "Each ring tells tales of sun-kissed days. Hold it close, and you might hear its stories."}], 38);

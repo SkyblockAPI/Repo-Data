@@ -2,4 +2,4 @@ item = "paper";
 name = "Frogspawn Bucket";
 this["minecraft:item_model"] = "minecraft:tadpole_bucket";
 rarity = "MYTHIC";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Who cares about massive frogs when you can have lots of tiny ones?"}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Who cares about massive frogs when you can have lots of tiny ones?"}]}], 38);

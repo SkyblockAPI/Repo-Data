@@ -2,4 +2,4 @@ item = "iron_hoe";
 name = "Mathematical Hoe Blueprint";
 this["minecraft:item_model"] = "hypixel_skyblock:item/jacob/theoretical_hoe";
 rarity = "COMMON";
-lore.after_ability = Component.splitToLength([{text: "An ancient blueprint."}], 35);
+lore.after_ability = Component.splitToLength([{text: "An ancient blueprint."}], 38);

@@ -1,4 +1,4 @@
 item = "wool";
 name = "Tree-like Wool";
 rarity = "COMMON";
-lore.after_ability = Component.splitToLength([{text: "Good for bridging."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Good for bridging."}], 38);

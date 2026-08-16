@@ -2,4 +2,4 @@ item = "paper";
 name = "Jungle Heart";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/jungle_heart";
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Found in the deepest layers of the Jungle Temple."}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Found in the deepest layers of the Jungle Temple."}], 38);

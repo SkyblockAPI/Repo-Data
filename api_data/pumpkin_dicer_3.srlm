@@ -5,4 +5,4 @@ this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/pum
 rarity = "EPIC";
 requirements.skill.farming = 20;
 requirements.garden = 4;
-lore.after_ability = Component.splitToLength([{italic: true, text: '"III is better than the II version" - CEO of PumpkinDicer LLC.'}], 35);
+lore.after_ability = Component.splitToLength([{italic: true, text: '"III is better than the II version" - CEO of PumpkinDicer LLC.'}], 38);

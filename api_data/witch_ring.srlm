@@ -6,4 +6,4 @@ rarity = "UNCOMMON";
 stats = {
   alchemy_wisdom: 1
 };
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Stinks up your entire accessory bag - somebody clearly didn't wash their hands after making a stew."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Stinks up your entire accessory bag - somebody clearly didn't wash their hands after making a stew."}]}], 38);

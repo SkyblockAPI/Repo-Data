@@ -2,4 +2,4 @@ item = "paper";
 name = "Signal Enhancer";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/signal_enhancer";
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "A marvelous piece of technology, rumored to enhance the capabilities of a beacon."}], 35);
+lore.after_ability = Component.splitToLength([{text: "A marvelous piece of technology, rumored to enhance the capabilities of a beacon."}], 38);

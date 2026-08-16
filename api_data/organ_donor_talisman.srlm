@@ -7,4 +7,4 @@ stats = {
   cold_resistance: 0.5
 };
 soulbound = "SOLO";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "It's an opt-out system, after all."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "It's an opt-out system, after all."}]}], 38);

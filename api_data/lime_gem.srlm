@@ -2,4 +2,4 @@ item = "player_head";
 name = "Lime Gem";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA1NTE5MSwKICAicHJvZmlsZUlkIiA6ICJkM2VmYjJmMThjMDU0YmRhYTE0OTVlZTY0ZDgxZjdlOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNTEsxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ZmI5OGY1YjkyNzY4NjI3ZTlmM2U0MjYwOTU2MWNjYjQ2MzhhZDlkNzZkZjk3NjE2NzRiMjdmNjgyMGZkYzA5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
 rarity = "SPECIAL";
-lore.after_ability = Component.splitToLength([{color: "dark_gray", bold: false, italic: false, text: "A fabulous lime gem. It reminds you of a meadow."}], 35);
+lore.after_ability = Component.splitToLength([{color: "dark_gray", bold: false, italic: false, text: "A fabulous lime gem. It reminds you of a meadow."}], 38);

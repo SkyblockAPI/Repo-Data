@@ -2,4 +2,4 @@ item = "ink_sack";
 name = "Tier Boost Core";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "Used to craft the Tier Boost pet item."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Used to craft the Tier Boost pet item."}], 38);

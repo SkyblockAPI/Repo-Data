@@ -4,4 +4,4 @@ skin = "ewogICJ0aW1lc3RhbXAiIDogMTYxMDQwMjM1OTkxMSwKICAicHJvZmlsZUlkIiA6ICJiYjdj
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
 requirements.slayer.zombie = 8;
-lore.after_ability = Component.splitToLength([{text: "The heart of a powerful creature, dropped by the Atoned Horror."}], 35);
+lore.after_ability = Component.splitToLength([{text: "The heart of a powerful creature, dropped by the Atoned Horror."}], 38);

@@ -4,4 +4,4 @@ include("types/trap", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/traps/medium_huntrap";
 rarity = "UNCOMMON";
 requirements.skill.hunting = 5;
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Ubi ars naturam superat."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Ubi ars naturam superat."}]}], 38);

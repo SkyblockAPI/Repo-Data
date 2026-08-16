@@ -3,4 +3,4 @@ name = "Small Huntrap";
 include("types/trap", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/traps/small_huntrap";
 rarity = "COMMON";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Fundamentum artis venandi."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Fundamentum artis venandi."}]}], 38);

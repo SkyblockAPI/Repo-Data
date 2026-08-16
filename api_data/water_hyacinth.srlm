@@ -2,4 +2,4 @@ item = "paper";
 name = "Water Hyacinth";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/enchantmentupgrades/water_hyacinth";
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "The Torrid is born when a water hyacinth blooms for the first time."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "The Torrid is born when a water hyacinth blooms for the first time."}]}], 38);

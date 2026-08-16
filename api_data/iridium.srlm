@@ -2,4 +2,4 @@ item = "paper";
 name = "Iridium";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/iridium";
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "Can be used at ", extra: [{color: "green", bold: false, italic: false, text: "SkyMart "}, {color: "gray", bold: false, italic: false, text: "to upgrade the "}, {color: "dark_purple", bold: false, italic: false, text: "AquaMaster X "}, {color: "gray", bold: false, italic: false, text: "to the "}, {color: "gold", bold: false, italic: false, text: "AquaMaster HydroMax"}, {color: "gray", bold: false, italic: false, text: "."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "Can be used at ", extra: [{color: "green", bold: false, italic: false, text: "SkyMart "}, {color: "gray", bold: false, italic: false, text: "to upgrade the "}, {color: "dark_purple", bold: false, italic: false, text: "AquaMaster X "}, {color: "gray", bold: false, italic: false, text: "to the "}, {color: "gold", bold: false, italic: false, text: "AquaMaster HydroMax"}, {color: "gray", bold: false, italic: false, text: "."}]}], 38);

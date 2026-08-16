@@ -3,4 +3,4 @@ name = "Leather Cloth";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/leather_cloth";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "The origin of that leather is a well kept secret."}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "The origin of that leather is a well kept secret."}], 38);

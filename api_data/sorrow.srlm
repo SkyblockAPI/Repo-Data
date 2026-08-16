@@ -3,4 +3,4 @@ name = "Sorrow";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/sorrow";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "To become a ghost, one must go through unimaginable distress."}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "To become a ghost, one must go through unimaginable distress."}], 38);

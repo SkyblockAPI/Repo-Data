@@ -2,4 +2,4 @@ item = "paper";
 name = "Chirping Stereo";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/pests/chirping_stereo";
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "While nobody is sure who came up with the genius design, everyone agrees that they are one of the true engineering greats."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "While nobody is sure who came up with the genius design, everyone agrees that they are one of the true engineering greats."}]}], 38);

@@ -3,4 +3,4 @@ name = "Vial of Spring Water";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/vial_of_spring_water";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "A vial of particularly clear water, gathered from Torrhus Spring by Miria herself. It exudes a faint warmth when pressed against your chest, reminding you of fond memories of days gone by."}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "A vial of particularly clear water, gathered from Torrhus Spring by Miria herself. It exudes a faint warmth when pressed against your chest, reminding you of fond memories of days gone by."}], 38);

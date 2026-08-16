@@ -2,4 +2,4 @@ item = "player_head";
 name = "Magic Top Hat";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTcwODMxMDQxMDcyNSwKICAicHJvZmlsZUlkIiA6ICI2NGY0MGFiNzFmM2E0NGZiYjg0N2I5ZWFhOWZjNDRlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJvZGF2aWRjZXNhciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MTVjNWM5ZjI3OWIxMTY0ZWNkNWU2N2UxNDQ3ODgwMjE4NGJiMDMwMzFkMWE5ZmYzNWU0NmI4NjNhOWMwNmJjIgogICAgfQogIH0KfQ==";
 rarity = "MYTHIC";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A hat so charming, even rabbits wish to call it home."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A hat so charming, even rabbits wish to call it home."}]}], 38);

@@ -6,4 +6,4 @@ this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/pum
 rarity = "RARE";
 requirements.skill.farming = 15;
 requirements.garden = 4;
-lore.after_ability = Component.splitToLength([{italic: true, text: "Someone once said, II is always better than I!"}], 35);
+lore.after_ability = Component.splitToLength([{italic: true, text: "Someone once said, II is always better than I!"}], 38);

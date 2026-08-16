@@ -9,4 +9,4 @@ stats = {
   rift_time: 10,
   rift_mana_regen: 5
 };
-lore.after_ability = Component.splitToLength([{text: "There's like 5 liters in you."}], 35);
+lore.after_ability = Component.splitToLength([{text: "There's like 5 liters in you."}], 38);

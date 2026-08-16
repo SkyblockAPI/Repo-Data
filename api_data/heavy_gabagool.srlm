@@ -3,4 +3,4 @@ name = "Heavy Gabagool";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTY1OTc5MTg3NzU4NywKICAicHJvZmlsZUlkIiA6ICI5MWYwNGZlOTBmMzY0M2I1OGYyMGUzMzc1Zjg2ZDM5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdG9ybVN0b3JteSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MDRlMGFjODFlNjA4YzU2MDViNTA1ZDRlOWNkNmU3NTM5NzMzMmM5MTJjMWZmOGY3OWFmZTE3MGYzOGI3YTc4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{text: "Feed Wisp pets, tier up into Hypergolic Gabagool or craft Inferno minion fuel."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Feed Wisp pets, tier up into Hypergolic Gabagool or craft Inferno minion fuel."}], 38);

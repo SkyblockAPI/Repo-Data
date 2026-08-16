@@ -3,4 +3,4 @@ name = "Puffercloud";
 include("types/mutation", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc2MTkxMjI2Nzg1MywKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85YTQ4ODM0MGMzZDkxMzFiNmU5N2JhZTYyNzlhYWM4NTIwMzczNjdjYjkzYTZiNTBjNjBhN2QzMjhhZWMxNzNlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{text: "Puffercloud looks harmless, but step too close and it releases a toxic cloud. Probably best to stay away."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Puffercloud looks harmless, but step too close and it releases a toxic cloud. Probably best to stay away."}], 38);

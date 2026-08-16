@@ -3,4 +3,4 @@ name = "Hotspot Water Orb";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/crimson_isle/bobbin_time/hotspot_water_orb";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "Radiating some weird energy."}, "", {color: "dark_gray", bold: false, italic: false, text: "Probably safe to hold?"}], 35);
+lore.after_ability = Component.splitToLength([{text: "Radiating some weird energy."}, "", {color: "dark_gray", bold: false, italic: false, text: "Probably safe to hold?"}], 38);

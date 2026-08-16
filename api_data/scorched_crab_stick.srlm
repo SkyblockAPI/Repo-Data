@@ -3,4 +3,4 @@ name = "Scorched Crab Stick";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/scorched_crab_stick";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Sometimes, well-done just isn't enough."}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Sometimes, well-done just isn't enough."}], 38);

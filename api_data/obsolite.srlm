@@ -3,4 +3,4 @@ name = "Obsolite";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyNTMyNTc3ODQwMSwKICAicHJvZmlsZUlkIiA6ICIyZGI4ZTYzYzFlMTc0NGE3ODIyZDNmNjBlYmNmYzI5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcmtTYW5kYm94IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI1ZTI5YmZmZTRkMTQ5ODdlOTU1MmYzNjMwMjA0OTU0MjMxYTcwZWQxM2ZiZTdkZmM1NzU0YmI3ZTllNzMyYzMiCiAgICB9CiAgfQp9";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Practically a fossil."}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Practically a fossil."}], 38);

@@ -3,4 +3,4 @@ name = "§cFlower Maelstrom";
 skin = "eyJ0aW1lc3RhbXAiOjE1MTgyMDY2MTI4MDgsInByb2ZpbGVJZCI6ImMxZWQ5N2Q0ZDE2NzQyYzI5OGI1ODFiZmRiODhhMjFmIiwicHJvZmlsZU5hbWUiOiJ5b2xvX21hdGlzIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iY2IyZjEyY2Y0ZjM0YThhZGZlM2Q3NWI3ZmY0ODliOTFhYmEzYzhiMTk5NTIxM2ZhNDYxZDY4NDkwYTUxIn19fQ==";
 rarity = "EPIC";
 soulbound = "COOP";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A handcrafted bouquet made with love and some of the finest flowers around."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A handcrafted bouquet made with love and some of the finest flowers around."}]}], 38);

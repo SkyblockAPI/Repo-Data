@@ -2,4 +2,4 @@ item = "paper";
 name = "Figstone";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/logs/stacked/figstone";
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{italic: true, text: "A dense testament to time, holding the chronicles of ancient figs."}], 35);
+lore.after_ability = Component.splitToLength([{italic: true, text: "A dense testament to time, holding the chronicles of ancient figs."}], 38);

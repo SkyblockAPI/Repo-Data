@@ -1,4 +1,4 @@
 item = "string";
 name = "Braided Griffin Feather";
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{text: "The exquisite feather of a mythical creature. Its woven strands shimmer with an inimitable grace and majesty."}], 35);
+lore.after_ability = Component.splitToLength([{text: "The exquisite feather of a mythical creature. Its woven strands shimmer with an inimitable grace and majesty."}], 38);

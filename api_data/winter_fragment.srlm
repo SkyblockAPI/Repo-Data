@@ -4,4 +4,4 @@ include("types/none", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTY3MzQwNDk1NDQxMiwKICAicHJvZmlsZUlkIiA6ICI3MDQ0ZDlkY2I5OGI0YzgzYWFjNjIzNjFlYTY5YmNmOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJfV2F0cnlzaGthXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lZjc0YzJlNGMwYjIyMmU0MmU4Y2RkZjNiYThmNmI1NDZjNTEwM2FkYTJjOWMxNTQ2MWFiYzNmYTNmNDI1MDkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{text: "A magical shard capturing the warmth and joy of winter festivities."}], 35);
+lore.after_ability = Component.splitToLength([{text: "A magical shard capturing the warmth and joy of winter festivities."}], 38);

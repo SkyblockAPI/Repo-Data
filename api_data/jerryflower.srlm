@@ -4,4 +4,4 @@ include("types/mutation", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc2MzAyMjQ4NTE0MiwKICAicHJvZmlsZUlkIiA6ICJhNzdkNmQ2YmFjOWE0NzY3YTFhNzU1NjYxOTllYmY5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwOEJFRDUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTg1ZjA2ZDk4YTNmNDRhZGI4OTY4Y2E0OTBiNWE3MTkwYTdkNzQ3MmIwMGEzMDE2YTg0MGI5NDRiYTkxN2I3MiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
 rarity = "LEGENDARY";
 soulbound = "COOP";
-lore.after_ability = Component.splitToLength([{text: "Jerryflower never sleeps, Jerryflower never stops, Jerryflower is always watching."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Jerryflower never sleeps, Jerryflower never stops, Jerryflower is always watching."}], 38);

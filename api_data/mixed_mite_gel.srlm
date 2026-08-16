@@ -1,4 +1,4 @@
 item = "ink_sack";
 name = "Mixed Mite Gel";
 rarity = "MYTHIC";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Powerful substance combined from the plasma membrane of many Endermites."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Powerful substance combined from the plasma membrane of many Endermites."}]}], 38);

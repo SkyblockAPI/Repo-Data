@@ -2,4 +2,4 @@ item = "tripwire_hook";
 name = "Jungle Key";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/jungle_key";
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Used to open the entrance to the Jungle Temple."}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Used to open the entrance to the Jungle Temple."}], 38);

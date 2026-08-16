@@ -3,4 +3,4 @@ name = "Hot Dog";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTY2MjgwODQ2MTU5NywKICAicHJvZmlsZUlkIiA6ICIwYWMwY2IxMTI1MWE0ZjAwOTJjNjIyNzM2NjczMDNmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDbG91Y2wiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODI0Yzg2NjdlMWU2NzA5NTI0ZDhmNzYzZDFhZGQwNWE4NDVlNWJhMGE0ZmU5MDc2ZmUwYjU4NzE5MWVmNWMwIgogICAgfQogIH0KfQ==";
 rarity = "COMMON";
 soulbound = "SOLO";
-lore.after_ability = Component.splitToLength([{text: "Deposit on Joey's plate."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Deposit on Joey's plate."}], 38);

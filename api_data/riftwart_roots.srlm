@@ -1,4 +1,4 @@
 item = "nether_stalk";
 name = "Riftwart Roots";
 rarity = "UNCOMMON";
-lore.after_ability = Component.splitToLength([{text: "Do not eat."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Do not eat."}], 38);

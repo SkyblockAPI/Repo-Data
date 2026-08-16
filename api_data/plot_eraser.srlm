@@ -2,4 +2,4 @@ item = "paper";
 name = "Plot Eraser";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/greenhouse/wild_rose/plot_eraser";
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{text: "Right-click while on a plot to ", extra: [{color: "green", bold: false, italic: false, text: "instantly clean "}, {color: "gray", bold: false, italic: false, text: "it, saving you the trouble of doing it yourself! However, the "}, {color: "blue", bold: false, italic: false, text: "Plot Eraser "}, {color: "gray", bold: false, italic: false, text: "gets comsumed in the process."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "Right-click while on a plot to ", extra: [{color: "green", bold: false, italic: false, text: "instantly clean "}, {color: "gray", bold: false, italic: false, text: "it, saving you the trouble of doing it yourself! However, the "}, {color: "blue", bold: false, italic: false, text: "Plot Eraser "}, {color: "gray", bold: false, italic: false, text: "gets comsumed in the process."}]}], 38);

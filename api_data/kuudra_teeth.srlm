@@ -2,4 +2,4 @@ item = "paper";
 name = "Kuudra Teeth";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/kuudra_teeth";
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Also known as mandibles."}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Also known as mandibles."}], 38);

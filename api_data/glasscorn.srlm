@@ -3,4 +3,4 @@ name = "Glasscorn";
 include("types/mutation", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc2MTkxMjI2MDY0OCwKICAicHJvZmlsZUlkIiA6ICJmNThkZWJkNTlmNTA0MjIyOGY2MDIyMjExZDRjMTQwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ1bnZlbnRpdmV0YWxlbnQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjk3ZGUyNzMzOGI5Zjg3NmU1NzBkMWNjMDFmZTFiZWNjZmM5NDA0NjdjNWM5N2M0NjdlOTNlNzljODFjMjVlZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "This delicate, crystal-like corn needs to be handled with care. If not harvested at the right time, it will shatter into a million pieces."}], 35);
+lore.after_ability = Component.splitToLength([{text: "This delicate, crystal-like corn needs to be handled with care. If not harvested at the right time, it will shatter into a million pieces."}], 38);

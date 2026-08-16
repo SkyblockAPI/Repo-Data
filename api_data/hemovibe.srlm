@@ -2,4 +2,4 @@ item = "redstone_ore";
 name = "Hemovibe";
 rarity = "UNCOMMON";
 rift_transferrable = true;
-lore.after_ability = Component.splitToLength([{text: "Dropped by vampires from the multiverse coven."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Dropped by vampires from the multiverse coven."}], 38);

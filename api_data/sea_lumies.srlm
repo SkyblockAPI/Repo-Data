@@ -2,4 +2,4 @@ item = "paper";
 name = "Sea Lumies";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/resources/sea_lumies";
 rarity = "COMMON";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Luminous wonders from the ocean's depths, lighting up the watery abyss."}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Luminous wonders from the ocean's depths, lighting up the watery abyss."}], 38);

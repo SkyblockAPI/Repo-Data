@@ -1,4 +1,4 @@
 item = "double_plant";
 name = "Caducous Stem";
 rarity = "COMMON";
-lore.after_ability = Component.splitToLength([{text: "The color and shape of flowers are a precise record of what bees find attractive."}], 35);
+lore.after_ability = Component.splitToLength([{text: "The color and shape of flowers are a precise record of what bees find attractive."}], 38);

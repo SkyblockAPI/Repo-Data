@@ -3,4 +3,4 @@ name = "Junk Artifact";
 include("types/accessory", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc0MDA3MTUzNjk5NSwKICAicHJvZmlsZUlkIiA6ICI3ZGY4NmY1MWFjZmI0MjQzYTkzNDQ1OTAyZDEzYTc0MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNclJpcHRpZGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTcyNzgxMmY3MDhkZWUxODI2YmNlZWNkYWRiOWM3NzE5ZTNkMGYzODVhM2IyNTE1ZDAwYjVmNjY1ZDhiYTgzZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "One man's trash is another man's treasure."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "One man's trash is another man's treasure."}]}], 38);

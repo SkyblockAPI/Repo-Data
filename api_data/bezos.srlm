@@ -3,4 +3,4 @@ name = "Bezos";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/bezos";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "The surface is strangely cool and smooth. Often used as a ball in many sports due to its bouncy nature."}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "The surface is strangely cool and smooth. Often used as a ball in many sports due to its bouncy nature."}], 38);

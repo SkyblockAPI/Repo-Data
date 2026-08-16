@@ -6,4 +6,4 @@ rarity = "COMMON";
 stats = {
   damage: 5
 };
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Ex tenebris, primus venator surgit."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Ex tenebris, primus venator surgit."}]}], 38);

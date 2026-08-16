@@ -4,4 +4,4 @@ include("types/none", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU0Mjg4MCwKICAicHJvZmlsZUlkIiA6ICI3MzE4MWQxZDRjYWQ0ZmU0YTcxNWNjNmUxOGNjYzVkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaZmVybjRuZGl0byIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MDRjNWNlMTI1NDVhN2NjZGYwYTM1YjlkZjBlZjliYWMxNTgyNmMzYTA3ODZlMWNlMTBmM2VjN2QwNjU2ZjYxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{text: "", extra: [{color: "gold", bold: false, italic: false, text: "Gold"}, {color: "gray", bold: false, italic: false, text: ", but broken into fragments. This makes it important somehow."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: [{color: "gold", bold: false, italic: false, text: "Gold"}, {color: "gray", bold: false, italic: false, text: ", but broken into fragments. This makes it important somehow."}]}], 38);

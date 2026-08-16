@@ -3,4 +3,4 @@ name = "Mithril";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/mithril";
 rarity = "COMMON";
 category = "DWARVEN METAL";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: '"The Man called it "true-silver" while the Dwarves, who loved it above all things, had their own, secret name for it."'}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: '"The Man called it "true-silver" while the Dwarves, who loved it above all things, had their own, secret name for it."'}]}], 38);

@@ -2,4 +2,4 @@ item = "stone";
 name = "Enchanted Hard Stone";
 rarity = "UNCOMMON";
 category = "BLOCK";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "A refined form of heavy rock from the darkest depths."}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "A refined form of heavy rock from the darkest depths."}], 38);

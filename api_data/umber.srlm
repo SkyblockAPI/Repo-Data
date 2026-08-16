@@ -3,4 +3,4 @@ name = "Umber";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/umber/umber";
 rarity = "COMMON";
 category = "DWARVEN METAL";
-lore.after_ability = Component.splitToLength([{text: "Hardy enough to flourish even in the harshest of conditions."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Hardy enough to flourish even in the harshest of conditions."}], 38);

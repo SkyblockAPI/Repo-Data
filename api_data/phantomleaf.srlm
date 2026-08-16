@@ -3,4 +3,4 @@ name = "Phantomleaf";
 include("types/mutation", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc2Mjc3NjA0MDE3MSwKICAicHJvZmlsZUlkIiA6ICI2NWI5NTU1YWQyMGU0NWM5YjFkNmU3MjQwNjU0NTBkNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNSEZfTWVybCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMWMyMDZhYjA1Y2JhYzRhMjJmNTRmODc3OGMzYmZiZDg3MGYxOWMzODAxNzZmMjg4NjE0Yzc3ZDE5YjVkMTIyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "It hides in plain sight, blending in with its surroundings until it's ready to reveal itself. If you listen closely, you can hear its pulse guiding you to the right spot."}], 35);
+lore.after_ability = Component.splitToLength([{text: "It hides in plain sight, blending in with its surroundings until it's ready to reveal itself. If you listen closely, you can hear its pulse guiding you to the right spot."}], 38);

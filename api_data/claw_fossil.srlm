@@ -2,4 +2,4 @@ item = "paper";
 name = "Claw Fossil";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/fossils/claw_fossil";
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "A small but sharp claw once used for digging tunnels."}], 35);
+lore.after_ability = Component.splitToLength([{text: "A small but sharp claw once used for digging tunnels."}], 38);

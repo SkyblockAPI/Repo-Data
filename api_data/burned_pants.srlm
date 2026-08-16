@@ -5,4 +5,4 @@ rarity = "RARE";
 stats = {
   rift_time: -4
 };
-lore.after_ability = Component.splitToLength([{color: "dark_gray", bold: false, italic: false, text: "Maybe encouraging him wasn't a great idea."}], 35);
+lore.after_ability = Component.splitToLength([{color: "dark_gray", bold: false, italic: false, text: "Maybe encouraging him wasn't a great idea."}], 38);

@@ -3,4 +3,4 @@ name = "All-in Aloe Fragment";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
 soulbound = "COOP";
-lore.after_ability = Component.splitToLength([{text: "Hope you hit it big!"}], 35);
+lore.after_ability = Component.splitToLength([{text: "Hope you hit it big!"}], 38);

@@ -3,4 +3,4 @@ name = "Cane Knot";
 this["minecraft:item_model"] = "minecraft:kelp";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
-lore.after_ability = Component.splitToLength([{text: "A bundle of Sugar Cane so tied up that it questions our understanding of friction and thermodynamics."}], 35);
+lore.after_ability = Component.splitToLength([{text: "A bundle of Sugar Cane so tied up that it questions our understanding of friction and thermodynamics."}], 38);

@@ -8,4 +8,4 @@ stats = {
   health: 1
 };
 soulbound = "SOLO";
-lore.after_ability = Component.splitToLength([{text: "Don't hate the player, hate the game. - Ice T"}], 35);
+lore.after_ability = Component.splitToLength([{text: "Don't hate the player, hate the game. - Ice T"}], 38);

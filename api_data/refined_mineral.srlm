@@ -3,4 +3,4 @@ name = "Refined Mineral";
 this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/cole/refined_mineral";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{text: "A material so pure it comes pre-refined from its place of origin."}], 35);
+lore.after_ability = Component.splitToLength([{text: "A material so pure it comes pre-refined from its place of origin."}], 38);

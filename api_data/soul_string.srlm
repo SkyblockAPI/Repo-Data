@@ -3,4 +3,4 @@ name = "Soul String";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/soul_string";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{text: "Rare string that can be used to craft weapons that are infused with the power of Arachne."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Rare string that can be used to craft weapons that are infused with the power of Arachne."}], 38);

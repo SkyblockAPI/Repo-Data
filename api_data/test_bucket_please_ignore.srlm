@@ -8,4 +8,4 @@ stats = {
   true_defense: 0.5
 };
 soulbound = "SOLO";
-lore.after_ability = Component.splitToLength([{text: "Was it all a test?"}], 35);
+lore.after_ability = Component.splitToLength([{text: "Was it all a test?"}], 38);

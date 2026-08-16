@@ -3,4 +3,4 @@ name = "Stoplight Petal";
 include("types/mutation", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc2Mjc3NTk4ODM0MiwKICAicHJvZmlsZUlkIiA6ICI3NjFjOTZhOTgzNzc0ODUwODc4ZjgwYWY4MzIyMzgxZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhOCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YzJiNzk3ZTcxNzJhMDUxNjllMzEzNzM5OTA4NTE1ODY0ZDZiMzcyZjlhNWVjYzc3MmY4MWQ5YzRlNDAyYTU0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{text: "This flower switches between green and red as you try to harvest it. Break it when it's green, but don't touch it when it turns red or it'll wither!"}], 35);
+lore.after_ability = Component.splitToLength([{text: "This flower switches between green and red as you try to harvest it. Break it when it's green, but don't touch it when it turns red or it'll wither!"}], 38);

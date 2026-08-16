@@ -2,4 +2,4 @@ item = "paper";
 name = "Perfect Plate";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/uncategorized/perfect_plate";
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "A plate forged from an assortment of the most durable materials found in this world."}], 35);
+lore.after_ability = Component.splitToLength([{text: "A plate forged from an assortment of the most durable materials found in this world."}], 38);

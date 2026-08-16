@@ -9,4 +9,4 @@ stats = {
   cold_resistance: 1
 };
 soulbound = "SOLO";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Fried Frozen?! There is no such thing!"}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Fried Frozen?! There is no such thing!"}]}], 38);

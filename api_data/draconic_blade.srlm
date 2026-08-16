@@ -2,4 +2,4 @@ item = "blaze_rod";
 name = "Draconic Blade";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "An extremely sharp blade formed by dragon nuclei."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "An extremely sharp blade formed by dragon nuclei."}]}], 38);

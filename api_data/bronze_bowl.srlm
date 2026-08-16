@@ -3,4 +3,4 @@ name = "Bronze Bowl";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/bronze_bowl";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
-lore.after_ability = Component.splitToLength([{text: "A broken old bowl. Maybe you can use it to upgrade your ", extra: [{color: "gold", bold: false, italic: false, text: "Ship"}, {color: "gray", bold: false, italic: false, text: "?"}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "A broken old bowl. Maybe you can use it to upgrade your ", extra: [{color: "gold", bold: false, italic: false, text: "Ship"}, {color: "gray", bold: false, italic: false, text: "?"}]}], 38);

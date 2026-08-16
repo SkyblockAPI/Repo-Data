@@ -3,4 +3,4 @@ name = "Spectre Dust";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/spectre_dust";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "A famous Wizard used a wand made out of these."}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "A famous Wizard used a wand made out of these."}], 38);

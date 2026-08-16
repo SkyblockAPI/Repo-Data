@@ -4,4 +4,4 @@ include("types/trap", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/traps/astral_huntrap";
 rarity = "LEGENDARY";
 requirements.skill.hunting = 20;
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: "Suprema inter retia, nulla praeda elabitur."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: "Suprema inter retia, nulla praeda elabitur."}]}], 38);

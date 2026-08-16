@@ -1,4 +1,4 @@
 item = "lever";
 name = "Barry's Montgray Pen";
 rarity = "UNCOMMON";
-lore.after_ability = Component.splitToLength([{text: "Use at the old election box in the back of the HQ."}, "", {color: "dark_gray", bold: false, italic: false, text: "Signature Edition - get it?"}], 35);
+lore.after_ability = Component.splitToLength([{text: "Use at the old election box in the back of the HQ."}, "", {color: "dark_gray", bold: false, italic: false, text: "Signature Edition - get it?"}], 38);

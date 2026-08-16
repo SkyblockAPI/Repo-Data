@@ -1,4 +1,4 @@
 item = "iron_axe";
 name = "remmaH yniT";
 rarity = "UNCOMMON";
-lore.after_ability = Component.splitToLength([{text: ".wohemoS"}], 35);
+lore.after_ability = Component.splitToLength([{text: ".wohemoS"}], 38);

@@ -3,4 +3,4 @@ name = "Glacite";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/glacite/glacite";
 rarity = "COMMON";
 category = "DWARVEN METAL";
-lore.after_ability = Component.splitToLength([{text: "An unnatural, nigh-unbreakable material. Of those unlucky few who have discovered where it originates, none have lived to tell the tale."}], 35);
+lore.after_ability = Component.splitToLength([{text: "An unnatural, nigh-unbreakable material. Of those unlucky few who have discovered where it originates, none have lived to tell the tale."}], 38);

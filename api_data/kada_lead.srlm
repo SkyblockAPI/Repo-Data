@@ -3,4 +3,4 @@ name = "Kada Lead";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/kada_lead";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "The lead has to be exceedingly soft due to the nature of the mount. The chicken needs to be comfy."}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "The lead has to be exceedingly soft due to the nature of the mount. The chicken needs to be comfy."}], 38);

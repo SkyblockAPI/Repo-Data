@@ -4,4 +4,4 @@ include("types/dungeon", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/lasr_eye";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{text: "The eye is mightier than the sword."}], 35);
+lore.after_ability = Component.splitToLength([{text: "The eye is mightier than the sword."}], 38);

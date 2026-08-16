@@ -3,4 +3,4 @@ name = "Primordial Eye";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTczODI0MzI4OTc5MSwKICAicHJvZmlsZUlkIiA6ICJlMjc5NjliODYyNWY0NDg1YjkyNmM5NTBhMDljMWMwMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaVp6YVhQIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FhZDQ0YjRjNDYzNTY0OGQ1YmQyMTIxMGRjYjZiMzE0ZDQ4OWRjZDc1YmM3OTMyYzU2OTBlMTJkODg5ODJhMzQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "A single, all-seeing eye, forcefully removed from the Primordial Broodfather. Though expressionless, you can sense the rage that permeates throughout."}], 35);
+lore.after_ability = Component.splitToLength([{text: "A single, all-seeing eye, forcefully removed from the Primordial Broodfather. Though expressionless, you can sense the rage that permeates throughout."}], 38);

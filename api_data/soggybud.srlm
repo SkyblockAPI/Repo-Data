@@ -3,4 +3,4 @@ name = "Soggybud";
 include("types/mutation", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc2MTkxMjMzNzQzNiwKICAicHJvZmlsZUlkIiA6ICI1MjhlYzVmMmEzZmM0MDA0YjYwY2IwOTA5Y2JiMjdjYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdWxpenppIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I0YmRmNDc3ZDJmNDE3Zjc1Nzk4YWQ2Mzc3YjEzMWFjYTc4N2JlOWJjMDVhMmZkZGMxOTcyZDgxZDQwYzczNTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{text: "A plant that drinks it all in, then expands like a water balloon."}], 35);
+lore.after_ability = Component.splitToLength([{text: "A plant that drinks it all in, then expands like a water balloon."}], 38);

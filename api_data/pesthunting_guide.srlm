@@ -2,4 +2,4 @@ item = "player_head";
 name = "A Beginner's Guide to Pesthunting";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTczMTk0NzgwMDU1NywKICAicHJvZmlsZUlkIiA6ICI3YjA5ZDg5NWQyYjc0NTU3YmM0YTkzNWYyNjU0NWNjNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBaXJwbGFuZUdvQnJyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM4YTdjOWUwYzFkYWI4OWUxNGI3ODhkOTYxNTdhYjAxNTIxMzZmOGZkN2EyM2Q2ZGIzZWViZTU1NWQ0NDhlYzMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "An old, well-used handbook detailing how to wrangle various pest types. Many of these pests don't seem to exist anymore - looks like someone did a good job!"}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "An old, well-used handbook detailing how to wrangle various pest types. Many of these pests don't seem to exist anymore - looks like someone did a good job!"}]}], 38);

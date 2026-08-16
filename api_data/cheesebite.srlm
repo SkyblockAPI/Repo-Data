@@ -3,4 +3,4 @@ name = "Cheesebite";
 include("types/mutation", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc1OTc2MzM3MTQwOCwKICAicHJvZmlsZUlkIiA6ICI4MDQ2MzdjMTA1ZGY0MzM0ODE3YTNmMDcxMTMyOTYyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQcmluY2VDUiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MTFmMTljNzgzOTU5ODA3MzM4ZTJiZjcwODBiMWUzNGFiYjhjNDUyNDY0YzBkY2U1YmRmNDM0Y2RjMjUwNzE3IgogICAgfQogIH0KfQ==";
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{text: "A smell so aromatic that even rodents can't resist."}], 35);
+lore.after_ability = Component.splitToLength([{text: "A smell so aromatic that even rodents can't resist."}], 38);

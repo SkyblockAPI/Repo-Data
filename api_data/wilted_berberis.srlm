@@ -1,4 +1,4 @@
 item = "dead_bush";
 name = "Wilted Berberis";
 rarity = "COMMON";
-lore.after_ability = Component.splitToLength([{text: "The plant equivalent of an alien zombie."}], 35);
+lore.after_ability = Component.splitToLength([{text: "The plant equivalent of an alien zombie."}], 38);

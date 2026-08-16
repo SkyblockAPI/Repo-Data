@@ -8,4 +8,4 @@ stats = {
   health: 75
 };
 soulbound = "SOLO";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "These trousers boast exquisite fabric, offering both comfort and a polished look."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "These trousers boast exquisite fabric, offering both comfort and a polished look."}]}], 38);

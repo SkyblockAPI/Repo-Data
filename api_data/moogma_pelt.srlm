@@ -2,4 +2,4 @@ item = "leather";
 name = "Moogma Pelt";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/moogma_pelt";
 rarity = "UNCOMMON";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "The bottom of the volcano is filled with it, Moogmas keep on moulting. It's a problem."}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "The bottom of the volcano is filled with it, Moogmas keep on moulting. It's a problem."}], 38);

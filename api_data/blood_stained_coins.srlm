@@ -4,4 +4,4 @@ include("types/none", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjUzMjAyMywKICAicHJvZmlsZUlkIiA6ICJkNmM2ZGYwOThiZDc0YmQzODEyMzkwZDY5MDUyNjI5MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJpbmtvZ25pdG8zMzgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmJlNDg5ODIxOWRiZDkxNmM5ZGZlZTA2NjA4NGI4MTNlZDhmNjNmZjU4ZjJlMGIyMzI4YzkwOThlMGZkMTQ4NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{text: "", extra: [{color: "gray", bold: false, italic: false, text: 'This is probably not what they meant by "'}, {color: "red", bold: false, italic: false, text: "blood money"}, {color: "gray", bold: false, italic: false, text: '".'}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: [{color: "gray", bold: false, italic: false, text: 'This is probably not what they meant by "'}, {color: "red", bold: false, italic: false, text: "blood money"}, {color: "gray", bold: false, italic: false, text: '".'}]}], 38);

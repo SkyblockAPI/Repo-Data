@@ -3,4 +3,4 @@ name = "Tungsten";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/tungsten/tungsten";
 rarity = "COMMON";
 category = "DWARVEN METAL";
-lore.after_ability = Component.splitToLength([{text: "Considered for a long time to be unbreakable prior to the discovery of the Crystal Hollows."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Considered for a long time to be unbreakable prior to the discovery of the Crystal Hollows."}], 38);

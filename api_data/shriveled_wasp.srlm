@@ -3,4 +3,4 @@ name = "Shriveled Wasp";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTczODU4NDU2NTIxNCwKICAicHJvZmlsZUlkIiA6ICI5YjhhN2NlMmJlYjI0NjdkYTJjZmU4MzQ1YTNjOTZkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdGFyR2FtZXJTaGFsb20iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWRkYzkwM2JhODBmNDQwMDBmZWNlZjdjY2NmMjdmYWU2ZjBkY2IyZDA5NGM1Njc1OTJiZjJjMWRiNGIyZTk3MCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "A notably large wasp carcass, drowned in the web and drained of blood. Its stinger remains intact."}], 35);
+lore.after_ability = Component.splitToLength([{text: "A notably large wasp carcass, drowned in the web and drained of blood. Its stinger remains intact."}], 38);

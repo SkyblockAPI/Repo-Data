@@ -3,4 +3,4 @@ name = "Seared Escargot";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/seared_escargot";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{text: "All that remains of an especially adventurous snail that ventured too deep into the fiery depths."}], 35);
+lore.after_ability = Component.splitToLength([{text: "All that remains of an especially adventurous snail that ventured too deep into the fiery depths."}], 38);

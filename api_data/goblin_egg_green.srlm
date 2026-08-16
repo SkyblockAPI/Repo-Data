@@ -2,4 +2,4 @@ item = "paper";
 name = "Green Goblin Egg";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/mining_3/goblins/eggs/green_goblin_egg";
 rarity = "UNCOMMON";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: "What came first the goblin or the egg?"}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: "What came first the goblin or the egg?"}]}], 38);

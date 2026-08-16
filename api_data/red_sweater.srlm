@@ -5,4 +5,4 @@ rarity = "RARE";
 stats = {
   trophy_fish_chance: 4
 };
-lore.after_ability = Component.splitToLength([{text: "", extra: [{color: "gray", bold: false, italic: false, text: "Seems to attract "}, {color: "green", bold: false, italic: false, text: "Bullfrogs "}, {color: "gray", bold: false, italic: false, text: "due to its red hue."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: [{color: "gray", bold: false, italic: false, text: "Seems to attract "}, {color: "green", bold: false, italic: false, text: "Bullfrogs "}, {color: "gray", bold: false, italic: false, text: "due to its red hue."}]}], 38);

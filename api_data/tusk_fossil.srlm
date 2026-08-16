@@ -2,4 +2,4 @@ item = "paper";
 name = "Tusk Fossil";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/fossils/tusk_fossil";
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "A great and powerful tusk belonging to a now-extinct creature."}], 35);
+lore.after_ability = Component.splitToLength([{text: "A great and powerful tusk belonging to a now-extinct creature."}], 38);

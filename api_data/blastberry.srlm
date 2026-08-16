@@ -3,4 +3,4 @@ name = "Blastberry";
 include("types/mutation", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc1OTc2MzM3NjYzOCwKICAicHJvZmlsZUlkIiA6ICI4MTFkNjM0NzUwY2Y0ZDI0OTJmZDcxYTViZjZhZjI3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhbW1wMSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYWNhZTBlODdmZmVhZGI3NTAyNjBjMmU2NTMxMDA0ZDY5ZDE0NDczMzc2Y2IyMjU3N2ZhZmU3MDU2OTM0OWYzIgogICAgfQogIH0KfQ==";
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{text: "Only harvest at your own risk."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Only harvest at your own risk."}], 38);

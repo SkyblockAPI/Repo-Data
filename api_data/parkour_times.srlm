@@ -2,4 +2,4 @@ item = "iron_block";
 name = "Parkour Times";
 rarity = "COMMON";
 requirements.skill.social = 1;
-lore.after_ability = Component.splitToLength([{text: "Places a hologram displaying the top parkour times of players on your island. Click to select which parkour is displayed."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Places a hologram displaying the top parkour times of players on your island. Click to select which parkour is displayed."}], 38);

@@ -1,4 +1,4 @@
 item = "name_tag";
 name = "Agatha's Coupon";
 rarity = "UNCOMMON";
-lore.after_ability = Component.splitToLength([{text: "", extra: [{color: "gray", bold: false, italic: false, text: "Can be spent in "}, {color: "aqua", bold: false, italic: false, text: "Agatha's Shop"}, {color: "gray", bold: false, italic: false, text: "!"}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: [{color: "gray", bold: false, italic: false, text: "Can be spent in "}, {color: "aqua", bold: false, italic: false, text: "Agatha's Shop"}, {color: "gray", bold: false, italic: false, text: "!"}]}], 38);

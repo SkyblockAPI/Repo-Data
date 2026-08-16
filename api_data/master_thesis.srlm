@@ -8,4 +8,4 @@ stats = {
 };
 requirements.trophy.FROG = "GOLD";
 soulbound = "SOLO";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A well-written paper, complete with labeled diagrams. It explores frog biodiversity and details key efforts made in the name of conservation."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A well-written paper, complete with labeled diagrams. It explores frog biodiversity and details key efforts made in the name of conservation."}]}], 38);

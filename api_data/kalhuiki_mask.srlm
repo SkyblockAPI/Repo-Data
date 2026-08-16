@@ -7,4 +7,4 @@ tiered_stats = {
   defense: [50],
   health: [100, 10]
 };
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "A ceremonial mask worn by the members of the Kalhuiki Tribe."}, "", {color: "gray", bold: false, italic: false, text: "While wearing this mask, members of the Kalhuiki Tribe will not attack you!"}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "A ceremonial mask worn by the members of the Kalhuiki Tribe."}, "", {color: "gray", bold: false, italic: false, text: "While wearing this mask, members of the Kalhuiki Tribe will not attack you!"}], 38);

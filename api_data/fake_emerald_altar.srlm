@@ -2,4 +2,4 @@ item = "emerald_block";
 name = "§aFake Emerald Altar";
 rarity = "UNCOMMON";
 soulbound = "COOP";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Can't bring the girl to the altar? Bring the altar to the girl!"}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Can't bring the girl to the altar? Bring the altar to the girl!"}]}], 38);

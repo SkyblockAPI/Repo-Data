@@ -3,4 +3,4 @@ name = "Feast Flask";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc3MzU4NzUxNDUyNywKICAicHJvZmlsZUlkIiA6ICJiZTFkOTJiYTkwY2E0NzMwYTIyMzQ2MTIxZWM2MTNmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZW5zb3JCeXRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc5ODAxZjk3MTkyNjEwN2Y3NjExN2JiNzE2YWQ5MTkwMjJhMDU5ZTI1YWU5NzFiYzU3ZjczNGM4YmM5OWMwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{text: "", extra: [{color: "gray", bold: false, italic: false, text: "A cup of soup from the "}, {color: "yellow", bold: false, italic: false, text: "Communal Stew"}, {color: "gray", bold: false, italic: false, text: "."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: [{color: "gray", bold: false, italic: false, text: "A cup of soup from the "}, {color: "yellow", bold: false, italic: false, text: "Communal Stew"}, {color: "gray", bold: false, italic: false, text: "."}]}], 38);

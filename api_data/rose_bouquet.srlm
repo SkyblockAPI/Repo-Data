@@ -2,4 +2,4 @@ item = "double_plant";
 name = "§cRose Bouquet";
 rarity = "COMMON";
 soulbound = "COOP";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A hastily-made bouquet consisting of Marco's finest roses."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A hastily-made bouquet consisting of Marco's finest roses."}]}], 38);

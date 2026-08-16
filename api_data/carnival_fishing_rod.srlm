@@ -4,4 +4,4 @@ include("types/fishing_rod", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/carnival_rod";
 rarity = "UNCOMMON";
 soulbound = "SOLO";
-lore.after_ability = Component.splitToLength([{text: "", extra: [{color: "gray", bold: false, italic: false, text: "Used to catch "}, {color: "dark_aqua", bold: false, italic: false, text: "fish "}, {color: "gray", bold: false, italic: false, text: "in the "}, {color: "dark_aqua", bold: false, italic: false, text: "Catch a Fish "}, {color: "gray", bold: false, italic: false, text: "game."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: [{color: "gray", bold: false, italic: false, text: "Used to catch "}, {color: "dark_aqua", bold: false, italic: false, text: "fish "}, {color: "gray", bold: false, italic: false, text: "in the "}, {color: "dark_aqua", bold: false, italic: false, text: "Catch a Fish "}, {color: "gray", bold: false, italic: false, text: "game."}]}], 38);

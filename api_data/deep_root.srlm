@@ -3,4 +3,4 @@ name = "Deep Root";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/resources/deep_root";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "These roots delve deep into the earth, drawing nutrients from below the waterline to nourish the mighty mangrove."}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "These roots delve deep into the earth, drawing nutrients from below the waterline to nourish the mighty mangrove."}], 38);

@@ -3,4 +3,4 @@ name = "Calcified Heart";
 include("types/reforge_stone", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTczOTY2NjM1NTg2OSwKICAicHJvZmlsZUlkIiA6ICI3MjU1MDA3NjQzYzQ0YTZiYjM3MjJlNzc3OTk5OTFkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4M250YW55IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFhMzMzODY2M2VmZmRjM2ZlMTM5YjkzMTc0ZmNmYmY0ZmEzNmM1YjQ4MmVhYjk1N2FmZGY5OWFiYjFlMmY0MTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A cold and hardened heart that was once brimming with eager love."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A cold and hardened heart that was once brimming with eager love."}]}], 38);

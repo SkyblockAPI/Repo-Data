@@ -3,4 +3,4 @@ name = "Gazing Pearl";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/gazing_pearl";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Can be used instead of a lamp, if you enjoy living on the edge."}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Can be used instead of a lamp, if you enjoy living on the edge."}], 38);

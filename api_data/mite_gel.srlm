@@ -3,4 +3,4 @@ name = "Mite Gel";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/combat_3/mite_gel";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Sticky goo scraped off an Endermite."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Sticky goo scraped off an Endermite."}]}], 38);

@@ -1,4 +1,4 @@
 item = "carrot_item";
 name = "Nearly-Whole Carrot";
 rarity = "UNCOMMON";
-lore.after_ability = Component.splitToLength([{text: "The whole is better than the sum of its parts..."}], 35);
+lore.after_ability = Component.splitToLength([{text: "The whole is better than the sum of its parts..."}], 38);

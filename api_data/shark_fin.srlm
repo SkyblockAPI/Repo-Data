@@ -3,4 +3,4 @@ name = "Shark Fin";
 this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/marina/shark_fin";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{text: "Dropped by a Shark during Fishing Festival."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Dropped by a Shark during Fishing Festival."}], 38);

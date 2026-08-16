@@ -3,4 +3,4 @@ name = "Red Claw Egg";
 this["minecraft:item_model"] = "minecraft:mooshroom_spawn_egg";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{text: "Drops very rarely from Sven Packmaster. No one knows what's in the egg."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Drops very rarely from Sven Packmaster. No one knows what's in the egg."}], 38);

@@ -2,4 +2,4 @@ item = "ice";
 name = "Frozen Water";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{text: "One could say it's... ice cold."}], 35);
+lore.after_ability = Component.splitToLength([{text: "One could say it's... ice cold."}], 38);

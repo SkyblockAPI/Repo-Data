@@ -3,4 +3,4 @@ name = "Duskbloom";
 include("types/mutation", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc2MTkxMTk0Nzg4MCwKICAicHJvZmlsZUlkIiA6ICIwMTIxYzFjZDUxOTM0M2NmYWM4YzgyZThiNjVjYTFjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfVmV4X1RWIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdkY2E3OTUxYjM2ZjVmNzQ5ZTg4Mzc1OGIzNzljODAwOGNhNTVmMjQ1OTg3ZTRlZjBjMzc4OGNmMGM5MDNkNSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
 rarity = "UNCOMMON";
-lore.after_ability = Component.splitToLength([{text: "It turns to neither day nor night, lost somewhere in between."}], 35);
+lore.after_ability = Component.splitToLength([{text: "It turns to neither day nor night, lost somewhere in between."}], 38);

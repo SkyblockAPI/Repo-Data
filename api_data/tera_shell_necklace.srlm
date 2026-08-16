@@ -9,4 +9,4 @@ stats = {
   intelligence: 20
 };
 requirements.skill.combat = 22;
-lore.after_ability = Component.splitToLength([{text: "You can no longer catch ", extra: [{color: "gold", bold: false, italic: false, text: "Trophies "}, {color: "gray", bold: false, italic: false, text: "while wearing this Necklace."}]}, "", {text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Telling Trophy Fish to pound sand somehow elicits their deepest, darkest fears."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "You can no longer catch ", extra: [{color: "gold", bold: false, italic: false, text: "Trophies "}, {color: "gray", bold: false, italic: false, text: "while wearing this Necklace."}]}, "", {text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Telling Trophy Fish to pound sand somehow elicits their deepest, darkest fears."}]}], 38);

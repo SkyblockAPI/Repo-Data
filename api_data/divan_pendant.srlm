@@ -9,4 +9,4 @@ stats = {
   cold_resistance: 10
 };
 requirements.hotm = 10;
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "An item treasured by the greatest Dwarf who ever lived. Why would he leave it behind?"}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "An item treasured by the greatest Dwarf who ever lived. Why would he leave it behind?"}]}], 38);

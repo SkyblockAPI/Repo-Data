@@ -3,4 +3,4 @@ name = "Infernal Kuudra Core";
 include("types/accessory", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTY0NzA0MDIwMjI1OCwKICAicHJvZmlsZUlkIiA6ICJkNDg1NWJhYWMzYjM0Mjk1YWJmYjBlZjFiYWIyYzBkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb21pYXRhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VjZTI1Mjk2M2E1MTg4Y2VmOGVkZTlkODUyM2JkOTFkMjg0YTc4NWI0MThiMzllZWMyOWE5MWFlYTA3YzYxZTIiCiAgICB9CiAgfQp9";
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: "The dark core of Kuudra!"}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: "The dark core of Kuudra!"}]}], 38);

@@ -3,4 +3,4 @@ name = "Blaze Ashes";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/blaze_ashes";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Blazes are ephemeral creatures, constantly consuming themselves. Their ashes are said to bring good fortune."}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "Blazes are ephemeral creatures, constantly consuming themselves. Their ashes are said to bring good fortune."}], 38);

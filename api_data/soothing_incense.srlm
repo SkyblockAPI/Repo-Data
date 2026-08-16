@@ -2,4 +2,4 @@ item = "paper";
 name = "Soothing Incense";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/safari/soothing_incense";
 rarity = "SPECIAL";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A stick of a sweet-smelling incense. It makes you feel at ease."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A stick of a sweet-smelling incense. It makes you feel at ease."}]}], 38);

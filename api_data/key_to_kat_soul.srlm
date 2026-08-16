@@ -1,4 +1,4 @@
 item = "gold_nugget";
 name = "Key to Infested House Soul";
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{text: "Hold this item in your inventory to use the soul in the infested house."}], 35);
+lore.after_ability = Component.splitToLength([{text: "Hold this item in your inventory to use the soul in the infested house."}], 38);

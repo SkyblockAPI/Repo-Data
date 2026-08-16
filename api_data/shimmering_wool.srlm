@@ -2,4 +2,4 @@ item = "wool";
 name = "Shimmering Wool";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "A splendid wool found nowhere else; it caresses your fingers and exudes a unique warmth the likes of which you have never experienced before, and likely never will again."}], 35);
+lore.after_ability = Component.splitToLength([{text: "A splendid wool found nowhere else; it caresses your fingers and exudes a unique warmth the likes of which you have never experienced before, and likely never will again."}], 38);

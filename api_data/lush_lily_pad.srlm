@@ -1,4 +1,4 @@
 item = "water_lily";
 name = "Lush Lily Pad";
 rarity = "SPECIAL";
-lore.after_ability = Component.splitToLength([{text: "Looks scrumptious. Perhaps a certain ", extra: [{color: "green", text: " Critter"}, "", {color: "gray", bold: false, italic: false, text: " would like it?"}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "Looks scrumptious. Perhaps a certain ", extra: [{color: "green", text: " Critter"}, "", {color: "gray", bold: false, italic: false, text: " would like it?"}]}], 38);

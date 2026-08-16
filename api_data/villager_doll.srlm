@@ -3,4 +3,4 @@ name = "Villager Doll";
 include("types/memento", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc1MTg0MzIxMDUwNCwKICAicHJvZmlsZUlkIiA6ICJlYTdiMmRmZDZjNGU0NDU0YWQ2YWMwZDFjZWNjYjNhMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGV2ZW5DaGFycyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMTI1NDg0ZWI2MjFjMTNiOWQ2ODEzZmU5NmMwNWRmMzg4NThhZTk5N2ZjZjVjMGY0ZGNkOTAwOTM1YWUxNjk1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
 rarity = "SPECIAL";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "An ugly doll of a villager. Holding it evokes suppressed memories of walking aimlessly in circles around the Hub for hours on end."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "An ugly doll of a villager. Holding it evokes suppressed memories of walking aimlessly in circles around the Hub for hours on end."}]}], 38);

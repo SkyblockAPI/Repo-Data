@@ -2,4 +2,4 @@ item = "clay_ball";
 name = "eroC enotS egrofeR";
 this["minecraft:item_model"] = "minecraft:popped_chorus_fruit";
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{text: "⸮morf emoc ti did erehw dna ,gniht siht si htrae no tahW"}], 35);
+lore.after_ability = Component.splitToLength([{text: "⸮morf emoc ti did erehw dna ,gniht siht si htrae no tahW"}], 38);

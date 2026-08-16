@@ -3,4 +3,4 @@ name = "Concentrated Stone";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/concentrated_stone";
 rarity = "RARE";
 category = "BLOCK";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "The purest form of stone. How can something so simple, be so heavy?"}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "The purest form of stone. How can something so simple, be so heavy?"}], 38);

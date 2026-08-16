@@ -3,4 +3,4 @@ name = "Blue Cheese Goblin Omelette";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/mining_3/forge/omelettes/blue_cheese_goblin_omelette";
 rarity = "RARE";
 requirements.hotm = 5;
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: "May cause illness"}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: "May cause illness"}]}], 38);

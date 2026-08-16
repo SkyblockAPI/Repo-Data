@@ -3,4 +3,4 @@ name = "Veilshroom Bunch";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/resources/veilshroom_bunch";
 ::items::prototypes::ingredient::(this);
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "A bouquet of ruby veilshrooms. The heat emanating from them can be felt even through the wrapping - best to handle with care."}], 35);
+lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "A bouquet of ruby veilshrooms. The heat emanating from them can be felt even through the wrapping - best to handle with care."}], 38);

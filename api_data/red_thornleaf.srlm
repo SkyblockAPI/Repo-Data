@@ -1,4 +1,4 @@
 item = "dead_bush";
 name = "Red Thornleaf";
 rarity = "UNCOMMON";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A leaf that grows on the ground. Really pushing the envelope."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A leaf that grows on the ground. Really pushing the envelope."}]}], 38);

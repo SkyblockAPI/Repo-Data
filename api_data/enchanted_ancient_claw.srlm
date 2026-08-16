@@ -2,4 +2,4 @@ item = "flint";
 name = "Enchanted Ancient Claw";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{text: "The refined claw of an ancient beast, enchanted with bygone magic and honed through countless wars."}], 35);
+lore.after_ability = Component.splitToLength([{text: "The refined claw of an ancient beast, enchanted with bygone magic and honed through countless wars."}], 38);

@@ -7,4 +7,4 @@ stats = {
   rift_time: 50
 };
 soulbound = "SOLO";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: "No matter the place or when, anyone marked by Shen will gain control."}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "gray", bold: false, italic: true, text: "No matter the place or when, anyone marked by Shen will gain control."}]}], 38);

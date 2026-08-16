@@ -3,4 +3,4 @@ name = "Enchanted Shark Fin";
 this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/marina/shark_fin";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{text: "A razor-sharp shark fin designed to craft powerful items."}], 35);
+lore.after_ability = Component.splitToLength([{text: "A razor-sharp shark fin designed to craft powerful items."}], 38);

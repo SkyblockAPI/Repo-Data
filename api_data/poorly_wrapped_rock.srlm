@@ -3,4 +3,4 @@ name = "Poorly Wrapped Rock";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTYzNzQ3NTIzMzg3OSwKICAicHJvZmlsZUlkIiA6ICI0ZDEzZWUyZjViOWI0N2I2OGU2NzhhMjAxN2VmZTc1MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcmF5ZGVyZWsiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWY5Yzg1MjY4MmRiMzA2M2M4MzkwODM5YjlmNGNhMTY3MGEwNzIyNmNhMGE0YTkwMmYxZDlmMDZiMjMzYzQwIgogICAgfQogIH0KfQ==";
 rarity = "COMMON";
 soulbound = "COOP";
-lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Uneven, unkempt, disjointed, and that's just the guy who wrapped it!"}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Uneven, unkempt, disjointed, and that's just the guy who wrapped it!"}]}], 38);

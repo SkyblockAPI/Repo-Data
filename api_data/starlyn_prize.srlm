@@ -2,4 +2,4 @@ item = "paper";
 name = "Agatha's Prize";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/starlyn/starlyn_prize";
 rarity = "RARE";
-lore.after_ability = Component.splitToLength([{text: "", extra: [{color: "gray", bold: false, italic: false, text: "Used to purchase certain items from "}, {color: "aqua", bold: false, italic: false, text: "Agatha's Shop"}, {color: "gray", bold: false, italic: false, text: "!"}]}], 35);
+lore.after_ability = Component.splitToLength([{text: "", extra: [{color: "gray", bold: false, italic: false, text: "Used to purchase certain items from "}, {color: "aqua", bold: false, italic: false, text: "Agatha's Shop"}, {color: "gray", bold: false, italic: false, text: "!"}]}], 38);

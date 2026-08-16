@@ -3,4 +3,4 @@ name = "Spooky Water Orb";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/crimson_isle/bobbin_time/spooky_water_orb";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "A terrifying sphere of extreme spookiness."}], 35);
+lore.after_ability = Component.splitToLength([{text: "A terrifying sphere of extreme spookiness."}], 38);

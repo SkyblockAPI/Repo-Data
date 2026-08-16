@@ -4,4 +4,4 @@ include("types/dungeon", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/diamantes_handle";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{text: "The hilt of the largest sword known to humankind."}], 35);
+lore.after_ability = Component.splitToLength([{text: "The hilt of the largest sword known to humankind."}], 38);

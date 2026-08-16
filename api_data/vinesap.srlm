@@ -3,4 +3,4 @@ name = "Vinesap";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/vinesap";
 ::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
-lore.after_ability = Component.splitToLength([{italic: true, text: "A fusion of vine resilience and sap vitality."}], 35);
+lore.after_ability = Component.splitToLength([{italic: true, text: "A fusion of vine resilience and sap vitality."}], 38);

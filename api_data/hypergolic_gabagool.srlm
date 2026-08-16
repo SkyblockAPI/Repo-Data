@@ -3,4 +3,4 @@ name = "Hypergolic Gabagool";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTY1OTc5MTg1MzI2MCwKICAicHJvZmlsZUlkIiA6ICIwYWMwY2IxMTI1MWE0ZjAwOTJjNjIyNzM2NjczMDNmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDbG91Y2wiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQ0NDg5YzI0MzJlZmE4OWU1NjQxMTE3OGU2MGRkZGU0M2E2NTQ5NzRhZDQ1ZDEzOTk2ZDQ4NTk0ZGVlYTM5OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
 ::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "Feed Wisp pets or craft into strong Inferno minion fuel."}, "", {color: "red", bold: false, italic: false, text: "Hypergolic-grade fuels create extra unique items!"}], 35);
+lore.after_ability = Component.splitToLength([{text: "Feed Wisp pets or craft into strong Inferno minion fuel."}, "", {color: "red", bold: false, italic: false, text: "Hypergolic-grade fuels create extra unique items!"}], 38);

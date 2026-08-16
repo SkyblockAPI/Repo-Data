@@ -2,4 +2,4 @@ item = "paper";
 name = "Helix Fossil";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/fossils/helix_fossil";
 rarity = "LEGENDARY";
-lore.after_ability = Component.splitToLength([{text: "A well-preserved fossil featuring a coiled shell."}], 35);
+lore.after_ability = Component.splitToLength([{text: "A well-preserved fossil featuring a coiled shell."}], 38);

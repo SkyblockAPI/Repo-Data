@@ -3,4 +3,4 @@ name = "Startlevine";
 include("types/mutation", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc2MTkxMjM0MDQ2MywKICAicHJvZmlsZUlkIiA6ICI5ODA4NmFkMDNiZjc0YTA5OGY2YTEyMzkzOWJlZjhlNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJwZXN0aWNpZGEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjJlOTRmYzJiNjAyNGRiODZiODIyNjZmZWRlZjM5Njk2YWY1OTFiMjc4MzA5NzMxOTlmZTkwOTdhY2MzNDBhMCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9";
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{text: "This skittish plant bolts the moment you get too close, disappearing into the ground. You'll need to figure out how to get near without scaring it off."}], 35);
+lore.after_ability = Component.splitToLength([{text: "This skittish plant bolts the moment you get too close, disappearing into the ground. You'll need to figure out how to get near without scaring it off."}], 38);
