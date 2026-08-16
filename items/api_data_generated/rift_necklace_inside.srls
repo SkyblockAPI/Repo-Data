@@ -1,0 +1,1 @@
+meta { include("api_data/rift_necklace_inside", this); };

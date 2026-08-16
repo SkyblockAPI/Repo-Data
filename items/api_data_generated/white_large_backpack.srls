@@ -1,0 +1,1 @@
+meta { include("api_data/white_large_backpack", this); };

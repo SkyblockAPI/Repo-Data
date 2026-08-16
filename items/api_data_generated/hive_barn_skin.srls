@@ -1,0 +1,1 @@
+meta { include("api_data/hive_barn_skin", this); };

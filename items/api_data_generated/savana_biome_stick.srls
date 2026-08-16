@@ -1,0 +1,1 @@
+meta { include("api_data/savana_biome_stick", this); };

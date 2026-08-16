@@ -1,0 +1,1 @@
+meta { include("api_data/amethyst_power_scroll", this); };

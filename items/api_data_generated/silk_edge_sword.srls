@@ -1,0 +1,1 @@
+meta { include("api_data/silk_edge_sword", this); };

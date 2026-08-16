@@ -1,0 +1,1 @@
+meta { include("api_data/foraging_wisdom_booster", this); };

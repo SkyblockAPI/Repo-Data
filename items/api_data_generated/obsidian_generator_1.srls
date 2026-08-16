@@ -1,0 +1,1 @@
+meta { include("api_data/obsidian_generator_1", this); };

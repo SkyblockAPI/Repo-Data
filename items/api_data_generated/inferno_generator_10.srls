@@ -1,0 +1,1 @@
+meta { include("api_data/inferno_generator_10", this); };

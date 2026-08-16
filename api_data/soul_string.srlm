@@ -1,4 +1,5 @@
 item = "paper";
 name = "Soul String";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/soul_string";
+::items::prototypes::ingredient::(this);
 rarity = "RARE";

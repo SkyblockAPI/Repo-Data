@@ -1,0 +1,4 @@
+item = "paper";
+name = "Prismapump";
+this["minecraft:item_model"] = "hypixel_skyblock:item/jacob/prismapump";
+rarity = "RARE";

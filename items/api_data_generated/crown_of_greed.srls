@@ -1,0 +1,1 @@
+meta { include("api_data/crown_of_greed", this); };

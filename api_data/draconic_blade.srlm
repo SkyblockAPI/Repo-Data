@@ -1,3 +1,4 @@
 item = "blaze_rod";
 name = "Draconic Blade";
+::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";

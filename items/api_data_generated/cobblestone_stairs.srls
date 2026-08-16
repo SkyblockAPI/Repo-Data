@@ -1,0 +1,1 @@
+meta { include("api_data/cobblestone_stairs", this); };

@@ -1,0 +1,1 @@
+meta { include("api_data/diamond_generator_7", this); };

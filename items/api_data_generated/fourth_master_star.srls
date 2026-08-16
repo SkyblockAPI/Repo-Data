@@ -1,0 +1,1 @@
+meta { include("api_data/fourth_master_star", this); };

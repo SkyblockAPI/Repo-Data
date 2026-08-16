@@ -1,0 +1,1 @@
+meta { include("api_data/test_vampire_chestplate", this); };

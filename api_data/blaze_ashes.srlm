@@ -1,4 +1,5 @@
 item = "paper";
 name = "Blaze Ashes";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/blaze_ashes";
+::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";

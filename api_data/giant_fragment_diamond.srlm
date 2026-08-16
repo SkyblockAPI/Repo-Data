@@ -2,4 +2,5 @@ item = "paper";
 name = "Diamante's Handle";
 include("types/dungeon", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/diamantes_handle";
+::items::prototypes::ingredient::(this);
 rarity = "EPIC";

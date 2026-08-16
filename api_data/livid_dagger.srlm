@@ -1,0 +1,14 @@
+item = "iron_sword";
+name = "Livid Dagger";
+include("types/sword", this);
+include("types/dungeon", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/livid_dagger";
+rarity = "LEGENDARY";
+stats = {
+  damage: 210,
+  strength: 60,
+  attack_speed: 50,
+  critical_damage: 50,
+  critical_chance: 100
+};
+requirements.dungeon_completetion.catacombs = 5;

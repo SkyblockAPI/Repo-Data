@@ -1,0 +1,1 @@
+meta { include("api_data/accretion_talisman", this); };

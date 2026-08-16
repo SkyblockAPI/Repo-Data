@@ -1,0 +1,1 @@
+meta { include("api_data/scorched_crab_stick", this); };

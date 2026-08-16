@@ -1,0 +1,1 @@
+meta { include("api_data/base_camp_portal", this); };

@@ -2,4 +2,5 @@ item = "paper";
 name = "Spirit Bone";
 include("types/dungeon", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/spirit_bone";
+::items::prototypes::ingredient::(this);
 rarity = "EPIC";

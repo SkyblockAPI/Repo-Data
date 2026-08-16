@@ -2,4 +2,5 @@ item = "paper";
 name = "Mimic Fragment";
 include("types/dungeon", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/mimic_fragment";
+::items::prototypes::ingredient::(this);
 rarity = "RARE";

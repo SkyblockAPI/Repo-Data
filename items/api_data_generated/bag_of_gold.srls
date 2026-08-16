@@ -1,0 +1,1 @@
+meta { include("api_data/bag_of_gold", this); };

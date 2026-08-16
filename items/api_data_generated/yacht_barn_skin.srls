@@ -1,0 +1,1 @@
+meta { include("api_data/yacht_barn_skin", this); };

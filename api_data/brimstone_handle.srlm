@@ -1,4 +1,5 @@
 item = "stick";
 name = "Brimstone Handle";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/brimstone_handle";
+::items::prototypes::ingredient::(this);
 rarity = "EPIC";

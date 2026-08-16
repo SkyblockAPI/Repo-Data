@@ -1,0 +1,1 @@
+meta { include("api_data/soulweaver_gloves", this); };

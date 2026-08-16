@@ -1,0 +1,1 @@
+meta { include("api_data/potion_affinity_talisman", this); };

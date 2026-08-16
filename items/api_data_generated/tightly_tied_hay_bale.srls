@@ -1,0 +1,1 @@
+meta { include("api_data/tightly_tied_hay_bale", this); };

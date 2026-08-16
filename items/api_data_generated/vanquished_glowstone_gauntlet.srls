@@ -1,0 +1,1 @@
+meta { include("api_data/vanquished_glowstone_gauntlet", this); };

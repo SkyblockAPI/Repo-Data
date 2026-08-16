@@ -1,0 +1,1 @@
+meta { include("api_data/star_sword_9000", this); };

@@ -1,0 +1,1 @@
+meta { include("api_data/absolute_ender_pearl", this); };

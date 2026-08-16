@@ -1,4 +1,5 @@
 item = "nether_brick_item";
 name = "Livid Fragment";
 include("types/dungeon", this);
+::items::prototypes::ingredient::(this);
 rarity = "RARE";

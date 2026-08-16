@@ -1,0 +1,1 @@
+meta { include("api_data/small_talisman_bag", this); };

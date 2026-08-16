@@ -1,3 +1,4 @@
 item = "ink_sack";
 name = "Gunthesizer Lichen";
+::items::prototypes::ingredient::(this);
 rarity = "RARE";

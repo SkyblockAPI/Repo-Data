@@ -1,3 +1,4 @@
 item = "diamond";
 name = "Scythe Blade";
+::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";

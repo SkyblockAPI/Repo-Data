@@ -1,0 +1,1 @@
+meta { include("api_data/ice_lolly_personality", this); };

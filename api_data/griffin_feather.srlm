@@ -1,3 +1,4 @@
 item = "feather";
 name = "Griffin Feather";
+::items::prototypes::ingredient::(this);
 rarity = "RARE";

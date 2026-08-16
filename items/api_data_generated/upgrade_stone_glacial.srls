@@ -1,0 +1,1 @@
+meta { include("api_data/upgrade_stone_glacial", this); };

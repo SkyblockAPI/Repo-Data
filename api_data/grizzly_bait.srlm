@@ -1,3 +1,4 @@
 item = "raw_fish";
 name = "Grizzly Salmon";
+::items::prototypes::ingredient::(this);
 rarity = "RARE";

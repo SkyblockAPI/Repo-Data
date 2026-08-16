@@ -1,0 +1,1 @@
+meta { include("api_data/gold_scarf_head", this); };

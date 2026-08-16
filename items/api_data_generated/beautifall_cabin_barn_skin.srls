@@ -1,0 +1,1 @@
+meta { include("api_data/beautifall_cabin_barn_skin", this); };

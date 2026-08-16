@@ -1,0 +1,1 @@
+meta { include("api_data/mage_dungeon_ability_2", this); };

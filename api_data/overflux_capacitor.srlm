@@ -1,3 +1,4 @@
 item = "quartz";
 name = "Overflux Capacitor";
+::items::prototypes::ingredient::(this);
 rarity = "EPIC";

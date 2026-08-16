@@ -1,0 +1,4 @@
+item = "stick";
+name = "InfiniDirt™ Wand";
+this["minecraft:item_model"] = "hypixel_skyblock:item/jacob/infinidirt_wand";
+rarity = "UNCOMMON";

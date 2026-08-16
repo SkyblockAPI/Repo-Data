@@ -1,0 +1,1 @@
+meta { include("api_data/large_lava_fishing_sack", this); };

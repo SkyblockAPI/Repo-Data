@@ -2,6 +2,7 @@ item = "iron_hoe";
 name = "Newton Nether Wart Cutter Mk. I";
 include("types/farming_tool", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/jacob/hoes/theoretical_hoe_warts_1";
+::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
 requirements.skill.farming = 10;
 requirements.garden = 10;

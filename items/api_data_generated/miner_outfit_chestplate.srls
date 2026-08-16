@@ -1,0 +1,1 @@
+meta { include("api_data/miner_outfit_chestplate", this); };

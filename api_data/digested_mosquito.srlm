@@ -1,3 +1,4 @@
 item = "rotten_flesh";
 name = "Digested Mosquito";
+::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";

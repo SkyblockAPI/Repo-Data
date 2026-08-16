@@ -1,0 +1,5 @@
+item = "paper";
+name = "Feast Burger with a Side of Deepfries";
+include("types/consumable", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/feast_burger";
+rarity = "EPIC";

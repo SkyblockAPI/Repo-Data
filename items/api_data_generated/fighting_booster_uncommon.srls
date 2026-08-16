@@ -1,0 +1,1 @@
+meta { include("api_data/fighting_booster_uncommon", this); };

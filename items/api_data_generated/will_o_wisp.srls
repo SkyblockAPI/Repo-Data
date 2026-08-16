@@ -1,0 +1,1 @@
+meta { include("api_data/will_o_wisp", this); };

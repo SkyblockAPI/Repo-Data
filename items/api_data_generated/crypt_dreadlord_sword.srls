@@ -1,0 +1,1 @@
+meta { include("api_data/crypt_dreadlord_sword", this); };

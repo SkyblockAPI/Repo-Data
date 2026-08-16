@@ -1,4 +1,5 @@
 item = "bone";
 name = "Weak Wolf Catalyst";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/weak_wolf_catalyst";
+::items::prototypes::ingredient::(this);
 rarity = "RARE";

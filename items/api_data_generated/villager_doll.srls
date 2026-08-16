@@ -1,0 +1,1 @@
+meta { include("api_data/villager_doll", this); };

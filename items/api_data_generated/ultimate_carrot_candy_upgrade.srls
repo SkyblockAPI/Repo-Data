@@ -1,0 +1,1 @@
+meta { include("api_data/ultimate_carrot_candy_upgrade", this); };

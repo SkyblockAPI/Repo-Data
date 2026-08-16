@@ -1,0 +1,1 @@
+meta { include("api_data/resource_regenerator_crystal", this); };

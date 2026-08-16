@@ -1,0 +1,8 @@
+item = "wood_sword";
+name = "Aspect of the Jerry, Signature Edition";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/events/century/aspect_of_the_jerry_signature";
+rarity = "UNCOMMON";
+stats = {
+  damage: 2
+};

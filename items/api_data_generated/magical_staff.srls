@@ -1,0 +1,1 @@
+meta { include("api_data/magical_staff", this); };

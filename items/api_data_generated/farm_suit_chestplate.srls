@@ -1,0 +1,1 @@
+meta { include("api_data/farm_suit_chestplate", this); };

@@ -1,0 +1,1 @@
+meta { include("api_data/castle_of_stone", this); };

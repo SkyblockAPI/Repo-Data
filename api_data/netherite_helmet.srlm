@@ -1,0 +1,11 @@
+item = "chainmail_helmet";
+name = "Netherite Helmet";
+include("types/helmet", this);
+rarity = "EPIC";
+stats = {
+  defense: 40,
+  health: 40,
+  mining_fortune: 10,
+  mining_speed: 25
+};
+soulbound = "COOP";

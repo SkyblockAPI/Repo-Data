@@ -1,0 +1,1 @@
+meta { include("api_data/spider_queens_stinger", this); };

@@ -1,0 +1,1 @@
+meta { include("api_data/party_hat_crab_animated", this); };

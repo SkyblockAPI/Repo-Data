@@ -1,4 +1,5 @@
 item = "red_rose";
 name = "Scarf Fragment";
 include("types/dungeon", this);
+::items::prototypes::ingredient::(this);
 rarity = "RARE";

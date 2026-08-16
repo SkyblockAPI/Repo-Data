@@ -1,0 +1,1 @@
+meta { include("api_data/smoldering_tomb_portal", this); };

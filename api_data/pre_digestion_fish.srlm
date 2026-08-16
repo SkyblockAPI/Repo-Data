@@ -1,3 +1,4 @@
 item = "raw_fish";
 name = "Pre-Digestion Fish";
+::items::prototypes::ingredient::(this);
 rarity = "EPIC";

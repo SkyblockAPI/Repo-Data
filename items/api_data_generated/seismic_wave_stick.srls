@@ -1,0 +1,1 @@
+meta { include("api_data/seismic_wave_stick", this); };

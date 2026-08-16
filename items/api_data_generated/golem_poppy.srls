@@ -1,0 +1,1 @@
+meta { include("api_data/golem_poppy", this); };

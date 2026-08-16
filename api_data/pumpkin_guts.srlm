@@ -1,3 +1,4 @@
 item = "pumpkin_seeds";
 name = "Pumpkin Guts";
+::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";

@@ -1,0 +1,1 @@
+meta { include("api_data/severed_pincer", this); };

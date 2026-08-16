@@ -1,0 +1,1 @@
+meta { include("api_data/taiga_biome_stick", this); };

@@ -1,3 +1,4 @@
 item = "ink_sack";
 name = "Lucky Clover Core";
+::items::prototypes::ingredient::(this);
 rarity = "EPIC";

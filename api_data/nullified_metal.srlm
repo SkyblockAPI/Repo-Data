@@ -1,3 +1,4 @@
 item = "carpet";
 name = "Nullified Metal";
+::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";

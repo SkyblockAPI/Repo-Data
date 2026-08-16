@@ -1,0 +1,1 @@
+meta { include("api_data/bachelor_rose", this); };

@@ -1,0 +1,1 @@
+meta { include("api_data/skeleton_soldier_helmet", this); };

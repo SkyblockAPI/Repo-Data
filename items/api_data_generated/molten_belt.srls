@@ -1,0 +1,1 @@
+meta { include("api_data/molten_belt", this); };

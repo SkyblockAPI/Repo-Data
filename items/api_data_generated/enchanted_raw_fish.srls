@@ -1,0 +1,1 @@
+meta { include("api_data/enchanted_raw_fish", this); };

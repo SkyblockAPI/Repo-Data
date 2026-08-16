@@ -1,0 +1,1 @@
+meta { include("api_data/trading_post_barn_skin", this); };

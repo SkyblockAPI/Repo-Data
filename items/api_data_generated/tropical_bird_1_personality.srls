@@ -1,0 +1,1 @@
+meta { include("api_data/tropical_bird_1_personality", this); };

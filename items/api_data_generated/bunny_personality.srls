@@ -1,0 +1,1 @@
+meta { include("api_data/bunny_personality", this); };

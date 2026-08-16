@@ -1,0 +1,1 @@
+meta { include("api_data/winter_barn_barn_skin", this); };

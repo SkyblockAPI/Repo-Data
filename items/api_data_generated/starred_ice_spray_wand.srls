@@ -1,0 +1,1 @@
+meta { include("api_data/starred_ice_spray_wand", this); };

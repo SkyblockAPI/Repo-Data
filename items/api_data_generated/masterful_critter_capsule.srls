@@ -1,0 +1,1 @@
+meta { include("api_data/masterful_critter_capsule", this); };

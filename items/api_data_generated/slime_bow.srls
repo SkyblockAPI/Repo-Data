@@ -1,0 +1,1 @@
+meta { include("api_data/slime_bow", this); };

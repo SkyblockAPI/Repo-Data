@@ -1,3 +1,4 @@
 item = "dropper";
 name = "Compactor";
+::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";

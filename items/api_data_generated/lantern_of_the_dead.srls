@@ -1,0 +1,1 @@
+meta { include("api_data/lantern_of_the_dead", this); };

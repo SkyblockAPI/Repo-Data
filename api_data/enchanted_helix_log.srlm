@@ -1,4 +1,5 @@
 item = "paper";
 name = "Enchanted Helix Log";
 this["minecraft:item_model"] = "minecraft:stripped_mangrove_log";
+::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";

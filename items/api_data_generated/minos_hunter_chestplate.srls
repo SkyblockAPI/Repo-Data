@@ -1,0 +1,1 @@
+meta { include("api_data/minos_hunter_chestplate", this); };

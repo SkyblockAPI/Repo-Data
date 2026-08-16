@@ -1,3 +1,4 @@
 item = "stained_glass";
 name = "Scare Fragment";
+::items::prototypes::ingredient::(this);
 rarity = "RARE";

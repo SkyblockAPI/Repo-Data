@@ -2,6 +2,7 @@ item = "iron_axe";
 name = "Pumpkin Dicer Mk. I";
 include("types/farming_tool", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/jacob/pumpkin_dicer";
+::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";
 requirements.skill.farming = 10;
 requirements.garden = 4;

@@ -1,0 +1,1 @@
+meta { include("api_data/stuffed_chili_pepper", this); };

@@ -1,0 +1,1 @@
+meta { include("api_data/vampire_generator_7", this); };

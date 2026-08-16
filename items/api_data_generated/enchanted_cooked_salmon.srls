@@ -1,0 +1,1 @@
+meta { include("api_data/enchanted_cooked_salmon", this); };

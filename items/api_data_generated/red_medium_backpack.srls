@@ -1,0 +1,1 @@
+meta { include("api_data/red_medium_backpack", this); };

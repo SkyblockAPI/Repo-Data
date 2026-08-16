@@ -1,3 +1,4 @@
 item = "double_plant";
 name = "Lush Berberis";
+::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";

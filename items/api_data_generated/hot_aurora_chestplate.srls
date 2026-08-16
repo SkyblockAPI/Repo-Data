@@ -1,0 +1,1 @@
+meta { include("api_data/hot_aurora_chestplate", this); };

@@ -1,0 +1,4 @@
+item = "paper";
+name = "Lump of Magma";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/lump_of_magma";
+rarity = "UNCOMMON";

@@ -1,3 +1,4 @@
 item = "mutton";
 name = "Agarimoo Tongue";
+::items::prototypes::ingredient::(this);
 rarity = "RARE";

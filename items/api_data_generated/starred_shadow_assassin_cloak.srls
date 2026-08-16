@@ -1,0 +1,1 @@
+meta { include("api_data/starred_shadow_assassin_cloak", this); };

@@ -1,0 +1,1 @@
+meta { include("api_data/night_vision_charm", this); };

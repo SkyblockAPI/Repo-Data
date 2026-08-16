@@ -1,0 +1,1 @@
+meta { include("api_data/choco_rabbit_personality", this); };

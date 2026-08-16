@@ -1,4 +1,5 @@
 item = "paper";
 name = "Unstable Dragon Fragment";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/unstable_dragon_fragment";
+::items::prototypes::ingredient::(this);
 rarity = "EPIC";

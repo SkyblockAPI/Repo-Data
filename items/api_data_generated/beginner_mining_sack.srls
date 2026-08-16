@@ -1,0 +1,1 @@
+meta { include("api_data/beginner_mining_sack", this); };

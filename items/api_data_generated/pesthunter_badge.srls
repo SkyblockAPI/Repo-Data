@@ -1,0 +1,1 @@
+meta { include("api_data/pesthunter_badge", this); };

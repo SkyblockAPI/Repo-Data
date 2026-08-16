@@ -1,0 +1,1 @@
+meta { include("api_data/skeleton_generator_4", this); };

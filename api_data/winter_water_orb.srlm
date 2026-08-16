@@ -1,4 +1,5 @@
 item = "paper";
 name = "Winter Water Orb";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/crimson_isle/bobbin_time/winter_water_orb";
+::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";

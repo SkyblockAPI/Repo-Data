@@ -1,3 +1,4 @@
 item = "ice";
 name = "Frozen Water";
+::items::prototypes::ingredient::(this);
 rarity = "RARE";

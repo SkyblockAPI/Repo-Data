@@ -1,0 +1,8 @@
+item = "wood_sword";
+name = "Aspect of the Jerry";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/aspect_of_the_jerry";
+rarity = "COMMON";
+stats = {
+  damage: 1
+};

@@ -1,0 +1,1 @@
+meta { include("api_data/super_magic_mushroom_soup", this); };

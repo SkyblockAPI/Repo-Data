@@ -1,0 +1,1 @@
+meta { include("api_data/enchanted_coal_block", this); };

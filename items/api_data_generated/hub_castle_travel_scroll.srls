@@ -1,0 +1,1 @@
+meta { include("api_data/hub_castle_travel_scroll", this); };

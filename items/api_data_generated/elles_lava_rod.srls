@@ -1,0 +1,1 @@
+meta { include("api_data/elles_lava_rod", this); };

@@ -1,3 +1,4 @@
 item = "nether_star";
 name = "Nether Star";
+::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";

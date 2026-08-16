@@ -1,0 +1,1 @@
+meta { include("api_data/unfanged_vampire_part", this); };

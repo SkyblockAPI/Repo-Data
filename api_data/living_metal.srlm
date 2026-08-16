@@ -1,3 +1,4 @@
 item = "stained_glass";
 name = "Living Metal";
+::items::prototypes::ingredient::(this);
 rarity = "RARE";

@@ -1,0 +1,1 @@
+meta { include("api_data/power_wither_boots", this); };

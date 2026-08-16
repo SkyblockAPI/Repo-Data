@@ -1,0 +1,1 @@
+meta { include("api_data/rock_gemstone", this); };

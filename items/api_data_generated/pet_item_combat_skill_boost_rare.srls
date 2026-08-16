@@ -1,0 +1,1 @@
+meta { include("api_data/pet_item_combat_skill_boost_rare", this); };

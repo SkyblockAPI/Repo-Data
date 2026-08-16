@@ -1,3 +1,4 @@
 item = "stick";
 name = "Daedalus Stick";
+::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";

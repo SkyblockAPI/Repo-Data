@@ -1,0 +1,1 @@
+meta { include("api_data/egg_painting_station", this); };

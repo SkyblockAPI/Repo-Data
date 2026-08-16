@@ -1,3 +1,4 @@
 item = "stick";
 name = "Hilt of Revelations";
+::items::prototypes::ingredient::(this);
 rarity = "RARE";

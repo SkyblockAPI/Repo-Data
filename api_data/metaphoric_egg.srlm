@@ -1,3 +1,4 @@
 item = "egg";
 name = "Metaphoric Egg";
+::items::prototypes::ingredient::(this);
 rarity = "RARE";

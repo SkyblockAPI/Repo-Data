@@ -1,0 +1,4 @@
+item = "paper";
+name = "Precursor Apparatus";
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/precursor_apparatus";
+rarity = "EPIC";

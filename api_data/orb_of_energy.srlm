@@ -1,4 +1,5 @@
 item = "paper";
 name = "Orb of Energy";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/orb_of_energy";
+::items::prototypes::ingredient::(this);
 rarity = "RARE";

@@ -3,6 +3,7 @@ name = "Scarf's Thesis";
 include("types/accessory", this);
 include("types/dungeon", this);
 skin = "eyJ0aW1lc3RhbXAiOjE0ODA5NTcyNzM0MTksInByb2ZpbGVJZCI6IjNlMjZiMDk3MWFjZDRjNmQ5MzVjNmFkYjE1YjYyMDNhIiwicHJvZmlsZU5hbWUiOiJOYWhlbGUiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhjZTRjODdlYjRkZGUyNzQ1OWUzZTdmODU5MjFlN2U1N2IxMTE5OTI2MGNhYTVjZTYzZjEzOWVlM2QxODhjIn19fQ==";
+::items::prototypes::ingredient::(this);
 rarity = "EPIC";
 rift_transferrable = true;
 stats = {

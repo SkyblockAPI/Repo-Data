@@ -1,0 +1,9 @@
+item = "leather_boots";
+name = "Arachne's Boots";
+include("types/boots", this);
+rarity = "RARE";
+stats = {
+  defense: 30,
+  health: 45
+};
+soulbound = "COOP";

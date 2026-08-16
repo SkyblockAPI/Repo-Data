@@ -1,0 +1,1 @@
+meta { include("api_data/placeable_fairy_soul_rift", this); };

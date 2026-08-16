@@ -1,0 +1,1 @@
+meta { include("api_data/campfire_talisman_21", this); };

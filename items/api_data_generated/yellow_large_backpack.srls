@@ -1,0 +1,1 @@
+meta { include("api_data/yellow_large_backpack", this); };

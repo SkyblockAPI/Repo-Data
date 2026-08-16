@@ -1,0 +1,1 @@
+meta { include("api_data/glowing_mushroom_cave_travel_scroll", this); };

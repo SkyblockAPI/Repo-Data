@@ -1,0 +1,1 @@
+meta { include("api_data/skymart_turbo_vacuum", this); };

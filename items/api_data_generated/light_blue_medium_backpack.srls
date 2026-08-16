@@ -1,0 +1,1 @@
+meta { include("api_data/light_blue_medium_backpack", this); };

@@ -1,3 +1,4 @@
 item = "slime_block";
 name = "Super Leech Modifier";
+::items::prototypes::ingredient::(this);
 rarity = "RARE";

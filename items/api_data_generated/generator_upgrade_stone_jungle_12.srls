@@ -1,0 +1,1 @@
+meta { include("api_data/generator_upgrade_stone_jungle_12", this); };

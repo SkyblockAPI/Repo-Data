@@ -1,0 +1,1 @@
+meta { include("api_data/tavern_barn_skin", this); };

@@ -1,4 +1,5 @@
 item = "bone";
 name = "Flexbone";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/flexbone";
+::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";

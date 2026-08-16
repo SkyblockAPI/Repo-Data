@@ -1,0 +1,1 @@
+meta { include("api_data/giants_eye_sword", this); };

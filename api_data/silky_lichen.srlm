@@ -1,4 +1,5 @@
 item = "ink_sack";
 name = "Silky Lichen";
+::items::prototypes::ingredient::(this);
 rarity = "RARE";
 soulbound = "COOP";

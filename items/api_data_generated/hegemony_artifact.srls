@@ -1,0 +1,1 @@
+meta { include("api_data/hegemony_artifact", this); };

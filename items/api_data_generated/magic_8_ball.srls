@@ -1,0 +1,1 @@
+meta { include("api_data/magic_8_ball", this); };

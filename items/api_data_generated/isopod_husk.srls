@@ -1,0 +1,1 @@
+meta { include("api_data/isopod_husk", this); };

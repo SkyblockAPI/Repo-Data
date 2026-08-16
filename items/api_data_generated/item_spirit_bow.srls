@@ -1,0 +1,1 @@
+meta { include("api_data/item_spirit_bow", this); };

@@ -1,0 +1,1 @@
+meta { include("api_data/self_recursive_pickaxe", this); };

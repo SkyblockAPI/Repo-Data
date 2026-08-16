@@ -1,3 +1,4 @@
 item = "flint";
 name = "Ancient Claw";
+::items::prototypes::ingredient::(this);
 rarity = "RARE";

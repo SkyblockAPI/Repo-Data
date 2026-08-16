@@ -1,0 +1,1 @@
+meta { include("api_data/whipped_magma_cream", this); };

@@ -1,4 +1,5 @@
 item = "paper";
 name = "Floral Gelatin";
 this["minecraft:item_model"] = "minecraft:honey_bottle";
+::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";

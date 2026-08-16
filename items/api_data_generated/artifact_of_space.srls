@@ -1,0 +1,1 @@
+meta { include("api_data/artifact_of_space", this); };

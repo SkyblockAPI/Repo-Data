@@ -1,3 +1,4 @@
 item = "arrow";
 name = "Deadgehog Spine";
+::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";

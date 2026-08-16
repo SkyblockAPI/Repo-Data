@@ -1,5 +1,6 @@
 return ::items::index::create::{
     entries: [
+        "api_data_generated_items",
         "dungeon_items",
         "farming_items",
         "slayer/index"

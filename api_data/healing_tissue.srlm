@@ -2,4 +2,5 @@ item = "rotten_flesh";
 name = "Healing Tissue";
 include("types/dungeon", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/healing_tissue";
+::items::prototypes::ingredient::(this);
 rarity = "RARE";

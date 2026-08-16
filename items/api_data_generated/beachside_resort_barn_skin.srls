@@ -1,0 +1,1 @@
+meta { include("api_data/beachside_resort_barn_skin", this); };

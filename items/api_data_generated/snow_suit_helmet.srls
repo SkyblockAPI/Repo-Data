@@ -1,0 +1,1 @@
+meta { include("api_data/snow_suit_helmet", this); };

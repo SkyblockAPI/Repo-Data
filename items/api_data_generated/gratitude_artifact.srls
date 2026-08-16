@@ -1,0 +1,1 @@
+meta { include("api_data/gratitude_artifact", this); };

@@ -1,0 +1,1 @@
+meta { include("api_data/sea_creature_talisman", this); };

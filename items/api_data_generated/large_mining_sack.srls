@@ -1,0 +1,1 @@
+meta { include("api_data/large_mining_sack", this); };

@@ -1,0 +1,7 @@
+item = "iron_sword";
+name = "Cactus Knife Mk. III";
+include("types/farming_tool", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/jacob/cactus_knife_3";
+rarity = "EPIC";
+requirements.skill.farming = 20;
+requirements.garden = 7;

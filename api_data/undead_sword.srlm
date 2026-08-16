@@ -1,0 +1,8 @@
+item = "iron_sword";
+name = "Undead Sword";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/undead_sword";
+rarity = "COMMON";
+stats = {
+  damage: 30
+};

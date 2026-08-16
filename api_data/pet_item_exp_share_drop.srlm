@@ -1,3 +1,4 @@
 item = "ink_sack";
 name = "Exp Share Core";
+::items::prototypes::ingredient::(this);
 rarity = "EPIC";

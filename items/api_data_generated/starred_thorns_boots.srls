@@ -1,0 +1,1 @@
+meta { include("api_data/starred_thorns_boots", this); };

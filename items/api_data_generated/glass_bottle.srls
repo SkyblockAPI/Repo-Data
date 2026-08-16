@@ -1,0 +1,1 @@
+meta { include("api_data/glass_bottle", this); };

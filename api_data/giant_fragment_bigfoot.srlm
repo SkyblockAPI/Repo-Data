@@ -2,4 +2,5 @@ item = "leash";
 name = "Bigfoot's Bola";
 include("types/dungeon", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/bigfoots_bola";
+::items::prototypes::ingredient::(this);
 rarity = "EPIC";

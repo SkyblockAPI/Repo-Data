@@ -1,0 +1,1 @@
+meta { include("api_data/vermin_vaporizer_garden_chip", this); };

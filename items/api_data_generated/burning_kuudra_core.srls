@@ -1,0 +1,1 @@
+meta { include("api_data/burning_kuudra_core", this); };

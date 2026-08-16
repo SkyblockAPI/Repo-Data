@@ -1,0 +1,10 @@
+item = "fishing_rod";
+name = "Fishing Rod";
+include("types/fishing_rod", this);
+rarity = "COMMON";
+stats = {
+  damage: 15,
+  strength: 15,
+  fishing_speed: 5,
+  sea_creature_chance: 1
+};

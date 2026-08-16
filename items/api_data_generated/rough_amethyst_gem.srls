@@ -1,0 +1,1 @@
+meta { include("api_data/rough_amethyst_gem", this); };

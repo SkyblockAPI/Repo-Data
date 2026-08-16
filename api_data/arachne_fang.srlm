@@ -1,4 +1,5 @@
 item = "paper";
 name = "Arachne's Fang";
 this["minecraft:item_model"] = "hypixel_skyblock:item/combat_1/arachnes_fang";
+::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";

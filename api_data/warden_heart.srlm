@@ -1,5 +1,6 @@
 item = "player_head";
 name = "Warden Heart";
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTYxMDQwMjM1OTkxMSwKICAicHJvZmlsZUlkIiA6ICJiYjdjY2E3MTA0MzQ0NDEyOGQzMDg5ZTEzYmRmYWI1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsYXVyZW5jaW8wMSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xOWEzYjVmYWIwMWRmYWJmMWY4YTgxNDQ0MGE4Y2U4MGRlMTA5YjEzNWE1MWFlZjIyNWM5ZWU5OGZlNDQ3ZTAiCiAgICB9CiAgfQp9";
+::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";
 requirements.slayer.zombie = 8;

@@ -1,0 +1,1 @@
+meta { include("api_data/frozen_amulet", this); };

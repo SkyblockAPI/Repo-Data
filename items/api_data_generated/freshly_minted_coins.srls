@@ -1,0 +1,1 @@
+meta { include("api_data/freshly_minted_coins", this); };

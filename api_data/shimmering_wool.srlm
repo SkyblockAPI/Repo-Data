@@ -1,3 +1,4 @@
 item = "wool";
 name = "Shimmering Wool";
+::items::prototypes::ingredient::(this);
 rarity = "LEGENDARY";

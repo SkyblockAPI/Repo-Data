@@ -1,4 +1,5 @@
 item = "paper";
 name = "Veilshroom Bunch";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/resources/veilshroom_bunch";
+::items::prototypes::ingredient::(this);
 rarity = "RARE";

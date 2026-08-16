@@ -1,0 +1,1 @@
+meta { include("api_data/ring_potion_affinity", this); };

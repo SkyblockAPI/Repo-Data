@@ -1,0 +1,1 @@
+meta { include("api_data/birch_forest_biome_stick", this); };

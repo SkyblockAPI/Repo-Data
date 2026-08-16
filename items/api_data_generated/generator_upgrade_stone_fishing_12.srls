@@ -1,0 +1,1 @@
+meta { include("api_data/generator_upgrade_stone_fishing_12", this); };

@@ -1,0 +1,1 @@
+meta { include("api_data/vaccine_ring", this); };

@@ -1,0 +1,8 @@
+item = "iron_sword";
+name = "Arack";
+include("types/sword", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/combat_1/arack";
+rarity = "EPIC";
+stats = {
+  damage: 90
+};

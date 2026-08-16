@@ -1,0 +1,4 @@
+item = "paper";
+name = "Abiphone X Red";
+this["minecraft:item_model"] = "hypixel_skyblock:item/abiphones/x/abiphone_x_red";
+rarity = "UNCOMMON";

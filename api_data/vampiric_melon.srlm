@@ -1,3 +1,4 @@
 item = "melon_block";
 name = "Vampiric Melon";
+::items::prototypes::ingredient::(this);
 rarity = "UNCOMMON";

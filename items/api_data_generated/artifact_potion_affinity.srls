@@ -1,0 +1,1 @@
+meta { include("api_data/artifact_potion_affinity", this); };

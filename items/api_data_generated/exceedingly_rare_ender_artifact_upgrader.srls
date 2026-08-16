@@ -1,0 +1,1 @@
+meta { include("api_data/exceedingly_rare_ender_artifact_upgrader", this); };

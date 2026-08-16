@@ -1,0 +1,1 @@
+meta { include("api_data/disinfestor_gloves", this); };

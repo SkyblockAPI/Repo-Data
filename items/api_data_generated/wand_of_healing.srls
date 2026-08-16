@@ -1,0 +1,1 @@
+meta { include("api_data/wand_of_healing", this); };

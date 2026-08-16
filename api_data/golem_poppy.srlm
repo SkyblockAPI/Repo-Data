@@ -2,4 +2,5 @@ item = "paper";
 name = "Ancient Rose";
 include("types/dungeon", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/ancient_rose";
+::items::prototypes::ingredient::(this);
 rarity = "RARE";
