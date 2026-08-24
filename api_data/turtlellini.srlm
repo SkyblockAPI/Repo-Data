@@ -2,5 +2,5 @@ item = "player_head";
 name = "Turtlellini";
 include("types/mutation", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTc2MTkxMjM1MzE2MCwKICAicHJvZmlsZUlkIiA6ICJmNzM0MmExODMxZDA0ZDA5ODc4Y2ViOTVmOTUxYTllMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3RNMWtzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFkMWJkMDZhNjczOGQwZGE1MDUzZWFlNDlhMTM2MmI4OTQ4OWQxYWMwMDRjMjIyNTA0NTM2ZjdiY2QwNzY3OWQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
-rarity = "EPIC";
+rarity = "RARE";
 lore.after_ability = Component.splitToLength([{text: "Outside, it's smooth, but there's more to it than meets the eye."}], 38);

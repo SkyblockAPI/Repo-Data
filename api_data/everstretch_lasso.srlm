@@ -1,4 +1,4 @@
-item = "leash";
+item = "paper";
 name = "Everstretch Lasso";
 include("types/lasso", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/hunting/everstretch_lasso";

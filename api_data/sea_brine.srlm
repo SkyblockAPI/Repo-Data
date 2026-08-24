@@ -1,0 +1,6 @@
+item = "paper";
+name = "Sea Brine";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/sea_brine";
+::items::prototypes::ingredient::(this);
+rarity = "UNCOMMON";
+lore.after_ability = Component.splitToLength([{text: "", extra: [{color: "gray", bold: false, italic: false, text: "Dropped by the "}, {color: "green", bold: false, italic: false, text: "Brineling "}, {color: "gray", bold: false, italic: false, text: "in "}, {color: "gold", bold: false, italic: false, text: "Torrhus Canyon"}, {color: "gray", bold: false, italic: false, text: "."}]}, "", {text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "Highly concentrated saltwater, between three to eight times saltier than seawater."}]}], 38);

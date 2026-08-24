@@ -1,4 +1,4 @@
-item = "leash";
+item = "paper";
 name = "Abysmal Lasso";
 include("types/lasso", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/abysmal_lasso";

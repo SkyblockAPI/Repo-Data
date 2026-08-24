@@ -1,0 +1,5 @@
+item = "paper";
+name = "Forest's Favor";
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/enchantmentupgrades/forests_favor";
+rarity = "LEGENDARY";
+lore.after_ability = Component.splitToLength([{text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "The will of the forest materializes into this item, which it has bestowed upon you. May fortune smile upon thee, and may thy axe be ever-sharp."}]}], 38);

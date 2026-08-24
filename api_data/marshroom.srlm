@@ -1,0 +1,5 @@
+item = "paper";
+name = "Marshroom";
+include("types/reforge_stone", this);
+this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/reforge_stones/marshroom";
+rarity = "UNCOMMON";

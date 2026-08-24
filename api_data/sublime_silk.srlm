@@ -3,4 +3,4 @@ name = "Sublime Silk";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/sublime_silk";
 ::items::prototypes::ingredient::(this);
 rarity = "EPIC";
-lore.after_ability = Component.splitToLength([{color: "gray", bold: false, italic: false, text: "A type of silk woven by the Silkbreeze. It's so soft that it practically trickles through your fingers as you hold it."}], 38);
+lore.after_ability = Component.splitToLength([{text: "", extra: [{color: "gray", bold: false, italic: false, text: "Dropped by the "}, {color: "gold", bold: false, italic: false, text: "Silkbreeze "}, {color: "gray", bold: false, italic: false, text: "in "}, {color: "gold", bold: false, italic: false, text: "Torrhus Canyon"}, {color: "gray", bold: false, italic: false, text: "."}]}, "", {text: "", extra: ["", {color: "dark_gray", bold: false, italic: true, text: "A type of silk woven by the Silkbreeze. It's so soft that it practically trickles through your fingers as you hold it."}]}], 38);
