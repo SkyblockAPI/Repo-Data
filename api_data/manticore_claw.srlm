@@ -5,6 +5,7 @@ skin = "ewogICJ0aW1lc3RhbXAiIDogMTc1MjUxNDEzNjI2MywKICAicHJvZmlsZUlkIiA6ICI3ZGY4
 rarity = "LEGENDARY";
 stats = {
   strength: 20,
+  critical_damage: 10,
   attack_speed: 2.5,
   ferocity: 4
 };

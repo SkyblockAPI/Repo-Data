@@ -2,5 +2,5 @@ item = "paper";
 name = "Icy Sinker";
 include("types/fishing_rod_part", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/rod_part/sinker/icy_sinker";
-rarity = "RARE";
+rarity = "COMMON";
 requirements.skill.fishing = 5;
