@@ -1,6 +1,5 @@
 meta {
-    item = "paper";
-    rarity = "EPIC";
+    include("api_data/cactus_knife_3", this);
     include("items/prototypes/farming/cactus_knife", this);
 }
 

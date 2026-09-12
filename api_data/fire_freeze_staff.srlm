@@ -8,3 +8,10 @@ stats = {
   strength: 20
 };
 requirements.skill.combat = 22;
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "sapphire",
+    "id": "SAPPHIRE_0"
+  }
+];

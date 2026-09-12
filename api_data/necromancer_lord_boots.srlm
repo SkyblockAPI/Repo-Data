@@ -9,3 +9,9 @@ stats = {
   intelligence: 10
 };
 requirements.dungeon_completetion.catacombs = 6;
+gem_slots = [
+  {
+    "type": "combat",
+    "id": "COMBAT_0"
+  }
+];

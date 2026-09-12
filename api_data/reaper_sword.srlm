@@ -9,3 +9,9 @@ stats = {
   intelligence: 200
 };
 requirements.slayer.zombie = 6;
+gem_slots = [
+  {
+    "type": "jasper",
+    "id": "JASPER_0"
+  }
+];

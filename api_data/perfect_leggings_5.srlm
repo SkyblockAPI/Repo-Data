@@ -5,3 +5,20 @@ rarity = "EPIC";
 stats = {
   defense: 220
 };
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "amethyst",
+    "id": "AMETHYST_0"
+  },
+  {
+    "unlocked": true,
+    "type": "amethyst",
+    "id": "AMETHYST_1"
+  },
+  {
+    "unlocked": true,
+    "type": "amethyst",
+    "id": "AMETHYST_2"
+  }
+];

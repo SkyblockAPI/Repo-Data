@@ -11,3 +11,9 @@ stats = {
   respiration: 3
 };
 requirements.skill.fishing = 20;
+gem_slots = [
+  {
+    "type": "aquamarine",
+    "id": "AQUAMARINE_0"
+  }
+];

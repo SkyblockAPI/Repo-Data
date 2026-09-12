@@ -11,3 +11,10 @@ stats = {
 };
 requirements.skill.fishing = 10;
 soulbound = "COOP";
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "aquamarine",
+    "id": "AQUAMARINE_0"
+  }
+];

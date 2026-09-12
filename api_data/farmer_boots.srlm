@@ -8,3 +8,9 @@ stats = {
   health: 40
 };
 requirements.skill.farming = 18;
+gem_slots = [
+  {
+    "type": "peridot",
+    "id": "PERIDOT_0"
+  }
+];

@@ -9,3 +9,9 @@ stats = {
 };
 requirements.dungeons.catacombs = 23;
 requirements.skill.fishing = 26;
+gem_slots = [
+  {
+    "type": "combat",
+    "id": "COMBAT_0"
+  }
+];

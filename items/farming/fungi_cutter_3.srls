@@ -1,7 +1,5 @@
 meta {
-    item = "paper";
-    rarity = "EPIC";
-    tool_name = "Fungi Cutter";
+    include("api_data/fungi_cutter_3", this);
     crop_type = "mushroom";
     include("items/prototypes/farming/hoe", this);
 }

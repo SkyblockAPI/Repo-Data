@@ -12,3 +12,13 @@ stats = {
 };
 requirements.skill.combat = 27;
 requirements.kuudra.hot = 1;
+gem_slots = [
+  {
+    "type": "combat",
+    "id": "COMBAT_0"
+  },
+  {
+    "type": "combat",
+    "id": "COMBAT_1"
+  }
+];

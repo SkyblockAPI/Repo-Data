@@ -9,3 +9,14 @@ stats = {
   mining_speed: 10,
   mining_fortune: 5
 };
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "amber",
+    "id": "AMBER_0"
+  },
+  {
+    "type": "jade",
+    "id": "JADE_0"
+  }
+];

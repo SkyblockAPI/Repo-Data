@@ -1,7 +1,5 @@
 meta {
-    item = "paper";
-    rarity = "EPIC";
-    tool_name = "Euclid's Wheat Sickle";
+    include("api_data/theoretical_hoe_wheat_3", this);
     crop_type = "wheat";
     include("items/prototypes/farming/hoe", this);
 }

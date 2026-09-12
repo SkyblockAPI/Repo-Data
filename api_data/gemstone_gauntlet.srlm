@@ -10,3 +10,30 @@ stats = {
   strength: 50
 };
 requirements.hotm = 6;
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "jade",
+    "id": "JADE_0"
+  },
+  {
+    "unlocked": true,
+    "type": "amber",
+    "id": "AMBER_0"
+  },
+  {
+    "unlocked": true,
+    "type": "topaz",
+    "id": "TOPAZ_0"
+  },
+  {
+    "unlocked": true,
+    "type": "sapphire",
+    "id": "SAPPHIRE_0"
+  },
+  {
+    "unlocked": true,
+    "type": "amethyst",
+    "id": "AMETHYST_0"
+  }
+];

@@ -11,3 +11,10 @@ stats = {
   intelligence: 15
 };
 requirements.dungeon_completetion.catacombs = 3;
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "defensive",
+    "id": "DEFENSIVE_0"
+  }
+];

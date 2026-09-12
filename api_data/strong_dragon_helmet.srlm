@@ -9,3 +9,9 @@ stats = {
   strength: 25
 };
 requirements.skill.combat = 16;
+gem_slots = [
+  {
+    "type": "jasper",
+    "id": "JASPER_0"
+  }
+];

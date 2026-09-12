@@ -4,3 +4,15 @@ include("types/chisel", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/chisel/glacite_plated_chisel";
 rarity = "EPIC";
 requirements.hotm = 9;
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "chisel",
+    "id": "CHISEL_0"
+  },
+  {
+    "unlocked": true,
+    "type": "chisel",
+    "id": "CHISEL_1"
+  }
+];

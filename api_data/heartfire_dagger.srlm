@@ -11,3 +11,13 @@ stats = {
   attack_speed: 20
 };
 requirements.slayer.blaze = 6;
+gem_slots = [
+  {
+    "type": "combat",
+    "id": "COMBAT_0"
+  },
+  {
+    "type": "opal",
+    "id": "OPAL_0"
+  }
+];

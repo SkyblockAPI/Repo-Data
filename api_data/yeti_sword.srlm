@@ -9,3 +9,13 @@ stats = {
   weapon_ability_damage: 15000,
   intelligence: 50
 };
+gem_slots = [
+  {
+    "type": "sapphire",
+    "id": "SAPPHIRE_0"
+  },
+  {
+    "type": "jasper",
+    "id": "JASPER_0"
+  }
+];

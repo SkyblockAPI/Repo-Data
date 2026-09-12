@@ -6,3 +6,10 @@ stats = {
   health: 100,
   sea_creature_chance: 1
 };
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "aquamarine",
+    "id": "AQUAMARINE_0"
+  }
+];

@@ -11,3 +11,25 @@ stats = {
   heat_resistance: 10
 };
 requirements.hotm = 6;
+gem_slots = [
+  {
+    "type": "amber",
+    "id": "AMBER_0"
+  },
+  {
+    "type": "jade",
+    "id": "JADE_0"
+  },
+  {
+    "type": "amber",
+    "id": "AMBER_1"
+  },
+  {
+    "type": "jade",
+    "id": "JADE_1"
+  },
+  {
+    "type": "topaz",
+    "id": "TOPAZ_0"
+  }
+];

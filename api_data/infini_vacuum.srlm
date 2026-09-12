@@ -8,3 +8,10 @@ stats = {
   damage: 300
 };
 requirements.garden = 5;
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "peridot",
+    "id": "PERIDOT_0"
+  }
+];

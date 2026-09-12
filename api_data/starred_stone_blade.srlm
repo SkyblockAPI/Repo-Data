@@ -8,3 +8,10 @@ stats = {
   damage: 190
 };
 requirements.dungeon_completetion.catacombs = 2;
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "combat",
+    "id": "COMBAT_0"
+  }
+];

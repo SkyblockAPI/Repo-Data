@@ -11,3 +11,9 @@ stats = {
 };
 requirements.skill.fishing = 19;
 requirements.hotm = 5;
+gem_slots = [
+  {
+    "type": "aquamarine",
+    "id": "AQUAMARINE_0"
+  }
+];

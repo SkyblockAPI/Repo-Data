@@ -9,3 +9,14 @@ stats = {
   mining_speed: 10,
   mining_fortune: 4
 };
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "sapphire",
+    "id": "SAPPHIRE_0"
+  },
+  {
+    "type": "amber",
+    "id": "AMBER_0"
+  }
+];

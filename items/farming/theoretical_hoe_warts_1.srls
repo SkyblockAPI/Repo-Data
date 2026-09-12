@@ -1,8 +1,6 @@
 meta {
-    item = "paper";
-    rarity = "UNCOMMON";
-    tool_name = "Newton Nether Wart Cutter";
-    crop_type = "nether_wart";
+    include("api_data/theoretical_hoe_warts_1", this);
+    crop_type = "nether_stalk";
     include("items/prototypes/farming/hoe", this);
 }
 

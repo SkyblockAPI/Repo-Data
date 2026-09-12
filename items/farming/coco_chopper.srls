@@ -1,7 +1,5 @@
 meta {
-    item = "paper";
-    rarity = "UNCOMMON";
-    tool_name = "Cocoa Chopper";
+    include("api_data/coco_chopper", this);
     crop_type = "cocoa_beans";
     include("items/prototypes/farming/hoe", this);
 }

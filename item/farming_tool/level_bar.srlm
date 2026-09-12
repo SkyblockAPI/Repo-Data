@@ -47,7 +47,7 @@ for (i : 0..40) {
 }
 
 bar.add({ text: " ", color: "white" });
-bar.add({ text: String.uFormatted(Math.floor(progress * 1000) / 10), extra: [ { text: "%", color: if (!needs_upgrade) { "gold" } else { "dark_gray" }}], color: if (!needs_upgrade) { "yellow" } else { "gray" } });
+bar.add({ text: String.uFormatted(progress * 100), extra: [ { text: "%", color: if (!needs_upgrade) { "gold" } else { "dark_gray" }}], color: if (!needs_upgrade) { "yellow" } else { "gray" } });
 
 stack.lore.add(bar);
 

@@ -3,3 +3,14 @@ name = "Daedalus Blade";
 include("types/sword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/diana/daedalus_blade";
 rarity = "LEGENDARY";
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "combat",
+    "id": "COMBAT_0"
+  },
+  {
+    "type": "combat",
+    "id": "COMBAT_1"
+  }
+];

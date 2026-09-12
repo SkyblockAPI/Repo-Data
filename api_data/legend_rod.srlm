@@ -10,3 +10,9 @@ stats = {
   sea_creature_chance: 6
 };
 requirements.skill.fishing = 20;
+gem_slots = [
+  {
+    "type": "aquamarine",
+    "id": "AQUAMARINE_0"
+  }
+];

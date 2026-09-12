@@ -11,3 +11,13 @@ stats = {
   intelligence: 10
 };
 requirements.dungeon_completetion.catacombs = 7;
+gem_slots = [
+  {
+    "type": "jasper",
+    "id": "JASPER_0"
+  },
+  {
+    "type": "combat",
+    "id": "COMBAT_0"
+  }
+];

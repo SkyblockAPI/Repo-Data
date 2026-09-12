@@ -10,3 +10,9 @@ stats = {
   attack_speed: 5
 };
 requirements.slayer.wolf = 6;
+gem_slots = [
+  {
+    "type": "jasper",
+    "id": "JASPER_0"
+  }
+];

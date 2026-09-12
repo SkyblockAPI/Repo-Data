@@ -1,5 +1,6 @@
 ::stats::prototype::base::{
     name: "Nether Wart Fortune",
+    stat: "nether_stalk_fortune",
     color: "orange",
     ...this
 };

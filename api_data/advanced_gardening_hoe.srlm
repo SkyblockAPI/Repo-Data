@@ -8,3 +8,10 @@ stats = {
 };
 requirements.garden = 3;
 requirements.skill.farming = 7;
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "peridot",
+    "id": "PERIDOT_0"
+  }
+];

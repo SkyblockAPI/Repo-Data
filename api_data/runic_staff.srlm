@@ -10,3 +10,13 @@ stats = {
 };
 requirements.skill.combat = 22;
 requirements.kuudra.none = 1;
+gem_slots = [
+  {
+    "type": "sapphire",
+    "id": "SAPPHIRE_0"
+  },
+  {
+    "type": "sapphire",
+    "id": "SAPPHIRE_1"
+  }
+];

@@ -8,3 +8,27 @@ stats = {
   critical_damage: 15
 };
 requirements.slayer.wolf = 4;
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "ruby",
+    "id": "RUBY_0"
+  },
+  {
+    "unlocked": true,
+    "type": "ruby",
+    "id": "RUBY_1"
+  },
+  {
+    "type": "ruby",
+    "id": "RUBY_2"
+  },
+  {
+    "type": "ruby",
+    "id": "RUBY_3"
+  },
+  {
+    "type": "ruby",
+    "id": "RUBY_4"
+  }
+];

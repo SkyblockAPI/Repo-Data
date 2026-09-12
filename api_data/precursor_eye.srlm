@@ -10,3 +10,13 @@ stats = {
   intelligence: 222
 };
 requirements.dungeon_completetion.catacombs = 6;
+gem_slots = [
+  {
+    "type": "ruby",
+    "id": "RUBY_0"
+  },
+  {
+    "type": "amethyst",
+    "id": "AMETHYST_0"
+  }
+];

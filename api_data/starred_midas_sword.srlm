@@ -7,3 +7,13 @@ stats = {
   damage: 170
 };
 requirements.skill.combat = 20;
+gem_slots = [
+  {
+    "type": "jasper",
+    "id": "JASPER_0"
+  },
+  {
+    "type": "combat",
+    "id": "COMBAT_0"
+  }
+];

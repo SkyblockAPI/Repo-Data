@@ -9,3 +9,14 @@ stats = {
   intelligence: 50
 };
 requirements.dungeons.catacombs = 18;
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "sapphire",
+    "id": "SAPPHIRE_0"
+  },
+  {
+    "type": "ruby",
+    "id": "RUBY_0"
+  }
+];

@@ -11,3 +11,9 @@ stats = {
   critical_damage: 25
 };
 requirements.dungeon_completetion.catacombs = 5;
+gem_slots = [
+  {
+    "type": "jasper",
+    "id": "JASPER_0"
+  }
+];

@@ -4,3 +4,10 @@ include("types/chisel", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/chisel/reinforced_chisel";
 rarity = "RARE";
 requirements.hotm = 8;
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "chisel",
+    "id": "CHISEL_0"
+  }
+];

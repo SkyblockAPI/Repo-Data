@@ -7,3 +7,10 @@ stats = {
   farming_fortune: 15
 };
 requirements.garden = 6;
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "peridot",
+    "id": "PERIDOT_0"
+  }
+];

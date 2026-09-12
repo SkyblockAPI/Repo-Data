@@ -1,7 +1,5 @@
 meta {
-    item = "paper";
-    rarity = "EPIC";
-    tool_name = "Eclipse Sickle";
+    include("api_data/theoretical_hoe_sunflower_3", this);
     crop_type = ["sunflower", "moonflower"];
     include("items/prototypes/farming/hoe", this);
 }

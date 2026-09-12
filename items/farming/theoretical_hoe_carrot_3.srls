@@ -1,7 +1,5 @@
 meta {
-    item = "paper";
-    rarity = "EPIC";
-    tool_name = "Gauss Carrot Shovel";
+    include("api_data/theoretical_hoe_carrot_3", this);
     crop_type = "carrot";
     include("items/prototypes/farming/hoe", this);
 }

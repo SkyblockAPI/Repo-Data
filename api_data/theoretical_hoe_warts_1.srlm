@@ -6,3 +6,29 @@ this["minecraft:item_model"] = "hypixel_skyblock:item/jacob/hoes/theoretical_hoe
 rarity = "UNCOMMON";
 requirements.skill.farming = 10;
 requirements.garden = 10;
+gem_slots = [
+  {
+    "type": "peridot",
+    "id": "PERIDOT_0",
+    "reqs": [
+      {
+        "type": "item_data",
+        "key": "levelable_lvl",
+        "op": "gte",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "type": "peridot",
+    "id": "PERIDOT_1",
+    "reqs": [
+      {
+        "type": "item_data",
+        "key": "levelable_lvl",
+        "op": "gte",
+        "value": 15
+      }
+    ]
+  }
+];

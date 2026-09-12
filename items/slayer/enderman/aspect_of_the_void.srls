@@ -8,7 +8,15 @@ meta {
         {
             "id": "SAPPHIRE_0",
             "type": "sapphire",
-            "unlocked": true
+            "unlocked": true,
+            "requirements": [
+                {
+                    "type": "item_data",
+                    "data_key": "levelable_level",
+                    "value": 25,
+                    "op": "gte"
+                }
+            ]
         }
     ];
     name = "Aspect of the Void";

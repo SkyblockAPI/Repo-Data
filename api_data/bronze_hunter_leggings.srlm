@@ -7,3 +7,10 @@ stats = {
 };
 requirements.trophy.LAVA = "BRONZE";
 soulbound = "SOLO";
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "combat",
+    "id": "COMBAT_0"
+  }
+];

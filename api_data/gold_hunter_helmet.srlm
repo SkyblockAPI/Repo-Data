@@ -7,3 +7,13 @@ stats = {
 };
 requirements.trophy.LAVA = "GOLD";
 soulbound = "SOLO";
+gem_slots = [
+  {
+    "type": "aquamarine",
+    "id": "AQUAMARINE_0"
+  },
+  {
+    "type": "aquamarine",
+    "id": "AQUAMARINE_1"
+  }
+];

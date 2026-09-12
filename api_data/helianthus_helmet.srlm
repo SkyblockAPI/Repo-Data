@@ -11,3 +11,13 @@ stats = {
   bonus_pest_chance: 20
 };
 requirements.skill.farming = 50;
+gem_slots = [
+  {
+    "type": "peridot",
+    "id": "PERIDOT_0"
+  },
+  {
+    "type": "peridot",
+    "id": "PERIDOT_1"
+  }
+];

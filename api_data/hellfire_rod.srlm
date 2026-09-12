@@ -11,3 +11,13 @@ stats = {
   trophy_fish_chance: 25
 };
 requirements.skill.fishing = 35;
+gem_slots = [
+  {
+    "type": "aquamarine",
+    "id": "AQUAMARINE_0"
+  },
+  {
+    "type": "aquamarine",
+    "id": "AQUAMARINE_1"
+  }
+];

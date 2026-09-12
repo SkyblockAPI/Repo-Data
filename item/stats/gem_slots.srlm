@@ -6,6 +6,40 @@ call("utils/meta_or_optional", { field: "gem_slots", ...this }).ifPresent(| gem_
     slot_key = gem_slots[i].id;
     if (!slot_key) continue;
 
+    slot_requirements = gem_slots[i].reqs;
+    if (slot_requirements) {
+      ignore_slot = false;
+      for (requirement : slot_requirements) {
+        match (requirement.type) {
+          "item_data" -> {
+            data_key = requirement.key;
+
+            data_value = if (data[data_key]) {
+              data[data_key]
+            } else 0;
+
+            if (!data_value) {
+              ignore_slot = true;
+              continue;
+            };
+
+            matches = match (requirement.op) {
+              "gte" -> {
+                (data_value >= requirement.value)
+              },
+            };
+
+            if (!matches) {
+              ignore_slot = true;
+              continue;
+            };
+          },
+        };
+      };
+
+      if (ignore_slot) continue;
+    };
+
     slot_type = gem_slots[i].type;
     slot_tier = if (has_data_gem) data.gems[slot_key];
     if (!slot_tier) {
@@ -29,5 +63,6 @@ call("utils/meta_or_optional", { field: "gem_slots", ...this }).ifPresent(| gem_
       type: String.lowercase(slot_type)
     }));
   };
+  if (slot_text.length == 0) return;
   stack.lore.add({text: "Gemstones:", color: "gray", extra: slot_text});
 });

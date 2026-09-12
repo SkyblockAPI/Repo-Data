@@ -8,3 +8,9 @@ stats = {
   health: 70
 };
 requirements.skill.combat = 16;
+gem_slots = [
+  {
+    "type": "amethyst",
+    "id": "AMETHYST_0"
+  }
+];

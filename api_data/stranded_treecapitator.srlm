@@ -4,3 +4,13 @@ include("types/axe", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/stranded_only/stranded_treecapitator";
 rarity = "EPIC";
 booster_applicable = true;
+gem_slots = [
+  {
+    "type": "citrine",
+    "id": "CITRINE_0"
+  },
+  {
+    "type": "citrine",
+    "id": "CITRINE_1"
+  }
+];

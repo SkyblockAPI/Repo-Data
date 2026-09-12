@@ -9,3 +9,9 @@ stats = {
   intelligence: 125
 };
 requirements.skill.combat = 16;
+gem_slots = [
+  {
+    "type": "sapphire",
+    "id": "SAPPHIRE_0"
+  }
+];

@@ -5,6 +5,12 @@ include("types/dungeon", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/winter/weapons/ice_spray_wand";
 rarity = "RARE";
 requirements.dungeons.catacombs = 20;
+gem_slots = [
+  {
+    "type": "sapphire",
+    "id": "SAPPHIRE_0"
+  }
+];
 tiered_stats = {
   damage: [52, 56, 60, 65, 70, 75, 80, 86, 93, 100],
   weapon_ability_damage: [17000],

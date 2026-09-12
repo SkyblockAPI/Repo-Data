@@ -9,3 +9,14 @@ stats = {
   critical_damage: 40
 };
 requirements.slayer.spider = 8;
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "combat",
+    "id": "COMBAT_0"
+  },
+  {
+    "type": "combat",
+    "id": "COMBAT_1"
+  }
+];

@@ -10,3 +10,18 @@ stats = {
   mining_speed: 1600
 };
 requirements.hotm = 6;
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "amber",
+    "id": "AMBER_0"
+  },
+  {
+    "type": "jade",
+    "id": "JADE_0"
+  },
+  {
+    "type": "mining",
+    "id": "MINING_0"
+  }
+];

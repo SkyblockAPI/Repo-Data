@@ -5,3 +5,53 @@ this["minecraft:item_model"] = "hypixel_skyblock:item/jacob/cactus_knife_3";
 rarity = "EPIC";
 requirements.skill.farming = 20;
 requirements.garden = 7;
+gem_slots = [
+  {
+    "type": "peridot",
+    "id": "PERIDOT_0",
+    "reqs": [
+      {
+        "type": "item_data",
+        "key": "levelable_lvl",
+        "op": "gte",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "type": "peridot",
+    "id": "PERIDOT_1",
+    "reqs": [
+      {
+        "type": "item_data",
+        "key": "levelable_lvl",
+        "op": "gte",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "type": "peridot",
+    "id": "PERIDOT_2",
+    "reqs": [
+      {
+        "type": "item_data",
+        "key": "levelable_lvl",
+        "op": "gte",
+        "value": 25
+      }
+    ]
+  },
+  {
+    "type": "peridot",
+    "id": "PERIDOT_3",
+    "reqs": [
+      {
+        "type": "item_data",
+        "key": "levelable_lvl",
+        "op": "gte",
+        "value": 50
+      }
+    ]
+  }
+];

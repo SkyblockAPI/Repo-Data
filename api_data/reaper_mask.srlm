@@ -11,3 +11,14 @@ stats = {
   mending: 60
 };
 requirements.slayer.zombie = 7;
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "ruby",
+    "id": "RUBY_0"
+  },
+  {
+    "type": "sapphire",
+    "id": "SAPPHIRE_0"
+  }
+];

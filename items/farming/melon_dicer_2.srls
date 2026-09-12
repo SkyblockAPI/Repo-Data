@@ -1,7 +1,5 @@
 meta {
-    item = "paper";
-    rarity = "RARE";
-    tool_name = "Melon Dicer";
+    include("api_data/melon_dicer_2", this);
     crop_type = "melon";
     include("items/prototypes/farming/hoe", this);
 }

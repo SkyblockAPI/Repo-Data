@@ -1,7 +1,5 @@
 meta {
-    item = "paper";
-    rarity = "EPIC";
-    tool_name = "Pythagorean Potato Shovel";
+    include("api_data/theoretical_hoe_potato_3", this);
     crop_type = "potato";
     include("items/prototypes/farming/hoe", this);
 }

@@ -7,3 +7,10 @@ stats = {
   damage: 180,
   strength: 50
 };
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "combat",
+    "id": "COMBAT_0"
+  }
+];

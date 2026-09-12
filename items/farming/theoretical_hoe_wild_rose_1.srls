@@ -1,7 +1,5 @@
 meta {
-    item = "paper";
-    rarity = "UNCOMMON";
-    tool_name = "Wild Rose Cutter";
+    include("api_data/theoretical_hoe_wild_rose_1", this);
     crop_type = "wild_rose";
     include("items/prototypes/farming/hoe", this);
 }

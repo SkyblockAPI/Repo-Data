@@ -10,3 +10,14 @@ stats = {
   intelligence: 300
 };
 requirements.dungeon_completetion.catacombs = 1;
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "sapphire",
+    "id": "SAPPHIRE_0"
+  },
+  {
+    "type": "sapphire",
+    "id": "SAPPHIRE_1"
+  }
+];

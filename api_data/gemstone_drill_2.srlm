@@ -11,3 +11,14 @@ stats = {
   pristine: 1
 };
 requirements.hotm = 4;
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "amber",
+    "id": "AMBER_0"
+  },
+  {
+    "type": "jade",
+    "id": "JADE_0"
+  }
+];

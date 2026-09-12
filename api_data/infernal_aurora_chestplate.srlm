@@ -9,3 +9,13 @@ stats = {
 };
 requirements.skill.combat = 42;
 requirements.kuudra.infernal = 1;
+gem_slots = [
+  {
+    "type": "combat",
+    "id": "COMBAT_0"
+  },
+  {
+    "type": "combat",
+    "id": "COMBAT_1"
+  }
+];

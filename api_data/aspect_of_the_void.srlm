@@ -7,3 +7,10 @@ stats = {
   damage: 120,
   strength: 100
 };
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "sapphire",
+    "id": "SAPPHIRE_0"
+  }
+];

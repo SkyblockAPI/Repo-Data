@@ -9,3 +9,10 @@ stats = {
   weapon_ability_damage: 42000
 };
 requirements.skill.combat = 22;
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "sapphire",
+    "id": "SAPPHIRE_0"
+  }
+];

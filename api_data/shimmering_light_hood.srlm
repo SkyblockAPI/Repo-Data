@@ -10,3 +10,10 @@ stats = {
   walk_speed: 10
 };
 requirements.skill.combat = 22;
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "combat",
+    "id": "COMBAT_0"
+  }
+];

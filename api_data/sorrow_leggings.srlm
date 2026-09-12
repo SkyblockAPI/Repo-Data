@@ -8,3 +8,18 @@ stats = {
   true_defense: 70,
   mining_speed: 50
 };
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "amber",
+    "id": "AMBER_0"
+  },
+  {
+    "type": "jade",
+    "id": "JADE_0"
+  },
+  {
+    "type": "universal",
+    "id": "UNIVERSAL_0"
+  }
+];

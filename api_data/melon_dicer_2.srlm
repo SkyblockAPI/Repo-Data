@@ -6,4 +6,42 @@ this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/mel
 rarity = "RARE";
 requirements.skill.farming = 15;
 requirements.garden = 6;
+gem_slots = [
+  {
+    "type": "peridot",
+    "id": "PERIDOT_0",
+    "reqs": [
+      {
+        "type": "item_data",
+        "key": "levelable_lvl",
+        "op": "gte",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "type": "peridot",
+    "id": "PERIDOT_1",
+    "reqs": [
+      {
+        "type": "item_data",
+        "key": "levelable_lvl",
+        "op": "gte",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "type": "peridot",
+    "id": "PERIDOT_2",
+    "reqs": [
+      {
+        "type": "item_data",
+        "key": "levelable_lvl",
+        "op": "gte",
+        "value": 25
+      }
+    ]
+  }
+];
 lore.after_ability = Component.splitToLength([{italic: true, text: "Same as the Melon Dicer Mk. I, just better!"}], 38);

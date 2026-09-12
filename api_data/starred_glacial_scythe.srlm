@@ -8,3 +8,10 @@ stats = {
   intelligence: 40,
   weapon_ability_damage: 1700
 };
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "sapphire",
+    "id": "SAPPHIRE_0"
+  }
+];

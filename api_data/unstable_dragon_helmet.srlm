@@ -11,3 +11,9 @@ stats = {
   intelligence: 25
 };
 requirements.skill.combat = 16;
+gem_slots = [
+  {
+    "type": "combat",
+    "id": "COMBAT_0"
+  }
+];

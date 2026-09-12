@@ -1,7 +1,5 @@
 meta {
-    item = "paper";
-    rarity = "EPIC";
-    tool_name = "Turing Sugar Cane Cutter";
+    include("api_data/theoretical_hoe_cane_3", this);
     crop_type = "sugar_cane";
     include("items/prototypes/farming/hoe", this);
 }

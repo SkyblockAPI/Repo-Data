@@ -7,3 +7,40 @@ stats = {
   damage: 99999999,
   swing_range: 99999999
 };
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "combat",
+    "id": "COMBAT_0"
+  },
+  {
+    "unlocked": true,
+    "type": "combat",
+    "id": "COMBAT_1"
+  },
+  {
+    "unlocked": true,
+    "type": "combat",
+    "id": "COMBAT_2"
+  },
+  {
+    "unlocked": true,
+    "type": "combat",
+    "id": "COMBAT_3"
+  },
+  {
+    "unlocked": true,
+    "type": "combat",
+    "id": "COMBAT_4"
+  },
+  {
+    "unlocked": true,
+    "type": "combat",
+    "id": "COMBAT_5"
+  },
+  {
+    "unlocked": true,
+    "type": "combat",
+    "id": "COMBAT_6"
+  }
+];

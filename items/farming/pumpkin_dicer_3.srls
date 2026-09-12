@@ -1,7 +1,5 @@
 meta {
-    item = "paper";
-    rarity = "EPIC";
-    tool_name = "Pumpkin Dicer";
+    include("api_data/pumpkin_dicer_3", this);
     crop_type = "pumpkin";
     include("items/prototypes/farming/hoe", this);
 }

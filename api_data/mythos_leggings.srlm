@@ -7,3 +7,9 @@ stats = {
   health: 140,
   defense: 70
 };
+gem_slots = [
+  {
+    "type": "combat",
+    "id": "COMBAT_0"
+  }
+];

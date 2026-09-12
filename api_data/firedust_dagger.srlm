@@ -9,3 +9,9 @@ stats = {
   critical_damage: 15
 };
 requirements.slayer.blaze = 2;
+gem_slots = [
+  {
+    "type": "combat",
+    "id": "COMBAT_0"
+  }
+];

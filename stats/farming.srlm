@@ -10,7 +10,7 @@
 ::stats::farming::cactus_fortune::(this);
 ::stats::farming::cocoa_beans_fortune::(this);
 ::stats::farming::mushroom_fortune::(this);
-::stats::farming::nether_wart_fortune::(this);
+::stats::farming::nether_stalk_fortune::(this);
 ::stats::farming::sunflower_fortune::(this);
 ::stats::farming::moonflower_fortune::(this);
 ::stats::farming::wild_rose_fortune::(this);

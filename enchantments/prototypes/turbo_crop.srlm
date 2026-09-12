@@ -1,7 +1,9 @@
 
 crop_fortune = level * 5;
 
-crop_fortune_name = String.snake_case(crop_type) + "_fortune";
+crop_fortune_name = if (fortune_id) {
+    fortune_id
+} else (String.snake_case(crop_type) + "_fortune");
 
 stat_bonus_thingy = {};
 stat_bonus_thingy[crop_fortune_name] = crop_fortune;

@@ -10,3 +10,13 @@ stats = {
   intelligence: 50
 };
 requirements.slayer.enderman = 3;
+gem_slots = [
+  {
+    "type": "jasper",
+    "id": "JASPER_0"
+  },
+  {
+    "type": "sapphire",
+    "id": "SAPPHIRE_0"
+  }
+];

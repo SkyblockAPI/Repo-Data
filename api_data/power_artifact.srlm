@@ -3,3 +3,40 @@ name = "Artifact of Power";
 include("types/accessory", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTYxOTc1MzA0Mzc5NiwKICAicHJvZmlsZUlkIiA6ICI0ODBkMmFiMmY1ZTk0OWQ0YWM2Mzk0NDdmNjIzYTYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJIb3RhbXBhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJiMTVjODY0NWJiYWJjNDIzNTIzNTBiMWM5ZDg0YWY3MTk2NmM0YzU2YTg2ZDAzYWNkMDc5ZWQ1N2YzZWFkM2YiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==";
 rarity = "RARE";
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "jade",
+    "id": "JADE_0"
+  },
+  {
+    "unlocked": true,
+    "type": "amber",
+    "id": "AMBER_0"
+  },
+  {
+    "unlocked": true,
+    "type": "topaz",
+    "id": "TOPAZ_0"
+  },
+  {
+    "unlocked": true,
+    "type": "sapphire",
+    "id": "SAPPHIRE_0"
+  },
+  {
+    "unlocked": true,
+    "type": "amethyst",
+    "id": "AMETHYST_0"
+  },
+  {
+    "unlocked": true,
+    "type": "jasper",
+    "id": "JASPER_0"
+  },
+  {
+    "unlocked": true,
+    "type": "ruby",
+    "id": "RUBY_0"
+  }
+];

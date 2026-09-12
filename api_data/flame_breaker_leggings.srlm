@@ -10,3 +10,18 @@ stats = {
   heat_resistance: 5
 };
 requirements.collection.hard_stone = 5;
+gem_slots = [
+  {
+    "unlocked": true,
+    "type": "ruby",
+    "id": "RUBY_0"
+  },
+  {
+    "type": "amber",
+    "id": "AMBER_0"
+  },
+  {
+    "type": "jade",
+    "id": "JADE_0"
+  }
+];

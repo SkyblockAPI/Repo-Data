@@ -11,3 +11,9 @@ stats = {
 };
 requirements.skill.foraging = 15;
 booster_applicable = true;
+gem_slots = [
+  {
+    "type": "citrine",
+    "id": "CITRINE_0"
+  }
+];

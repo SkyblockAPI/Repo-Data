@@ -10,3 +10,13 @@ stats = {
   critical_damage: 20
 };
 requirements.skill.fishing = 35;
+gem_slots = [
+  {
+    "type": "combat",
+    "id": "COMBAT_0"
+  },
+  {
+    "type": "aquamarine",
+    "id": "AQUAMARINE_0"
+  }
+];

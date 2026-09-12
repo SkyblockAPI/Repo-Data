@@ -9,3 +9,9 @@ stats = {
   mending: 10
 };
 requirements.skill.combat = 16;
+gem_slots = [
+  {
+    "type": "ruby",
+    "id": "RUBY_0"
+  }
+];
