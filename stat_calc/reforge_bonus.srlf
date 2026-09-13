@@ -9,7 +9,14 @@ item_rarity = String.lowercase(Rarity.stack());
 
 if (!all_reforge_stats[item_rarity]) return;
 
-reforge_stats = all_reforge_stats[item_rarity];
+reforge_stats = {};
+
+additional_stats = if ("specific_stats" in reforge_data) {
+  reforge_data.specific_stats(this)
+} else {{}};
+
+::utils::add_into::(all_reforge_stats[item_rarity], reforge_stats);
+::utils::add_into::(additional_stats, reforge_stats);
 
 for (stat : Objects.entries(reforge_stats)) {
   call("stat_calc/put_bonus", {

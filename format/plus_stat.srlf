@@ -1,0 +1,16 @@
+| amount, type |
+folder_map = static("format/stat/index");
+
+stat_dir = folder_map[type];
+
+if (!stat_dir) return "<null>";
+
+format = ::format::stat::<stat_dir>::<type>::();
+
+return {
+  text: String.formatted(amount),
+  color: format.color,
+  extra: [
+    format
+  ]
+};

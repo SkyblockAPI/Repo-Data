@@ -1,0 +1,22 @@
+meta {
+  include("api_data/warden_helmet", this);
+  include("types/helmet", this);
+
+  abilities = [
+    {
+      name: "Brute Force",
+      text: {
+        color: "gray",
+        text: "Halves your ",
+        extra: [
+          ::format::plus_stat::(25, "speed"),
+          " but grants ",
+          {text: "+20%" , color: "red"},
+          " base weapon damage for every ",
+          ::format::plus_stat::(25, "speed"),
+          ".",
+        ]
+      }
+    }
+  ];
+}

@@ -1,4 +1,4 @@
-call("format/stat", {
+call("format/stat_base", {
     stat_name: "Magic Find",
     stat_color: "aqua",
 })

@@ -7,7 +7,7 @@ not_affected_by_cata_level = [
 ];
 
 dungeon_level_bonus_lut = static("stat_calc/dungeon_level_lut");
-dungeon_level_bonus = dungeon_level_bonus_lut.bonuses[Math.clamp(48, 0, 50)] / 100;
+dungeon_level_bonus = dungeon_level_bonus_lut.bonuses[Math.clamp(::profile::skill_level::(this.profile, "catacombs"), 0, 50)] / 100;
 
 total_star_count = if ("upgrade_level" in data) {
   Math.clamp(data.upgrade_level, 0, 5)

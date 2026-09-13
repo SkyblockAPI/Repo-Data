@@ -1,7 +1,7 @@
 static eval {
     ::items::index::index::()
 };
-print("meow!!!");
+
 static_data = static(::root::);
 data_id = String.lowercase(data.id);
 custom_path = data_id in static_data;

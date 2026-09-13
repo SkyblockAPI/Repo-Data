@@ -1,0 +1,24 @@
+static {
+    levels: 1..5,
+    name: "Rejuvenate",
+    wrap_override: 35
+};
+
+health_regen_bonus = 1 * level;
+
+description = {
+    text: "Grants ",
+    extra: [
+      ::format::plus_stat::(health_regen_bonus, "health_regen"),
+      "."
+    ],
+    color: "gray"
+};
+
+return {
+    level,
+    description,
+    stat_bonus: {
+      health_regen: health_regen_bonus
+    }
+};

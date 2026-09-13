@@ -1,0 +1,13 @@
+static eval {
+  subdirs = dirs("format/stat/");
+  result = {};
+
+  for (subdir : subdirs) {
+    submodules = list("format/stat/" + subdir + "/");
+    for (submodule : submodules) {
+      result[submodule] = subdir;
+    };
+  };
+
+  result
+};

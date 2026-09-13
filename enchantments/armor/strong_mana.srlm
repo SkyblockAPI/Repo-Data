@@ -1,0 +1,40 @@
+static {
+  name: "Strong Vitality",
+  levels: 1..10,
+  wrap_override: 37
+};
+
+split_strength = Component.splitToLength(::format::colorless_stat::("strength"), 6);
+
+description = [{
+    text: "Converts ",
+    extra: [
+      { text: "10%", color: "lime" },
+      " of ",
+      ::format::stat::("vitality"),
+      " used as ",
+      ::format::stat::("strength"),
+      " for ",
+      { text: "10s", color: "lime" },
+      ". ",
+      { color: "dark_gray", extra: [
+        "(Max 15",
+        split_strength[0]
+      ]}
+    ],
+    color: "gray"
+}, {
+  color: "dark_gray",
+  extra: [
+    split_strength[1],
+    ")."
+  ]
+}];
+
+{
+  level,
+  description,
+  stat_bonus: {
+    health_regen: health_regen_bonus
+  }
+}

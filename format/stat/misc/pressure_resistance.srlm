@@ -1,4 +1,4 @@
-call("format/stat", {
+call("format/stat_base", {
     stat_name: "Pressure Resistance",
     stat_color: "blue",
 })

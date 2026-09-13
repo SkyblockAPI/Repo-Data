@@ -1,0 +1,7 @@
+|from, to|
+
+for (from_entry : Objects.entries(from)) {
+  to[from_entry.key] = if (to[from_entry.key]) { (to[from_entry.key] + from_entry.value) } else from_entry.value;
+};
+
+return to;

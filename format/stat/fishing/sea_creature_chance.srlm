@@ -1,4 +1,4 @@
-call("format/stat", {
+call("format/stat_base", {
     stat_name: "Sea Creature Chance",
     stat_color: "dark_aqua",
 })

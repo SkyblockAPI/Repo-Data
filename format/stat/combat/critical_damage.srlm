@@ -1,4 +1,4 @@
-return call("format/stat", {
+return call("format/stat_base", {
     stat_name: "Crit Damage",
     stat_color: "blue",
     stat_icon: "critical_damage",

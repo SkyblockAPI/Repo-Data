@@ -1,92 +1,15 @@
-static {
-  bane_of_arthropods: "sword",
-  champion: "sword",
-  cleave: "sword",
-  critical: "sword",
-  cubism: "sword",
-  divine_gift: "sword",
-  dragon_tracer: "sword",
-  ender_slayer: "sword",
-  execute: "sword",
-  experience: "sword",
-  fire_aspect: "sword",
-  giant_killer: "sword",
-  impaling: "sword",
-  knockback: "sword",
-  lethality: "sword",
-  life_steal: "sword",
-  looting: "sword",
-  luck: "sword",
-  mana_steal: "sword",
-  prosecute: "sword",
-  scavenger: "sword",
-  sharpness: "sword",
-  smite: "sword",
-  smoldering: "sword",
-  syphon: "sword",
-  tabasco: "sword",
-  thunderbolt: "sword",
-  thunderlord: "sword",
-  titan_killer: "sword",
-  triple_strike: "sword",
-  vampirism: "sword",
-  venomous: "sword",
-  vicious: "sword",
+static eval {
+  subdirs = dirs("enchantments/");
+  result = {};
 
+  for (subdir : subdirs) {
+    submodules = list("enchantments/" + subdir + "/");
+    for (submodule : submodules) {
+      result[submodule] = subdir;
+    };
+  };
 
-  chance: "bow",
-  aiming: "bow",
-  flame: "bow",
-  infinite_quiver: "bow",
-  piercing: "bow",
-  overload: "bow",
-  power: "bow",
-  punch: "bow",
-  snipe: "bow",
-  toxophilite: "bow",
-
-
-  cultivating: "farming",
-  dedication: "farming",
-  delicate: "farming",
-  harvesting: "farming",
-  replenish: "farming",
-  feast: "farming",
-  turbo_wheat: "farming",
-  turbo_carrot: "farming",
-  turbo_potato: "farming",
-  turbo_pumpkin: "farming",
-  turbo_melon: "farming",
-  turbo_mushrooms: "farming",
-  turbo_coco: "farming",
-  turbo_cactus: "farming",
-  turbo_cane: "farming",
-  turbo_warts: "farming",
-  turbo_sunflower: "farming",
-  turbo_moonflower: "farming",
-  turbo_rose: "farming",
-
-  efficiency: "tool",
-  silk_touch: "tool",
-  smelting_touch: "tool",
-
-  aqua_affinity: "armor",
-  big_brain: "armor",
-  blast_protection: "armor",
-  counter_strike: "armor",
-  depth_strider: "armor",
-  feather_falling: "armor",
-  ferocious_mana: "armor",
-
-  sunder: "legacy",
-  telekinesis: "legacy",
-
-  ultimate_crop_fever: "ultimate",
-  ultimate_fatal_tempo: "ultimate",
-  ultimate_reiterate: "ultimate",
-  ultimate_wise: "ultimate",
-  ultimate_soul_eater: "ultimate",
-  ultimate_swarm: "ultimate",
+  result
 };
 
 folder_map = static("enchantments/enchant");
@@ -106,10 +29,10 @@ if ("level" !in enchantment) {
   enchantment.level = level;
 };
 
-call("utils/copy_into", {
-  from: static("enchantments/" + path),
-  to: enchantment
-});
+::utils::copy_into::(
+  static("enchantments/" + path),
+  enchantment
+);
 
 enchantment.name = Component.asComponent(enchantment.name);
 enchantment.name.color = "blue";

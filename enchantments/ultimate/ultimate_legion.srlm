@@ -1,0 +1,29 @@
+static {
+    levels: 1..5,
+    is_ultimate: true,
+    name: "Legion"
+};
+
+amount = 0.07 * level;
+
+description = {
+    text: "Increases all ",
+    color: "gray",
+    extra: [
+      { text: "Combat", color: "red" },
+      " stats and ",
+      call("format/stat/misc/magic_find"),
+      " by ",
+      { text: String.uFormatted(amount) + "%", color: "yellow"},
+      " per player within ",
+      { text: "30", color: "aqua" },
+      " blocks of you, up to ",
+      { text: "20", color: "red" },
+      " players."
+    ]
+};
+
+return {
+    level,
+    description
+};

@@ -1,0 +1,7 @@
+static {
+    prefix: "zombie"
+};
+
+{
+  warden_helmet
+}

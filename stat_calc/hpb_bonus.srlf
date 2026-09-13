@@ -29,7 +29,7 @@ if (is_armor) {
   });
   call("stat_calc/put_bonus", {
     stat: "health",
-    amount: data.hot_potato_count * 2,
+    amount: data.hot_potato_count * 4,
     color: "yellow",
     bonus_stats, stats
   });

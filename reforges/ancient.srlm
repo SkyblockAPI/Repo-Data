@@ -19,35 +19,17 @@ static {
     }
   ],
   stats: {
-    common: {
-      farming_wisdom: 1,
-      speed: 5,
-      farming_fortune: 5
-    },
-    uncommon: {
-      farming_wisdom: 2,
-      speed: 7,
-      farming_fortune: 7
-    },
-    rare: {
-      farming_wisdom: 3,
-      speed: 9,
-      farming_fortune: 9
-    },
-    epic: {
-      farming_wisdom: 4,
-      speed: 13,
-      farming_fortune: 13
-    },
-    legendary: {
-      farming_wisdom: 5,
-      speed: 16,
-      farming_fortune: 16
-    },
     mythic: {
-      farming_wisdom: 6,
-      speed: 20,
-      farming_fortune: 20
+      health: 7,
+      defense: 7,
+      strength: 35,
+      crit_chance: 15,
+      intelligence: 25
     },
+  },
+  specific_stats: |this| {
+    return {
+      critical_damage: ::profile::skill_level::(this.profile, "catacombs")
+    }
   }
 };

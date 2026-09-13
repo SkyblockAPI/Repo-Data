@@ -1,4 +1,4 @@
-call("format/stat", {
+call("format/stat_base", {
     stat_name: "Bonus Pest Chance",
     stat_color: "dark_green",
 })

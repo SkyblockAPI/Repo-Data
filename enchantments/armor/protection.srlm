@@ -1,0 +1,27 @@
+static {
+    levels: 1..7,
+    name: "Protection",
+    wrap_override: 35
+};
+
+defense_bonus = match (level) {
+  <= 5 -> (4 * level),
+  else -> ((5 * level) - 5),
+}
+
+description = {
+    text: "Grants ",
+    extra: [
+      ::format::plus_stat::(defense_bonus, "defense"),
+      "."
+    ],
+    color: "gray"
+};
+
+return {
+    level,
+    description,
+    stat_bonus: {
+      defense: defense_bonus
+    }
+};

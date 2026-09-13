@@ -1,4 +1,4 @@
-call("format/stat", {
+call("format/stat_base", {
     stat_icon: "farming_fortune",
     stat_name: "Cactus Fortune",
     stat_color: "gold",

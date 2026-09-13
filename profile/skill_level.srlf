@@ -1,0 +1,11 @@
+|profile, skill_type, default?|
+
+default = if (default) { default } else { 0 };
+
+skill_level = ::utils::get_path::{instance: profile, path: ["skills", skill_type]};
+
+if (skill_level) {
+    return skill_level;
+} else {
+    return default;
+}

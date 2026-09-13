@@ -1,4 +1,4 @@
-call("format/stat", {
+call("format/stat_base", {
     stat_icon: "wisdom",
     stat_name: "Alchemy Wisdom",
     stat_color: "dark_aqua",
