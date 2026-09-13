@@ -64,7 +64,7 @@ abilities.forEach(| ability | {
             };
         };
 
-        intelligence_icon = call("format/stat_icons").intelligence;
+        intelligence_icon = ::format::stat_icon::("intelligence");
 
         stack.lore.add({text: "Mana Cost: ", color: "dark_gray", extra: [{text: String.uFormatted(Math.round(ability_mana_cost)) + intelligence_icon, color: "aqua"}]});
     };

@@ -1,6 +1,4 @@
-stat_icons = call("format/stat_icons");
-
 {
   color: "green",
-  icon: stat_icons.farming_fortune
+  icon: ::format::stat_icon::("farming_fortune")
 }

@@ -1,0 +1,2 @@
+| type |
+return ::format::mobtype::<type>::()

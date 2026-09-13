@@ -1,6 +1,4 @@
-stat_icons = call("format/stat_icons");
-
 {
   color: "aqua",
-  icon: stat_icons.intelligence
+  icon: ::format::stat_icon::("intelligence")
 }

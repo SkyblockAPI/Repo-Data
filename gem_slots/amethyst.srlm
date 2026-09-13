@@ -1,6 +1,4 @@
-stat_icons = call("format/stat_icons");
-
 {
   color: "purple",
-  icon: stat_icons.defence
+  icon: ::format::stat_icon::("defence")
 }

@@ -1,6 +1,4 @@
-stat_icons = call("format/stat_icons");
-
 {
   color: "dark_gray",
-  icon: stat_icons.critical_damage
+  icon: ::format::stat_icon::("critical_damage")
 }

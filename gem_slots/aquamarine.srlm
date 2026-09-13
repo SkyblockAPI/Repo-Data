@@ -1,6 +1,4 @@
-stat_icons = call("format/stat_icons");
-
 {
   color: "cyan",
-  icon: stat_icons.fishing_speed
+  icon: ::format::stat_icon::("fishing_speed")
 }

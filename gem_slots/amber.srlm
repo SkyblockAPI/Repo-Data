@@ -1,6 +1,4 @@
-stat_icons = call("format/stat_icons");
-
 {
   color: "orange",
-  icon: stat_icons.mining_speed
+  icon: ::format::stat_icon::("mining_speed")
 }

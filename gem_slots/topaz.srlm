@@ -1,5 +1,4 @@
-stat_icons = call("format/stat_icons");
 {
   color: "yellow",
-  icon: stat_icons.pristine
+  icon: ::format::stat_icon::("pristine")
 }

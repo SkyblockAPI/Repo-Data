@@ -8,7 +8,7 @@ meta {
       extra: [
         { text: "2.5x", color: "red"},
         " damage to ",
-        call("format/mobtype/infernal"),
+        ::format::mobtype::("infernal"),
         " mobs."
       ]
     },
@@ -18,7 +18,7 @@ meta {
       extra: [
         { text: "1.5x", color: "red"},
         " damage to ",
-        call("format/mobtype/skeletal"),
+        ::format::mobtype::("skeletal"),
         " mobs."
       ]
     },
@@ -27,15 +27,13 @@ meta {
       text: "Gain ",
       extra: [
         { text: "+30", color: "cyan"},
-        call("format/stat/wisdom/combat"),
+        ::format::stat::("combat_wisdom"),
         " against ",
-        call("format/mobtype/infernal"),
+        ::format::mobtype::("infernal"),
         " mobs."
       ]
     }
   ], 37);
-
-  stat_icons = ::format::stat_icons::();
 
   abilities = [
     {
@@ -61,7 +59,7 @@ meta {
         extra: [
           {text: "200", color: "red"},
           " + ",
-          {text: "4%" + stat_icons.health, color: "red"},
+          {text: "4%" + ::format::stat_icon::("health"), color: "red"},
           " after ",
           {text: "6s", color: "lime"},
           " if the Hellion Shield has switched attunement."

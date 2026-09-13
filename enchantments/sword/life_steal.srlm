@@ -5,11 +5,9 @@ static {
 
 amount = 2.4 * level;
 
-stat_icons = call("format/stat_icons");
-
 description = {extra: [
     "Heal ",
-    {text: String.uFormatted(amount), color: "red", extra: [stat_icons.health]},
+    {text: String.uFormatted(amount), color: "red", extra: [::format::stat_icon::("health")]},
     " every time you hit a mob."
 ], color: "gray"};
 

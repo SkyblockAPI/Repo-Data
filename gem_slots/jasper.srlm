@@ -1,6 +1,4 @@
-stat_icons = call("format/stat_icons");
-
 {
   color: "pink",
-  icon: stat_icons.strength
+  icon: ::format::stat_icon::("strength")
 }
