@@ -83,7 +83,7 @@ script {
     stack.lore.add(call("format/stat/combat/strength"));
     stack.lore.add(call("format/stat/combat/ability_damage"));
     stack.lore.add(call("format/stat/combat/health"));
-    stack.lore.add(call("format/stat/combat/crit_damage"));
+    stack.lore.add(call("format/stat/combat/critical_damage"));
     stack.lore.add(call("format/stat/combat/vitality"));
     stack.lore.add(call("format/stat/combat/true_defense"));
     stack.lore.add(call("format/stat/combat/health_regen"));

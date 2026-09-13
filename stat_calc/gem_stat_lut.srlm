@@ -8,7 +8,7 @@ static {
   jasper: "strength",
   opal: "true_defense",
   aquamarine: "fishing_speed",
-  onyx: "crit_damage",
+  onyx: "critical_damage",
   citrine: "foraging_fortune",
   peridot: "farming_fortune"
 };

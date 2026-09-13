@@ -1,0 +1,44 @@
+static {
+  name: "Fabled",
+  description: [
+    {
+      text: "Fabled Bonus",
+      color: "blue"
+    },
+    {
+      text: "Critical hits have a chance to deal up to ",
+      extra: [
+        { text: "15%", color: "lime" },
+        " extra damage."
+      ],
+      color: "gray"
+    }
+  ],
+  description_wrap: 36,
+  stats: {
+    common: {
+      critical_damage: 15,
+      strength: 30
+    },
+    uncommon: {
+      critical_damage: 20,
+      strength: 35
+    },
+    rare: {
+      critical_damage: 25,
+      strength: 40
+    },
+    epic: {
+      critical_damage: 32,
+      strength: 50
+    },
+    legendary: {
+      critical_damage: 40,
+      strength: 60
+    },
+    mythic: {
+      critical_damage: 50,
+      strength: 75
+    },
+  }
+};

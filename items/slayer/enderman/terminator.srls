@@ -6,7 +6,7 @@ meta {
     stats = {
         damage: 310,
         strength: 50,
-        crit_damage: 250,
+        critical_damage: 250,
         attack_speed: 40
     };
 

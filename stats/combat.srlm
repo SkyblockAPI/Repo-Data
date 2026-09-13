@@ -4,7 +4,7 @@
 ::stats::combat::damage::(this);
 ::stats::combat::strength::(this);
 ::stats::combat::crit_chance::(this);
-::stats::combat::crit_damage::(this);
+::stats::combat::critical_damage::(this);
 ::stats::combat::attack_speed::(this);
 ::stats::combat::ferocity::(this);
 ::stats::combat::swing_range::(this);

@@ -8,7 +8,7 @@ percentage = Math.mul(10, level) + Math.clamp((20 * Math.clamp(level - 5, 0, 2))
 description = [{
     text: "Increases ",
     extra: [
-        call("format/stat/combat/crit_damage"),
+        call("format/stat/combat/critical_damage"),
         " by ",
         {text: String.uFormatted(percentage), color: "lime"},
         {text: "%", color: "lime"},
@@ -21,6 +21,6 @@ return {
     level,
     description,
     stat_bonus: {
-        crit_damage: percentage
+        critical_damage: percentage
     }
 };

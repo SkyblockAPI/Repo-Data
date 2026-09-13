@@ -1,5 +1,6 @@
 ::stats::prototype::base::{
     name: "Crit Damage",
+    stat: "critical_damage",
     color: "blue",
     suffix: "%",
     ...this

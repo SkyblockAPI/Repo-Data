@@ -7,7 +7,12 @@ if ("modifier" !in data) {
 reforge = static("reforges/" + data.modifier);
 
 if ("description" in reforge) {
-    stack.lore.addAll(Component.splitToLength(reforge.description, 35));
+    reforge_wrap_length = if ("description_wrap" !in reforge) {
+        35
+    } else {
+        reforge.description_wrap
+    };
+    stack.lore.addAll(Component.splitToLength(reforge.description, reforge_wrap_length));
     stack.lore.endSection();
 } else if ("description_provider" in reforge) {
     stack.lore.addAll(Component.splitToLength(reforge.description_provider(Rarity.stack()), 35));
