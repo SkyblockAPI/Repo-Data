@@ -4,7 +4,8 @@ static {
 
 ::items::index::create::{
     entries: [
-        "enderman"
+        "enderman",
+        "blaze",
     ],
     getter: | entry | {
         ::items::index::slayer::<entry>::

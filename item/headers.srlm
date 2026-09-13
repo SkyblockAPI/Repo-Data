@@ -1,3 +1,6 @@
 call("utils/meta_or_optional", { field: "type", ...this }).ifPresent(| x | {
     stack.lore.add({text: x, color: "dark_gray"})
 });
+if (call("utils/meta_or_default", { field: "combinable_in_anvil", default: false, ...this })) {
+    stack.lore.add({text: "Combinable in Anvil", color: "dark_gray"})
+};

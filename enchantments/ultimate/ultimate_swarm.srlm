@@ -1,0 +1,15 @@
+static {
+    levels: 1..5,
+    is_ultimate: true,
+    name: "Swarm"
+};
+
+description = {
+    text: "todo: ",
+    color: "gray",
+};
+
+return {
+    level,
+    description
+};

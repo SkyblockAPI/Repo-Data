@@ -1,0 +1,7 @@
+static {
+    prefix: "blaze"
+};
+
+{
+  burstmaw_dagger
+}

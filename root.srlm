@@ -1,7 +1,7 @@
 static eval {
     ::items::index::index::()
 };
-
+print("meow!!!");
 static_data = static(::root::);
 data_id = String.lowercase(data.id);
 custom_path = data_id in static_data;
@@ -9,5 +9,5 @@ custom_path = data_id in static_data;
 file = if (custom_path) {
     String.concat("items/", static_data[data_id])
 } else {
-    String.concat("items/", String.lowercase(data.id))
+    String.concat("items/null")
 }

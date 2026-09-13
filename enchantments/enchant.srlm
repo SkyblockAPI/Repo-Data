@@ -28,6 +28,7 @@ static {
   thunderbolt: "sword",
   thunderlord: "sword",
   titan_killer: "sword",
+  triple_strike: "sword",
   vampirism: "sword",
   venomous: "sword",
   vicious: "sword",
@@ -85,6 +86,7 @@ static {
   ultimate_reiterate: "ultimate",
   ultimate_wise: "ultimate",
   ultimate_soul_eater: "ultimate",
+  ultimate_swarm: "ultimate",
 };
 
 folder_map = static("enchantments/enchant");

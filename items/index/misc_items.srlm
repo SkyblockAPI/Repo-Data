@@ -1,0 +1,7 @@
+static {
+    prefix: "misc"
+};
+
+{
+  enchanted_book
+}

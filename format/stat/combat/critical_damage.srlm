@@ -1,4 +1,5 @@
 return call("format/stat", {
     stat_name: "Crit Damage",
     stat_color: "blue",
+    stat_icon: "critical_damage",
 });

@@ -1,0 +1,6 @@
+## Fallback for all items
+meta {
+  rarity = "COMMON";
+  name = "null";
+  item = "command_block";
+}

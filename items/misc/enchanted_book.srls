@@ -1,0 +1,32 @@
+meta {
+  rarity = "COMMON";
+}
+
+script {
+  include("item/header");
+  include("item/enchantments");
+
+  stack.lore.beginSection();
+  stack.lore.addAll([
+    {
+      text: "Applicable on: ", 
+      color: "gray",
+      extra: [
+        {text: "Item", color: "blue"}
+      ]
+    },
+    {
+      color: "gray",
+      text: "Apply Cost: ",
+      extra: [
+        {text: "999 Exp Levels", color: "cyan"}
+      ]
+    },
+  ]);
+  stack.lore.endSection();
+
+  include("item/footer");
+
+  stack.name = "Enchanted Book";
+  stack.item = "enchanted_book";
+}

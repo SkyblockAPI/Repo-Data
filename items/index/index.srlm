@@ -4,7 +4,8 @@ return ::items::index::create::{
         "dungeon_items",
         "farming_items",
         "hunting_items",
-        "slayer/index"
+        "slayer/index",
+        "misc_items",
     ],
     getter: |entry| {
         ::items::index::<entry>::

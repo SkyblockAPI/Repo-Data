@@ -1,0 +1,4 @@
+include("types/combinable", this);
+category = "REFORGE STONE";
+categories += "reforge_stone";
+type = "Reforge Stone";

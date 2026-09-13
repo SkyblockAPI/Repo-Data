@@ -1,0 +1,77 @@
+meta {
+  include("api_data/burstmaw_dagger", this);
+
+  lore.after_stats = Component.splitToLength([
+    {
+      color: "gray",
+      text: "Deal ",
+      extra: [
+        { text: "2.5x", color: "red"},
+        " damage to ",
+        call("format/mobtype/infernal"),
+        " mobs."
+      ]
+    },
+    {
+      color: "gray",
+      text: "Deal ",
+      extra: [
+        { text: "1.5x", color: "red"},
+        " damage to ",
+        call("format/mobtype/skeletal"),
+        " mobs."
+      ]
+    },
+    {
+      color: "gray",
+      text: "Gain ",
+      extra: [
+        { text: "+30", color: "cyan"},
+        call("format/stat/wisdom/combat"),
+        " against ",
+        call("format/mobtype/infernal"),
+        " mobs."
+      ]
+    }
+  ], 37);
+
+  stat_icons = ::format::stat_icons::();
+
+  abilities = [
+    {
+      name: "Attunement",
+      trigger: "RIGHT CLICK",
+      text: {
+        color: "gray",
+        text: "Swap between ",
+        extra: [
+          {text: "Spirit", color: "white"},
+          " and ",
+          {text: "Crystal", color: "aqua"},
+          " mode in order to attack through Hellion Shields."
+        ]
+      },
+      text_wrap_length: 48
+    },
+    {
+      name: "Wraith Drain",
+      text: {
+        color: "gray",
+        text: "On hit, heal for ",
+        extra: [
+          {text: "200", color: "red"},
+          " + ",
+          {text: "4%" + stat_icons.health, color: "red"},
+          " after ",
+          {text: "6s", color: "lime"},
+          " if the Hellion Shield has switched attunement."
+        ]
+      }
+    }
+  ];
+}
+
+script {
+
+  include("item");
+}

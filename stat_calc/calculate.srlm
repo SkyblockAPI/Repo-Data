@@ -1,6 +1,5 @@
 ::stat_calc::init_base::{ stats, meta };
 is_dungeon_item = ("dungeon_item" in data && (data.dungeon_item == 1)) || meta.categories.contains("dungeon");
-dungeon_stats = {};
 if (is_dungeon_item) ::stat_calc::init_base::{ stats: dungeon_stats, meta };
 
 for (entry : [
