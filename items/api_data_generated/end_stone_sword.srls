@@ -1,1 +1,4 @@
-meta { include("api_data/end_stone_sword", this); };
+meta {
+  id = END_STONE_SWORD;
+  include("api_data/end_stone_sword", this); 
+};

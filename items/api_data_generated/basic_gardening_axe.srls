@@ -1,1 +1,4 @@
-meta { include("api_data/basic_gardening_axe", this); };
+meta {
+  id = BASIC_GARDENING_AXE;
+  include("api_data/basic_gardening_axe", this); 
+};

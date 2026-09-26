@@ -1,1 +1,4 @@
-meta { include("api_data/hermit_crab_personality", this); };
+meta {
+  id = HERMIT_CRAB_PERSONALITY;
+  include("api_data/hermit_crab_personality", this); 
+};

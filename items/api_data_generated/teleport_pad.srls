@@ -1,1 +1,4 @@
-meta { include("api_data/teleport_pad", this); };
+meta {
+  id = TELEPORT_PAD;
+  include("api_data/teleport_pad", this); 
+};

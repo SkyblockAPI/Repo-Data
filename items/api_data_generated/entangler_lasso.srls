@@ -1,1 +1,4 @@
-meta { include("api_data/entangler_lasso", this); };
+meta {
+  id = ENTANGLER_LASSO;
+  include("api_data/entangler_lasso", this); 
+};

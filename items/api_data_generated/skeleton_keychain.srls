@@ -1,1 +1,4 @@
-meta { include("api_data/skeleton_keychain", this); };
+meta {
+  id = SKELETON_KEYCHAIN;
+  include("api_data/skeleton_keychain", this); 
+};

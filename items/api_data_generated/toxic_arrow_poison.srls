@@ -1,1 +1,4 @@
-meta { include("api_data/toxic_arrow_poison", this); };
+meta {
+  id = TOXIC_ARROW_POISON;
+  include("api_data/toxic_arrow_poison", this); 
+};

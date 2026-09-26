@@ -1,1 +1,4 @@
-meta { include("api_data/small_runes_sack", this); };
+meta {
+  id = SMALL_RUNES_SACK;
+  include("api_data/small_runes_sack", this); 
+};

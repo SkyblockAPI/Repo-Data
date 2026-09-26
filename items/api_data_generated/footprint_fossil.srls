@@ -1,1 +1,4 @@
-meta { include("api_data/footprint_fossil", this); };
+meta {
+  id = FOOTPRINT_FOSSIL;
+  include("api_data/footprint_fossil", this); 
+};

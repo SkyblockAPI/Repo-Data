@@ -1,1 +1,4 @@
-meta { include("api_data/petrified_starfall", this); };
+meta {
+  id = PETRIFIED_STARFALL;
+  include("api_data/petrified_starfall", this); 
+};

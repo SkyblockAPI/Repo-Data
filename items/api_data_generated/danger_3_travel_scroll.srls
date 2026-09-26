@@ -1,1 +1,4 @@
-meta { include("api_data/danger_3_travel_scroll", this); };
+meta {
+  id = DANGER_3_TRAVEL_SCROLL;
+  include("api_data/danger_3_travel_scroll", this); 
+};

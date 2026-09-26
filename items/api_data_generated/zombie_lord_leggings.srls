@@ -1,1 +1,4 @@
-meta { include("api_data/zombie_lord_leggings", this); };
+meta {
+  id = ZOMBIE_LORD_LEGGINGS;
+  include("api_data/zombie_lord_leggings", this); 
+};

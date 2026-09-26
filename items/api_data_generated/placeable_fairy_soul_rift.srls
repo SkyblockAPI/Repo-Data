@@ -1,1 +1,4 @@
-meta { include("api_data/placeable_fairy_soul_rift", this); };
+meta {
+  id = PLACEABLE_FAIRY_SOUL_RIFT;
+  include("api_data/placeable_fairy_soul_rift", this); 
+};

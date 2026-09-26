@@ -1,1 +1,4 @@
-meta { include("api_data/redstone_comparator", this); };
+meta {
+  id = REDSTONE_COMPARATOR;
+  include("api_data/redstone_comparator", this); 
+};

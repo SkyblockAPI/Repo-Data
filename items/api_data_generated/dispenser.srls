@@ -1,1 +1,4 @@
-meta { include("api_data/dispenser", this); };
+meta {
+  id = DISPENSER;
+  include("api_data/dispenser", this); 
+};

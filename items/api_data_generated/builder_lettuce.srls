@@ -1,1 +1,4 @@
-meta { include("api_data/builder_lettuce", this); };
+meta {
+  id = BUILDER_LETTUCE;
+  include("api_data/builder_lettuce", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/raygun", this); };
+meta {
+  id = RAYGUN;
+  include("api_data/raygun", this); 
+};

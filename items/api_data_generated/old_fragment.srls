@@ -1,1 +1,4 @@
-meta { include("api_data/old_fragment", this); };
+meta {
+  id = OLD_FRAGMENT;
+  include("api_data/old_fragment", this); 
+};

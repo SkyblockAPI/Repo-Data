@@ -1,1 +1,4 @@
-meta { include("api_data/dungeonbreaker", this); };
+meta {
+  id = DUNGEONBREAKER;
+  include("api_data/dungeonbreaker", this); 
+};

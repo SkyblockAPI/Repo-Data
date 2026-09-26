@@ -1,1 +1,4 @@
-meta { include("api_data/sublime_silk", this); };
+meta {
+  id = SUBLIME_SILK;
+  include("api_data/sublime_silk", this); 
+};

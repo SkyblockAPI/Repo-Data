@@ -1,1 +1,4 @@
-meta { include("api_data/plant_diagnostics_tool", this); };
+meta {
+  id = PLANT_DIAGNOSTICS_TOOL;
+  include("api_data/plant_diagnostics_tool", this); 
+};

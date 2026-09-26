@@ -1,1 +1,4 @@
-meta { include("api_data/rift_jump_elixir", this); };
+meta {
+  id = RIFT_JUMP_ELIXIR;
+  include("api_data/rift_jump_elixir", this); 
+};

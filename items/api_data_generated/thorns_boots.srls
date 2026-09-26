@@ -1,1 +1,4 @@
-meta { include("api_data/thorns_boots", this); };
+meta {
+  id = THORNS_BOOTS;
+  include("api_data/thorns_boots", this); 
+};

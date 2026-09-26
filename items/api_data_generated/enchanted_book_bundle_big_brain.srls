@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_book_bundle_big_brain", this); };
+meta {
+  id = ENCHANTED_BOOK_BUNDLE_BIG_BRAIN;
+  include("api_data/enchanted_book_bundle_big_brain", this); 
+};

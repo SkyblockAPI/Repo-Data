@@ -1,1 +1,4 @@
-meta { include("api_data/party_necklace", this); };
+meta {
+  id = PARTY_NECKLACE;
+  include("api_data/party_necklace", this); 
+};

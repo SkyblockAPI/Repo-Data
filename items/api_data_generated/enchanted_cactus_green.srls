@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_cactus_green", this); };
+meta {
+  id = ENCHANTED_CACTUS_GREEN;
+  include("api_data/enchanted_cactus_green", this); 
+};

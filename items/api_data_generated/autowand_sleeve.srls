@@ -1,1 +1,4 @@
-meta { include("api_data/autowand_sleeve", this); };
+meta {
+  id = AUTOWAND_SLEEVE;
+  include("api_data/autowand_sleeve", this); 
+};

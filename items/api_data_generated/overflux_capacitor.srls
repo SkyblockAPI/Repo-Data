@@ -1,1 +1,4 @@
-meta { include("api_data/overflux_capacitor", this); };
+meta {
+  id = OVERFLUX_CAPACITOR;
+  include("api_data/overflux_capacitor", this); 
+};

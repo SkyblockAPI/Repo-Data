@@ -1,1 +1,4 @@
-meta { include("api_data/shadow_assassin_cloak", this); };
+meta {
+  id = SHADOW_ASSASSIN_CLOAK;
+  include("api_data/shadow_assassin_cloak", this); 
+};

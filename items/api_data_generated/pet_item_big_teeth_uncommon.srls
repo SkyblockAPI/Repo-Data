@@ -1,1 +1,4 @@
-meta { include("api_data/pet_item_big_teeth_uncommon", this); };
+meta {
+  id = PET_ITEM_BIG_TEETH_UNCOMMON;
+  include("api_data/pet_item_big_teeth_uncommon", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/vinyl_rodent_revolution", this); };
+meta {
+  id = VINYL_RODENT_REVOLUTION;
+  include("api_data/vinyl_rodent_revolution", this); 
+};

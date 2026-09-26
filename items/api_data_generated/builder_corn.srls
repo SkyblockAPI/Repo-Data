@@ -1,1 +1,4 @@
-meta { include("api_data/builder_corn", this); };
+meta {
+  id = BUILDER_CORN;
+  include("api_data/builder_corn", this); 
+};

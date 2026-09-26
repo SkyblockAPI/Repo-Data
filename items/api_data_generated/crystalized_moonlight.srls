@@ -1,1 +1,4 @@
-meta { include("api_data/crystalized_moonlight", this); };
+meta {
+  id = CRYSTALIZED_MOONLIGHT;
+  include("api_data/crystalized_moonlight", this); 
+};

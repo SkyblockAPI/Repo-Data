@@ -1,1 +1,4 @@
-meta { include("api_data/sand_generator_11", this); };
+meta {
+  id = SAND_GENERATOR_11;
+  include("api_data/sand_generator_11", this); 
+};

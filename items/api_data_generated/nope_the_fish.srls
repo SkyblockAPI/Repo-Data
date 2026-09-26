@@ -1,1 +1,4 @@
-meta { include("api_data/nope_the_fish", this); };
+meta {
+  id = NOPE_THE_FISH;
+  include("api_data/nope_the_fish", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/lattice_bench", this); };
+meta {
+  id = LATTICE_BENCH;
+  include("api_data/lattice_bench", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/festering_fly", this); };
+meta {
+  id = FESTERING_FLY;
+  include("api_data/festering_fly", this); 
+};

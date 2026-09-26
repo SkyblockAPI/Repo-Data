@@ -1,1 +1,4 @@
-meta { include("api_data/lush_artifact", this); };
+meta {
+  id = LUSH_ARTIFACT;
+  include("api_data/lush_artifact", this); 
+};

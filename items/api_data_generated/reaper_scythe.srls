@@ -1,1 +1,4 @@
-meta { include("api_data/reaper_scythe", this); };
+meta {
+  id = REAPER_SCYTHE;
+  include("api_data/reaper_scythe", this); 
+};

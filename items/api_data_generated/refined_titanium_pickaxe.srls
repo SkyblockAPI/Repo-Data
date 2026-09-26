@@ -1,1 +1,4 @@
-meta { include("api_data/refined_titanium_pickaxe", this); };
+meta {
+  id = REFINED_TITANIUM_PICKAXE;
+  include("api_data/refined_titanium_pickaxe", this); 
+};

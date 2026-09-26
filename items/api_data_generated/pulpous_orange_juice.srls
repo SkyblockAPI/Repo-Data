@@ -1,1 +1,4 @@
-meta { include("api_data/pulpous_orange_juice", this); };
+meta {
+  id = PULPOUS_ORANGE_JUICE;
+  include("api_data/pulpous_orange_juice", this); 
+};

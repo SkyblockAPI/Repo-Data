@@ -1,1 +1,4 @@
-meta { include("api_data/pet_item_fishing_skill_boost_rare", this); };
+meta {
+  id = PET_ITEM_FISHING_SKILL_BOOST_RARE;
+  include("api_data/pet_item_fishing_skill_boost_rare", this); 
+};

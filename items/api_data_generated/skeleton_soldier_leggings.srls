@@ -1,1 +1,4 @@
-meta { include("api_data/skeleton_soldier_leggings", this); };
+meta {
+  id = SKELETON_SOLDIER_LEGGINGS;
+  include("api_data/skeleton_soldier_leggings", this); 
+};

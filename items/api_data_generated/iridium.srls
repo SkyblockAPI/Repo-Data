@@ -1,1 +1,4 @@
-meta { include("api_data/iridium", this); };
+meta {
+  id = IRIDIUM;
+  include("api_data/iridium", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/wizard_tower_portal", this); };
+meta {
+  id = WIZARD_TOWER_PORTAL;
+  include("api_data/wizard_tower_portal", this); 
+};

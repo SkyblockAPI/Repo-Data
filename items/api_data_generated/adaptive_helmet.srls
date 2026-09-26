@@ -1,1 +1,4 @@
-meta { include("api_data/adaptive_helmet", this); };
+meta {
+  id = ADAPTIVE_HELMET;
+  include("api_data/adaptive_helmet", this); 
+};

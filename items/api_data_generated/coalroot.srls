@@ -1,1 +1,4 @@
-meta { include("api_data/coalroot", this); };
+meta {
+  id = COALROOT;
+  include("api_data/coalroot", this); 
+};

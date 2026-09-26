@@ -1,1 +1,4 @@
-meta { include("api_data/sulphuric_coal", this); };
+meta {
+  id = SULPHURIC_COAL;
+  include("api_data/sulphuric_coal", this); 
+};

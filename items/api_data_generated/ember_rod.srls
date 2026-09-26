@@ -1,1 +1,4 @@
-meta { include("api_data/ember_rod", this); };
+meta {
+  id = EMBER_ROD;
+  include("api_data/ember_rod", this); 
+};

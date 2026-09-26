@@ -1,1 +1,4 @@
-meta { include("api_data/squid_hat", this); };
+meta {
+  id = SQUID_HAT;
+  include("api_data/squid_hat", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/ashwreath", this); };
+meta {
+  id = ASHWREATH;
+  include("api_data/ashwreath", this); 
+};

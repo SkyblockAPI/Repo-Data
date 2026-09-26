@@ -1,1 +1,4 @@
-meta { include("api_data/witherbloom", this); };
+meta {
+  id = WITHERBLOOM;
+  include("api_data/witherbloom", this); 
+};

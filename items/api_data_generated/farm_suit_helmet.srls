@@ -1,1 +1,4 @@
-meta { include("api_data/farm_suit_helmet", this); };
+meta {
+  id = FARM_SUIT_HELMET;
+  include("api_data/farm_suit_helmet", this); 
+};

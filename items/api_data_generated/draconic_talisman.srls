@@ -1,1 +1,4 @@
-meta { include("api_data/draconic_talisman", this); };
+meta {
+  id = DRACONIC_TALISMAN;
+  include("api_data/draconic_talisman", this); 
+};

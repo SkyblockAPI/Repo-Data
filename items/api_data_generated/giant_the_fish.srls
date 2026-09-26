@@ -1,1 +1,4 @@
-meta { include("api_data/giant_the_fish", this); };
+meta {
+  id = GIANT_THE_FISH;
+  include("api_data/giant_the_fish", this); 
+};

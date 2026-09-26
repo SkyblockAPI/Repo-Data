@@ -1,1 +1,4 @@
-meta { include("api_data/eternal_crystal", this); };
+meta {
+  id = ETERNAL_CRYSTAL;
+  include("api_data/eternal_crystal", this); 
+};

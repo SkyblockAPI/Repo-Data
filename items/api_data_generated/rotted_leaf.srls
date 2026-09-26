@@ -1,1 +1,4 @@
-meta { include("api_data/rotted_leaf", this); };
+meta {
+  id = ROTTED_LEAF;
+  include("api_data/rotted_leaf", this); 
+};

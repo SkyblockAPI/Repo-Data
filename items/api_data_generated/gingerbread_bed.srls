@@ -1,1 +1,4 @@
-meta { include("api_data/gingerbread_bed", this); };
+meta {
+  id = GINGERBREAD_BED;
+  include("api_data/gingerbread_bed", this); 
+};

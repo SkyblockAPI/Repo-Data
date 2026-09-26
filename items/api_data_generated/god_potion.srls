@@ -1,1 +1,4 @@
-meta { include("api_data/god_potion", this); };
+meta {
+  id = GOD_POTION;
+  include("api_data/god_potion", this); 
+};

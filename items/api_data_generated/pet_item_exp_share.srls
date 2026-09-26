@@ -1,1 +1,4 @@
-meta { include("api_data/pet_item_exp_share", this); };
+meta {
+  id = PET_ITEM_EXP_SHARE;
+  include("api_data/pet_item_exp_share", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/polished_pebble", this); };
+meta {
+  id = POLISHED_PEBBLE;
+  include("api_data/polished_pebble", this); 
+};

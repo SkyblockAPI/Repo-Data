@@ -1,1 +1,4 @@
-meta { include("api_data/seeds", this); };
+meta {
+  id = SEEDS;
+  include("api_data/seeds", this); 
+};

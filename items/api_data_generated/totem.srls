@@ -1,1 +1,4 @@
-meta { include("api_data/totem", this); };
+meta {
+  id = TOTEM;
+  include("api_data/totem", this); 
+};

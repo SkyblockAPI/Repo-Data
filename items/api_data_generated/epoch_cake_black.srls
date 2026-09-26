@@ -1,1 +1,4 @@
-meta { include("api_data/epoch_cake_black", this); };
+meta {
+  id = EPOCH_CAKE_BLACK;
+  include("api_data/epoch_cake_black", this); 
+};

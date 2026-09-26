@@ -1,1 +1,4 @@
-meta { include("api_data/lapis_ore", this); };
+meta {
+  id = LAPIS_ORE;
+  include("api_data/lapis_ore", this); 
+};

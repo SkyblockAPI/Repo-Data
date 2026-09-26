@@ -1,1 +1,4 @@
-meta { include("api_data/charminizer", this); };
+meta {
+  id = CHARMINIZER;
+  include("api_data/charminizer", this); 
+};

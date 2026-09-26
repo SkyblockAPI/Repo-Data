@@ -1,1 +1,4 @@
-meta { include("api_data/quartz_ore", this); };
+meta {
+  id = QUARTZ_ORE;
+  include("api_data/quartz_ore", this); 
+};

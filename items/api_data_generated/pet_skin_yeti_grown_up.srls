@@ -1,1 +1,4 @@
-meta { include("api_data/pet_skin_yeti_grown_up", this); };
+meta {
+  id = PET_SKIN_YETI_GROWN_UP;
+  include("api_data/pet_skin_yeti_grown_up", this); 
+};

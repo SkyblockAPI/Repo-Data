@@ -1,1 +1,4 @@
-meta { include("api_data/amethyst_crystal", this); };
+meta {
+  id = AMETHYST_CRYSTAL;
+  include("api_data/amethyst_crystal", this); 
+};

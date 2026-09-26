@@ -1,1 +1,4 @@
-meta { include("api_data/sting", this); };
+meta {
+  id = STING;
+  include("api_data/sting", this); 
+};

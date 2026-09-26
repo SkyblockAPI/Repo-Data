@@ -1,1 +1,4 @@
-meta { include("api_data/dashing_boots", this); };
+meta {
+  id = DASHING_BOOTS;
+  include("api_data/dashing_boots", this); 
+};

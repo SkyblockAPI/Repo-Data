@@ -1,1 +1,4 @@
-meta { include("api_data/lantern", this); };
+meta {
+  id = LANTERN;
+  include("api_data/lantern", this); 
+};

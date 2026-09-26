@@ -1,1 +1,4 @@
-meta { include("api_data/blue_ice_hunk", this); };
+meta {
+  id = BLUE_ICE_HUNK;
+  include("api_data/blue_ice_hunk", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_glistering_melon", this); };
+meta {
+  id = ENCHANTED_GLISTERING_MELON;
+  include("api_data/enchanted_glistering_melon", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/ice_generator_2", this); };
+meta {
+  id = ICE_GENERATOR_2;
+  include("api_data/ice_generator_2", this); 
+};

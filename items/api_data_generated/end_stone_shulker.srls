@@ -1,1 +1,4 @@
-meta { include("api_data/end_stone_shulker", this); };
+meta {
+  id = END_STONE_SHULKER;
+  include("api_data/end_stone_shulker", this); 
+};

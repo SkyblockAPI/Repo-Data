@@ -1,1 +1,4 @@
-meta { include("api_data/medium_frog_treat", this); };
+meta {
+  id = MEDIUM_FROG_TREAT;
+  include("api_data/medium_frog_treat", this); 
+};

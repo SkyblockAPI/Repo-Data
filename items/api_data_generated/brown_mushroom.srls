@@ -1,1 +1,4 @@
-meta { include("api_data/brown_mushroom", this); };
+meta {
+  id = BROWN_MUSHROOM;
+  include("api_data/brown_mushroom", this); 
+};

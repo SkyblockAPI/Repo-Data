@@ -1,1 +1,4 @@
-meta { include("api_data/wise_fragment", this); };
+meta {
+  id = WISE_FRAGMENT;
+  include("api_data/wise_fragment", this); 
+};

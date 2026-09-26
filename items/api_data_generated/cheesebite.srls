@@ -1,1 +1,4 @@
-meta { include("api_data/cheesebite", this); };
+meta {
+  id = CHEESEBITE;
+  include("api_data/cheesebite", this); 
+};

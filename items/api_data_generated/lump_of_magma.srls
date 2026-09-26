@@ -1,1 +1,4 @@
-meta { include("api_data/lump_of_magma", this); };
+meta {
+  id = LUMP_OF_MAGMA;
+  include("api_data/lump_of_magma", this); 
+};

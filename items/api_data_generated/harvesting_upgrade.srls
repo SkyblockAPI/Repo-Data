@@ -1,1 +1,4 @@
-meta { include("api_data/harvesting_upgrade", this); };
+meta {
+  id = HARVESTING_UPGRADE;
+  include("api_data/harvesting_upgrade", this); 
+};

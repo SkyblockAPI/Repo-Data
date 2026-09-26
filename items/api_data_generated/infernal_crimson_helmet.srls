@@ -1,1 +1,4 @@
-meta { include("api_data/infernal_crimson_helmet", this); };
+meta {
+  id = INFERNAL_CRIMSON_HELMET;
+  include("api_data/infernal_crimson_helmet", this); 
+};

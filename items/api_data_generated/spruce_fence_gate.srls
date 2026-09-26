@@ -1,1 +1,4 @@
-meta { include("api_data/spruce_fence_gate", this); };
+meta {
+  id = SPRUCE_FENCE_GATE;
+  include("api_data/spruce_fence_gate", this); 
+};

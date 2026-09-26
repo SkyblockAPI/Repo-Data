@@ -1,1 +1,4 @@
-meta { include("api_data/fine_onyx_gem", this); };
+meta {
+  id = FINE_ONYX_GEM;
+  include("api_data/fine_onyx_gem", this); 
+};

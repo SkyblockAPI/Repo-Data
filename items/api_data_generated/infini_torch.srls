@@ -1,1 +1,4 @@
-meta { include("api_data/infini_torch", this); };
+meta {
+  id = INFINI_TORCH;
+  include("api_data/infini_torch", this); 
+};

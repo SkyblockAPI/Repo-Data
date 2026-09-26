@@ -1,1 +1,4 @@
-meta { include("api_data/unknown_item", this); };
+meta {
+  id = UNKNOWN_ITEM;
+  include("api_data/unknown_item", this); 
+};

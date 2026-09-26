@@ -1,1 +1,4 @@
-meta { include("api_data/nibble_chocolate_stick", this); };
+meta {
+  id = NIBBLE_CHOCOLATE_STICK;
+  include("api_data/nibble_chocolate_stick", this); 
+};

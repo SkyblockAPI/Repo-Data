@@ -1,1 +1,4 @@
-meta { include("api_data/duskbloom", this); };
+meta {
+  id = DUSKBLOOM;
+  include("api_data/duskbloom", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/squash_helmet", this); };
+meta {
+  id = SQUASH_HELMET;
+  include("api_data/squash_helmet", this); 
+};

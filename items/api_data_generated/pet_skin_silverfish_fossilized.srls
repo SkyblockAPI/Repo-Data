@@ -1,1 +1,4 @@
-meta { include("api_data/pet_skin_silverfish_fossilized", this); };
+meta {
+  id = PET_SKIN_SILVERFISH_FOSSILIZED;
+  include("api_data/pet_skin_silverfish_fossilized", this); 
+};

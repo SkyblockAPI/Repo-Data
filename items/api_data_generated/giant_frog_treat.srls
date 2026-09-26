@@ -1,1 +1,4 @@
-meta { include("api_data/giant_frog_treat", this); };
+meta {
+  id = GIANT_FROG_TREAT;
+  include("api_data/giant_frog_treat", this); 
+};

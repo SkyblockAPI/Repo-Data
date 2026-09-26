@@ -1,1 +1,4 @@
-meta { include("api_data/cooked_chicken", this); };
+meta {
+  id = COOKED_CHICKEN;
+  include("api_data/cooked_chicken", this); 
+};

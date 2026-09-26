@@ -1,1 +1,4 @@
-meta { include("api_data/carrot_colored_vinyl_set", this); };
+meta {
+  id = CARROT_COLORED_VINYL_SET;
+  include("api_data/carrot_colored_vinyl_set", this); 
+};

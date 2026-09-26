@@ -1,1 +1,4 @@
-meta { include("api_data/coal", this); };
+meta {
+  id = COAL;
+  include("api_data/coal", this); 
+};

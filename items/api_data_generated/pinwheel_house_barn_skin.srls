@@ -1,1 +1,4 @@
-meta { include("api_data/pinwheel_house_barn_skin", this); };
+meta {
+  id = PINWHEEL_HOUSE_BARN_SKIN;
+  include("api_data/pinwheel_house_barn_skin", this); 
+};

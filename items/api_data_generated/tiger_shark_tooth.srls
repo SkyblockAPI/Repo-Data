@@ -1,1 +1,4 @@
-meta { include("api_data/tiger_shark_tooth", this); };
+meta {
+  id = TIGER_SHARK_TOOTH;
+  include("api_data/tiger_shark_tooth", this); 
+};

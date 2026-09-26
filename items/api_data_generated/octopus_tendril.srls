@@ -1,1 +1,4 @@
-meta { include("api_data/octopus_tendril", this); };
+meta {
+  id = OCTOPUS_TENDRIL;
+  include("api_data/octopus_tendril", this); 
+};

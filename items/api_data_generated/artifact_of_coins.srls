@@ -1,1 +1,4 @@
-meta { include("api_data/artifact_of_coins", this); };
+meta {
+  id = ARTIFACT_OF_COINS;
+  include("api_data/artifact_of_coins", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/party_hat_sloth", this); };
+meta {
+  id = PARTY_HAT_SLOTH;
+  include("api_data/party_hat_sloth", this); 
+};

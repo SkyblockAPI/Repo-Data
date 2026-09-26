@@ -1,1 +1,4 @@
-meta { include("api_data/smooth_stairs", this); };
+meta {
+  id = SMOOTH_STAIRS;
+  include("api_data/smooth_stairs", this); 
+};

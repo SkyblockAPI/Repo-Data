@@ -1,1 +1,4 @@
-meta { include("api_data/yeti_rod", this); };
+meta {
+  id = YETI_ROD;
+  include("api_data/yeti_rod", this); 
+};

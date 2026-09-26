@@ -1,1 +1,4 @@
-meta { include("api_data/titanium_drill_2", this); };
+meta {
+  id = TITANIUM_DRILL_2;
+  include("api_data/titanium_drill_2", this); 
+};

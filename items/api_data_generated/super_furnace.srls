@@ -1,1 +1,4 @@
-meta { include("api_data/super_furnace", this); };
+meta {
+  id = SUPER_FURNACE;
+  include("api_data/super_furnace", this); 
+};

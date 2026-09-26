@@ -1,1 +1,4 @@
-meta { include("api_data/backwater_necklace", this); };
+meta {
+  id = BACKWATER_NECKLACE;
+  include("api_data/backwater_necklace", this); 
+};

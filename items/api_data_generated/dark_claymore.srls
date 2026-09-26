@@ -1,1 +1,4 @@
-meta { include("api_data/dark_claymore", this); };
+meta {
+  id = DARK_CLAYMORE;
+  include("api_data/dark_claymore", this); 
+};

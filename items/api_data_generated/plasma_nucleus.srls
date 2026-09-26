@@ -1,1 +1,4 @@
-meta { include("api_data/plasma_nucleus", this); };
+meta {
+  id = PLASMA_NUCLEUS;
+  include("api_data/plasma_nucleus", this); 
+};

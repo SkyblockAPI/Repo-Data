@@ -1,1 +1,4 @@
-meta { include("api_data/nearly_coherent_rod", this); };
+meta {
+  id = NEARLY_COHERENT_ROD;
+  include("api_data/nearly_coherent_rod", this); 
+};

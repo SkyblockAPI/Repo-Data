@@ -1,1 +1,4 @@
-meta { include("api_data/magma_cube_head", this); };
+meta {
+  id = MAGMA_CUBE_HEAD;
+  include("api_data/magma_cube_head", this); 
+};

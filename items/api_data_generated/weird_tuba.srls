@@ -1,1 +1,4 @@
-meta { include("api_data/weird_tuba", this); };
+meta {
+  id = WEIRD_TUBA;
+  include("api_data/weird_tuba", this); 
+};

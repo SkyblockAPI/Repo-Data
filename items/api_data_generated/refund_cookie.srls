@@ -1,1 +1,4 @@
-meta { include("api_data/refund_cookie", this); };
+meta {
+  id = REFUND_COOKIE;
+  include("api_data/refund_cookie", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/muted_bark", this); };
+meta {
+  id = MUTED_BARK;
+  include("api_data/muted_bark", this); 
+};

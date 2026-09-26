@@ -1,1 +1,4 @@
-meta { include("api_data/talisman_enrichment_sea_creature_chance", this); };
+meta {
+  id = TALISMAN_ENRICHMENT_SEA_CREATURE_CHANCE;
+  include("api_data/talisman_enrichment_sea_creature_chance", this); 
+};

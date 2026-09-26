@@ -1,1 +1,4 @@
-meta { include("api_data/sea_walker_helmet", this); };
+meta {
+  id = SEA_WALKER_HELMET;
+  include("api_data/sea_walker_helmet", this); 
+};

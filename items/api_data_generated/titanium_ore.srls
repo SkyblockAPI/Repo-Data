@@ -1,1 +1,4 @@
-meta { include("api_data/titanium_ore", this); };
+meta {
+  id = TITANIUM_ORE;
+  include("api_data/titanium_ore", this); 
+};

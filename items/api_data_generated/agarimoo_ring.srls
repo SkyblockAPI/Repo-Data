@@ -1,1 +1,4 @@
-meta { include("api_data/agarimoo_ring", this); };
+meta {
+  id = AGARIMOO_RING;
+  include("api_data/agarimoo_ring", this); 
+};

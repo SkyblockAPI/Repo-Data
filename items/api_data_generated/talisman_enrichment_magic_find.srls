@@ -1,1 +1,4 @@
-meta { include("api_data/talisman_enrichment_magic_find", this); };
+meta {
+  id = TALISMAN_ENRICHMENT_MAGIC_FIND;
+  include("api_data/talisman_enrichment_magic_find", this); 
+};

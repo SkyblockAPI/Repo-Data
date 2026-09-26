@@ -1,1 +1,4 @@
-meta { include("api_data/match_sticks", this); };
+meta {
+  id = MATCH_STICKS;
+  include("api_data/match_sticks", this); 
+};

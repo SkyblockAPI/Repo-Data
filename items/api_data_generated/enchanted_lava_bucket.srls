@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_lava_bucket", this); };
+meta {
+  id = ENCHANTED_LAVA_BUCKET;
+  include("api_data/enchanted_lava_bucket", this); 
+};

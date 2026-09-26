@@ -1,1 +1,4 @@
-meta { include("api_data/abiphone_xiii_pro_giga", this); };
+meta {
+  id = ABIPHONE_XIII_PRO_GIGA;
+  include("api_data/abiphone_xiii_pro_giga", this); 
+};

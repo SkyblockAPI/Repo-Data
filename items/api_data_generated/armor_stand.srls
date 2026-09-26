@@ -1,1 +1,4 @@
-meta { include("api_data/armor_stand", this); };
+meta {
+  id = ARMOR_STAND;
+  include("api_data/armor_stand", this); 
+};

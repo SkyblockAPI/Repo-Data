@@ -1,1 +1,4 @@
-meta { include("api_data/crux_talisman_2", this); };
+meta {
+  id = CRUX_TALISMAN_2;
+  include("api_data/crux_talisman_2", this); 
+};

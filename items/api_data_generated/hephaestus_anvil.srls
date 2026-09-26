@@ -1,1 +1,4 @@
-meta { include("api_data/hephaestus_anvil", this); };
+meta {
+  id = HEPHAESTUS_ANVIL;
+  include("api_data/hephaestus_anvil", this); 
+};

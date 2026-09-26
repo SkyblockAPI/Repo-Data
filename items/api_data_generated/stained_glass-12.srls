@@ -1,1 +1,4 @@
-meta { include("api_data/stained_glass-12", this); };
+meta {
+  id = STAINED_GLASS:12;
+  include("api_data/stained_glass-12", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/emperor_leggings", this); };
+meta {
+  id = EMPEROR_LEGGINGS;
+  include("api_data/emperor_leggings", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/century_the_fish", this); };
+meta {
+  id = CENTURY_THE_FISH;
+  include("api_data/century_the_fish", this); 
+};

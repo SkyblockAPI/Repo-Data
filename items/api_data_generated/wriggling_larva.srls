@@ -1,1 +1,4 @@
-meta { include("api_data/wriggling_larva", this); };
+meta {
+  id = WRIGGLING_LARVA;
+  include("api_data/wriggling_larva", this); 
+};

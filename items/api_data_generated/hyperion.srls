@@ -1,1 +1,4 @@
-meta { include("api_data/hyperion", this); };
+meta {
+  id = HYPERION;
+  include("api_data/hyperion", this); 
+};

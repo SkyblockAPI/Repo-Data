@@ -1,1 +1,4 @@
-meta { include("api_data/voter_badge_supreme", this); };
+meta {
+  id = VOTER_BADGE_SUPREME;
+  include("api_data/voter_badge_supreme", this); 
+};

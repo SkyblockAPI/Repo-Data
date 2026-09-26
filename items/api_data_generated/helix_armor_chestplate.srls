@@ -1,1 +1,4 @@
-meta { include("api_data/helix_armor_chestplate", this); };
+meta {
+  id = HELIX_ARMOR_CHESTPLATE;
+  include("api_data/helix_armor_chestplate", this); 
+};

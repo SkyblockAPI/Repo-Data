@@ -1,1 +1,4 @@
-meta { include("api_data/rosewater_flask", this); };
+meta {
+  id = ROSEWATER_FLASK;
+  include("api_data/rosewater_flask", this); 
+};

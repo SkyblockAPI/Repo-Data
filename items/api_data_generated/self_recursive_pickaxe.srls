@@ -1,1 +1,4 @@
-meta { include("api_data/self_recursive_pickaxe", this); };
+meta {
+  id = SELF_RECURSIVE_PICKAXE;
+  include("api_data/self_recursive_pickaxe", this); 
+};

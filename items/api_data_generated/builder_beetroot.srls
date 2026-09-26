@@ -1,1 +1,4 @@
-meta { include("api_data/builder_beetroot", this); };
+meta {
+  id = BUILDER_BEETROOT;
+  include("api_data/builder_beetroot", this); 
+};

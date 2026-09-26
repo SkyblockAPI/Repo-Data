@@ -1,1 +1,4 @@
-meta { include("api_data/volcanic_rock", this); };
+meta {
+  id = VOLCANIC_ROCK;
+  include("api_data/volcanic_rock", this); 
+};

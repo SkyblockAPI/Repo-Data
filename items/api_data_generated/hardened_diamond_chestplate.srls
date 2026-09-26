@@ -1,1 +1,4 @@
-meta { include("api_data/hardened_diamond_chestplate", this); };
+meta {
+  id = HARDENED_DIAMOND_CHESTPLATE;
+  include("api_data/hardened_diamond_chestplate", this); 
+};

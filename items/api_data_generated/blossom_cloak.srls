@@ -1,1 +1,4 @@
-meta { include("api_data/blossom_cloak", this); };
+meta {
+  id = BLOSSOM_CLOAK;
+  include("api_data/blossom_cloak", this); 
+};

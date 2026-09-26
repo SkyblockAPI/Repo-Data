@@ -1,1 +1,4 @@
-meta { include("api_data/detector_rail", this); };
+meta {
+  id = DETECTOR_RAIL;
+  include("api_data/detector_rail", this); 
+};

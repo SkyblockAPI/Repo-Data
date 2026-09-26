@@ -1,1 +1,4 @@
-meta { include("api_data/sponge-1", this); };
+meta {
+  id = SPONGE:1;
+  include("api_data/sponge-1", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/fireplace", this); };
+meta {
+  id = FIREPLACE;
+  include("api_data/fireplace", this); 
+};

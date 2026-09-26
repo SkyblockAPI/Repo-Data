@@ -1,1 +1,4 @@
-meta { include("api_data/hub_da_travel_scroll", this); };
+meta {
+  id = HUB_DA_TRAVEL_SCROLL;
+  include("api_data/hub_da_travel_scroll", this); 
+};

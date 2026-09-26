@@ -1,1 +1,4 @@
-meta { include("api_data/starred_adaptive_boots", this); };
+meta {
+  id = STARRED_ADAPTIVE_BOOTS;
+  include("api_data/starred_adaptive_boots", this); 
+};

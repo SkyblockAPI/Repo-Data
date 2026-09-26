@@ -1,1 +1,4 @@
-meta { include("api_data/ender_monocle", this); };
+meta {
+  id = ENDER_MONOCLE;
+  include("api_data/ender_monocle", this); 
+};

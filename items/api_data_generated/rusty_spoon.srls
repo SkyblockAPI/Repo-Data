@@ -1,1 +1,4 @@
-meta { include("api_data/rusty_spoon", this); };
+meta {
+  id = RUSTY_SPOON;
+  include("api_data/rusty_spoon", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_book_bundle_power", this); };
+meta {
+  id = ENCHANTED_BOOK_BUNDLE_POWER;
+  include("api_data/enchanted_book_bundle_power", this); 
+};

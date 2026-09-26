@@ -1,1 +1,4 @@
-meta { include("api_data/crypt_witherlord_helmet", this); };
+meta {
+  id = CRYPT_WITHERLORD_HELMET;
+  include("api_data/crypt_witherlord_helmet", this); 
+};

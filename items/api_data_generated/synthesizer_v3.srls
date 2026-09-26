@@ -1,1 +1,4 @@
-meta { include("api_data/synthesizer_v3", this); };
+meta {
+  id = SYNTHESIZER_V3;
+  include("api_data/synthesizer_v3", this); 
+};

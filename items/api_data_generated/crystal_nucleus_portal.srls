@@ -1,1 +1,4 @@
-meta { include("api_data/crystal_nucleus_portal", this); };
+meta {
+  id = CRYSTAL_NUCLEUS_PORTAL;
+  include("api_data/crystal_nucleus_portal", this); 
+};

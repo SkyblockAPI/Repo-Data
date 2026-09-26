@@ -1,1 +1,4 @@
-meta { include("api_data/golden_apple-1", this); };
+meta {
+  id = GOLDEN_APPLE:1;
+  include("api_data/golden_apple-1", this); 
+};

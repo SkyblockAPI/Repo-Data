@@ -1,1 +1,4 @@
-meta { include("api_data/rare_kuudra_chunk", this); };
+meta {
+  id = RARE_KUUDRA_CHUNK;
+  include("api_data/rare_kuudra_chunk", this); 
+};

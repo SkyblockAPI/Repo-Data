@@ -1,1 +1,4 @@
-meta { include("api_data/castle_of_stone", this); };
+meta {
+  id = CASTLE_OF_STONE;
+  include("api_data/castle_of_stone", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/bayou_water_orb", this); };
+meta {
+  id = BAYOU_WATER_ORB;
+  include("api_data/bayou_water_orb", this); 
+};

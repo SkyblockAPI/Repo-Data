@@ -1,1 +1,4 @@
-meta { include("api_data/fence", this); };
+meta {
+  id = FENCE;
+  include("api_data/fence", this); 
+};

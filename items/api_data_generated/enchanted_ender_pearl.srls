@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_ender_pearl", this); };
+meta {
+  id = ENCHANTED_ENDER_PEARL;
+  include("api_data/enchanted_ender_pearl", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/soul_sand", this); };
+meta {
+  id = SOUL_SAND;
+  include("api_data/soul_sand", this); 
+};

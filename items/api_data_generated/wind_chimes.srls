@@ -1,1 +1,4 @@
-meta { include("api_data/wind_chimes", this); };
+meta {
+  id = WIND_CHIMES;
+  include("api_data/wind_chimes", this); 
+};

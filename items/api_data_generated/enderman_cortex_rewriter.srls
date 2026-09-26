@@ -1,1 +1,4 @@
-meta { include("api_data/enderman_cortex_rewriter", this); };
+meta {
+  id = ENDERMAN_CORTEX_REWRITER;
+  include("api_data/enderman_cortex_rewriter", this); 
+};

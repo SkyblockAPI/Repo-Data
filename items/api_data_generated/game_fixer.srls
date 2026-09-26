@@ -1,1 +1,4 @@
-meta { include("api_data/game_fixer", this); };
+meta {
+  id = GAME_FIXER;
+  include("api_data/game_fixer", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/burning_terror_chestplate", this); };
+meta {
+  id = BURNING_TERROR_CHESTPLATE;
+  include("api_data/burning_terror_chestplate", this); 
+};

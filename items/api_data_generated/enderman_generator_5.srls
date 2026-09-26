@@ -1,1 +1,4 @@
-meta { include("api_data/enderman_generator_5", this); };
+meta {
+  id = ENDERMAN_GENERATOR_5;
+  include("api_data/enderman_generator_5", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/arachne_keeper_fragment", this); };
+meta {
+  id = ARACHNE_KEEPER_FRAGMENT;
+  include("api_data/arachne_keeper_fragment", this); 
+};

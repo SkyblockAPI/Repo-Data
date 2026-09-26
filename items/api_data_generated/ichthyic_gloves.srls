@@ -1,1 +1,4 @@
-meta { include("api_data/ichthyic_gloves", this); };
+meta {
+  id = ICHTHYIC_GLOVES;
+  include("api_data/ichthyic_gloves", this); 
+};

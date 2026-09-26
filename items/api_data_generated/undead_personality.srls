@@ -1,1 +1,4 @@
-meta { include("api_data/undead_personality", this); };
+meta {
+  id = UNDEAD_PERSONALITY;
+  include("api_data/undead_personality", this); 
+};

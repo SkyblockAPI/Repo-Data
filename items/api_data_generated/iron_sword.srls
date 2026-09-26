@@ -1,1 +1,4 @@
-meta { include("api_data/iron_sword", this); };
+meta {
+  id = IRON_SWORD;
+  include("api_data/iron_sword", this); 
+};

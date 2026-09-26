@@ -1,1 +1,4 @@
-meta { include("api_data/bingo_display", this); };
+meta {
+  id = BINGO_DISPLAY;
+  include("api_data/bingo_display", this); 
+};

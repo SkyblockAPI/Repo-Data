@@ -1,1 +1,4 @@
-meta { include("api_data/large_talisman_bag", this); };
+meta {
+  id = LARGE_TALISMAN_BAG;
+  include("api_data/large_talisman_bag", this); 
+};

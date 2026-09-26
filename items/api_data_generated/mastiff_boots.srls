@@ -1,1 +1,4 @@
-meta { include("api_data/mastiff_boots", this); };
+meta {
+  id = MASTIFF_BOOTS;
+  include("api_data/mastiff_boots", this); 
+};

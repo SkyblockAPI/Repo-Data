@@ -1,1 +1,4 @@
-meta { include("api_data/jacobus_register", this); };
+meta {
+  id = JACOBUS_REGISTER;
+  include("api_data/jacobus_register", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/delirium_necklace", this); };
+meta {
+  id = DELIRIUM_NECKLACE;
+  include("api_data/delirium_necklace", this); 
+};

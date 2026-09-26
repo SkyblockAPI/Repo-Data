@@ -1,1 +1,4 @@
-meta { include("api_data/dark_oak_fence_gate", this); };
+meta {
+  id = DARK_OAK_FENCE_GATE;
+  include("api_data/dark_oak_fence_gate", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/mini_sandcastle", this); };
+meta {
+  id = MINI_SANDCASTLE;
+  include("api_data/mini_sandcastle", this); 
+};

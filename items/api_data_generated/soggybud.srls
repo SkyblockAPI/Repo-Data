@@ -1,1 +1,4 @@
-meta { include("api_data/soggybud", this); };
+meta {
+  id = SOGGYBUD;
+  include("api_data/soggybud", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/handy_blood_chalice", this); };
+meta {
+  id = HANDY_BLOOD_CHALICE;
+  include("api_data/handy_blood_chalice", this); 
+};

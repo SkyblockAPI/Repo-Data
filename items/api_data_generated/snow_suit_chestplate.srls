@@ -1,1 +1,4 @@
-meta { include("api_data/snow_suit_chestplate", this); };
+meta {
+  id = SNOW_SUIT_CHESTPLATE;
+  include("api_data/snow_suit_chestplate", this); 
+};

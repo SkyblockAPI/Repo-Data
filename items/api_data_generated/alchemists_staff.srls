@@ -1,1 +1,4 @@
-meta { include("api_data/alchemists_staff", this); };
+meta {
+  id = ALCHEMISTS_STAFF;
+  include("api_data/alchemists_staff", this); 
+};

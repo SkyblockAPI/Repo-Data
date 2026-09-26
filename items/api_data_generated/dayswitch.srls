@@ -1,1 +1,4 @@
-meta { include("api_data/dayswitch", this); };
+meta {
+  id = DAYSWITCH;
+  include("api_data/dayswitch", this); 
+};

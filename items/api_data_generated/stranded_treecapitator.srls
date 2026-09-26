@@ -1,1 +1,4 @@
-meta { include("api_data/stranded_treecapitator", this); };
+meta {
+  id = STRANDED_TREECAPITATOR;
+  include("api_data/stranded_treecapitator", this); 
+};

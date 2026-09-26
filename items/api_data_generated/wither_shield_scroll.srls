@@ -1,1 +1,4 @@
-meta { include("api_data/wither_shield_scroll", this); };
+meta {
+  id = WITHER_SHIELD_SCROLL;
+  include("api_data/wither_shield_scroll", this); 
+};

@@ -1,0 +1,3 @@
+include("types/sword", this);
+category = "LONGSWORD";
+categories += "longsword";

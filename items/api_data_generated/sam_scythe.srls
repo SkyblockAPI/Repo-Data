@@ -1,1 +1,4 @@
-meta { include("api_data/sam_scythe", this); };
+meta {
+  id = SAM_SCYTHE;
+  include("api_data/sam_scythe", this); 
+};

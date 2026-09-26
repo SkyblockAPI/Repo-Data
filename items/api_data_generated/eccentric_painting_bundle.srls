@@ -1,1 +1,4 @@
-meta { include("api_data/eccentric_painting_bundle", this); };
+meta {
+  id = ECCENTRIC_PAINTING_BUNDLE;
+  include("api_data/eccentric_painting_bundle", this); 
+};

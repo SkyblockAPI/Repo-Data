@@ -1,1 +1,4 @@
-meta { include("api_data/reaper_spirit", this); };
+meta {
+  id = REAPER_SPIRIT;
+  include("api_data/reaper_spirit", this); 
+};

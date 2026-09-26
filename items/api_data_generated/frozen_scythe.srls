@@ -1,1 +1,4 @@
-meta { include("api_data/frozen_scythe", this); };
+meta {
+  id = FROZEN_SCYTHE;
+  include("api_data/frozen_scythe", this); 
+};

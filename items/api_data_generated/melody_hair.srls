@@ -1,1 +1,4 @@
-meta { include("api_data/melody_hair", this); };
+meta {
+  id = MELODY_HAIR;
+  include("api_data/melody_hair", this); 
+};

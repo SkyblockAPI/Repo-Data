@@ -1,1 +1,4 @@
-meta { include("api_data/fallen_star_hat", this); };
+meta {
+  id = FALLEN_STAR_HAT;
+  include("api_data/fallen_star_hat", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/perfect_sapphire_gem", this); };
+meta {
+  id = PERFECT_SAPPHIRE_GEM;
+  include("api_data/perfect_sapphire_gem", this); 
+};

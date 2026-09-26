@@ -1,1 +1,4 @@
-meta { include("api_data/grilled_pork", this); };
+meta {
+  id = GRILLED_PORK;
+  include("api_data/grilled_pork", this); 
+};

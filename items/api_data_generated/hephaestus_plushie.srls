@@ -1,1 +1,4 @@
-meta { include("api_data/hephaestus_plushie", this); };
+meta {
+  id = HEPHAESTUS_PLUSHIE;
+  include("api_data/hephaestus_plushie", this); 
+};

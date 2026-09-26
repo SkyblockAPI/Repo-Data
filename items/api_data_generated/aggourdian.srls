@@ -1,1 +1,4 @@
-meta { include("api_data/aggourdian", this); };
+meta {
+  id = AGGOURDIAN;
+  include("api_data/aggourdian", this); 
+};

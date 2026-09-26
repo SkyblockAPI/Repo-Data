@@ -1,1 +1,4 @@
-meta { include("api_data/lotus_silver", this); };
+meta {
+  id = LOTUS_SILVER;
+  include("api_data/lotus_silver", this); 
+};

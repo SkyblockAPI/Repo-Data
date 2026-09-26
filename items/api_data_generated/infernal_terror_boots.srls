@@ -1,1 +1,4 @@
-meta { include("api_data/infernal_terror_boots", this); };
+meta {
+  id = INFERNAL_TERROR_BOOTS;
+  include("api_data/infernal_terror_boots", this); 
+};

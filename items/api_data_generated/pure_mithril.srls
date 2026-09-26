@@ -1,1 +1,4 @@
-meta { include("api_data/pure_mithril", this); };
+meta {
+  id = PURE_MITHRIL;
+  include("api_data/pure_mithril", this); 
+};

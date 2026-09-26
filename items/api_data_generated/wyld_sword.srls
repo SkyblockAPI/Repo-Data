@@ -1,1 +1,4 @@
-meta { include("api_data/wyld_sword", this); };
+meta {
+  id = WYLD_SWORD;
+  include("api_data/wyld_sword", this); 
+};

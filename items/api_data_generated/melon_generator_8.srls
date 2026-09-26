@@ -1,1 +1,4 @@
-meta { include("api_data/melon_generator_8", this); };
+meta {
+  id = MELON_GENERATOR_8;
+  include("api_data/melon_generator_8", this); 
+};

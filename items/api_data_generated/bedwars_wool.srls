@@ -1,1 +1,4 @@
-meta { include("api_data/bedwars_wool", this); };
+meta {
+  id = BEDWARS_WOOL;
+  include("api_data/bedwars_wool", this); 
+};

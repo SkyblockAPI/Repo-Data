@@ -1,1 +1,4 @@
-meta { include("api_data/vampire_generator_9", this); };
+meta {
+  id = VAMPIRE_GENERATOR_9;
+  include("api_data/vampire_generator_9", this); 
+};

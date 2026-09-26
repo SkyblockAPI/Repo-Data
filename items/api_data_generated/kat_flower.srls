@@ -1,1 +1,4 @@
-meta { include("api_data/kat_flower", this); };
+meta {
+  id = KAT_FLOWER;
+  include("api_data/kat_flower", this); 
+};

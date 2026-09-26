@@ -1,1 +1,4 @@
-meta { include("api_data/decent_axe", this); };
+meta {
+  id = DECENT_AXE;
+  include("api_data/decent_axe", this); 
+};

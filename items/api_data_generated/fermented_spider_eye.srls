@@ -1,1 +1,4 @@
-meta { include("api_data/fermented_spider_eye", this); };
+meta {
+  id = FERMENTED_SPIDER_EYE;
+  include("api_data/fermented_spider_eye", this); 
+};

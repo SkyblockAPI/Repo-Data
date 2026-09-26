@@ -1,1 +1,4 @@
-meta { include("api_data/bunny_coffee_table", this); };
+meta {
+  id = BUNNY_COFFEE_TABLE;
+  include("api_data/bunny_coffee_table", this); 
+};

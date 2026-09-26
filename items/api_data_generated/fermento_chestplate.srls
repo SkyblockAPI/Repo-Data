@@ -1,1 +1,4 @@
-meta { include("api_data/fermento_chestplate", this); };
+meta {
+  id = FERMENTO_CHESTPLATE;
+  include("api_data/fermento_chestplate", this); 
+};

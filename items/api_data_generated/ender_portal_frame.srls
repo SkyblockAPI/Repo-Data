@@ -1,1 +1,4 @@
-meta { include("api_data/ender_portal_frame", this); };
+meta {
+  id = ENDER_PORTAL_FRAME;
+  include("api_data/ender_portal_frame", this); 
+};

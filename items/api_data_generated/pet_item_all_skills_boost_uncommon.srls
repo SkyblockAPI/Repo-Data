@@ -1,1 +1,4 @@
-meta { include("api_data/pet_item_all_skills_boost_uncommon", this); };
+meta {
+  id = PET_ITEM_ALL_SKILLS_BOOST_UNCOMMON;
+  include("api_data/pet_item_all_skills_boost_uncommon", this); 
+};

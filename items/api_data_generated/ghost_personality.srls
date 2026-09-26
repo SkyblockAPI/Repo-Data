@@ -1,1 +1,4 @@
-meta { include("api_data/ghost_personality", this); };
+meta {
+  id = GHOST_PERSONALITY;
+  include("api_data/ghost_personality", this); 
+};

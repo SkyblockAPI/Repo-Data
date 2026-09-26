@@ -1,1 +1,4 @@
-meta { include("api_data/black_cat_plush", this); };
+meta {
+  id = BLACK_CAT_PLUSH;
+  include("api_data/black_cat_plush", this); 
+};

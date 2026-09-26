@@ -1,1 +1,4 @@
-meta { include("api_data/dead_bush", this); };
+meta {
+  id = DEAD_BUSH;
+  include("api_data/dead_bush", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/hellstorm_staff", this); };
+meta {
+  id = HELLSTORM_STAFF;
+  include("api_data/hellstorm_staff", this); 
+};

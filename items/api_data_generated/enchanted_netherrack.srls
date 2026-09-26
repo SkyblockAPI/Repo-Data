@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_netherrack", this); };
+meta {
+  id = ENCHANTED_NETHERRACK;
+  include("api_data/enchanted_netherrack", this); 
+};

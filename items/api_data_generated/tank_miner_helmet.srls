@@ -1,1 +1,4 @@
-meta { include("api_data/tank_miner_helmet", this); };
+meta {
+  id = TANK_MINER_HELMET;
+  include("api_data/tank_miner_helmet", this); 
+};

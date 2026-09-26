@@ -1,1 +1,4 @@
-meta { include("api_data/reverse_reforge_stone_core", this); };
+meta {
+  id = REVERSE_REFORGE_STONE_CORE;
+  include("api_data/reverse_reforge_stone_core", this); 
+};

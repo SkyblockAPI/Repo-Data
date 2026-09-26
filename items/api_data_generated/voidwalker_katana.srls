@@ -1,1 +1,4 @@
-meta { include("api_data/voidwalker_katana", this); };
+meta {
+  id = VOIDWALKER_KATANA;
+  include("api_data/voidwalker_katana", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/sauls_recommendation", this); };
+meta {
+  id = SAULS_RECOMMENDATION;
+  include("api_data/sauls_recommendation", this); 
+};

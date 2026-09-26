@@ -1,1 +1,4 @@
-meta { include("api_data/mythos_bracelet", this); };
+meta {
+  id = MYTHOS_BRACELET;
+  include("api_data/mythos_bracelet", this); 
+};

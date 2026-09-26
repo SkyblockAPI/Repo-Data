@@ -1,1 +1,4 @@
-meta { include("api_data/small_pocket_black_hole", this); };
+meta {
+  id = SMALL_POCKET_BLACK_HOLE;
+  include("api_data/small_pocket_black_hole", this); 
+};

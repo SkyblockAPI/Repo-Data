@@ -1,1 +1,4 @@
-meta { include("api_data/dwarven_emerald_hammer", this); };
+meta {
+  id = DWARVEN_EMERALD_HAMMER;
+  include("api_data/dwarven_emerald_hammer", this); 
+};

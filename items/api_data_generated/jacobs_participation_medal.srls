@@ -1,1 +1,4 @@
-meta { include("api_data/jacobs_participation_medal", this); };
+meta {
+  id = JACOBS_PARTICIPATION_MEDAL;
+  include("api_data/jacobs_participation_medal", this); 
+};

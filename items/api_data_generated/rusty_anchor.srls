@@ -1,1 +1,4 @@
-meta { include("api_data/rusty_anchor", this); };
+meta {
+  id = RUSTY_ANCHOR;
+  include("api_data/rusty_anchor", this); 
+};

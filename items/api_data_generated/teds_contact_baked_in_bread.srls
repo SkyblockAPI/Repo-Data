@@ -1,1 +1,4 @@
-meta { include("api_data/teds_contact_baked_in_bread", this); };
+meta {
+  id = TEDS_CONTACT_BAKED_IN_BREAD;
+  include("api_data/teds_contact_baked_in_bread", this); 
+};

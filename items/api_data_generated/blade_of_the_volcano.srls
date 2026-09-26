@@ -1,1 +1,4 @@
-meta { include("api_data/blade_of_the_volcano", this); };
+meta {
+  id = BLADE_OF_THE_VOLCANO;
+  include("api_data/blade_of_the_volcano", this); 
+};

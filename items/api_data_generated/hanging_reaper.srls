@@ -1,1 +1,4 @@
-meta { include("api_data/hanging_reaper", this); };
+meta {
+  id = HANGING_REAPER;
+  include("api_data/hanging_reaper", this); 
+};

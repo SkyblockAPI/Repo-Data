@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_lush_berberis", this); };
+meta {
+  id = ENCHANTED_LUSH_BERBERIS;
+  include("api_data/enchanted_lush_berberis", this); 
+};

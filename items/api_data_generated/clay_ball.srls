@@ -1,1 +1,4 @@
-meta { include("api_data/clay_ball", this); };
+meta {
+  id = CLAY_BALL;
+  include("api_data/clay_ball", this); 
+};

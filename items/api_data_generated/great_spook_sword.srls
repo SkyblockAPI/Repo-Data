@@ -1,1 +1,4 @@
-meta { include("api_data/great_spook_sword", this); };
+meta {
+  id = GREAT_SPOOK_SWORD;
+  include("api_data/great_spook_sword", this); 
+};

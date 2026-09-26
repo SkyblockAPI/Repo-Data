@@ -1,1 +1,4 @@
-meta { include("api_data/frozen_blaze_leggings", this); };
+meta {
+  id = FROZEN_BLAZE_LEGGINGS;
+  include("api_data/frozen_blaze_leggings", this); 
+};

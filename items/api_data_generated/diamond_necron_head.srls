@@ -1,1 +1,4 @@
-meta { include("api_data/diamond_necron_head", this); };
+meta {
+  id = DIAMOND_NECRON_HEAD;
+  include("api_data/diamond_necron_head", this); 
+};

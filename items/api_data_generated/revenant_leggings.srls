@@ -1,1 +1,4 @@
-meta { include("api_data/revenant_leggings", this); };
+meta {
+  id = REVENANT_LEGGINGS;
+  include("api_data/revenant_leggings", this); 
+};

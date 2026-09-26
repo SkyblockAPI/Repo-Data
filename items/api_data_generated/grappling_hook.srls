@@ -1,1 +1,4 @@
-meta { include("api_data/grappling_hook", this); };
+meta {
+  id = GRAPPLING_HOOK;
+  include("api_data/grappling_hook", this); 
+};

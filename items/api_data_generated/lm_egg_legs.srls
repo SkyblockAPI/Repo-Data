@@ -1,1 +1,4 @@
-meta { include("api_data/lm_egg_legs", this); };
+meta {
+  id = LM_EGG_LEGS;
+  include("api_data/lm_egg_legs", this); 
+};

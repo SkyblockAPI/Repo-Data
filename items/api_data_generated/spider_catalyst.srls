@@ -1,1 +1,4 @@
-meta { include("api_data/spider_catalyst", this); };
+meta {
+  id = SPIDER_CATALYST;
+  include("api_data/spider_catalyst", this); 
+};

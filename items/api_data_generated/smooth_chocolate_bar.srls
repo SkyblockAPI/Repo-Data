@@ -1,1 +1,4 @@
-meta { include("api_data/smooth_chocolate_bar", this); };
+meta {
+  id = SMOOTH_CHOCOLATE_BAR;
+  include("api_data/smooth_chocolate_bar", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/gunthesizer_lichen", this); };
+meta {
+  id = GUNTHESIZER_LICHEN;
+  include("api_data/gunthesizer_lichen", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/sculptors_axe", this); };
+meta {
+  id = SCULPTORS_AXE;
+  include("api_data/sculptors_axe", this); 
+};

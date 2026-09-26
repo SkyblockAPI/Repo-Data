@@ -1,1 +1,4 @@
-meta { include("api_data/shears", this); };
+meta {
+  id = SHEARS;
+  include("api_data/shears", this); 
+};

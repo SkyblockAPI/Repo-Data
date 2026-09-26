@@ -1,1 +1,4 @@
-meta { include("api_data/dragon_egg_in_a_box", this); };
+meta {
+  id = DRAGON_EGG_IN_A_BOX;
+  include("api_data/dragon_egg_in_a_box", this); 
+};

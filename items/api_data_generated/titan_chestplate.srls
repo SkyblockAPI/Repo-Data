@@ -1,1 +1,4 @@
-meta { include("api_data/titan_chestplate", this); };
+meta {
+  id = TITAN_CHESTPLATE;
+  include("api_data/titan_chestplate", this); 
+};

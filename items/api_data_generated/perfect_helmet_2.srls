@@ -1,1 +1,4 @@
-meta { include("api_data/perfect_helmet_2", this); };
+meta {
+  id = PERFECT_HELMET_2;
+  include("api_data/perfect_helmet_2", this); 
+};

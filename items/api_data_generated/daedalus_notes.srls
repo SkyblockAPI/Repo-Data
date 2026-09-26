@@ -1,1 +1,4 @@
-meta { include("api_data/daedalus_notes", this); };
+meta {
+  id = DAEDALUS_NOTES;
+  include("api_data/daedalus_notes", this); 
+};

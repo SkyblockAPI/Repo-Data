@@ -1,1 +1,4 @@
-meta { include("api_data/feather", this); };
+meta {
+  id = FEATHER;
+  include("api_data/feather", this); 
+};

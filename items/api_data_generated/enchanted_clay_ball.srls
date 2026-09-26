@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_clay_ball", this); };
+meta {
+  id = ENCHANTED_CLAY_BALL;
+  include("api_data/enchanted_clay_ball", this); 
+};

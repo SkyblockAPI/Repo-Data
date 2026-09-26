@@ -1,1 +1,4 @@
-meta { include("api_data/puddle_jumper_hook", this); };
+meta {
+  id = PUDDLE_JUMPER_HOOK;
+  include("api_data/puddle_jumper_hook", this); 
+};

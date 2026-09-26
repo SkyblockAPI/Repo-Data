@@ -1,1 +1,4 @@
-meta { include("api_data/zombie_generator_7", this); };
+meta {
+  id = ZOMBIE_GENERATOR_7;
+  include("api_data/zombie_generator_7", this); 
+};

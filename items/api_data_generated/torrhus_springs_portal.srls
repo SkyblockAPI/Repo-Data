@@ -1,1 +1,4 @@
-meta { include("api_data/torrhus_springs_portal", this); };
+meta {
+  id = TORRHUS_SPRINGS_PORTAL;
+  include("api_data/torrhus_springs_portal", this); 
+};

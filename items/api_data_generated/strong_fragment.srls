@@ -1,1 +1,4 @@
-meta { include("api_data/strong_fragment", this); };
+meta {
+  id = STRONG_FRAGMENT;
+  include("api_data/strong_fragment", this); 
+};

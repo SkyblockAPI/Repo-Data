@@ -1,1 +1,4 @@
-meta { include("api_data/sparkling_podium", this); };
+meta {
+  id = SPARKLING_PODIUM;
+  include("api_data/sparkling_podium", this); 
+};

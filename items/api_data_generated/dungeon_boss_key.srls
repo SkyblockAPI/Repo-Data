@@ -1,1 +1,4 @@
-meta { include("api_data/dungeon_boss_key", this); };
+meta {
+  id = DUNGEON_BOSS_KEY;
+  include("api_data/dungeon_boss_key", this); 
+};

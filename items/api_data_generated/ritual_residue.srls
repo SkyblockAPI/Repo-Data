@@ -1,1 +1,4 @@
-meta { include("api_data/ritual_residue", this); };
+meta {
+  id = RITUAL_RESIDUE;
+  include("api_data/ritual_residue", this); 
+};

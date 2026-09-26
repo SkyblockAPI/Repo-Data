@@ -1,1 +1,4 @@
-meta { include("api_data/refined_amber", this); };
+meta {
+  id = REFINED_AMBER;
+  include("api_data/refined_amber", this); 
+};

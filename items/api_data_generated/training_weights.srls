@@ -1,1 +1,4 @@
-meta { include("api_data/training_weights", this); };
+meta {
+  id = TRAINING_WEIGHTS;
+  include("api_data/training_weights", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/magma_lord_fragment", this); };
+meta {
+  id = MAGMA_LORD_FRAGMENT;
+  include("api_data/magma_lord_fragment", this); 
+};

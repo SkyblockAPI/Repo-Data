@@ -1,1 +1,4 @@
-meta { include("api_data/nether_warts_generator_6", this); };
+meta {
+  id = NETHER_WARTS_GENERATOR_6;
+  include("api_data/nether_warts_generator_6", this); 
+};

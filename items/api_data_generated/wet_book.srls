@@ -1,1 +1,4 @@
-meta { include("api_data/wet_book", this); };
+meta {
+  id = WET_BOOK;
+  include("api_data/wet_book", this); 
+};

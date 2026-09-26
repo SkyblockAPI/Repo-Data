@@ -1,1 +1,4 @@
-meta { include("api_data/bouncy_chestplate", this); };
+meta {
+  id = BOUNCY_CHESTPLATE;
+  include("api_data/bouncy_chestplate", this); 
+};

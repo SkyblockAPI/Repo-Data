@@ -1,1 +1,4 @@
-meta { include("api_data/digested_mushrooms", this); };
+meta {
+  id = DIGESTED_MUSHROOMS;
+  include("api_data/digested_mushrooms", this); 
+};

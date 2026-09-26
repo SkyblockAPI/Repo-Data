@@ -1,1 +1,4 @@
-meta { include("api_data/blossom_bracelet", this); };
+meta {
+  id = BLOSSOM_BRACELET;
+  include("api_data/blossom_bracelet", this); 
+};

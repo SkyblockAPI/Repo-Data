@@ -1,1 +1,4 @@
-meta { include("api_data/farm_crystal", this); };
+meta {
+  id = FARM_CRYSTAL;
+  include("api_data/farm_crystal", this); 
+};

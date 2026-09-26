@@ -1,1 +1,4 @@
-meta { include("api_data/unstable_dragon_boots", this); };
+meta {
+  id = UNSTABLE_DRAGON_BOOTS;
+  include("api_data/unstable_dragon_boots", this); 
+};

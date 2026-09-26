@@ -1,1 +1,4 @@
-meta { include("api_data/wool-10", this); };
+meta {
+  id = WOOL:10;
+  include("api_data/wool-10", this); 
+};

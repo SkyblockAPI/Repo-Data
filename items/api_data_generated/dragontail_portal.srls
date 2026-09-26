@@ -1,1 +1,4 @@
-meta { include("api_data/dragontail_portal", this); };
+meta {
+  id = DRAGONTAIL_PORTAL;
+  include("api_data/dragontail_portal", this); 
+};

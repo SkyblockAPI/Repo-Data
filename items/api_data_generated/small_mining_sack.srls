@@ -1,1 +1,4 @@
-meta { include("api_data/small_mining_sack", this); };
+meta {
+  id = SMALL_MINING_SACK;
+  include("api_data/small_mining_sack", this); 
+};

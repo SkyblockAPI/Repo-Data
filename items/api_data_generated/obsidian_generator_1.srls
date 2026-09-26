@@ -1,1 +1,4 @@
-meta { include("api_data/obsidian_generator_1", this); };
+meta {
+  id = OBSIDIAN_GENERATOR_1;
+  include("api_data/obsidian_generator_1", this); 
+};

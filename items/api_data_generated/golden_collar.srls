@@ -1,1 +1,4 @@
-meta { include("api_data/golden_collar", this); };
+meta {
+  id = GOLDEN_COLLAR;
+  include("api_data/golden_collar", this); 
+};

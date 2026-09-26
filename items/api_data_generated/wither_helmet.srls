@@ -1,1 +1,4 @@
-meta { include("api_data/wither_helmet", this); };
+meta {
+  id = WITHER_HELMET;
+  include("api_data/wither_helmet", this); 
+};

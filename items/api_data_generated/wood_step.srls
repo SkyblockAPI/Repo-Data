@@ -1,1 +1,4 @@
-meta { include("api_data/wood_step", this); };
+meta {
+  id = WOOD_STEP;
+  include("api_data/wood_step", this); 
+};

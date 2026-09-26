@@ -1,1 +1,4 @@
-meta { include("api_data/beach_ball", this); };
+meta {
+  id = BEACH_BALL;
+  include("api_data/beach_ball", this); 
+};

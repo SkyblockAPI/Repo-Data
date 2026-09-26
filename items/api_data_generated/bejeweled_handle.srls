@@ -1,1 +1,4 @@
-meta { include("api_data/bejeweled_handle", this); };
+meta {
+  id = BEJEWELED_HANDLE;
+  include("api_data/bejeweled_handle", this); 
+};

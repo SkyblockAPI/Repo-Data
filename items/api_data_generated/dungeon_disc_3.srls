@@ -1,1 +1,4 @@
-meta { include("api_data/dungeon_disc_3", this); };
+meta {
+  id = DUNGEON_DISC_3;
+  include("api_data/dungeon_disc_3", this); 
+};

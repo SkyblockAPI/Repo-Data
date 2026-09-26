@@ -1,1 +1,4 @@
-meta { include("api_data/hephaestus_remedies", this); };
+meta {
+  id = HEPHAESTUS_REMEDIES;
+  include("api_data/hephaestus_remedies", this); 
+};

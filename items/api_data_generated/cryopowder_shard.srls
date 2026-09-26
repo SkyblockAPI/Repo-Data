@@ -1,1 +1,4 @@
-meta { include("api_data/cryopowder_shard", this); };
+meta {
+  id = CRYOPOWDER_SHARD;
+  include("api_data/cryopowder_shard", this); 
+};

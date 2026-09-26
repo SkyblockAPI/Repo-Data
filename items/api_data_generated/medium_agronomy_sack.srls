@@ -1,1 +1,4 @@
-meta { include("api_data/medium_agronomy_sack", this); };
+meta {
+  id = MEDIUM_AGRONOMY_SACK;
+  include("api_data/medium_agronomy_sack", this); 
+};

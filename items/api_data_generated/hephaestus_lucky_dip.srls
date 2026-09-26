@@ -1,1 +1,4 @@
-meta { include("api_data/hephaestus_lucky_dip", this); };
+meta {
+  id = HEPHAESTUS_LUCKY_DIP;
+  include("api_data/hephaestus_lucky_dip", this); 
+};

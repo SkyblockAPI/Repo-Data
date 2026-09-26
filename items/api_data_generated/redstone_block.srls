@@ -1,1 +1,4 @@
-meta { include("api_data/redstone_block", this); };
+meta {
+  id = REDSTONE_BLOCK;
+  include("api_data/redstone_block", this); 
+};

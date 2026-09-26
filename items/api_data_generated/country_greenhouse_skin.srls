@@ -1,1 +1,4 @@
-meta { include("api_data/country_greenhouse_skin", this); };
+meta {
+  id = COUNTRY_GREENHOUSE_SKIN;
+  include("api_data/country_greenhouse_skin", this); 
+};

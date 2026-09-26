@@ -1,1 +1,4 @@
-meta { include("api_data/power_wither_boots", this); };
+meta {
+  id = POWER_WITHER_BOOTS;
+  include("api_data/power_wither_boots", this); 
+};

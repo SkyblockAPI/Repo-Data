@@ -1,1 +1,4 @@
-meta { include("api_data/beastmaster_crest_legendary", this); };
+meta {
+  id = BEASTMASTER_CREST_LEGENDARY;
+  include("api_data/beastmaster_crest_legendary", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/luck_booster_uncommon", this); };
+meta {
+  id = LUCK_BOOSTER_UNCOMMON;
+  include("api_data/luck_booster_uncommon", this); 
+};

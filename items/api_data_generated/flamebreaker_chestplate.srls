@@ -1,1 +1,4 @@
-meta { include("api_data/flamebreaker_chestplate", this); };
+meta {
+  id = FLAMEBREAKER_CHESTPLATE;
+  include("api_data/flamebreaker_chestplate", this); 
+};

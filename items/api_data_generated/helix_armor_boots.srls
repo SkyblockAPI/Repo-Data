@@ -1,1 +1,4 @@
-meta { include("api_data/helix_armor_boots", this); };
+meta {
+  id = HELIX_ARMOR_BOOTS;
+  include("api_data/helix_armor_boots", this); 
+};

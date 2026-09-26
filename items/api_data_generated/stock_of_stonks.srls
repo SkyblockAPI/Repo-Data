@@ -1,1 +1,4 @@
-meta { include("api_data/stock_of_stonks", this); };
+meta {
+  id = STOCK_OF_STONKS;
+  include("api_data/stock_of_stonks", this); 
+};

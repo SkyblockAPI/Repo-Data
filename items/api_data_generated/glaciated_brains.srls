@@ -1,1 +1,4 @@
-meta { include("api_data/glaciated_brains", this); };
+meta {
+  id = GLACIATED_BRAINS;
+  include("api_data/glaciated_brains", this); 
+};

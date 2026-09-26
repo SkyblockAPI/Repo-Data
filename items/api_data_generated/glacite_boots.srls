@@ -1,1 +1,4 @@
-meta { include("api_data/glacite_boots", this); };
+meta {
+  id = GLACITE_BOOTS;
+  include("api_data/glacite_boots", this); 
+};

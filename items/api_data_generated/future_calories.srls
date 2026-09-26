@@ -1,1 +1,4 @@
-meta { include("api_data/future_calories", this); };
+meta {
+  id = FUTURE_CALORIES;
+  include("api_data/future_calories", this); 
+};

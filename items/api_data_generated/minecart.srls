@@ -1,1 +1,4 @@
-meta { include("api_data/minecart", this); };
+meta {
+  id = MINECART;
+  include("api_data/minecart", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/bioanalysis_artifact", this); };
+meta {
+  id = BIOANALYSIS_ARTIFACT;
+  include("api_data/bioanalysis_artifact", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/skyblock_table", this); };
+meta {
+  id = SKYBLOCK_TABLE;
+  include("api_data/skyblock_table", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/jingle_bells", this); };
+meta {
+  id = JINGLE_BELLS;
+  include("api_data/jingle_bells", this); 
+};

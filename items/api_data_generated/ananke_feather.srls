@@ -1,1 +1,4 @@
-meta { include("api_data/ananke_feather", this); };
+meta {
+  id = ANANKE_FEATHER;
+  include("api_data/ananke_feather", this); 
+};

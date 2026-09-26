@@ -1,1 +1,4 @@
-meta { include("api_data/large_potion_bag", this); };
+meta {
+  id = LARGE_POTION_BAG;
+  include("api_data/large_potion_bag", this); 
+};

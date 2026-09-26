@@ -1,1 +1,4 @@
-meta { include("api_data/tiny_dancer", this); };
+meta {
+  id = TINY_DANCER;
+  include("api_data/tiny_dancer", this); 
+};

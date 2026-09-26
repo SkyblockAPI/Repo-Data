@@ -1,1 +1,4 @@
-meta { include("api_data/magic_jellybean", this); };
+meta {
+  id = MAGIC_JELLYBEAN;
+  include("api_data/magic_jellybean", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/tutti_frutti_poison", this); };
+meta {
+  id = TUTTI_FRUTTI_POISON;
+  include("api_data/tutti_frutti_poison", this); 
+};

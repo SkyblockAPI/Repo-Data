@@ -1,1 +1,4 @@
-meta { include("api_data/ugly_boots_fragment", this); };
+meta {
+  id = UGLY_BOOTS_FRAGMENT;
+  include("api_data/ugly_boots_fragment", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/summoning_ring", this); };
+meta {
+  id = SUMMONING_RING;
+  include("api_data/summoning_ring", this); 
+};

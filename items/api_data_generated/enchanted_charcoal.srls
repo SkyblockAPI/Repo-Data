@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_charcoal", this); };
+meta {
+  id = ENCHANTED_CHARCOAL;
+  include("api_data/enchanted_charcoal", this); 
+};

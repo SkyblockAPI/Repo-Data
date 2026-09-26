@@ -1,1 +1,4 @@
-meta { include("api_data/shiny_prism", this); };
+meta {
+  id = SHINY_PRISM;
+  include("api_data/shiny_prism", this); 
+};

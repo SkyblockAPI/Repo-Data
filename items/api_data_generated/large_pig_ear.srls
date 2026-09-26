@@ -1,1 +1,4 @@
-meta { include("api_data/large_pig_ear", this); };
+meta {
+  id = LARGE_PIG_EAR;
+  include("api_data/large_pig_ear", this); 
+};

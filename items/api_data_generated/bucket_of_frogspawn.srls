@@ -1,1 +1,4 @@
-meta { include("api_data/bucket_of_frogspawn", this); };
+meta {
+  id = BUCKET_OF_FROGSPAWN;
+  include("api_data/bucket_of_frogspawn", this); 
+};

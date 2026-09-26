@@ -1,1 +1,4 @@
-meta { include("api_data/full_jaw_fanging_kit", this); };
+meta {
+  id = FULL_JAW_FANGING_KIT;
+  include("api_data/full_jaw_fanging_kit", this); 
+};

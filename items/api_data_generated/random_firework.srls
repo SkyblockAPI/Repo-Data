@@ -1,1 +1,4 @@
-meta { include("api_data/random_firework", this); };
+meta {
+  id = RANDOM_FIREWORK;
+  include("api_data/random_firework", this); 
+};

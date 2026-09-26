@@ -1,1 +1,4 @@
-meta { include("api_data/frozen_amulet", this); };
+meta {
+  id = FROZEN_AMULET;
+  include("api_data/frozen_amulet", this); 
+};

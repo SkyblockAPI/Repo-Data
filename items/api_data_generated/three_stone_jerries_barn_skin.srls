@@ -1,1 +1,4 @@
-meta { include("api_data/three_stone_jerries_barn_skin", this); };
+meta {
+  id = THREE_STONE_JERRIES_BARN_SKIN;
+  include("api_data/three_stone_jerries_barn_skin", this); 
+};

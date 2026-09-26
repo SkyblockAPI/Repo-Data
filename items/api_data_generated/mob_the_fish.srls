@@ -1,1 +1,4 @@
-meta { include("api_data/mob_the_fish", this); };
+meta {
+  id = MOB_THE_FISH;
+  include("api_data/mob_the_fish", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/torrhus_canyon_travel_scroll", this); };
+meta {
+  id = TORRHUS_CANYON_TRAVEL_SCROLL;
+  include("api_data/torrhus_canyon_travel_scroll", this); 
+};

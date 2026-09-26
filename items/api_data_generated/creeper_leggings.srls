@@ -1,1 +1,4 @@
-meta { include("api_data/creeper_leggings", this); };
+meta {
+  id = CREEPER_LEGGINGS;
+  include("api_data/creeper_leggings", this); 
+};

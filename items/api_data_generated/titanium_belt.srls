@@ -1,1 +1,4 @@
-meta { include("api_data/titanium_belt", this); };
+meta {
+  id = TITANIUM_BELT;
+  include("api_data/titanium_belt", this); 
+};

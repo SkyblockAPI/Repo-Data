@@ -1,1 +1,4 @@
-meta { include("api_data/royal_pigeon", this); };
+meta {
+  id = ROYAL_PIGEON;
+  include("api_data/royal_pigeon", this); 
+};

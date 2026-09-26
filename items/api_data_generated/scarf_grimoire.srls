@@ -1,1 +1,4 @@
-meta { include("api_data/scarf_grimoire", this); };
+meta {
+  id = SCARF_GRIMOIRE;
+  include("api_data/scarf_grimoire", this); 
+};

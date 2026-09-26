@@ -1,1 +1,4 @@
-meta { include("api_data/farming_wand", this); };
+meta {
+  id = FARMING_WAND;
+  include("api_data/farming_wand", this); 
+};

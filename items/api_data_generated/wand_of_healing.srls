@@ -1,1 +1,4 @@
-meta { include("api_data/wand_of_healing", this); };
+meta {
+  id = WAND_OF_HEALING;
+  include("api_data/wand_of_healing", this); 
+};

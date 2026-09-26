@@ -1,1 +1,4 @@
-meta { include("api_data/dojo_brown_belt", this); };
+meta {
+  id = DOJO_BROWN_BELT;
+  include("api_data/dojo_brown_belt", this); 
+};

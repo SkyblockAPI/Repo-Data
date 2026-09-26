@@ -1,1 +1,4 @@
-meta { include("api_data/helianthus_chestplate", this); };
+meta {
+  id = HELIANTHUS_CHESTPLATE;
+  include("api_data/helianthus_chestplate", this); 
+};

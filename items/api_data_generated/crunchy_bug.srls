@@ -1,1 +1,4 @@
-meta { include("api_data/crunchy_bug", this); };
+meta {
+  id = CRUNCHY_BUG;
+  include("api_data/crunchy_bug", this); 
+};

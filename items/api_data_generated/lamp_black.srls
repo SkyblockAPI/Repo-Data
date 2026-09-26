@@ -1,1 +1,4 @@
-meta { include("api_data/lamp_black", this); };
+meta {
+  id = LAMP_BLACK;
+  include("api_data/lamp_black", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/gratitude_ring", this); };
+meta {
+  id = GRATITUDE_RING;
+  include("api_data/gratitude_ring", this); 
+};

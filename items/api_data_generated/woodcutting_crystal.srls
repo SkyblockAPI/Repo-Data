@@ -1,1 +1,4 @@
-meta { include("api_data/woodcutting_crystal", this); };
+meta {
+  id = WOODCUTTING_CRYSTAL;
+  include("api_data/woodcutting_crystal", this); 
+};

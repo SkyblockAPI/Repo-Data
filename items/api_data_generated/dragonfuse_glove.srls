@@ -1,1 +1,4 @@
-meta { include("api_data/dragonfuse_glove", this); };
+meta {
+  id = DRAGONFUSE_GLOVE;
+  include("api_data/dragonfuse_glove", this); 
+};

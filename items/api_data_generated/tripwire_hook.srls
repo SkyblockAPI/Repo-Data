@@ -1,1 +1,4 @@
-meta { include("api_data/tripwire_hook", this); };
+meta {
+  id = TRIPWIRE_HOOK;
+  include("api_data/tripwire_hook", this); 
+};

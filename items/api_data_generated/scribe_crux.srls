@@ -1,1 +1,4 @@
-meta { include("api_data/scribe_crux", this); };
+meta {
+  id = SCRIBE_CRUX;
+  include("api_data/scribe_crux", this); 
+};

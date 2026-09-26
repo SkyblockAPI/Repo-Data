@@ -1,1 +1,4 @@
-meta { include("api_data/bat_firework", this); };
+meta {
+  id = BAT_FIREWORK;
+  include("api_data/bat_firework", this); 
+};

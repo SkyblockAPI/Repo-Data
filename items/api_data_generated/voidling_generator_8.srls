@@ -1,1 +1,4 @@
-meta { include("api_data/voidling_generator_8", this); };
+meta {
+  id = VOIDLING_GENERATOR_8;
+  include("api_data/voidling_generator_8", this); 
+};

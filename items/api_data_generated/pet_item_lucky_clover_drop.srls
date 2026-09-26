@@ -1,1 +1,4 @@
-meta { include("api_data/pet_item_lucky_clover_drop", this); };
+meta {
+  id = PET_ITEM_LUCKY_CLOVER_DROP;
+  include("api_data/pet_item_lucky_clover_drop", this); 
+};

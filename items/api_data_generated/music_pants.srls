@@ -1,1 +1,4 @@
-meta { include("api_data/music_pants", this); };
+meta {
+  id = MUSIC_PANTS;
+  include("api_data/music_pants", this); 
+};

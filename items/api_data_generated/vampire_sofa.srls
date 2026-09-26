@@ -1,1 +1,4 @@
-meta { include("api_data/vampire_sofa", this); };
+meta {
+  id = VAMPIRE_SOFA;
+  include("api_data/vampire_sofa", this); 
+};

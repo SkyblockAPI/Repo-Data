@@ -1,1 +1,4 @@
-meta { include("api_data/pet_item_sharpened_claws_epic", this); };
+meta {
+  id = PET_ITEM_SHARPENED_CLAWS_EPIC;
+  include("api_data/pet_item_sharpened_claws_epic", this); 
+};

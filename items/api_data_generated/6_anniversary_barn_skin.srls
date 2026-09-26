@@ -1,1 +1,4 @@
-meta { include("api_data/6_anniversary_barn_skin", this); };
+meta {
+  id = 6_ANNIVERSARY_BARN_SKIN;
+  include("api_data/6_anniversary_barn_skin", this); 
+};

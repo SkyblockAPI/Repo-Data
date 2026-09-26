@@ -1,1 +1,4 @@
-meta { include("api_data/evergreen_garden_chip", this); };
+meta {
+  id = EVERGREEN_GARDEN_CHIP;
+  include("api_data/evergreen_garden_chip", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/skeletor_helmet", this); };
+meta {
+  id = SKELETOR_HELMET;
+  include("api_data/skeletor_helmet", this); 
+};

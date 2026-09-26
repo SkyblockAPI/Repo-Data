@@ -1,1 +1,4 @@
-meta { include("api_data/ditto_skull", this); };
+meta {
+  id = DITTO_SKULL;
+  include("api_data/ditto_skull", this); 
+};

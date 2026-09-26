@@ -1,1 +1,4 @@
-meta { include("api_data/hub_wizard_tower_travel_scroll", this); };
+meta {
+  id = HUB_WIZARD_TOWER_TRAVEL_SCROLL;
+  include("api_data/hub_wizard_tower_travel_scroll", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/glacite_chestplate", this); };
+meta {
+  id = GLACITE_CHESTPLATE;
+  include("api_data/glacite_chestplate", this); 
+};

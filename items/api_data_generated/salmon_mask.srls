@@ -1,1 +1,4 @@
-meta { include("api_data/salmon_mask", this); };
+meta {
+  id = SALMON_MASK;
+  include("api_data/salmon_mask", this); 
+};

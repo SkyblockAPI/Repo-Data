@@ -1,1 +1,4 @@
-meta { include("api_data/ferocity_sword_50", this); };
+meta {
+  id = FEROCITY_SWORD_50;
+  include("api_data/ferocity_sword_50", this); 
+};

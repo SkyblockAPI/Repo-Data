@@ -1,1 +1,4 @@
-meta { include("api_data/assistant", this); };
+meta {
+  id = ASSISTANT;
+  include("api_data/assistant", this); 
+};

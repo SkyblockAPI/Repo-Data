@@ -1,1 +1,4 @@
-meta { include("api_data/lapis_crystal", this); };
+meta {
+  id = LAPIS_CRYSTAL;
+  include("api_data/lapis_crystal", this); 
+};

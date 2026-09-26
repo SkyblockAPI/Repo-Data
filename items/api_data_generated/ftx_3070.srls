@@ -1,1 +1,4 @@
-meta { include("api_data/ftx_3070", this); };
+meta {
+  id = FTX_3070;
+  include("api_data/ftx_3070", this); 
+};

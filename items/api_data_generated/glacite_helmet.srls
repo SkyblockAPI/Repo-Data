@@ -1,1 +1,4 @@
-meta { include("api_data/glacite_helmet", this); };
+meta {
+  id = GLACITE_HELMET;
+  include("api_data/glacite_helmet", this); 
+};

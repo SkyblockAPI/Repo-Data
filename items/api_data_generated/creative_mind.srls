@@ -1,1 +1,4 @@
-meta { include("api_data/creative_mind", this); };
+meta {
+  id = CREATIVE_MIND;
+  include("api_data/creative_mind", this); 
+};

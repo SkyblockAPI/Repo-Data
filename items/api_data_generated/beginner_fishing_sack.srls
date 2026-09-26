@@ -1,1 +1,4 @@
-meta { include("api_data/beginner_fishing_sack", this); };
+meta {
+  id = BEGINNER_FISHING_SACK;
+  include("api_data/beginner_fishing_sack", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/witch_broomstick", this); };
+meta {
+  id = WITCH_BROOMSTICK;
+  include("api_data/witch_broomstick", this); 
+};

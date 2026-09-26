@@ -1,1 +1,4 @@
-meta { include("api_data/earth_shard", this); };
+meta {
+  id = EARTH_SHARD;
+  include("api_data/earth_shard", this); 
+};

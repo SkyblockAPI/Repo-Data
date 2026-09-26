@@ -1,1 +1,4 @@
-meta { include("api_data/potato_basket", this); };
+meta {
+  id = POTATO_BASKET;
+  include("api_data/potato_basket", this); 
+};

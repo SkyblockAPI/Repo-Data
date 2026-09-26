@@ -1,1 +1,4 @@
-meta { include("api_data/super_undead_bow", this); };
+meta {
+  id = SUPER_UNDEAD_BOW;
+  include("api_data/super_undead_bow", this); 
+};

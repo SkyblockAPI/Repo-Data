@@ -1,1 +1,4 @@
-meta { include("api_data/grandmas_knitting_needle", this); };
+meta {
+  id = GRANDMAS_KNITTING_NEEDLE;
+  include("api_data/grandmas_knitting_needle", this); 
+};

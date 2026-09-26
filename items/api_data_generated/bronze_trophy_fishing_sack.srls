@@ -1,1 +1,4 @@
-meta { include("api_data/bronze_trophy_fishing_sack", this); };
+meta {
+  id = BRONZE_TROPHY_FISHING_SACK;
+  include("api_data/bronze_trophy_fishing_sack", this); 
+};

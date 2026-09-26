@@ -1,1 +1,4 @@
-meta { include("api_data/scare_fragment", this); };
+meta {
+  id = SCARE_FRAGMENT;
+  include("api_data/scare_fragment", this); 
+};

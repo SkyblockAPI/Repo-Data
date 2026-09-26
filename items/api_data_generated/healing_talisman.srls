@@ -1,1 +1,4 @@
-meta { include("api_data/healing_talisman", this); };
+meta {
+  id = HEALING_TALISMAN;
+  include("api_data/healing_talisman", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/creambloom", this); };
+meta {
+  id = CREAMBLOOM;
+  include("api_data/creambloom", this); 
+};

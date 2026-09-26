@@ -1,1 +1,4 @@
-meta { include("api_data/healing_tissue", this); };
+meta {
+  id = HEALING_TISSUE;
+  include("api_data/healing_tissue", this); 
+};

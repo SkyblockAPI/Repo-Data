@@ -1,1 +1,4 @@
-meta { include("api_data/livid_dagger", this); };
+meta {
+  id = LIVID_DAGGER;
+  include("api_data/livid_dagger", this); 
+};

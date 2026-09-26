@@ -1,1 +1,4 @@
-meta { include("api_data/water_hyacinth", this); };
+meta {
+  id = WATER_HYACINTH;
+  include("api_data/water_hyacinth", this); 
+};

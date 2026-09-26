@@ -1,1 +1,4 @@
-meta { include("api_data/explosive_arrow", this); };
+meta {
+  id = EXPLOSIVE_ARROW;
+  include("api_data/explosive_arrow", this); 
+};

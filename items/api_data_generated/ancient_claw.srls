@@ -1,1 +1,4 @@
-meta { include("api_data/ancient_claw", this); };
+meta {
+  id = ANCIENT_CLAW;
+  include("api_data/ancient_claw", this); 
+};

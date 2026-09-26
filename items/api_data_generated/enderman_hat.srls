@@ -1,1 +1,4 @@
-meta { include("api_data/enderman_hat", this); };
+meta {
+  id = ENDERMAN_HAT;
+  include("api_data/enderman_hat", this); 
+};

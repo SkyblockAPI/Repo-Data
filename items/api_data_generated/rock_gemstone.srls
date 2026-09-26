@@ -1,1 +1,4 @@
-meta { include("api_data/rock_gemstone", this); };
+meta {
+  id = ROCK_GEMSTONE;
+  include("api_data/rock_gemstone", this); 
+};

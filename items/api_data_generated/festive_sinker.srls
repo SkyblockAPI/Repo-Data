@@ -1,1 +1,4 @@
-meta { include("api_data/festive_sinker", this); };
+meta {
+  id = FESTIVE_SINKER;
+  include("api_data/festive_sinker", this); 
+};

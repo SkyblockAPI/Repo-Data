@@ -1,1 +1,4 @@
-meta { include("api_data/skeleton_chair", this); };
+meta {
+  id = SKELETON_CHAIR;
+  include("api_data/skeleton_chair", this); 
+};

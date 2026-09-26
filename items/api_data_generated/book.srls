@@ -1,1 +1,4 @@
-meta { include("api_data/book", this); };
+meta {
+  id = BOOK;
+  include("api_data/book", this); 
+};

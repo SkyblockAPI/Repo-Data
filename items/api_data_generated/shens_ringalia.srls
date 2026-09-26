@@ -1,1 +1,4 @@
-meta { include("api_data/shens_ringalia", this); };
+meta {
+  id = SHENS_RINGALIA;
+  include("api_data/shens_ringalia", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/builder_berry", this); };
+meta {
+  id = BUILDER_BERRY;
+  include("api_data/builder_berry", this); 
+};

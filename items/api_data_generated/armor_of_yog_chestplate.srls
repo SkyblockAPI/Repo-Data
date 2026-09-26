@@ -1,1 +1,4 @@
-meta { include("api_data/armor_of_yog_chestplate", this); };
+meta {
+  id = ARMOR_OF_YOG_CHESTPLATE;
+  include("api_data/armor_of_yog_chestplate", this); 
+};

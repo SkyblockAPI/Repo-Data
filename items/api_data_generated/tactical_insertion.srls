@@ -1,1 +1,4 @@
-meta { include("api_data/tactical_insertion", this); };
+meta {
+  id = TACTICAL_INSERTION;
+  include("api_data/tactical_insertion", this); 
+};

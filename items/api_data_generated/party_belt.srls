@@ -1,1 +1,4 @@
-meta { include("api_data/party_belt", this); };
+meta {
+  id = PARTY_BELT;
+  include("api_data/party_belt", this); 
+};

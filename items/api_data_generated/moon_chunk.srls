@@ -1,1 +1,4 @@
-meta { include("api_data/moon_chunk", this); };
+meta {
+  id = MOON_CHUNK;
+  include("api_data/moon_chunk", this); 
+};

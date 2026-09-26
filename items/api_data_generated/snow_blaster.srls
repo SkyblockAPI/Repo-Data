@@ -1,1 +1,4 @@
-meta { include("api_data/snow_blaster", this); };
+meta {
+  id = SNOW_BLASTER;
+  include("api_data/snow_blaster", this); 
+};

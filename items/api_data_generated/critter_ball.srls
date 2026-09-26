@@ -1,1 +1,4 @@
-meta { include("api_data/critter_ball", this); };
+meta {
+  id = CRITTER_BALL;
+  include("api_data/critter_ball", this); 
+};

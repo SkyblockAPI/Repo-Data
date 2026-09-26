@@ -1,1 +1,4 @@
-meta { include("api_data/cactus_generator_9", this); };
+meta {
+  id = CACTUS_GENERATOR_9;
+  include("api_data/cactus_generator_9", this); 
+};

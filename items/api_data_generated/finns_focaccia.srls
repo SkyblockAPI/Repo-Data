@@ -1,1 +1,4 @@
-meta { include("api_data/finns_focaccia", this); };
+meta {
+  id = FINNS_FOCACCIA;
+  include("api_data/finns_focaccia", this); 
+};

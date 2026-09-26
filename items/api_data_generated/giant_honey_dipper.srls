@@ -1,1 +1,4 @@
-meta { include("api_data/giant_honey_dipper", this); };
+meta {
+  id = GIANT_HONEY_DIPPER;
+  include("api_data/giant_honey_dipper", this); 
+};

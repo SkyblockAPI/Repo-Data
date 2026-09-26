@@ -1,1 +1,4 @@
-meta { include("api_data/skeleton_talisman", this); };
+meta {
+  id = SKELETON_TALISMAN;
+  include("api_data/skeleton_talisman", this); 
+};

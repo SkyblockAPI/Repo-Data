@@ -1,1 +1,4 @@
-meta { include("api_data/hurricane_in_a_bottle_empty", this); };
+meta {
+  id = HURRICANE_IN_A_BOTTLE_EMPTY;
+  include("api_data/hurricane_in_a_bottle_empty", this); 
+};

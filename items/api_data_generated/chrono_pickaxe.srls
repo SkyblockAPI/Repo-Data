@@ -1,1 +1,4 @@
-meta { include("api_data/chrono_pickaxe", this); };
+meta {
+  id = CHRONO_PICKAXE;
+  include("api_data/chrono_pickaxe", this); 
+};

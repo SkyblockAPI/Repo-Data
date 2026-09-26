@@ -1,1 +1,4 @@
-meta { include("api_data/catacombs_pass_5", this); };
+meta {
+  id = CATACOMBS_PASS_5;
+  include("api_data/catacombs_pass_5", this); 
+};

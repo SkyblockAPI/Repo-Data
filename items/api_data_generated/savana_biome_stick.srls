@@ -1,1 +1,4 @@
-meta { include("api_data/savana_biome_stick", this); };
+meta {
+  id = SAVANA_BIOME_STICK;
+  include("api_data/savana_biome_stick", this); 
+};

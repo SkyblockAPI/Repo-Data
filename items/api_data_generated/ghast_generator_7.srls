@@ -1,1 +1,4 @@
-meta { include("api_data/ghast_generator_7", this); };
+meta {
+  id = GHAST_GENERATOR_7;
+  include("api_data/ghast_generator_7", this); 
+};

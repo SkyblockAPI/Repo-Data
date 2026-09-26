@@ -1,1 +1,4 @@
-meta { include("api_data/moonstone", this); };
+meta {
+  id = MOONSTONE;
+  include("api_data/moonstone", this); 
+};

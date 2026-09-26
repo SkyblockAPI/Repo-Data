@@ -1,1 +1,4 @@
-meta { include("api_data/town_hall_barn_skin", this); };
+meta {
+  id = TOWN_HALL_BARN_SKIN;
+  include("api_data/town_hall_barn_skin", this); 
+};

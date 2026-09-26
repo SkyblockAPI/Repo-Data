@@ -1,1 +1,4 @@
-meta { include("api_data/vinyl_wings_of_harmony", this); };
+meta {
+  id = VINYL_WINGS_OF_HARMONY;
+  include("api_data/vinyl_wings_of_harmony", this); 
+};

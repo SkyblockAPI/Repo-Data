@@ -1,1 +1,4 @@
-meta { include("api_data/bubba_blister", this); };
+meta {
+  id = BUBBA_BLISTER;
+  include("api_data/bubba_blister", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/voodoo", this); };
+meta {
+  id = VOODOO;
+  include("api_data/voodoo", this); 
+};

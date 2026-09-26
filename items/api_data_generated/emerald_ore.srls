@@ -1,1 +1,4 @@
-meta { include("api_data/emerald_ore", this); };
+meta {
+  id = EMERALD_ORE;
+  include("api_data/emerald_ore", this); 
+};

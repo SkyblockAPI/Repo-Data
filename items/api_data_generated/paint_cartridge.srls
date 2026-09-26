@@ -1,1 +1,4 @@
-meta { include("api_data/paint_cartridge", this); };
+meta {
+  id = PAINT_CARTRIDGE;
+  include("api_data/paint_cartridge", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/perfect_boots_2", this); };
+meta {
+  id = PERFECT_BOOTS_2;
+  include("api_data/perfect_boots_2", this); 
+};

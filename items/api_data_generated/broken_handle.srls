@@ -1,1 +1,4 @@
-meta { include("api_data/broken_handle", this); };
+meta {
+  id = BROKEN_HANDLE;
+  include("api_data/broken_handle", this); 
+};

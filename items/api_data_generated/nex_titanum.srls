@@ -1,1 +1,4 @@
-meta { include("api_data/nex_titanum", this); };
+meta {
+  id = NEX_TITANUM;
+  include("api_data/nex_titanum", this); 
+};

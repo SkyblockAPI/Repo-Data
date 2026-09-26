@@ -1,1 +1,4 @@
-meta { include("api_data/arachne_gloves", this); };
+meta {
+  id = ARACHNE_GLOVES;
+  include("api_data/arachne_gloves", this); 
+};

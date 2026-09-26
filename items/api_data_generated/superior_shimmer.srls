@@ -1,1 +1,4 @@
-meta { include("api_data/superior_shimmer", this); };
+meta {
+  id = SUPERIOR_SHIMMER;
+  include("api_data/superior_shimmer", this); 
+};

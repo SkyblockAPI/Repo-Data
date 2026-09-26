@@ -1,1 +1,4 @@
-meta { include("api_data/hot_terror_boots", this); };
+meta {
+  id = HOT_TERROR_BOOTS;
+  include("api_data/hot_terror_boots", this); 
+};

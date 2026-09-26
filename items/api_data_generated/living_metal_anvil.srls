@@ -1,1 +1,4 @@
-meta { include("api_data/living_metal_anvil", this); };
+meta {
+  id = LIVING_METAL_ANVIL;
+  include("api_data/living_metal_anvil", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/ascension_rope", this); };
+meta {
+  id = ASCENSION_ROPE;
+  include("api_data/ascension_rope", this); 
+};

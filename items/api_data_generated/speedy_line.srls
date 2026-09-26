@@ -1,1 +1,4 @@
-meta { include("api_data/speedy_line", this); };
+meta {
+  id = SPEEDY_LINE;
+  include("api_data/speedy_line", this); 
+};

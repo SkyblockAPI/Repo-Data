@@ -1,1 +1,4 @@
-meta { include("api_data/desert_island_crystal", this); };
+meta {
+  id = DESERT_ISLAND_CRYSTAL;
+  include("api_data/desert_island_crystal", this); 
+};

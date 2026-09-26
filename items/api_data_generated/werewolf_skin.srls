@@ -1,1 +1,4 @@
-meta { include("api_data/werewolf_skin", this); };
+meta {
+  id = WEREWOLF_SKIN;
+  include("api_data/werewolf_skin", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/golden_powder", this); };
+meta {
+  id = GOLDEN_POWDER;
+  include("api_data/golden_powder", this); 
+};

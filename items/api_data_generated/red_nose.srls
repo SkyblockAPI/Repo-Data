@@ -1,1 +1,4 @@
-meta { include("api_data/red_nose", this); };
+meta {
+  id = RED_NOSE;
+  include("api_data/red_nose", this); 
+};

@@ -1,0 +1,21 @@
+meta {
+  include("api_data/caducous_feeder", this);
+
+  lore.after_stats = Component.splitToLength([
+    {color: "gray", extra: [
+      "Use on a pet to consume an ",
+      {text: "Ultimate Carrot Candy", color: "gold"},
+      " and grant it ",
+      {text: "1,650,000", color: "lime"},
+      " pet Exp."
+    ]},
+    "",
+    {color: "gray", extra: [
+      "Has ",
+      {text: "2 charges", color: "yellow"},
+      ", reloading after ",
+      {text: "20h", color: "lime"},
+      "."
+    ]}
+  ], 37);
+};

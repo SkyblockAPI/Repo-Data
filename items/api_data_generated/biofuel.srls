@@ -1,1 +1,4 @@
-meta { include("api_data/biofuel", this); };
+meta {
+  id = BIOFUEL;
+  include("api_data/biofuel", this); 
+};

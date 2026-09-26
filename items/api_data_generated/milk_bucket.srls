@@ -1,1 +1,4 @@
-meta { include("api_data/milk_bucket", this); };
+meta {
+  id = MILK_BUCKET;
+  include("api_data/milk_bucket", this); 
+};

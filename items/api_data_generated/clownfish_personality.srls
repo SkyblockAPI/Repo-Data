@@ -1,1 +1,4 @@
-meta { include("api_data/clownfish_personality", this); };
+meta {
+  id = CLOWNFISH_PERSONALITY;
+  include("api_data/clownfish_personality", this); 
+};

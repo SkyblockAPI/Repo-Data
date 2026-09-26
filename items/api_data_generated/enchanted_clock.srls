@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_clock", this); };
+meta {
+  id = ENCHANTED_CLOCK;
+  include("api_data/enchanted_clock", this); 
+};

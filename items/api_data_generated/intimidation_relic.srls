@@ -1,1 +1,4 @@
-meta { include("api_data/intimidation_relic", this); };
+meta {
+  id = INTIMIDATION_RELIC;
+  include("api_data/intimidation_relic", this); 
+};

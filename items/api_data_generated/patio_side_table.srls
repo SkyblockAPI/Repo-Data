@@ -1,1 +1,4 @@
-meta { include("api_data/patio_side_table", this); };
+meta {
+  id = PATIO_SIDE_TABLE;
+  include("api_data/patio_side_table", this); 
+};

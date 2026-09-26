@@ -1,1 +1,4 @@
-meta { include("api_data/pet_item_foraging_skill_boost_common", this); };
+meta {
+  id = PET_ITEM_FORAGING_SKILL_BOOST_COMMON;
+  include("api_data/pet_item_foraging_skill_boost_common", this); 
+};

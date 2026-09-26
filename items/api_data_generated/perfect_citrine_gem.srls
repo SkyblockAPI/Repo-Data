@@ -1,1 +1,4 @@
-meta { include("api_data/perfect_citrine_gem", this); };
+meta {
+  id = PERFECT_CITRINE_GEM;
+  include("api_data/perfect_citrine_gem", this); 
+};

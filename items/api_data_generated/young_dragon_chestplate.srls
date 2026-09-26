@@ -1,1 +1,4 @@
-meta { include("api_data/young_dragon_chestplate", this); };
+meta {
+  id = YOUNG_DRAGON_CHESTPLATE;
+  include("api_data/young_dragon_chestplate", this); 
+};

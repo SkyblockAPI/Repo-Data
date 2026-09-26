@@ -1,1 +1,4 @@
-meta { include("api_data/spooky_leggings", this); };
+meta {
+  id = SPOOKY_LEGGINGS;
+  include("api_data/spooky_leggings", this); 
+};

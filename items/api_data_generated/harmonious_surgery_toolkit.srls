@@ -1,1 +1,4 @@
-meta { include("api_data/harmonious_surgery_toolkit", this); };
+meta {
+  id = HARMONIOUS_SURGERY_TOOLKIT;
+  include("api_data/harmonious_surgery_toolkit", this); 
+};

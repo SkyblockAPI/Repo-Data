@@ -1,1 +1,4 @@
-meta { include("api_data/the_art_of_war", this); };
+meta {
+  id = THE_ART_OF_WAR;
+  include("api_data/the_art_of_war", this); 
+};

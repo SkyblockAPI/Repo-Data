@@ -1,1 +1,4 @@
-meta { include("api_data/recall_potion", this); };
+meta {
+  id = RECALL_POTION;
+  include("api_data/recall_potion", this); 
+};

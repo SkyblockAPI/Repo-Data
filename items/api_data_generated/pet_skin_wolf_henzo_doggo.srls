@@ -1,1 +1,4 @@
-meta { include("api_data/pet_skin_wolf_henzo_doggo", this); };
+meta {
+  id = PET_SKIN_WOLF_HENZO_DOGGO;
+  include("api_data/pet_skin_wolf_henzo_doggo", this); 
+};

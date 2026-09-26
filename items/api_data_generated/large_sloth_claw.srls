@@ -1,1 +1,4 @@
-meta { include("api_data/large_sloth_claw", this); };
+meta {
+  id = LARGE_SLOTH_CLAW;
+  include("api_data/large_sloth_claw", this); 
+};

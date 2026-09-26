@@ -1,1 +1,4 @@
-meta { include("api_data/pile_of_cash", this); };
+meta {
+  id = PILE_OF_CASH;
+  include("api_data/pile_of_cash", this); 
+};

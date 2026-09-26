@@ -1,1 +1,4 @@
-meta { include("api_data/winter_rod", this); };
+meta {
+  id = WINTER_ROD;
+  include("api_data/winter_rod", this); 
+};

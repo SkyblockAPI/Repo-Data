@@ -1,1 +1,4 @@
-meta { include("api_data/waterborne_lice", this); };
+meta {
+  id = WATERBORNE_LICE;
+  include("api_data/waterborne_lice", this); 
+};

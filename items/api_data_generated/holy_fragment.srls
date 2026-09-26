@@ -1,1 +1,4 @@
-meta { include("api_data/holy_fragment", this); };
+meta {
+  id = HOLY_FRAGMENT;
+  include("api_data/holy_fragment", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/dwarven_metal_detector", this); };
+meta {
+  id = DWARVEN_METAL_DETECTOR;
+  include("api_data/dwarven_metal_detector", this); 
+};

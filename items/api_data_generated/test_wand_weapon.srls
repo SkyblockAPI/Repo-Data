@@ -1,1 +1,4 @@
-meta { include("api_data/test_wand_weapon", this); };
+meta {
+  id = TEST_WAND_WEAPON;
+  include("api_data/test_wand_weapon", this); 
+};

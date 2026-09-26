@@ -1,1 +1,4 @@
-meta { include("api_data/fiery_aurora_leggings", this); };
+meta {
+  id = FIERY_AURORA_LEGGINGS;
+  include("api_data/fiery_aurora_leggings", this); 
+};

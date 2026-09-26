@@ -1,1 +1,4 @@
-meta { include("api_data/collection_display", this); };
+meta {
+  id = COLLECTION_DISPLAY;
+  include("api_data/collection_display", this); 
+};

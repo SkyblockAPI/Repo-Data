@@ -1,1 +1,4 @@
-meta { include("api_data/gloomlock_grimoire", this); };
+meta {
+  id = GLOOMLOCK_GRIMOIRE;
+  include("api_data/gloomlock_grimoire", this); 
+};

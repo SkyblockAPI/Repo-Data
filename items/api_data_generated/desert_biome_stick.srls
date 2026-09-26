@@ -1,1 +1,4 @@
-meta { include("api_data/desert_biome_stick", this); };
+meta {
+  id = DESERT_BIOME_STICK;
+  include("api_data/desert_biome_stick", this); 
+};

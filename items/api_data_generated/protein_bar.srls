@@ -1,1 +1,4 @@
-meta { include("api_data/protein_bar", this); };
+meta {
+  id = PROTEIN_BAR;
+  include("api_data/protein_bar", this); 
+};

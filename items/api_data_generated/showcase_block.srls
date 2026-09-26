@@ -1,1 +1,4 @@
-meta { include("api_data/showcase_block", this); };
+meta {
+  id = SHOWCASE_BLOCK;
+  include("api_data/showcase_block", this); 
+};

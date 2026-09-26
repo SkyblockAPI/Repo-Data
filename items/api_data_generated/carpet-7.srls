@@ -1,1 +1,4 @@
-meta { include("api_data/carpet-7", this); };
+meta {
+  id = CARPET:7;
+  include("api_data/carpet-7", this); 
+};

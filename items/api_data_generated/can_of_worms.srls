@@ -1,1 +1,4 @@
-meta { include("api_data/can_of_worms", this); };
+meta {
+  id = CAN_OF_WORMS;
+  include("api_data/can_of_worms", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/diamond_hoe", this); };
+meta {
+  id = DIAMOND_HOE;
+  include("api_data/diamond_hoe", this); 
+};

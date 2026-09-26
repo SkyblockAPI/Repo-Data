@@ -1,1 +1,4 @@
-meta { include("api_data/tree_hook", this); };
+meta {
+  id = TREE_HOOK;
+  include("api_data/tree_hook", this); 
+};

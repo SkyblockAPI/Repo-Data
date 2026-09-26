@@ -1,1 +1,4 @@
-meta { include("api_data/bronze_hunter_chestplate", this); };
+meta {
+  id = BRONZE_HUNTER_CHESTPLATE;
+  include("api_data/bronze_hunter_chestplate", this); 
+};

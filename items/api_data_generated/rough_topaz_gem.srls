@@ -1,1 +1,4 @@
-meta { include("api_data/rough_topaz_gem", this); };
+meta {
+  id = ROUGH_TOPAZ_GEM;
+  include("api_data/rough_topaz_gem", this); 
+};

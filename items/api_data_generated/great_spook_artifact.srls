@@ -1,1 +1,4 @@
-meta { include("api_data/great_spook_artifact", this); };
+meta {
+  id = GREAT_SPOOK_ARTIFACT;
+  include("api_data/great_spook_artifact", this); 
+};

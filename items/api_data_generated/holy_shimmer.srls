@@ -1,1 +1,4 @@
-meta { include("api_data/holy_shimmer", this); };
+meta {
+  id = HOLY_SHIMMER;
+  include("api_data/holy_shimmer", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/super_heavy_leggings", this); };
+meta {
+  id = SUPER_HEAVY_LEGGINGS;
+  include("api_data/super_heavy_leggings", this); 
+};

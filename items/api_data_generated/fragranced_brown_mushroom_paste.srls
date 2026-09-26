@@ -1,1 +1,4 @@
-meta { include("api_data/fragranced_brown_mushroom_paste", this); };
+meta {
+  id = FRAGRANCED_BROWN_MUSHROOM_PASTE;
+  include("api_data/fragranced_brown_mushroom_paste", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/fire_soul", this); };
+meta {
+  id = FIRE_SOUL;
+  include("api_data/fire_soul", this); 
+};

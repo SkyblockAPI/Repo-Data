@@ -1,1 +1,4 @@
-meta { include("api_data/spider_talisman", this); };
+meta {
+  id = SPIDER_TALISMAN;
+  include("api_data/spider_talisman", this); 
+};

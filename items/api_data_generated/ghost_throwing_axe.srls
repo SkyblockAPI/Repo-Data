@@ -1,1 +1,4 @@
-meta { include("api_data/ghost_throwing_axe", this); };
+meta {
+  id = GHOST_THROWING_AXE;
+  include("api_data/ghost_throwing_axe", this); 
+};

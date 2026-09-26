@@ -1,1 +1,4 @@
-meta { include("api_data/gemstone_chamber", this); };
+meta {
+  id = GEMSTONE_CHAMBER;
+  include("api_data/gemstone_chamber", this); 
+};

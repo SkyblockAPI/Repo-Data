@@ -1,1 +1,4 @@
-meta { include("api_data/voodoo_doll_wilted", this); };
+meta {
+  id = VOODOO_DOLL_WILTED;
+  include("api_data/voodoo_doll_wilted", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/archaeologist_compass", this); };
+meta {
+  id = ARCHAEOLOGIST_COMPASS;
+  include("api_data/archaeologist_compass", this); 
+};

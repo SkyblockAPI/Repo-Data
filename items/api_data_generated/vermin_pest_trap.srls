@@ -1,1 +1,4 @@
-meta { include("api_data/vermin_pest_trap", this); };
+meta {
+  id = VERMIN_PEST_TRAP;
+  include("api_data/vermin_pest_trap", this); 
+};

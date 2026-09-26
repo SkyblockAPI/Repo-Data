@@ -1,1 +1,4 @@
-meta { include("api_data/nether_star", this); };
+meta {
+  id = NETHER_STAR;
+  include("api_data/nether_star", this); 
+};

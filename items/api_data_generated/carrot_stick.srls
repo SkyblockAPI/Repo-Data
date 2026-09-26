@@ -1,1 +1,4 @@
-meta { include("api_data/carrot_stick", this); };
+meta {
+  id = CARROT_STICK;
+  include("api_data/carrot_stick", this); 
+};

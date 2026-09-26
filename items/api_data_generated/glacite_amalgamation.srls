@@ -1,1 +1,4 @@
-meta { include("api_data/glacite_amalgamation", this); };
+meta {
+  id = GLACITE_AMALGAMATION;
+  include("api_data/glacite_amalgamation", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/bloodbadge", this); };
+meta {
+  id = BLOODBADGE;
+  include("api_data/bloodbadge", this); 
+};

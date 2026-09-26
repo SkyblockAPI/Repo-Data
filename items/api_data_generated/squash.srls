@@ -1,1 +1,4 @@
-meta { include("api_data/squash", this); };
+meta {
+  id = SQUASH;
+  include("api_data/squash", this); 
+};

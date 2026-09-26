@@ -1,1 +1,4 @@
-meta { include("api_data/tentacle_meat", this); };
+meta {
+  id = TENTACLE_MEAT;
+  include("api_data/tentacle_meat", this); 
+};

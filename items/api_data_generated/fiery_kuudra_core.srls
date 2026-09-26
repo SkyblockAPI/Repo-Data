@@ -1,1 +1,4 @@
-meta { include("api_data/fiery_kuudra_core", this); };
+meta {
+  id = FIERY_KUUDRA_CORE;
+  include("api_data/fiery_kuudra_core", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/atomsplit_katana", this); };
+meta {
+  id = ATOMSPLIT_KATANA;
+  include("api_data/atomsplit_katana", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_hay_bale", this); };
+meta {
+  id = ENCHANTED_HAY_BALE;
+  include("api_data/enchanted_hay_bale", this); 
+};

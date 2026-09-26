@@ -1,1 +1,4 @@
-meta { include("api_data/wholesale_wheat", this); };
+meta {
+  id = WHOLESALE_WHEAT;
+  include("api_data/wholesale_wheat", this); 
+};

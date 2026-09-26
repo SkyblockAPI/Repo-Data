@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_grilled_pork", this); };
+meta {
+  id = ENCHANTED_GRILLED_PORK;
+  include("api_data/enchanted_grilled_pork", this); 
+};

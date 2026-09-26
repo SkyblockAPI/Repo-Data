@@ -1,1 +1,4 @@
-meta { include("api_data/party_gloves", this); };
+meta {
+  id = PARTY_GLOVES;
+  include("api_data/party_gloves", this); 
+};

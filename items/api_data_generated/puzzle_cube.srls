@@ -1,1 +1,4 @@
-meta { include("api_data/puzzle_cube", this); };
+meta {
+  id = PUZZLE_CUBE;
+  include("api_data/puzzle_cube", this); 
+};

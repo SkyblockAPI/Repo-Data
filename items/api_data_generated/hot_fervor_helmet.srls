@@ -1,1 +1,4 @@
-meta { include("api_data/hot_fervor_helmet", this); };
+meta {
+  id = HOT_FERVOR_HELMET;
+  include("api_data/hot_fervor_helmet", this); 
+};

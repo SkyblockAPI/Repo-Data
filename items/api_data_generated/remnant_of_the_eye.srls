@@ -1,1 +1,4 @@
-meta { include("api_data/remnant_of_the_eye", this); };
+meta {
+  id = REMNANT_OF_THE_EYE;
+  include("api_data/remnant_of_the_eye", this); 
+};

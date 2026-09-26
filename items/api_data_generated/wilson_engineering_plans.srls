@@ -1,1 +1,4 @@
-meta { include("api_data/wilson_engineering_plans", this); };
+meta {
+  id = WILSON_ENGINEERING_PLANS;
+  include("api_data/wilson_engineering_plans", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/bookworm_book", this); };
+meta {
+  id = BOOKWORM_BOOK;
+  include("api_data/bookworm_book", this); 
+};

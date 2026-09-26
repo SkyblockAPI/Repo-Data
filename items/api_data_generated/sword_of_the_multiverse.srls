@@ -1,1 +1,4 @@
-meta { include("api_data/sword_of_the_multiverse", this); };
+meta {
+  id = SWORD_OF_THE_MULTIVERSE;
+  include("api_data/sword_of_the_multiverse", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/candle_arch", this); };
+meta {
+  id = CANDLE_ARCH;
+  include("api_data/candle_arch", this); 
+};

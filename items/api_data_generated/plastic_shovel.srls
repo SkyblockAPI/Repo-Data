@@ -1,1 +1,4 @@
-meta { include("api_data/plastic_shovel", this); };
+meta {
+  id = PLASTIC_SHOVEL;
+  include("api_data/plastic_shovel", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/family_sized_pot_of_honeycomb", this); };
+meta {
+  id = FAMILY_SIZED_POT_OF_HONEYCOMB;
+  include("api_data/family_sized_pot_of_honeycomb", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/punchcard_artifact", this); };
+meta {
+  id = PUNCHCARD_ARTIFACT;
+  include("api_data/punchcard_artifact", this); 
+};

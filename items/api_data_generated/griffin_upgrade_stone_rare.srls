@@ -1,1 +1,4 @@
-meta { include("api_data/griffin_upgrade_stone_rare", this); };
+meta {
+  id = GRIFFIN_UPGRADE_STONE_RARE;
+  include("api_data/griffin_upgrade_stone_rare", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/jake_plushie", this); };
+meta {
+  id = JAKE_PLUSHIE;
+  include("api_data/jake_plushie", this); 
+};

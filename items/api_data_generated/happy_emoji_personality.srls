@@ -1,1 +1,4 @@
-meta { include("api_data/happy_emoji_personality", this); };
+meta {
+  id = HAPPY_EMOJI_PERSONALITY;
+  include("api_data/happy_emoji_personality", this); 
+};

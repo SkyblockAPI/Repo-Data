@@ -1,1 +1,4 @@
-meta { include("api_data/starred_spirit_mask", this); };
+meta {
+  id = STARRED_SPIRIT_MASK;
+  include("api_data/starred_spirit_mask", this); 
+};

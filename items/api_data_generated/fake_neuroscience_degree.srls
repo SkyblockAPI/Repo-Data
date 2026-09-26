@@ -1,1 +1,4 @@
-meta { include("api_data/fake_neuroscience_degree", this); };
+meta {
+  id = FAKE_NEUROSCIENCE_DEGREE;
+  include("api_data/fake_neuroscience_degree", this); 
+};

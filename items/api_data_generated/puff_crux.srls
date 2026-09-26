@@ -1,1 +1,4 @@
-meta { include("api_data/puff_crux", this); };
+meta {
+  id = PUFF_CRUX;
+  include("api_data/puff_crux", this); 
+};

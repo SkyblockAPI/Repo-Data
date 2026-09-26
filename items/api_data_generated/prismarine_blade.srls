@@ -1,1 +1,4 @@
-meta { include("api_data/prismarine_blade", this); };
+meta {
+  id = PRISMARINE_BLADE;
+  include("api_data/prismarine_blade", this); 
+};

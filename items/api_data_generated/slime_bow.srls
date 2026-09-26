@@ -1,1 +1,4 @@
-meta { include("api_data/slime_bow", this); };
+meta {
+  id = SLIME_BOW;
+  include("api_data/slime_bow", this); 
+};

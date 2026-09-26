@@ -1,1 +1,4 @@
-meta { include("api_data/book_of_progression", this); };
+meta {
+  id = BOOK_OF_PROGRESSION;
+  include("api_data/book_of_progression", this); 
+};

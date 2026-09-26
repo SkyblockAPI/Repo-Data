@@ -1,1 +1,4 @@
-meta { include("api_data/expired_pumpkin", this); };
+meta {
+  id = EXPIRED_PUMPKIN;
+  include("api_data/expired_pumpkin", this); 
+};

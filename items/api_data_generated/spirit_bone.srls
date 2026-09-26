@@ -1,1 +1,4 @@
-meta { include("api_data/spirit_bone", this); };
+meta {
+  id = SPIRIT_BONE;
+  include("api_data/spirit_bone", this); 
+};

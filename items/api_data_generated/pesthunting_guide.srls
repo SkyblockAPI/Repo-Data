@@ -1,1 +1,4 @@
-meta { include("api_data/pesthunting_guide", this); };
+meta {
+  id = PESTHUNTING_GUIDE;
+  include("api_data/pesthunting_guide", this); 
+};

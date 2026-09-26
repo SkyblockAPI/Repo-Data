@@ -1,1 +1,4 @@
-meta { include("api_data/silence_block", this); };
+meta {
+  id = SILENCE_BLOCK;
+  include("api_data/silence_block", this); 
+};

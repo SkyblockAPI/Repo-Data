@@ -1,1 +1,4 @@
-meta { include("api_data/blaze_talisman", this); };
+meta {
+  id = BLAZE_TALISMAN;
+  include("api_data/blaze_talisman", this); 
+};

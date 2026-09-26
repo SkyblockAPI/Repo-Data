@@ -1,1 +1,4 @@
-meta { include("api_data/lily_pad_generator_7", this); };
+meta {
+  id = LILY_PAD_GENERATOR_7;
+  include("api_data/lily_pad_generator_7", this); 
+};

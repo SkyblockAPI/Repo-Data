@@ -1,1 +1,4 @@
-meta { include("api_data/speed_artifact", this); };
+meta {
+  id = SPEED_ARTIFACT;
+  include("api_data/speed_artifact", this); 
+};

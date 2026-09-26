@@ -1,1 +1,4 @@
-meta { include("api_data/blaze_chestplate", this); };
+meta {
+  id = BLAZE_CHESTPLATE;
+  include("api_data/blaze_chestplate", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/carrot_bed", this); };
+meta {
+  id = CARROT_BED;
+  include("api_data/carrot_bed", this); 
+};

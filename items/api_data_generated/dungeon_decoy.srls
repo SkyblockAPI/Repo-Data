@@ -1,1 +1,4 @@
-meta { include("api_data/dungeon_decoy", this); };
+meta {
+  id = DUNGEON_DECOY;
+  include("api_data/dungeon_decoy", this); 
+};

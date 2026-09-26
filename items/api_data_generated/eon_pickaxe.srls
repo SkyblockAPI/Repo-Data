@@ -1,1 +1,4 @@
-meta { include("api_data/eon_pickaxe", this); };
+meta {
+  id = EON_PICKAXE;
+  include("api_data/eon_pickaxe", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/quest_cookie", this); };
+meta {
+  id = QUEST_COOKIE;
+  include("api_data/quest_cookie", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/egg_painting_station", this); };
+meta {
+  id = EGG_PAINTING_STATION;
+  include("api_data/egg_painting_station", this); 
+};

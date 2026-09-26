@@ -1,1 +1,4 @@
-meta { include("api_data/dirt", this); };
+meta {
+  id = DIRT;
+  include("api_data/dirt", this); 
+};

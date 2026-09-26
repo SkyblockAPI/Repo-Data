@@ -1,1 +1,4 @@
-meta { include("api_data/mana_disintegrator", this); };
+meta {
+  id = MANA_DISINTEGRATOR;
+  include("api_data/mana_disintegrator", this); 
+};

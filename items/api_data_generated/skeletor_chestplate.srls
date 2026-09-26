@@ -1,1 +1,4 @@
-meta { include("api_data/skeletor_chestplate", this); };
+meta {
+  id = SKELETOR_CHESTPLATE;
+  include("api_data/skeletor_chestplate", this); 
+};

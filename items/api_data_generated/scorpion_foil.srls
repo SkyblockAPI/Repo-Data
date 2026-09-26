@@ -1,1 +1,4 @@
-meta { include("api_data/scorpion_foil", this); };
+meta {
+  id = SCORPION_FOIL;
+  include("api_data/scorpion_foil", this); 
+};

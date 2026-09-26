@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_firework_rocket", this); };
+meta {
+  id = ENCHANTED_FIREWORK_ROCKET;
+  include("api_data/enchanted_firework_rocket", this); 
+};

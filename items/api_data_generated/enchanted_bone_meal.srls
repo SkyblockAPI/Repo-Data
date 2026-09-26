@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_bone_meal", this); };
+meta {
+  id = ENCHANTED_BONE_MEAL;
+  include("api_data/enchanted_bone_meal", this); 
+};

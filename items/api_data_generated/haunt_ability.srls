@@ -1,1 +1,4 @@
-meta { include("api_data/haunt_ability", this); };
+meta {
+  id = HAUNT_ABILITY;
+  include("api_data/haunt_ability", this); 
+};

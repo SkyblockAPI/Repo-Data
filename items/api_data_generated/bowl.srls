@@ -1,1 +1,4 @@
-meta { include("api_data/bowl", this); };
+meta {
+  id = BOWL;
+  include("api_data/bowl", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/golden_fleece", this); };
+meta {
+  id = GOLDEN_FLEECE;
+  include("api_data/golden_fleece", this); 
+};

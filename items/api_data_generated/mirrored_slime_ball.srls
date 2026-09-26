@@ -1,1 +1,4 @@
-meta { include("api_data/mirrored_slime_ball", this); };
+meta {
+  id = MIRRORED_SLIME_BALL;
+  include("api_data/mirrored_slime_ball", this); 
+};

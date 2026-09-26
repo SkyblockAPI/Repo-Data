@@ -1,1 +1,4 @@
-meta { include("api_data/whipped_magma_cream", this); };
+meta {
+  id = WHIPPED_MAGMA_CREAM;
+  include("api_data/whipped_magma_cream", this); 
+};

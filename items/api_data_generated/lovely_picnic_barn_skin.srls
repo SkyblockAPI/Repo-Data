@@ -1,1 +1,4 @@
-meta { include("api_data/lovely_picnic_barn_skin", this); };
+meta {
+  id = LOVELY_PICNIC_BARN_SKIN;
+  include("api_data/lovely_picnic_barn_skin", this); 
+};

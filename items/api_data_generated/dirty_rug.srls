@@ -1,1 +1,4 @@
-meta { include("api_data/dirty_rug", this); };
+meta {
+  id = DIRTY_RUG;
+  include("api_data/dirty_rug", this); 
+};

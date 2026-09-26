@@ -1,1 +1,4 @@
-meta { include("api_data/spell_powder", this); };
+meta {
+  id = SPELL_POWDER;
+  include("api_data/spell_powder", this); 
+};

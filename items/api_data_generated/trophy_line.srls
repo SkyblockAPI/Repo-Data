@@ -1,1 +1,4 @@
-meta { include("api_data/trophy_line", this); };
+meta {
+  id = TROPHY_LINE;
+  include("api_data/trophy_line", this); 
+};

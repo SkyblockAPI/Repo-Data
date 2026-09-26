@@ -1,1 +1,4 @@
-meta { include("api_data/auto_revive_perk_item", this); };
+meta {
+  id = AUTO_REVIVE_PERK_ITEM;
+  include("api_data/auto_revive_perk_item", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/mining_2_travel_scroll", this); };
+meta {
+  id = MINING_2_TRAVEL_SCROLL;
+  include("api_data/mining_2_travel_scroll", this); 
+};

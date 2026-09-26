@@ -1,1 +1,4 @@
-meta { include("api_data/howling_cave_portal", this); };
+meta {
+  id = HOWLING_CAVE_PORTAL;
+  include("api_data/howling_cave_portal", this); 
+};

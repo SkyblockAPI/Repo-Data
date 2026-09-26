@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_tender_wood", this); };
+meta {
+  id = ENCHANTED_TENDER_WOOD;
+  include("api_data/enchanted_tender_wood", this); 
+};

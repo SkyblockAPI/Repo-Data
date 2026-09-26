@@ -1,1 +1,4 @@
-meta { include("api_data/summoning_eye", this); };
+meta {
+  id = SUMMONING_EYE;
+  include("api_data/summoning_eye", this); 
+};

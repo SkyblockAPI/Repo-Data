@@ -1,1 +1,4 @@
-meta { include("api_data/ember_helmet", this); };
+meta {
+  id = EMBER_HELMET;
+  include("api_data/ember_helmet", this); 
+};

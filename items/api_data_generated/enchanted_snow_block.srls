@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_snow_block", this); };
+meta {
+  id = ENCHANTED_SNOW_BLOCK;
+  include("api_data/enchanted_snow_block", this); 
+};

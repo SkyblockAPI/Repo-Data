@@ -1,1 +1,4 @@
-meta { include("api_data/spruce_door_item", this); };
+meta {
+  id = SPRUCE_DOOR_ITEM;
+  include("api_data/spruce_door_item", this); 
+};

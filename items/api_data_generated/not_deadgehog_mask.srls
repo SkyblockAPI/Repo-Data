@@ -1,1 +1,4 @@
-meta { include("api_data/not_deadgehog_mask", this); };
+meta {
+  id = NOT_DEADGEHOG_MASK;
+  include("api_data/not_deadgehog_mask", this); 
+};

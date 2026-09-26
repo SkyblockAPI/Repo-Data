@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_magma_cream", this); };
+meta {
+  id = ENCHANTED_MAGMA_CREAM;
+  include("api_data/enchanted_magma_cream", this); 
+};

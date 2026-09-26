@@ -1,1 +1,4 @@
-meta { include("api_data/painting", this); };
+meta {
+  id = PAINTING;
+  include("api_data/painting", this); 
+};

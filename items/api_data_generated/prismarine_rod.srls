@@ -1,1 +1,4 @@
-meta { include("api_data/prismarine_rod", this); };
+meta {
+  id = PRISMARINE_ROD;
+  include("api_data/prismarine_rod", this); 
+};

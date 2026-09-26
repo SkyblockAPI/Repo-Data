@@ -1,1 +1,4 @@
-meta { include("api_data/tormentor", this); };
+meta {
+  id = TORMENTOR;
+  include("api_data/tormentor", this); 
+};

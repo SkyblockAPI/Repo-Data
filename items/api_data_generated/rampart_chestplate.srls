@@ -1,1 +1,4 @@
-meta { include("api_data/rampart_chestplate", this); };
+meta {
+  id = RAMPART_CHESTPLATE;
+  include("api_data/rampart_chestplate", this); 
+};

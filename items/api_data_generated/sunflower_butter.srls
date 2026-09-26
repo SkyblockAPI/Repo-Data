@@ -1,1 +1,4 @@
-meta { include("api_data/sunflower_butter", this); };
+meta {
+  id = SUNFLOWER_BUTTER;
+  include("api_data/sunflower_butter", this); 
+};

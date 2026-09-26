@@ -1,1 +1,4 @@
-meta { include("api_data/gold_plate", this); };
+meta {
+  id = GOLD_PLATE;
+  include("api_data/gold_plate", this); 
+};

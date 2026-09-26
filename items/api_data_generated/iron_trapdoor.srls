@@ -1,1 +1,4 @@
-meta { include("api_data/iron_trapdoor", this); };
+meta {
+  id = IRON_TRAPDOOR;
+  include("api_data/iron_trapdoor", this); 
+};

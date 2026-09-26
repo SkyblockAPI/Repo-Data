@@ -1,1 +1,4 @@
-meta { include("api_data/power_talisman", this); };
+meta {
+  id = POWER_TALISMAN;
+  include("api_data/power_talisman", this); 
+};

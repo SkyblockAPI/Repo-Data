@@ -1,1 +1,4 @@
-meta { include("api_data/burning_crimson_boots", this); };
+meta {
+  id = BURNING_CRIMSON_BOOTS;
+  include("api_data/burning_crimson_boots", this); 
+};

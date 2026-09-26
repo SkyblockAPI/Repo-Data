@@ -1,1 +1,4 @@
-meta { include("api_data/heartmaw_dagger", this); };
+meta {
+  id = HEARTMAW_DAGGER;
+  include("api_data/heartmaw_dagger", this); 
+};

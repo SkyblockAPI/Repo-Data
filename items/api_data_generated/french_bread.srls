@@ -1,1 +1,4 @@
-meta { include("api_data/french_bread", this); };
+meta {
+  id = FRENCH_BREAD;
+  include("api_data/french_bread", this); 
+};

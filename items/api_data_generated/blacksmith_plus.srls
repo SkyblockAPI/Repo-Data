@@ -1,1 +1,4 @@
-meta { include("api_data/blacksmith_plus", this); };
+meta {
+  id = BLACKSMITH_PLUS;
+  include("api_data/blacksmith_plus", this); 
+};

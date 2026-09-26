@@ -1,1 +1,4 @@
-meta { include("api_data/endstone_geode", this); };
+meta {
+  id = ENDSTONE_GEODE;
+  include("api_data/endstone_geode", this); 
+};

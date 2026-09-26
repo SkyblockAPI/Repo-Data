@@ -1,1 +1,4 @@
-meta { include("api_data/choco_rabbit_personality", this); };
+meta {
+  id = CHOCO_RABBIT_PERSONALITY;
+  include("api_data/choco_rabbit_personality", this); 
+};

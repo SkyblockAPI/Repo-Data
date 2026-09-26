@@ -1,1 +1,4 @@
-meta { include("api_data/tool_exp_capsule", this); };
+meta {
+  id = TOOL_EXP_CAPSULE;
+  include("api_data/tool_exp_capsule", this); 
+};

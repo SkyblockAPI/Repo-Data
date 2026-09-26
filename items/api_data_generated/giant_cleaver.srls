@@ -1,1 +1,4 @@
-meta { include("api_data/giant_cleaver", this); };
+meta {
+  id = GIANT_CLEAVER;
+  include("api_data/giant_cleaver", this); 
+};

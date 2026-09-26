@@ -1,1 +1,4 @@
-meta { include("api_data/nearly_whole_carrot", this); };
+meta {
+  id = NEARLY_WHOLE_CARROT;
+  include("api_data/nearly_whole_carrot", this); 
+};

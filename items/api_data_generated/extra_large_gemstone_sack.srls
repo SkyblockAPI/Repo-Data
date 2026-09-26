@@ -1,1 +1,4 @@
-meta { include("api_data/extra_large_gemstone_sack", this); };
+meta {
+  id = EXTRA_LARGE_GEMSTONE_SACK;
+  include("api_data/extra_large_gemstone_sack", this); 
+};

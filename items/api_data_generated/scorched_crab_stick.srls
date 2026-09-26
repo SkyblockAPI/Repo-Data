@@ -1,1 +1,4 @@
-meta { include("api_data/scorched_crab_stick", this); };
+meta {
+  id = SCORCHED_CRAB_STICK;
+  include("api_data/scorched_crab_stick", this); 
+};

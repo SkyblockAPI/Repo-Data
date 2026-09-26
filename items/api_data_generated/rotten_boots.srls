@@ -1,1 +1,4 @@
-meta { include("api_data/rotten_boots", this); };
+meta {
+  id = ROTTEN_BOOTS;
+  include("api_data/rotten_boots", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/dragon_horn", this); };
+meta {
+  id = DRAGON_HORN;
+  include("api_data/dragon_horn", this); 
+};

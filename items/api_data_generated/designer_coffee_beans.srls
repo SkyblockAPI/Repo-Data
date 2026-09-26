@@ -1,1 +1,4 @@
-meta { include("api_data/designer_coffee_beans", this); };
+meta {
+  id = DESIGNER_COFFEE_BEANS;
+  include("api_data/designer_coffee_beans", this); 
+};

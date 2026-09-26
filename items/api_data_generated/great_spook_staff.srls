@@ -1,1 +1,4 @@
-meta { include("api_data/great_spook_staff", this); };
+meta {
+  id = GREAT_SPOOK_STAFF;
+  include("api_data/great_spook_staff", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/rosetta_helmet", this); };
+meta {
+  id = ROSETTA_HELMET;
+  include("api_data/rosetta_helmet", this); 
+};

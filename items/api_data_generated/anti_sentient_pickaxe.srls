@@ -1,1 +1,4 @@
-meta { include("api_data/anti_sentient_pickaxe", this); };
+meta {
+  id = ANTI_SENTIENT_PICKAXE;
+  include("api_data/anti_sentient_pickaxe", this); 
+};

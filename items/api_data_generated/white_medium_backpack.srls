@@ -1,1 +1,4 @@
-meta { include("api_data/white_medium_backpack", this); };
+meta {
+  id = WHITE_MEDIUM_BACKPACK;
+  include("api_data/white_medium_backpack", this); 
+};

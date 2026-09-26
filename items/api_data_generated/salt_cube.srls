@@ -1,1 +1,4 @@
-meta { include("api_data/salt_cube", this); };
+meta {
+  id = SALT_CUBE;
+  include("api_data/salt_cube", this); 
+};

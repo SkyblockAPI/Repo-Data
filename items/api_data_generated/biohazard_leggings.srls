@@ -1,1 +1,4 @@
-meta { include("api_data/biohazard_leggings", this); };
+meta {
+  id = BIOHAZARD_LEGGINGS;
+  include("api_data/biohazard_leggings", this); 
+};

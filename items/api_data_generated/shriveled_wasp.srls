@@ -1,1 +1,4 @@
-meta { include("api_data/shriveled_wasp", this); };
+meta {
+  id = SHRIVELED_WASP;
+  include("api_data/shriveled_wasp", this); 
+};

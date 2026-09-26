@@ -1,1 +1,4 @@
-meta { include("api_data/minos_hunter_helmet", this); };
+meta {
+  id = MINOS_HUNTER_HELMET;
+  include("api_data/minos_hunter_helmet", this); 
+};

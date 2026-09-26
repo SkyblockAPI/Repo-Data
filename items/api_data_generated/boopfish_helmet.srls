@@ -1,1 +1,4 @@
-meta { include("api_data/boopfish_helmet", this); };
+meta {
+  id = BOOPFISH_HELMET;
+  include("api_data/boopfish_helmet", this); 
+};

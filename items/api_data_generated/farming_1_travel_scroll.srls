@@ -1,1 +1,4 @@
-meta { include("api_data/farming_1_travel_scroll", this); };
+meta {
+  id = FARMING_1_TRAVEL_SCROLL;
+  include("api_data/farming_1_travel_scroll", this); 
+};

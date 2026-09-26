@@ -1,1 +1,4 @@
-meta { include("api_data/large_fish_bowl", this); };
+meta {
+  id = LARGE_FISH_BOWL;
+  include("api_data/large_fish_bowl", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/chicken_coop", this); };
+meta {
+  id = CHICKEN_COOP;
+  include("api_data/chicken_coop", this); 
+};

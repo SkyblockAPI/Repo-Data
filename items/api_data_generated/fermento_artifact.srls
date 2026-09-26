@@ -1,1 +1,4 @@
-meta { include("api_data/fermento_artifact", this); };
+meta {
+  id = FERMENTO_ARTIFACT;
+  include("api_data/fermento_artifact", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/shimmering_light_hood", this); };
+meta {
+  id = SHIMMERING_LIGHT_HOOD;
+  include("api_data/shimmering_light_hood", this); 
+};

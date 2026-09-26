@@ -1,1 +1,4 @@
-meta { include("api_data/peridot_crystal", this); };
+meta {
+  id = PERIDOT_CRYSTAL;
+  include("api_data/peridot_crystal", this); 
+};

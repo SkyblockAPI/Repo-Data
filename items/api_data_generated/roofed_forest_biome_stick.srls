@@ -1,1 +1,4 @@
-meta { include("api_data/roofed_forest_biome_stick", this); };
+meta {
+  id = ROOFED_FOREST_BIOME_STICK;
+  include("api_data/roofed_forest_biome_stick", this); 
+};

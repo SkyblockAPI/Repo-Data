@@ -1,1 +1,4 @@
-meta { include("api_data/fine_citrine_gem", this); };
+meta {
+  id = FINE_CITRINE_GEM;
+  include("api_data/fine_citrine_gem", this); 
+};

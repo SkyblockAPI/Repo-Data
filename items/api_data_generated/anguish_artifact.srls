@@ -1,1 +1,4 @@
-meta { include("api_data/anguish_artifact", this); };
+meta {
+  id = ANGUISH_ARTIFACT;
+  include("api_data/anguish_artifact", this); 
+};

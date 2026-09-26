@@ -1,1 +1,4 @@
-meta { include("api_data/armor_of_magma_chestplate", this); };
+meta {
+  id = ARMOR_OF_MAGMA_CHESTPLATE;
+  include("api_data/armor_of_magma_chestplate", this); 
+};

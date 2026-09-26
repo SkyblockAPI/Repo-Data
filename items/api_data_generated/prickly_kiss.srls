@@ -1,1 +1,4 @@
-meta { include("api_data/prickly_kiss", this); };
+meta {
+  id = PRICKLY_KISS;
+  include("api_data/prickly_kiss", this); 
+};

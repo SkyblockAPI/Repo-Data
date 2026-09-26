@@ -1,1 +1,4 @@
-meta { include("api_data/pet_skin_endermite_radiant", this); };
+meta {
+  id = PET_SKIN_ENDERMITE_RADIANT;
+  include("api_data/pet_skin_endermite_radiant", this); 
+};

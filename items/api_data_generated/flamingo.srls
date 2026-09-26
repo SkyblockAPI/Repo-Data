@@ -1,1 +1,4 @@
-meta { include("api_data/flamingo", this); };
+meta {
+  id = FLAMINGO;
+  include("api_data/flamingo", this); 
+};

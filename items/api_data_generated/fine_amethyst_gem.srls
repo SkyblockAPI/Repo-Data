@@ -1,1 +1,4 @@
-meta { include("api_data/fine_amethyst_gem", this); };
+meta {
+  id = FINE_AMETHYST_GEM;
+  include("api_data/fine_amethyst_gem", this); 
+};

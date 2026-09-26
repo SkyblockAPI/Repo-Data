@@ -1,1 +1,4 @@
-meta { include("api_data/zombie_commander_whip", this); };
+meta {
+  id = ZOMBIE_COMMANDER_WHIP;
+  include("api_data/zombie_commander_whip", this); 
+};

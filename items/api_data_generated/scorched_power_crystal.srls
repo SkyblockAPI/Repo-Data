@@ -1,1 +1,4 @@
-meta { include("api_data/scorched_power_crystal", this); };
+meta {
+  id = SCORCHED_POWER_CRYSTAL;
+  include("api_data/scorched_power_crystal", this); 
+};

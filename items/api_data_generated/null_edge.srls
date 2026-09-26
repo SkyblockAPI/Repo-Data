@@ -1,1 +1,4 @@
-meta { include("api_data/null_edge", this); };
+meta {
+  id = NULL_EDGE;
+  include("api_data/null_edge", this); 
+};

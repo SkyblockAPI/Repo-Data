@@ -1,1 +1,4 @@
-meta { include("api_data/giftbag_of_the_century", this); };
+meta {
+  id = GIFTBAG_OF_THE_CENTURY;
+  include("api_data/giftbag_of_the_century", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/bear_bookshelf", this); };
+meta {
+  id = BEAR_BOOKSHELF;
+  include("api_data/bear_bookshelf", this); 
+};

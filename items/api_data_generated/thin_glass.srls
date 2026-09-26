@@ -1,1 +1,4 @@
-meta { include("api_data/thin_glass", this); };
+meta {
+  id = THIN_GLASS;
+  include("api_data/thin_glass", this); 
+};

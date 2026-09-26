@@ -1,1 +1,4 @@
-meta { include("api_data/snow_necklace", this); };
+meta {
+  id = SNOW_NECKLACE;
+  include("api_data/snow_necklace", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/canopy_helmet", this); };
+meta {
+  id = CANOPY_HELMET;
+  include("api_data/canopy_helmet", this); 
+};

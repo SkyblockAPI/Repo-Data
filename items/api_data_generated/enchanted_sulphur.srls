@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_sulphur", this); };
+meta {
+  id = ENCHANTED_SULPHUR;
+  include("api_data/enchanted_sulphur", this); 
+};

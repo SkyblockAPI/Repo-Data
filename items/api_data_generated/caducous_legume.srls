@@ -1,1 +1,4 @@
-meta { include("api_data/caducous_legume", this); };
+meta {
+  id = CADUCOUS_LEGUME;
+  include("api_data/caducous_legume", this); 
+};

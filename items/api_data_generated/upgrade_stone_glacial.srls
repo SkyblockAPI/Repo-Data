@@ -1,1 +1,4 @@
-meta { include("api_data/upgrade_stone_glacial", this); };
+meta {
+  id = UPGRADE_STONE_GLACIAL;
+  include("api_data/upgrade_stone_glacial", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/golden_ball", this); };
+meta {
+  id = GOLDEN_BALL;
+  include("api_data/golden_ball", this); 
+};

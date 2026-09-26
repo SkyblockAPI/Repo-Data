@@ -1,1 +1,4 @@
-meta { include("api_data/feastfungus", this); };
+meta {
+  id = FEASTFUNGUS;
+  include("api_data/feastfungus", this); 
+};

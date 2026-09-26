@@ -1,1 +1,4 @@
-meta { include("api_data/livid_fragment", this); };
+meta {
+  id = LIVID_FRAGMENT;
+  include("api_data/livid_fragment", this); 
+};

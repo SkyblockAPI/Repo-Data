@@ -1,0 +1,10 @@
+if (!meta.rift_transferrable) return;
+
+stack.lore.add({
+  color: "dark_purple",
+  extra: [
+    {text: "a", obfuscated: true},
+    " Rift-Transferable ",
+    {text: "a", obfuscated: true}
+  ]
+});

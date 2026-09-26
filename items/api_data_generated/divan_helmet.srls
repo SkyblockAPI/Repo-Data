@@ -1,1 +1,4 @@
-meta { include("api_data/divan_helmet", this); };
+meta {
+  id = DIVAN_HELMET;
+  include("api_data/divan_helmet", this); 
+};

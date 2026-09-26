@@ -1,1 +1,4 @@
-meta { include("api_data/campfire", this); };
+meta {
+  id = CAMPFIRE;
+  include("api_data/campfire", this); 
+};

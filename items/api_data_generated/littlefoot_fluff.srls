@@ -1,1 +1,4 @@
-meta { include("api_data/littlefoot_fluff", this); };
+meta {
+  id = LITTLEFOOT_FLUFF;
+  include("api_data/littlefoot_fluff", this); 
+};

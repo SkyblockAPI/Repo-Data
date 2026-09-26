@@ -1,1 +1,4 @@
-meta { include("api_data/island_npc", this); };
+meta {
+  id = ISLAND_NPC;
+  include("api_data/island_npc", this); 
+};

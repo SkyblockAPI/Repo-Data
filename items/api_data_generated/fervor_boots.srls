@@ -1,1 +1,4 @@
-meta { include("api_data/fervor_boots", this); };
+meta {
+  id = FERVOR_BOOTS;
+  include("api_data/fervor_boots", this); 
+};

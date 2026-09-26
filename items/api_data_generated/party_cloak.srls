@@ -1,1 +1,4 @@
-meta { include("api_data/party_cloak", this); };
+meta {
+  id = PARTY_CLOAK;
+  include("api_data/party_cloak", this); 
+};

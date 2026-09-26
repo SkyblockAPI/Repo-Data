@@ -1,0 +1,3 @@
+include("types/pickaxe", this);
+category = "DRILL";
+categories += "drill";

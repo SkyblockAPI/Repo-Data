@@ -1,1 +1,4 @@
-meta { include("api_data/bronze_bowl", this); };
+meta {
+  id = BRONZE_BOWL;
+  include("api_data/bronze_bowl", this); 
+};

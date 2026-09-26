@@ -1,1 +1,4 @@
-meta { include("api_data/cashmere_jacket", this); };
+meta {
+  id = CASHMERE_JACKET;
+  include("api_data/cashmere_jacket", this); 
+};

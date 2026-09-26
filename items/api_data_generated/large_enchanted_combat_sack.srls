@@ -1,1 +1,4 @@
-meta { include("api_data/large_enchanted_combat_sack", this); };
+meta {
+  id = LARGE_ENCHANTED_COMBAT_SACK;
+  include("api_data/large_enchanted_combat_sack", this); 
+};

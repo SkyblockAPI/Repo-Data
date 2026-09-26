@@ -1,1 +1,4 @@
-meta { include("api_data/key_f", this); };
+meta {
+  id = KEY_F;
+  include("api_data/key_f", this); 
+};

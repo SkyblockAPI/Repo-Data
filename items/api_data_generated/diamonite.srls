@@ -1,1 +1,4 @@
-meta { include("api_data/diamonite", this); };
+meta {
+  id = DIAMONITE;
+  include("api_data/diamonite", this); 
+};

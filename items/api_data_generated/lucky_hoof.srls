@@ -1,1 +1,4 @@
-meta { include("api_data/lucky_hoof", this); };
+meta {
+  id = LUCKY_HOOF;
+  include("api_data/lucky_hoof", this); 
+};

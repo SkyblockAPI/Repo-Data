@@ -1,1 +1,4 @@
-meta { include("api_data/bird_house", this); };
+meta {
+  id = BIRD_HOUSE;
+  include("api_data/bird_house", this); 
+};

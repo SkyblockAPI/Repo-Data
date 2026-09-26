@@ -1,1 +1,4 @@
-meta { include("api_data/christmas_tree", this); };
+meta {
+  id = CHRISTMAS_TREE;
+  include("api_data/christmas_tree", this); 
+};

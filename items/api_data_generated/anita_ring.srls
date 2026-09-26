@@ -1,1 +1,4 @@
-meta { include("api_data/anita_ring", this); };
+meta {
+  id = ANITA_RING;
+  include("api_data/anita_ring", this); 
+};

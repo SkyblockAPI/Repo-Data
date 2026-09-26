@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_wool", this); };
+meta {
+  id = ENCHANTED_WOOL;
+  include("api_data/enchanted_wool", this); 
+};

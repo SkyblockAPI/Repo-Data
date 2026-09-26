@@ -1,1 +1,4 @@
-meta { include("api_data/zorros_cape", this); };
+meta {
+  id = ZORROS_CAPE;
+  include("api_data/zorros_cape", this); 
+};

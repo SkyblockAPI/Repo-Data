@@ -1,1 +1,4 @@
-meta { include("api_data/godseed", this); };
+meta {
+  id = GODSEED;
+  include("api_data/godseed", this); 
+};

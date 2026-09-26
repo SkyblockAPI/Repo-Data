@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_sugar_cane", this); };
+meta {
+  id = ENCHANTED_SUGAR_CANE;
+  include("api_data/enchanted_sugar_cane", this); 
+};

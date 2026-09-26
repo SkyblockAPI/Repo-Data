@@ -1,1 +1,4 @@
-meta { include("api_data/lotus_necklace", this); };
+meta {
+  id = LOTUS_NECKLACE;
+  include("api_data/lotus_necklace", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/exceedingly_rare_ender_artifact_upgrader", this); };
+meta {
+  id = EXCEEDINGLY_RARE_ENDER_ARTIFACT_UPGRADER;
+  include("api_data/exceedingly_rare_ender_artifact_upgrader", this); 
+};

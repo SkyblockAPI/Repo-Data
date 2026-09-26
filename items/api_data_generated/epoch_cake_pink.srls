@@ -1,1 +1,4 @@
-meta { include("api_data/epoch_cake_pink", this); };
+meta {
+  id = EPOCH_CAKE_PINK;
+  include("api_data/epoch_cake_pink", this); 
+};

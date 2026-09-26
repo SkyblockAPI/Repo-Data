@@ -1,1 +1,4 @@
-meta { include("api_data/launch_pad", this); };
+meta {
+  id = LAUNCH_PAD;
+  include("api_data/launch_pad", this); 
+};

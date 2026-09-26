@@ -1,1 +1,4 @@
-meta { include("api_data/rekindled_ember_boots", this); };
+meta {
+  id = REKINDLED_EMBER_BOOTS;
+  include("api_data/rekindled_ember_boots", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/warning_flare", this); };
+meta {
+  id = WARNING_FLARE;
+  include("api_data/warning_flare", this); 
+};

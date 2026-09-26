@@ -1,1 +1,4 @@
-meta { include("api_data/freshly_baked_relic", this); };
+meta {
+  id = FRESHLY_BAKED_RELIC;
+  include("api_data/freshly_baked_relic", this); 
+};

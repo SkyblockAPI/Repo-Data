@@ -1,1 +1,4 @@
-meta { include("api_data/beating_heart", this); };
+meta {
+  id = BEATING_HEART;
+  include("api_data/beating_heart", this); 
+};

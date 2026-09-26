@@ -1,1 +1,4 @@
-meta { include("api_data/organic_cactus", this); };
+meta {
+  id = ORGANIC_CACTUS;
+  include("api_data/organic_cactus", this); 
+};

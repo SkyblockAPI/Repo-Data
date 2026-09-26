@@ -1,1 +1,4 @@
-meta { include("api_data/loudmouth_bass", this); };
+meta {
+  id = LOUDMOUTH_BASS;
+  include("api_data/loudmouth_bass", this); 
+};

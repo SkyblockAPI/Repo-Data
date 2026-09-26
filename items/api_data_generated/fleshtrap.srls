@@ -1,1 +1,4 @@
-meta { include("api_data/fleshtrap", this); };
+meta {
+  id = FLESHTRAP;
+  include("api_data/fleshtrap", this); 
+};

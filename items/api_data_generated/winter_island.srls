@@ -1,1 +1,4 @@
-meta { include("api_data/winter_island", this); };
+meta {
+  id = WINTER_ISLAND;
+  include("api_data/winter_island", this); 
+};

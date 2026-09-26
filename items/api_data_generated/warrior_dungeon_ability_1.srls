@@ -1,1 +1,4 @@
-meta { include("api_data/warrior_dungeon_ability_1", this); };
+meta {
+  id = WARRIOR_DUNGEON_ABILITY_1;
+  include("api_data/warrior_dungeon_ability_1", this); 
+};

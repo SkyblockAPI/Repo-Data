@@ -1,1 +1,4 @@
-meta { include("api_data/connect_four", this); };
+meta {
+  id = CONNECT_FOUR;
+  include("api_data/connect_four", this); 
+};

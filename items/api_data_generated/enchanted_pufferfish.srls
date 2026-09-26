@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_pufferfish", this); };
+meta {
+  id = ENCHANTED_PUFFERFISH;
+  include("api_data/enchanted_pufferfish", this); 
+};

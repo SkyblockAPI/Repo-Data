@@ -1,1 +1,4 @@
-meta { include("api_data/gingerbread_village_barn_skin", this); };
+meta {
+  id = GINGERBREAD_VILLAGE_BARN_SKIN;
+  include("api_data/gingerbread_village_barn_skin", this); 
+};

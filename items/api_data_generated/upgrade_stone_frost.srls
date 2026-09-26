@@ -1,1 +1,4 @@
-meta { include("api_data/upgrade_stone_frost", this); };
+meta {
+  id = UPGRADE_STONE_FROST;
+  include("api_data/upgrade_stone_frost", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/sirius_personal_phone_number", this); };
+meta {
+  id = SIRIUS_PERSONAL_PHONE_NUMBER;
+  include("api_data/sirius_personal_phone_number", this); 
+};

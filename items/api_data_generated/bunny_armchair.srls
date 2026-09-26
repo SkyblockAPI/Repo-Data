@@ -1,1 +1,4 @@
-meta { include("api_data/bunny_armchair", this); };
+meta {
+  id = BUNNY_ARMCHAIR;
+  include("api_data/bunny_armchair", this); 
+};

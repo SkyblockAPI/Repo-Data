@@ -1,1 +1,4 @@
-meta { include("api_data/century_memento_pink", this); };
+meta {
+  id = CENTURY_MEMENTO_PINK;
+  include("api_data/century_memento_pink", this); 
+};

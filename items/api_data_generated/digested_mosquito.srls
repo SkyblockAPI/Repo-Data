@@ -1,1 +1,4 @@
-meta { include("api_data/digested_mosquito", this); };
+meta {
+  id = DIGESTED_MOSQUITO;
+  include("api_data/digested_mosquito", this); 
+};

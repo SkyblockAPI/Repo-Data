@@ -1,1 +1,4 @@
-meta { include("api_data/aquamaster_x", this); };
+meta {
+  id = AQUAMASTER_X;
+  include("api_data/aquamaster_x", this); 
+};

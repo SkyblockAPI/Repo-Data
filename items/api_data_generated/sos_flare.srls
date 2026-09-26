@@ -1,1 +1,4 @@
-meta { include("api_data/sos_flare", this); };
+meta {
+  id = SOS_FLARE;
+  include("api_data/sos_flare", this); 
+};

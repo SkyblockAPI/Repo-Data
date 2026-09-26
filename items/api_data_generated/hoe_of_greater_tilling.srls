@@ -1,1 +1,4 @@
-meta { include("api_data/hoe_of_greater_tilling", this); };
+meta {
+  id = HOE_OF_GREATER_TILLING;
+  include("api_data/hoe_of_greater_tilling", this); 
+};

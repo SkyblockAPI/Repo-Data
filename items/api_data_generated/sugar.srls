@@ -1,1 +1,4 @@
-meta { include("api_data/sugar", this); };
+meta {
+  id = SUGAR;
+  include("api_data/sugar", this); 
+};

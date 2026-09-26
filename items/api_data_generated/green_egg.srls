@@ -1,1 +1,4 @@
-meta { include("api_data/green_egg", this); };
+meta {
+  id = GREEN_EGG;
+  include("api_data/green_egg", this); 
+};

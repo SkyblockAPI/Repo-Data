@@ -1,1 +1,4 @@
-meta { include("api_data/glossy_mineral_talisman", this); };
+meta {
+  id = GLOSSY_MINERAL_TALISMAN;
+  include("api_data/glossy_mineral_talisman", this); 
+};

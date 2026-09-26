@@ -1,1 +1,4 @@
-meta { include("api_data/large_witch_cauldron", this); };
+meta {
+  id = LARGE_WITCH_CAULDRON;
+  include("api_data/large_witch_cauldron", this); 
+};

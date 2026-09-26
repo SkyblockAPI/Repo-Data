@@ -1,1 +1,4 @@
-meta { include("api_data/wasteland_portal", this); };
+meta {
+  id = WASTELAND_PORTAL;
+  include("api_data/wasteland_portal", this); 
+};

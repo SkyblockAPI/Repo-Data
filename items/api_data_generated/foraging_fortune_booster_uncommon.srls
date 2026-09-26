@@ -1,1 +1,4 @@
-meta { include("api_data/foraging_fortune_booster_uncommon", this); };
+meta {
+  id = FORAGING_FORTUNE_BOOSTER_UNCOMMON;
+  include("api_data/foraging_fortune_booster_uncommon", this); 
+};

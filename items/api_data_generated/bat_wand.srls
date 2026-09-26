@@ -1,1 +1,4 @@
-meta { include("api_data/bat_wand", this); };
+meta {
+  id = BAT_WAND;
+  include("api_data/bat_wand", this); 
+};

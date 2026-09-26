@@ -1,1 +1,4 @@
-meta { include("api_data/torrhus_springs_travel_scroll", this); };
+meta {
+  id = TORRHUS_SPRINGS_TRAVEL_SCROLL;
+  include("api_data/torrhus_springs_travel_scroll", this); 
+};

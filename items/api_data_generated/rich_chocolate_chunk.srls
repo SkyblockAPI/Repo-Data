@@ -1,1 +1,4 @@
-meta { include("api_data/rich_chocolate_chunk", this); };
+meta {
+  id = RICH_CHOCOLATE_CHUNK;
+  include("api_data/rich_chocolate_chunk", this); 
+};

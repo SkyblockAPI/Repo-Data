@@ -1,1 +1,4 @@
-meta { include("api_data/pandoras_box", this); };
+meta {
+  id = PANDORAS_BOX;
+  include("api_data/pandoras_box", this); 
+};

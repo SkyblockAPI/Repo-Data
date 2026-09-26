@@ -1,1 +1,4 @@
-meta { include("api_data/bread", this); };
+meta {
+  id = BREAD;
+  include("api_data/bread", this); 
+};

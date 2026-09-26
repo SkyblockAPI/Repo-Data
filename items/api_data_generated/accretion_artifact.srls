@@ -1,1 +1,4 @@
-meta { include("api_data/accretion_artifact", this); };
+meta {
+  id = ACCRETION_ARTIFACT;
+  include("api_data/accretion_artifact", this); 
+};

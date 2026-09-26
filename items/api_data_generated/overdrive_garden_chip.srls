@@ -1,1 +1,4 @@
-meta { include("api_data/overdrive_garden_chip", this); };
+meta {
+  id = OVERDRIVE_GARDEN_CHIP;
+  include("api_data/overdrive_garden_chip", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/silky_lichen", this); };
+meta {
+  id = SILKY_LICHEN;
+  include("api_data/silky_lichen", this); 
+};

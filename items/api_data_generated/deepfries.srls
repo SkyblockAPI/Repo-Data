@@ -1,1 +1,4 @@
-meta { include("api_data/deepfries", this); };
+meta {
+  id = DEEPFRIES;
+  include("api_data/deepfries", this); 
+};

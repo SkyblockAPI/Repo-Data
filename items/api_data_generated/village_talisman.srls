@@ -1,1 +1,4 @@
-meta { include("api_data/village_talisman", this); };
+meta {
+  id = VILLAGE_TALISMAN;
+  include("api_data/village_talisman", this); 
+};

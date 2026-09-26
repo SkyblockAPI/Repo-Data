@@ -1,1 +1,4 @@
-meta { include("api_data/zombie_knight_chestplate", this); };
+meta {
+  id = ZOMBIE_KNIGHT_CHESTPLATE;
+  include("api_data/zombie_knight_chestplate", this); 
+};

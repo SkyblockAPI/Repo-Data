@@ -1,1 +1,4 @@
-meta { include("api_data/gleaming_crystal", this); };
+meta {
+  id = GLEAMING_CRYSTAL;
+  include("api_data/gleaming_crystal", this); 
+};

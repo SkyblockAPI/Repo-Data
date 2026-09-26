@@ -1,1 +1,4 @@
-meta { include("api_data/snorkeling_helmet", this); };
+meta {
+  id = SNORKELING_HELMET;
+  include("api_data/snorkeling_helmet", this); 
+};

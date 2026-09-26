@@ -1,1 +1,4 @@
-meta { include("api_data/thermodynamic_helmet", this); };
+meta {
+  id = THERMODYNAMIC_HELMET;
+  include("api_data/thermodynamic_helmet", this); 
+};

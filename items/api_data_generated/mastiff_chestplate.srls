@@ -1,1 +1,4 @@
-meta { include("api_data/mastiff_chestplate", this); };
+meta {
+  id = MASTIFF_CHESTPLATE;
+  include("api_data/mastiff_chestplate", this); 
+};

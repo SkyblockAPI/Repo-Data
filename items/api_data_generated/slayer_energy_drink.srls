@@ -1,1 +1,4 @@
-meta { include("api_data/slayer_energy_drink", this); };
+meta {
+  id = SLAYER_ENERGY_DRINK;
+  include("api_data/slayer_energy_drink", this); 
+};

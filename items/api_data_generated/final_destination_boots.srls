@@ -1,1 +1,4 @@
-meta { include("api_data/final_destination_boots", this); };
+meta {
+  id = FINAL_DESTINATION_BOOTS;
+  include("api_data/final_destination_boots", this); 
+};

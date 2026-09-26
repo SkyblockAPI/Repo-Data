@@ -1,1 +1,4 @@
-meta { include("api_data/fisherman_cooler", this); };
+meta {
+  id = FISHERMAN_COOLER;
+  include("api_data/fisherman_cooler", this); 
+};

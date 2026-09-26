@@ -1,1 +1,4 @@
-meta { include("api_data/wish_ultimate", this); };
+meta {
+  id = WISH_ULTIMATE;
+  include("api_data/wish_ultimate", this); 
+};

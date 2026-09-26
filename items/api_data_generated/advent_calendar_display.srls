@@ -1,1 +1,4 @@
-meta { include("api_data/advent_calendar_display", this); };
+meta {
+  id = ADVENT_CALENDAR_DISPLAY;
+  include("api_data/advent_calendar_display", this); 
+};

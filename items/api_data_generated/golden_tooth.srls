@@ -1,1 +1,4 @@
-meta { include("api_data/golden_tooth", this); };
+meta {
+  id = GOLDEN_TOOTH;
+  include("api_data/golden_tooth", this); 
+};

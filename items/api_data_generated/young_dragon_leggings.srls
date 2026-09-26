@@ -1,1 +1,4 @@
-meta { include("api_data/young_dragon_leggings", this); };
+meta {
+  id = YOUNG_DRAGON_LEGGINGS;
+  include("api_data/young_dragon_leggings", this); 
+};

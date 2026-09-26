@@ -1,1 +1,4 @@
-meta { include("api_data/miner_outfit_boots", this); };
+meta {
+  id = MINER_OUTFIT_BOOTS;
+  include("api_data/miner_outfit_boots", this); 
+};

@@ -1,5 +1,5 @@
 meta {
-    include("api_data/fungi_cutter_1", this);
+    include("api_data/fungi_cutter", this);
     crop_type = "mushroom";
     include("items/prototypes/farming/hoe", this);
 }

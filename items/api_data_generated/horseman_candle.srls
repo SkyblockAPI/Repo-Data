@@ -1,1 +1,4 @@
-meta { include("api_data/horseman_candle", this); };
+meta {
+  id = HORSEMAN_CANDLE;
+  include("api_data/horseman_candle", this); 
+};

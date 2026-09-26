@@ -1,1 +1,4 @@
-meta { include("api_data/arachne_sanctuary_portal", this); };
+meta {
+  id = ARACHNE_SANCTUARY_PORTAL;
+  include("api_data/arachne_sanctuary_portal", this); 
+};

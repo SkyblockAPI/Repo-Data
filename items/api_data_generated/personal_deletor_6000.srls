@@ -1,1 +1,4 @@
-meta { include("api_data/personal_deletor_6000", this); };
+meta {
+  id = PERSONAL_DELETOR_6000;
+  include("api_data/personal_deletor_6000", this); 
+};

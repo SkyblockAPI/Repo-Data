@@ -1,1 +1,4 @@
-meta { include("api_data/holy_baby", this); };
+meta {
+  id = HOLY_BABY;
+  include("api_data/holy_baby", this); 
+};

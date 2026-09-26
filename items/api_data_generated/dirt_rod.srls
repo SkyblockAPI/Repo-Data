@@ -1,1 +1,4 @@
-meta { include("api_data/dirt_rod", this); };
+meta {
+  id = DIRT_ROD;
+  include("api_data/dirt_rod", this); 
+};

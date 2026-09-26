@@ -1,1 +1,4 @@
-meta { include("api_data/mysterious_package", this); };
+meta {
+  id = MYSTERIOUS_PACKAGE;
+  include("api_data/mysterious_package", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/robotron_reflector", this); };
+meta {
+  id = ROBOTRON_REFLECTOR;
+  include("api_data/robotron_reflector", this); 
+};

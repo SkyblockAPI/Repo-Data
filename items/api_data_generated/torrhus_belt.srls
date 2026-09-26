@@ -1,1 +1,4 @@
-meta { include("api_data/torrhus_belt", this); };
+meta {
+  id = TORRHUS_BELT;
+  include("api_data/torrhus_belt", this); 
+};

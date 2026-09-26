@@ -1,1 +1,4 @@
-meta { include("api_data/wither_cloak", this); };
+meta {
+  id = WITHER_CLOAK;
+  include("api_data/wither_cloak", this); 
+};

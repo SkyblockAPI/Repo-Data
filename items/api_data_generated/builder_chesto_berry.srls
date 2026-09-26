@@ -1,1 +1,4 @@
-meta { include("api_data/builder_chesto_berry", this); };
+meta {
+  id = BUILDER_CHESTO_BERRY;
+  include("api_data/builder_chesto_berry", this); 
+};

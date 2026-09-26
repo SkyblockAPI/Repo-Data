@@ -1,1 +1,4 @@
-meta { include("api_data/zombie_mask", this); };
+meta {
+  id = ZOMBIE_MASK;
+  include("api_data/zombie_mask", this); 
+};

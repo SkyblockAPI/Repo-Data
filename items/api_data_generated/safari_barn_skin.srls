@@ -1,1 +1,4 @@
-meta { include("api_data/safari_barn_skin", this); };
+meta {
+  id = SAFARI_BARN_SKIN;
+  include("api_data/safari_barn_skin", this); 
+};

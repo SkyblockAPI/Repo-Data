@@ -1,1 +1,4 @@
-meta { include("api_data/emerald_tipped_arrow", this); };
+meta {
+  id = EMERALD_TIPPED_ARROW;
+  include("api_data/emerald_tipped_arrow", this); 
+};

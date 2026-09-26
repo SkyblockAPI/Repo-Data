@@ -1,1 +1,4 @@
-meta { include("api_data/rusty_coin", this); };
+meta {
+  id = RUSTY_COIN;
+  include("api_data/rusty_coin", this); 
+};

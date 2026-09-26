@@ -1,1 +1,4 @@
-meta { include("api_data/patio_fire_pit", this); };
+meta {
+  id = PATIO_FIRE_PIT;
+  include("api_data/patio_fire_pit", this); 
+};

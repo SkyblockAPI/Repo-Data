@@ -1,1 +1,4 @@
-meta { include("api_data/absolute_ender_pearl", this); };
+meta {
+  id = ABSOLUTE_ENDER_PEARL;
+  include("api_data/absolute_ender_pearl", this); 
+};

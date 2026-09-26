@@ -1,1 +1,4 @@
-meta { include("api_data/hologram", this); };
+meta {
+  id = HOLOGRAM;
+  include("api_data/hologram", this); 
+};

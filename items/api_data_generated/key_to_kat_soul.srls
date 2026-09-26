@@ -1,1 +1,4 @@
-meta { include("api_data/key_to_kat_soul", this); };
+meta {
+  id = KEY_TO_KAT_SOUL;
+  include("api_data/key_to_kat_soul", this); 
+};

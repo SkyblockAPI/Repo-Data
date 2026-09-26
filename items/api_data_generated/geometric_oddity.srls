@@ -1,1 +1,4 @@
-meta { include("api_data/geometric_oddity", this); };
+meta {
+  id = GEOMETRIC_ODDITY;
+  include("api_data/geometric_oddity", this); 
+};

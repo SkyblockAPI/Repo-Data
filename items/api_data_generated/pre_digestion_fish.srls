@@ -1,1 +1,4 @@
-meta { include("api_data/pre_digestion_fish", this); };
+meta {
+  id = PRE_DIGESTION_FISH;
+  include("api_data/pre_digestion_fish", this); 
+};

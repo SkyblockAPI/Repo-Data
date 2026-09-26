@@ -1,1 +1,4 @@
-meta { include("api_data/pet_item_chocolate_syringe", this); };
+meta {
+  id = PET_ITEM_CHOCOLATE_SYRINGE;
+  include("api_data/pet_item_chocolate_syringe", this); 
+};

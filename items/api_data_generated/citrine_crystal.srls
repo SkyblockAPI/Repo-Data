@@ -1,1 +1,4 @@
-meta { include("api_data/citrine_crystal", this); };
+meta {
+  id = CITRINE_CRYSTAL;
+  include("api_data/citrine_crystal", this); 
+};

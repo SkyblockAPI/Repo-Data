@@ -1,1 +1,4 @@
-meta { include("api_data/giants_eye_sword", this); };
+meta {
+  id = GIANTS_EYE_SWORD;
+  include("api_data/giants_eye_sword", this); 
+};

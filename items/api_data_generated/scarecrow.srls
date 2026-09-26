@@ -1,1 +1,4 @@
-meta { include("api_data/scarecrow", this); };
+meta {
+  id = SCARECROW;
+  include("api_data/scarecrow", this); 
+};

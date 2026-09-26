@@ -1,1 +1,4 @@
-meta { include("api_data/bamboo", this); };
+meta {
+  id = BAMBOO;
+  include("api_data/bamboo", this); 
+};

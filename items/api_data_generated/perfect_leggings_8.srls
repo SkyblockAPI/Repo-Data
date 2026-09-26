@@ -1,1 +1,4 @@
-meta { include("api_data/perfect_leggings_8", this); };
+meta {
+  id = PERFECT_LEGGINGS_8;
+  include("api_data/perfect_leggings_8", this); 
+};

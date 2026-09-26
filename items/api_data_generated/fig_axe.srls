@@ -1,1 +1,4 @@
-meta { include("api_data/fig_axe", this); };
+meta {
+  id = FIG_AXE;
+  include("api_data/fig_axe", this); 
+};

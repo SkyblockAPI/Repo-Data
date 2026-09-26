@@ -1,1 +1,4 @@
-meta { include("api_data/red_claw_egg", this); };
+meta {
+  id = RED_CLAW_EGG;
+  include("api_data/red_claw_egg", this); 
+};

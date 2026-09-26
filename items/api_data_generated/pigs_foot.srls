@@ -1,1 +1,4 @@
-meta { include("api_data/pigs_foot", this); };
+meta {
+  id = PIGS_FOOT;
+  include("api_data/pigs_foot", this); 
+};

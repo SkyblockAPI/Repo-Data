@@ -1,1 +1,4 @@
-meta { include("api_data/lime_small_backpack", this); };
+meta {
+  id = LIME_SMALL_BACKPACK;
+  include("api_data/lime_small_backpack", this); 
+};

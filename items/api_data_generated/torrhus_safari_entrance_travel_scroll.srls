@@ -1,1 +1,4 @@
-meta { include("api_data/torrhus_safari_entrance_travel_scroll", this); };
+meta {
+  id = TORRHUS_SAFARI_ENTRANCE_TRAVEL_SCROLL;
+  include("api_data/torrhus_safari_entrance_travel_scroll", this); 
+};

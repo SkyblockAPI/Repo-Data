@@ -1,1 +1,4 @@
-meta { include("api_data/quartz_generator_9", this); };
+meta {
+  id = QUARTZ_GENERATOR_9;
+  include("api_data/quartz_generator_9", this); 
+};

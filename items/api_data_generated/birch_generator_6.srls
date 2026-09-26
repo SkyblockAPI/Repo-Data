@@ -1,1 +1,4 @@
-meta { include("api_data/birch_generator_6", this); };
+meta {
+  id = BIRCH_GENERATOR_6;
+  include("api_data/birch_generator_6", this); 
+};

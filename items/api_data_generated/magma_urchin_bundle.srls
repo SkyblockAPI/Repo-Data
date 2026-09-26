@@ -1,1 +1,4 @@
-meta { include("api_data/magma_urchin_bundle", this); };
+meta {
+  id = MAGMA_URCHIN_BUNDLE;
+  include("api_data/magma_urchin_bundle", this); 
+};

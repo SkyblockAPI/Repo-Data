@@ -1,1 +1,4 @@
-meta { include("api_data/banner-8", this); };
+meta {
+  id = BANNER:8;
+  include("api_data/banner-8", this); 
+};

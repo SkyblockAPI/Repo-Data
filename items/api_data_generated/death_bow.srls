@@ -1,1 +1,4 @@
-meta { include("api_data/death_bow", this); };
+meta {
+  id = DEATH_BOW;
+  include("api_data/death_bow", this); 
+};

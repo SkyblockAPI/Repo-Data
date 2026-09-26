@@ -1,1 +1,4 @@
-meta { include("api_data/copper_talisman", this); };
+meta {
+  id = COPPER_TALISMAN;
+  include("api_data/copper_talisman", this); 
+};

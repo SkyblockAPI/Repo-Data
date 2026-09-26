@@ -1,1 +1,4 @@
-meta { include("api_data/backwater_helmet", this); };
+meta {
+  id = BACKWATER_HELMET;
+  include("api_data/backwater_helmet", this); 
+};

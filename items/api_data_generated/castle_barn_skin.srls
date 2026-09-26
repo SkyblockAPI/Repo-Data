@@ -1,1 +1,4 @@
-meta { include("api_data/castle_barn_skin", this); };
+meta {
+  id = CASTLE_BARN_SKIN;
+  include("api_data/castle_barn_skin", this); 
+};

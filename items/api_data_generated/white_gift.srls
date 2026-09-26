@@ -1,1 +1,4 @@
-meta { include("api_data/white_gift", this); };
+meta {
+  id = WHITE_GIFT;
+  include("api_data/white_gift", this); 
+};

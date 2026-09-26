@@ -1,1 +1,4 @@
-meta { include("api_data/scarleton_portal", this); };
+meta {
+  id = SCARLETON_PORTAL;
+  include("api_data/scarleton_portal", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/beady_eyes", this); };
+meta {
+  id = BEADY_EYES;
+  include("api_data/beady_eyes", this); 
+};

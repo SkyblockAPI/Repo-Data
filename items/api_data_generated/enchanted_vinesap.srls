@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_vinesap", this); };
+meta {
+  id = ENCHANTED_VINESAP;
+  include("api_data/enchanted_vinesap", this); 
+};

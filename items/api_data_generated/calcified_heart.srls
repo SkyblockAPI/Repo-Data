@@ -1,1 +1,4 @@
-meta { include("api_data/calcified_heart", this); };
+meta {
+  id = CALCIFIED_HEART;
+  include("api_data/calcified_heart", this); 
+};

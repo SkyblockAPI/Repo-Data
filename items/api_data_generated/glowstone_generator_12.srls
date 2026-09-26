@@ -1,1 +1,4 @@
-meta { include("api_data/glowstone_generator_12", this); };
+meta {
+  id = GLOWSTONE_GENERATOR_12;
+  include("api_data/glowstone_generator_12", this); 
+};

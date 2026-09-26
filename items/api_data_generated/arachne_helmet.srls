@@ -1,1 +1,4 @@
-meta { include("api_data/arachne_helmet", this); };
+meta {
+  id = ARACHNE_HELMET;
+  include("api_data/arachne_helmet", this); 
+};

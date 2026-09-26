@@ -1,1 +1,4 @@
-meta { include("api_data/viking_tear", this); };
+meta {
+  id = VIKING_TEAR;
+  include("api_data/viking_tear", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/cruxmotion", this); };
+meta {
+  id = CRUXMOTION;
+  include("api_data/cruxmotion", this); 
+};

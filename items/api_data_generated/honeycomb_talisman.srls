@@ -1,1 +1,4 @@
-meta { include("api_data/honeycomb_talisman", this); };
+meta {
+  id = HONEYCOMB_TALISMAN;
+  include("api_data/honeycomb_talisman", this); 
+};

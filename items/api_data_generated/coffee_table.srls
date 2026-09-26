@@ -1,1 +1,4 @@
-meta { include("api_data/coffee_table", this); };
+meta {
+  id = COFFEE_TABLE;
+  include("api_data/coffee_table", this); 
+};

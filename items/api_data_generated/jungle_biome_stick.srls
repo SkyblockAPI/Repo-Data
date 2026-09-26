@@ -1,1 +1,4 @@
-meta { include("api_data/jungle_biome_stick", this); };
+meta {
+  id = JUNGLE_BIOME_STICK;
+  include("api_data/jungle_biome_stick", this); 
+};

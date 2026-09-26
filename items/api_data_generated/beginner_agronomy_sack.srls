@@ -1,1 +1,4 @@
-meta { include("api_data/beginner_agronomy_sack", this); };
+meta {
+  id = BEGINNER_AGRONOMY_SACK;
+  include("api_data/beginner_agronomy_sack", this); 
+};

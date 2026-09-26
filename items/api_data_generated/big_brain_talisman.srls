@@ -1,1 +1,4 @@
-meta { include("api_data/big_brain_talisman", this); };
+meta {
+  id = BIG_BRAIN_TALISMAN;
+  include("api_data/big_brain_talisman", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/gill_membrane", this); };
+meta {
+  id = GILL_MEMBRANE;
+  include("api_data/gill_membrane", this); 
+};

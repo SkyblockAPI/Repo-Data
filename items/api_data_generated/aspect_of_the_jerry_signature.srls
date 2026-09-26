@@ -1,1 +1,4 @@
-meta { include("api_data/aspect_of_the_jerry_signature", this); };
+meta {
+  id = ASPECT_OF_THE_JERRY_SIGNATURE;
+  include("api_data/aspect_of_the_jerry_signature", this); 
+};

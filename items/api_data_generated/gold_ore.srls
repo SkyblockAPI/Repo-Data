@@ -1,1 +1,4 @@
-meta { include("api_data/gold_ore", this); };
+meta {
+  id = GOLD_ORE;
+  include("api_data/gold_ore", this); 
+};

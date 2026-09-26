@@ -1,1 +1,4 @@
-meta { include("api_data/potato_crown", this); };
+meta {
+  id = POTATO_CROWN;
+  include("api_data/potato_crown", this); 
+};

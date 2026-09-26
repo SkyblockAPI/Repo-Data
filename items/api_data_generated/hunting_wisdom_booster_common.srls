@@ -1,1 +1,4 @@
-meta { include("api_data/hunting_wisdom_booster_common", this); };
+meta {
+  id = HUNTING_WISDOM_BOOSTER_COMMON;
+  include("api_data/hunting_wisdom_booster_common", this); 
+};

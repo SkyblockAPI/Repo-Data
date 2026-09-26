@@ -1,1 +1,4 @@
-meta { include("api_data/vinyl_cicada_symphony", this); };
+meta {
+  id = VINYL_CICADA_SYMPHONY;
+  include("api_data/vinyl_cicada_symphony", this); 
+};

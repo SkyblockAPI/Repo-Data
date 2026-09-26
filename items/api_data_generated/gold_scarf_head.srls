@@ -1,1 +1,4 @@
-meta { include("api_data/gold_scarf_head", this); };
+meta {
+  id = GOLD_SCARF_HEAD;
+  include("api_data/gold_scarf_head", this); 
+};

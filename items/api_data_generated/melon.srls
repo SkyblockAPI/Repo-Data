@@ -1,1 +1,4 @@
-meta { include("api_data/melon", this); };
+meta {
+  id = MELON;
+  include("api_data/melon", this); 
+};

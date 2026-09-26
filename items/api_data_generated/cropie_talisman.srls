@@ -1,1 +1,4 @@
-meta { include("api_data/cropie_talisman", this); };
+meta {
+  id = CROPIE_TALISMAN;
+  include("api_data/cropie_talisman", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/stained_clay-2", this); };
+meta {
+  id = STAINED_CLAY:2;
+  include("api_data/stained_clay-2", this); 
+};

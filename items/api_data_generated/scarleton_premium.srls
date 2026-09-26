@@ -1,1 +1,4 @@
-meta { include("api_data/scarleton_premium", this); };
+meta {
+  id = SCARLETON_PREMIUM;
+  include("api_data/scarleton_premium", this); 
+};

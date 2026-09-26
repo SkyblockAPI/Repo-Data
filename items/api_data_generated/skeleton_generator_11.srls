@@ -1,1 +1,4 @@
-meta { include("api_data/skeleton_generator_11", this); };
+meta {
+  id = SKELETON_GENERATOR_11;
+  include("api_data/skeleton_generator_11", this); 
+};

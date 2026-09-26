@@ -1,1 +1,4 @@
-meta { include("api_data/hot_potato_book", this); };
+meta {
+  id = HOT_POTATO_BOOK;
+  include("api_data/hot_potato_book", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/treasure_talisman", this); };
+meta {
+  id = TREASURE_TALISMAN;
+  include("api_data/treasure_talisman", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/advanced_gardening_axe", this); };
+meta {
+  id = ADVANCED_GARDENING_AXE;
+  include("api_data/advanced_gardening_axe", this); 
+};

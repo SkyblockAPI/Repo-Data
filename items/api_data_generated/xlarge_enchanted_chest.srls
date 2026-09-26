@@ -1,1 +1,4 @@
-meta { include("api_data/xlarge_enchanted_chest", this); };
+meta {
+  id = XLARGE_ENCHANTED_CHEST;
+  include("api_data/xlarge_enchanted_chest", this); 
+};

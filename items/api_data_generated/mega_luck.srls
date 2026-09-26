@@ -1,1 +1,4 @@
-meta { include("api_data/mega_luck", this); };
+meta {
+  id = MEGA_LUCK;
+  include("api_data/mega_luck", this); 
+};

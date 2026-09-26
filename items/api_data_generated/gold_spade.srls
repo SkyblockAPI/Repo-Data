@@ -1,1 +1,4 @@
-meta { include("api_data/gold_spade", this); };
+meta {
+  id = GOLD_SPADE;
+  include("api_data/gold_spade", this); 
+};

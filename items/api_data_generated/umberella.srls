@@ -1,1 +1,4 @@
-meta { include("api_data/umberella", this); };
+meta {
+  id = UMBERELLA;
+  include("api_data/umberella", this); 
+};

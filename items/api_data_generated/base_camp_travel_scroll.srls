@@ -1,1 +1,4 @@
-meta { include("api_data/base_camp_travel_scroll", this); };
+meta {
+  id = BASE_CAMP_TRAVEL_SCROLL;
+  include("api_data/base_camp_travel_scroll", this); 
+};

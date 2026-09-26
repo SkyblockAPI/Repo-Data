@@ -1,1 +1,4 @@
-meta { include("api_data/turkey_barn_skin", this); };
+meta {
+  id = TURKEY_BARN_SKIN;
+  include("api_data/turkey_barn_skin", this); 
+};

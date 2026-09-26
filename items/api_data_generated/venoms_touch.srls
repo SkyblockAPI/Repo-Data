@@ -1,1 +1,4 @@
-meta { include("api_data/venoms_touch", this); };
+meta {
+  id = VENOMS_TOUCH;
+  include("api_data/venoms_touch", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/miniature_greenhouse_skin", this); };
+meta {
+  id = MINIATURE_GREENHOUSE_SKIN;
+  include("api_data/miniature_greenhouse_skin", this); 
+};

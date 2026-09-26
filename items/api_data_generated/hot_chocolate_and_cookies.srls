@@ -1,1 +1,4 @@
-meta { include("api_data/hot_chocolate_and_cookies", this); };
+meta {
+  id = HOT_CHOCOLATE_AND_COOKIES;
+  include("api_data/hot_chocolate_and_cookies", this); 
+};

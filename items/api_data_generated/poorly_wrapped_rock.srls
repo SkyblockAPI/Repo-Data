@@ -1,1 +1,4 @@
-meta { include("api_data/poorly_wrapped_rock", this); };
+meta {
+  id = POORLY_WRAPPED_ROCK;
+  include("api_data/poorly_wrapped_rock", this); 
+};

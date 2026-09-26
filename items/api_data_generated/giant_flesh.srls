@@ -1,1 +1,4 @@
-meta { include("api_data/giant_flesh", this); };
+meta {
+  id = GIANT_FLESH;
+  include("api_data/giant_flesh", this); 
+};

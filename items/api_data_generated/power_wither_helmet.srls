@@ -1,1 +1,4 @@
-meta { include("api_data/power_wither_helmet", this); };
+meta {
+  id = POWER_WITHER_HELMET;
+  include("api_data/power_wither_helmet", this); 
+};

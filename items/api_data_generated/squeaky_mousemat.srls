@@ -1,1 +1,4 @@
-meta { include("api_data/squeaky_mousemat", this); };
+meta {
+  id = SQUEAKY_MOUSEMAT;
+  include("api_data/squeaky_mousemat", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/marsh_spore_soup", this); };
+meta {
+  id = MARSH_SPORE_SOUP;
+  include("api_data/marsh_spore_soup", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/void_sepulture_travel_scroll", this); };
+meta {
+  id = VOID_SEPULTURE_TRAVEL_SCROLL;
+  include("api_data/void_sepulture_travel_scroll", this); 
+};

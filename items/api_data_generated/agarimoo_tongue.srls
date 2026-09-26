@@ -1,1 +1,4 @@
-meta { include("api_data/agarimoo_tongue", this); };
+meta {
+  id = AGARIMOO_TONGUE;
+  include("api_data/agarimoo_tongue", this); 
+};

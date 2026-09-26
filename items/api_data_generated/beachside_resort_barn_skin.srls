@@ -1,1 +1,4 @@
-meta { include("api_data/beachside_resort_barn_skin", this); };
+meta {
+  id = BEACHSIDE_RESORT_BARN_SKIN;
+  include("api_data/beachside_resort_barn_skin", this); 
+};

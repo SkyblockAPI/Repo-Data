@@ -1,1 +1,4 @@
-meta { include("api_data/shark_water_orb", this); };
+meta {
+  id = SHARK_WATER_ORB;
+  include("api_data/shark_water_orb", this); 
+};

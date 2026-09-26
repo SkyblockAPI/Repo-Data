@@ -1,1 +1,4 @@
-meta { include("api_data/phantom_hook", this); };
+meta {
+  id = PHANTOM_HOOK;
+  include("api_data/phantom_hook", this); 
+};

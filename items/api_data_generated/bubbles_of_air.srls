@@ -1,1 +1,4 @@
-meta { include("api_data/bubbles_of_air", this); };
+meta {
+  id = BUBBLES_OF_AIR;
+  include("api_data/bubbles_of_air", this); 
+};

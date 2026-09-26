@@ -1,1 +1,4 @@
-meta { include("api_data/necron_blade", this); };
+meta {
+  id = NECRON_BLADE;
+  include("api_data/necron_blade", this); 
+};

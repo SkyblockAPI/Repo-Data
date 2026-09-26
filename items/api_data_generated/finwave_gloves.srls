@@ -1,1 +1,4 @@
-meta { include("api_data/finwave_gloves", this); };
+meta {
+  id = FINWAVE_GLOVES;
+  include("api_data/finwave_gloves", this); 
+};

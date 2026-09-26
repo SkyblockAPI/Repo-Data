@@ -1,0 +1,3 @@
+include("types/armor", this);
+category = "CHESTPLATE";
+categories += "chestplate";

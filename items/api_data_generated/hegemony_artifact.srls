@@ -1,1 +1,4 @@
-meta { include("api_data/hegemony_artifact", this); };
+meta {
+  id = HEGEMONY_ARTIFACT;
+  include("api_data/hegemony_artifact", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/diamond_professor_head", this); };
+meta {
+  id = DIAMOND_PROFESSOR_HEAD;
+  include("api_data/diamond_professor_head", this); 
+};

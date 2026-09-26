@@ -1,1 +1,4 @@
-meta { include("api_data/quartz_stairs", this); };
+meta {
+  id = QUARTZ_STAIRS;
+  include("api_data/quartz_stairs", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/armadillo_mask", this); };
+meta {
+  id = ARMADILLO_MASK;
+  include("api_data/armadillo_mask", this); 
+};

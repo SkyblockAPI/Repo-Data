@@ -1,1 +1,4 @@
-meta { include("api_data/large_husbandry_sack", this); };
+meta {
+  id = LARGE_HUSBANDRY_SACK;
+  include("api_data/large_husbandry_sack", this); 
+};

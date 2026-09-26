@@ -1,1 +1,4 @@
-meta { include("api_data/anti_bite_scarf", this); };
+meta {
+  id = ANTI_BITE_SCARF;
+  include("api_data/anti_bite_scarf", this); 
+};

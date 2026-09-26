@@ -1,1 +1,4 @@
-meta { include("api_data/revenant_flesh", this); };
+meta {
+  id = REVENANT_FLESH;
+  include("api_data/revenant_flesh", this); 
+};

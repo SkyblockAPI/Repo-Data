@@ -1,1 +1,4 @@
-meta { include("api_data/amber_power_scroll", this); };
+meta {
+  id = AMBER_POWER_SCROLL;
+  include("api_data/amber_power_scroll", this); 
+};

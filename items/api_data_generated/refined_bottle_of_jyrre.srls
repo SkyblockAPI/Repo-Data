@@ -1,1 +1,4 @@
-meta { include("api_data/refined_bottle_of_jyrre", this); };
+meta {
+  id = REFINED_BOTTLE_OF_JYRRE;
+  include("api_data/refined_bottle_of_jyrre", this); 
+};

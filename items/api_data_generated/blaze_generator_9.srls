@@ -1,1 +1,4 @@
-meta { include("api_data/blaze_generator_9", this); };
+meta {
+  id = BLAZE_GENERATOR_9;
+  include("api_data/blaze_generator_9", this); 
+};

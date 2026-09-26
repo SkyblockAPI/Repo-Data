@@ -1,1 +1,4 @@
-meta { include("api_data/mercenary_boots", this); };
+meta {
+  id = MERCENARY_BOOTS;
+  include("api_data/mercenary_boots", this); 
+};

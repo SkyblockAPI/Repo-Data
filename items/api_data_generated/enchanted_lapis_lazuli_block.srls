@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_lapis_lazuli_block", this); };
+meta {
+  id = ENCHANTED_LAPIS_LAZULI_BLOCK;
+  include("api_data/enchanted_lapis_lazuli_block", this); 
+};

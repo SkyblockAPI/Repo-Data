@@ -1,1 +1,4 @@
-meta { include("api_data/shady_ring", this); };
+meta {
+  id = SHADY_RING;
+  include("api_data/shady_ring", this); 
+};

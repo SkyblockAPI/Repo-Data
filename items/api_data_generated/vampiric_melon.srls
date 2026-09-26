@@ -1,1 +1,4 @@
-meta { include("api_data/vampiric_melon", this); };
+meta {
+  id = VAMPIRIC_MELON;
+  include("api_data/vampiric_melon", this); 
+};

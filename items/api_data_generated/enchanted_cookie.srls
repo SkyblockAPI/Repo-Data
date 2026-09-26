@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_cookie", this); };
+meta {
+  id = ENCHANTED_COOKIE;
+  include("api_data/enchanted_cookie", this); 
+};

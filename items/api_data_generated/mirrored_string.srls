@@ -1,1 +1,4 @@
-meta { include("api_data/mirrored_string", this); };
+meta {
+  id = MIRRORED_STRING;
+  include("api_data/mirrored_string", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/starred_ice_spray_wand", this); };
+meta {
+  id = STARRED_ICE_SPRAY_WAND;
+  include("api_data/starred_ice_spray_wand", this); 
+};

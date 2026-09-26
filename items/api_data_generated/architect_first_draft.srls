@@ -1,1 +1,4 @@
-meta { include("api_data/architect_first_draft", this); };
+meta {
+  id = ARCHITECT_FIRST_DRAFT;
+  include("api_data/architect_first_draft", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/feather_ring", this); };
+meta {
+  id = FEATHER_RING;
+  include("api_data/feather_ring", this); 
+};

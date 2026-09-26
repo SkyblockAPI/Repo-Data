@@ -1,1 +1,4 @@
-meta { include("api_data/necromancer_lord_leggings", this); };
+meta {
+  id = NECROMANCER_LORD_LEGGINGS;
+  include("api_data/necromancer_lord_leggings", this); 
+};

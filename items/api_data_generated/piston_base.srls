@@ -1,1 +1,4 @@
-meta { include("api_data/piston_base", this); };
+meta {
+  id = PISTON_BASE;
+  include("api_data/piston_base", this); 
+};

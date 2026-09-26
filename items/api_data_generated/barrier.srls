@@ -1,1 +1,4 @@
-meta { include("api_data/barrier", this); };
+meta {
+  id = BARRIER;
+  include("api_data/barrier", this); 
+};

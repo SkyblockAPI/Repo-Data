@@ -1,1 +1,4 @@
-meta { include("api_data/iron_generator_9", this); };
+meta {
+  id = IRON_GENERATOR_9;
+  include("api_data/iron_generator_9", this); 
+};

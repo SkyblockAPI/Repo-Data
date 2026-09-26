@@ -1,1 +1,4 @@
-meta { include("api_data/berserker_helmet", this); };
+meta {
+  id = BERSERKER_HELMET;
+  include("api_data/berserker_helmet", this); 
+};

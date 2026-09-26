@@ -1,1 +1,4 @@
-meta { include("api_data/jumbo_backpack", this); };
+meta {
+  id = JUMBO_BACKPACK;
+  include("api_data/jumbo_backpack", this); 
+};

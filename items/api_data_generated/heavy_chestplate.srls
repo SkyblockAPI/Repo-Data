@@ -1,1 +1,4 @@
-meta { include("api_data/heavy_chestplate", this); };
+meta {
+  id = HEAVY_CHESTPLATE;
+  include("api_data/heavy_chestplate", this); 
+};

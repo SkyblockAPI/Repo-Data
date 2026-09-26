@@ -1,1 +1,4 @@
-meta { include("api_data/park_cave_travel_scroll", this); };
+meta {
+  id = PARK_CAVE_TRAVEL_SCROLL;
+  include("api_data/park_cave_travel_scroll", this); 
+};

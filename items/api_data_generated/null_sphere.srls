@@ -1,1 +1,4 @@
-meta { include("api_data/null_sphere", this); };
+meta {
+  id = NULL_SPHERE;
+  include("api_data/null_sphere", this); 
+};

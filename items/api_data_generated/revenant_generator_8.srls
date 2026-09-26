@@ -1,1 +1,4 @@
-meta { include("api_data/revenant_generator_8", this); };
+meta {
+  id = REVENANT_GENERATOR_8;
+  include("api_data/revenant_generator_8", this); 
+};

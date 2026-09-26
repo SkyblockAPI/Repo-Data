@@ -1,1 +1,4 @@
-meta { include("api_data/retro_encabulating_visor", this); };
+meta {
+  id = RETRO_ENCABULATING_VISOR;
+  include("api_data/retro_encabulating_visor", this); 
+};

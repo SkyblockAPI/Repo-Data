@@ -1,1 +1,4 @@
-meta { include("api_data/blue_small_backpack", this); };
+meta {
+  id = BLUE_SMALL_BACKPACK;
+  include("api_data/blue_small_backpack", this); 
+};

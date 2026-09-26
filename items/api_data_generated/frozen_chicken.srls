@@ -1,1 +1,4 @@
-meta { include("api_data/frozen_chicken", this); };
+meta {
+  id = FROZEN_CHICKEN;
+  include("api_data/frozen_chicken", this); 
+};

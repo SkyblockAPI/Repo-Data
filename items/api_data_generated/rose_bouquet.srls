@@ -1,1 +1,4 @@
-meta { include("api_data/rose_bouquet", this); };
+meta {
+  id = ROSE_BOUQUET;
+  include("api_data/rose_bouquet", this); 
+};

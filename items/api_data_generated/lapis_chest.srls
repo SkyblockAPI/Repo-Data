@@ -1,1 +1,4 @@
-meta { include("api_data/lapis_chest", this); };
+meta {
+  id = LAPIS_CHEST;
+  include("api_data/lapis_chest", this); 
+};

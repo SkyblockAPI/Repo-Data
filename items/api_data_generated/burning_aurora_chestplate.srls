@@ -1,1 +1,4 @@
-meta { include("api_data/burning_aurora_chestplate", this); };
+meta {
+  id = BURNING_AURORA_CHESTPLATE;
+  include("api_data/burning_aurora_chestplate", this); 
+};

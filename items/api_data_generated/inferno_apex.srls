@@ -1,1 +1,4 @@
-meta { include("api_data/inferno_apex", this); };
+meta {
+  id = INFERNO_APEX;
+  include("api_data/inferno_apex", this); 
+};

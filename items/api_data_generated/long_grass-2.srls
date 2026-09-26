@@ -1,1 +1,4 @@
-meta { include("api_data/long_grass-2", this); };
+meta {
+  id = LONG_GRASS:2;
+  include("api_data/long_grass-2", this); 
+};

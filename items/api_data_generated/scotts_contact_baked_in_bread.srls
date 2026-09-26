@@ -1,1 +1,4 @@
-meta { include("api_data/scotts_contact_baked_in_bread", this); };
+meta {
+  id = SCOTTS_CONTACT_BAKED_IN_BREAD;
+  include("api_data/scotts_contact_baked_in_bread", this); 
+};

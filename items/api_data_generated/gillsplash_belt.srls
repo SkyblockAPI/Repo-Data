@@ -1,1 +1,4 @@
-meta { include("api_data/gillsplash_belt", this); };
+meta {
+  id = GILLSPLASH_BELT;
+  include("api_data/gillsplash_belt", this); 
+};

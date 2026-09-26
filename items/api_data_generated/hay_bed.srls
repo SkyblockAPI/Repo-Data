@@ -1,1 +1,4 @@
-meta { include("api_data/hay_bed", this); };
+meta {
+  id = HAY_BED;
+  include("api_data/hay_bed", this); 
+};

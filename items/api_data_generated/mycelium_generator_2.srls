@@ -1,1 +1,4 @@
-meta { include("api_data/mycelium_generator_2", this); };
+meta {
+  id = MYCELIUM_GENERATOR_2;
+  include("api_data/mycelium_generator_2", this); 
+};

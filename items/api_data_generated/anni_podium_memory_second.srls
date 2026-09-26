@@ -1,1 +1,4 @@
-meta { include("api_data/anni_podium_memory_second", this); };
+meta {
+  id = ANNI_PODIUM_MEMORY_SECOND;
+  include("api_data/anni_podium_memory_second", this); 
+};

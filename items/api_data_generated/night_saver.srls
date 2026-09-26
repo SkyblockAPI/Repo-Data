@@ -1,1 +1,4 @@
-meta { include("api_data/night_saver", this); };
+meta {
+  id = NIGHT_SAVER;
+  include("api_data/night_saver", this); 
+};

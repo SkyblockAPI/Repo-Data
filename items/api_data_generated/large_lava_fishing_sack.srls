@@ -1,1 +1,4 @@
-meta { include("api_data/large_lava_fishing_sack", this); };
+meta {
+  id = LARGE_LAVA_FISHING_SACK;
+  include("api_data/large_lava_fishing_sack", this); 
+};

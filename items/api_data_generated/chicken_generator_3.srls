@@ -1,1 +1,4 @@
-meta { include("api_data/chicken_generator_3", this); };
+meta {
+  id = CHICKEN_GENERATOR_3;
+  include("api_data/chicken_generator_3", this); 
+};

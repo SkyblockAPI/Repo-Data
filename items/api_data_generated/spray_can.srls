@@ -1,1 +1,4 @@
-meta { include("api_data/spray_can", this); };
+meta {
+  id = SPRAY_CAN;
+  include("api_data/spray_can", this); 
+};

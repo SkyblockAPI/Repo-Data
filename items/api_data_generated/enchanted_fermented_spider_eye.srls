@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_fermented_spider_eye", this); };
+meta {
+  id = ENCHANTED_FERMENTED_SPIDER_EYE;
+  include("api_data/enchanted_fermented_spider_eye", this); 
+};

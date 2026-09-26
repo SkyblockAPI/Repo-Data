@@ -1,1 +1,4 @@
-meta { include("api_data/wiki_journal", this); };
+meta {
+  id = WIKI_JOURNAL;
+  include("api_data/wiki_journal", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/thermodynamic_chestplate", this); };
+meta {
+  id = THERMODYNAMIC_CHESTPLATE;
+  include("api_data/thermodynamic_chestplate", this); 
+};

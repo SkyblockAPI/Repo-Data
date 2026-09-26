@@ -1,1 +1,4 @@
-meta { include("api_data/large_dragon_sack", this); };
+meta {
+  id = LARGE_DRAGON_SACK;
+  include("api_data/large_dragon_sack", this); 
+};

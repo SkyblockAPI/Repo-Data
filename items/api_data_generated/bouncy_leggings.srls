@@ -1,1 +1,4 @@
-meta { include("api_data/bouncy_leggings", this); };
+meta {
+  id = BOUNCY_LEGGINGS;
+  include("api_data/bouncy_leggings", this); 
+};

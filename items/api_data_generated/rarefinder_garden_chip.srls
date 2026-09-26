@@ -1,1 +1,4 @@
-meta { include("api_data/rarefinder_garden_chip", this); };
+meta {
+  id = RAREFINDER_GARDEN_CHIP;
+  include("api_data/rarefinder_garden_chip", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/tightly_tied_hay_bale", this); };
+meta {
+  id = TIGHTLY_TIED_HAY_BALE;
+  include("api_data/tightly_tied_hay_bale", this); 
+};

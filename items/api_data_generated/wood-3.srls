@@ -1,1 +1,4 @@
-meta { include("api_data/wood-3", this); };
+meta {
+  id = WOOD:3;
+  include("api_data/wood-3", this); 
+};

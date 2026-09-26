@@ -1,1 +1,4 @@
-meta { include("api_data/tarantula_generator_10", this); };
+meta {
+  id = TARANTULA_GENERATOR_10;
+  include("api_data/tarantula_generator_10", this); 
+};

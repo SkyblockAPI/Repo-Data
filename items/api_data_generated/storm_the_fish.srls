@@ -1,1 +1,4 @@
-meta { include("api_data/storm_the_fish", this); };
+meta {
+  id = STORM_THE_FISH;
+  include("api_data/storm_the_fish", this); 
+};

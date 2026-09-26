@@ -1,1 +1,4 @@
-meta { include("api_data/dull_shark_tooth_necklace", this); };
+meta {
+  id = DULL_SHARK_TOOTH_NECKLACE;
+  include("api_data/dull_shark_tooth_necklace", this); 
+};

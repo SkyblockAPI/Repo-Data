@@ -1,1 +1,4 @@
-meta { include("api_data/hunter_ring", this); };
+meta {
+  id = HUNTER_RING;
+  include("api_data/hunter_ring", this); 
+};

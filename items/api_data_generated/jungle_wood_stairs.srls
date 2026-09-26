@@ -1,1 +1,4 @@
-meta { include("api_data/jungle_wood_stairs", this); };
+meta {
+  id = JUNGLE_WOOD_STAIRS;
+  include("api_data/jungle_wood_stairs", this); 
+};

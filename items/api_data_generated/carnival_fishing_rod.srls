@@ -1,1 +1,4 @@
-meta { include("api_data/carnival_fishing_rod", this); };
+meta {
+  id = CARNIVAL_FISHING_ROD;
+  include("api_data/carnival_fishing_rod", this); 
+};

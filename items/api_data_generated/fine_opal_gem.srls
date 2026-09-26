@@ -1,1 +1,4 @@
-meta { include("api_data/fine_opal_gem", this); };
+meta {
+  id = FINE_OPAL_GEM;
+  include("api_data/fine_opal_gem", this); 
+};

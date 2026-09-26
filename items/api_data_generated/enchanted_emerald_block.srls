@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_emerald_block", this); };
+meta {
+  id = ENCHANTED_EMERALD_BLOCK;
+  include("api_data/enchanted_emerald_block", this); 
+};

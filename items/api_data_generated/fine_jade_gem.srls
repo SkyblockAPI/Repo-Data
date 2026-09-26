@@ -1,1 +1,4 @@
-meta { include("api_data/fine_jade_gem", this); };
+meta {
+  id = FINE_JADE_GEM;
+  include("api_data/fine_jade_gem", this); 
+};

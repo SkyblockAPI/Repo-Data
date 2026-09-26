@@ -1,1 +1,4 @@
-meta { include("api_data/cyclops_personality", this); };
+meta {
+  id = CYCLOPS_PERSONALITY;
+  include("api_data/cyclops_personality", this); 
+};

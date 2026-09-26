@@ -1,1 +1,4 @@
-meta { include("api_data/dungeon_blue_support_orb", this); };
+meta {
+  id = DUNGEON_BLUE_SUPPORT_ORB;
+  include("api_data/dungeon_blue_support_orb", this); 
+};

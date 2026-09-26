@@ -1,1 +1,4 @@
-meta { include("api_data/kuudra_tentacle", this); };
+meta {
+  id = KUUDRA_TENTACLE;
+  include("api_data/kuudra_tentacle", this); 
+};

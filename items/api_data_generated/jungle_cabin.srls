@@ -1,1 +1,4 @@
-meta { include("api_data/jungle_cabin", this); };
+meta {
+  id = JUNGLE_CABIN;
+  include("api_data/jungle_cabin", this); 
+};

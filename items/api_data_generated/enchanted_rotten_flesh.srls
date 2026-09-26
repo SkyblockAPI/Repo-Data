@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_rotten_flesh", this); };
+meta {
+  id = ENCHANTED_ROTTEN_FLESH;
+  include("api_data/enchanted_rotten_flesh", this); 
+};

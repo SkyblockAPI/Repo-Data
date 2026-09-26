@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_diamond_block", this); };
+meta {
+  id = ENCHANTED_DIAMOND_BLOCK;
+  include("api_data/enchanted_diamond_block", this); 
+};

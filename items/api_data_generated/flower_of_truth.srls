@@ -1,1 +1,4 @@
-meta { include("api_data/flower_of_truth", this); };
+meta {
+  id = FLOWER_OF_TRUTH;
+  include("api_data/flower_of_truth", this); 
+};

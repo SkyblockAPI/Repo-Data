@@ -1,1 +1,4 @@
-meta { include("api_data/easter_basket", this); };
+meta {
+  id = EASTER_BASKET;
+  include("api_data/easter_basket", this); 
+};

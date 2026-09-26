@@ -1,1 +1,4 @@
-meta { include("api_data/second_master_star", this); };
+meta {
+  id = SECOND_MASTER_STAR;
+  include("api_data/second_master_star", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/halloween_scarecrow", this); };
+meta {
+  id = HALLOWEEN_SCARECROW;
+  include("api_data/halloween_scarecrow", this); 
+};

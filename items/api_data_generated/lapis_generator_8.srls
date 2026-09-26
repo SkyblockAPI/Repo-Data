@@ -1,1 +1,4 @@
-meta { include("api_data/lapis_generator_8", this); };
+meta {
+  id = LAPIS_GENERATOR_8;
+  include("api_data/lapis_generator_8", this); 
+};

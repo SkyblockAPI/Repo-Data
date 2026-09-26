@@ -1,1 +1,4 @@
-meta { include("api_data/lotus_atoll_portal", this); };
+meta {
+  id = LOTUS_ATOLL_PORTAL;
+  include("api_data/lotus_atoll_portal", this); 
+};

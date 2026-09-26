@@ -1,1 +1,4 @@
-meta { include("api_data/bitter_ice_tea", this); };
+meta {
+  id = BITTER_ICE_TEA;
+  include("api_data/bitter_ice_tea", this); 
+};

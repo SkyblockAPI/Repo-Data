@@ -1,1 +1,4 @@
-meta { include("api_data/crystal_nucleus_travel_scroll", this); };
+meta {
+  id = CRYSTAL_NUCLEUS_TRAVEL_SCROLL;
+  include("api_data/crystal_nucleus_travel_scroll", this); 
+};

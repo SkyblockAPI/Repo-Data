@@ -1,1 +1,4 @@
-meta { include("api_data/midas_sword", this); };
+meta {
+  id = MIDAS_SWORD;
+  include("api_data/midas_sword", this); 
+};

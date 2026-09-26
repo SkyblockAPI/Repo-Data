@@ -1,1 +1,4 @@
-meta { include("api_data/glowstone_dust_distillate", this); };
+meta {
+  id = GLOWSTONE_DUST_DISTILLATE;
+  include("api_data/glowstone_dust_distillate", this); 
+};

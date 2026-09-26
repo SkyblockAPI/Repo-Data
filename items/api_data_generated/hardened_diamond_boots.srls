@@ -1,1 +1,4 @@
-meta { include("api_data/hardened_diamond_boots", this); };
+meta {
+  id = HARDENED_DIAMOND_BOOTS;
+  include("api_data/hardened_diamond_boots", this); 
+};

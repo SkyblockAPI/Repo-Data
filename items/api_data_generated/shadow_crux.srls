@@ -1,1 +1,4 @@
-meta { include("api_data/shadow_crux", this); };
+meta {
+  id = SHADOW_CRUX;
+  include("api_data/shadow_crux", this); 
+};

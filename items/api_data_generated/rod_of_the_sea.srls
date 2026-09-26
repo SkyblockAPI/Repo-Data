@@ -1,1 +1,4 @@
-meta { include("api_data/rod_of_the_sea", this); };
+meta {
+  id = ROD_OF_THE_SEA;
+  include("api_data/rod_of_the_sea", this); 
+};

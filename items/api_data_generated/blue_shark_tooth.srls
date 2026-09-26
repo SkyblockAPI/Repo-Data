@@ -1,1 +1,4 @@
-meta { include("api_data/blue_shark_tooth", this); };
+meta {
+  id = BLUE_SHARK_TOOTH;
+  include("api_data/blue_shark_tooth", this); 
+};

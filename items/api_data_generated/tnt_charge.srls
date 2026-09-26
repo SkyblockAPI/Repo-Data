@@ -1,1 +1,4 @@
-meta { include("api_data/tnt_charge", this); };
+meta {
+  id = TNT_CHARGE;
+  include("api_data/tnt_charge", this); 
+};

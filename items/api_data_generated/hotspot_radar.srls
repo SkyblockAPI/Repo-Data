@@ -1,1 +1,4 @@
-meta { include("api_data/hotspot_radar", this); };
+meta {
+  id = HOTSPOT_RADAR;
+  include("api_data/hotspot_radar", this); 
+};

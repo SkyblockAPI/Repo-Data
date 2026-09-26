@@ -1,1 +1,4 @@
-meta { include("api_data/anubis", this); };
+meta {
+  id = ANUBIS;
+  include("api_data/anubis", this); 
+};

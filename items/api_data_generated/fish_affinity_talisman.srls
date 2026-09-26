@@ -1,1 +1,4 @@
-meta { include("api_data/fish_affinity_talisman", this); };
+meta {
+  id = FISH_AFFINITY_TALISMAN;
+  include("api_data/fish_affinity_talisman", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/onyx_crystal", this); };
+meta {
+  id = ONYX_CRYSTAL;
+  include("api_data/onyx_crystal", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/relic_of_coins", this); };
+meta {
+  id = RELIC_OF_COINS;
+  include("api_data/relic_of_coins", this); 
+};

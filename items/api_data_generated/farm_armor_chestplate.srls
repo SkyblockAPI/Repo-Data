@@ -1,1 +1,4 @@
-meta { include("api_data/farm_armor_chestplate", this); };
+meta {
+  id = FARM_ARMOR_CHESTPLATE;
+  include("api_data/farm_armor_chestplate", this); 
+};

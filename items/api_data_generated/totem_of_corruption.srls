@@ -1,1 +1,4 @@
-meta { include("api_data/totem_of_corruption", this); };
+meta {
+  id = TOTEM_OF_CORRUPTION;
+  include("api_data/totem_of_corruption", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/backwater_cloak", this); };
+meta {
+  id = BACKWATER_CLOAK;
+  include("api_data/backwater_cloak", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_sponge", this); };
+meta {
+  id = ENCHANTED_SPONGE;
+  include("api_data/enchanted_sponge", this); 
+};

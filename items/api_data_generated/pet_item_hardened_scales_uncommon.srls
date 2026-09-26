@@ -1,1 +1,4 @@
-meta { include("api_data/pet_item_hardened_scales_uncommon", this); };
+meta {
+  id = PET_ITEM_HARDENED_SCALES_UNCOMMON;
+  include("api_data/pet_item_hardened_scales_uncommon", this); 
+};

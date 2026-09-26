@@ -1,1 +1,4 @@
-meta { include("api_data/emerald_chest", this); };
+meta {
+  id = EMERALD_CHEST;
+  include("api_data/emerald_chest", this); 
+};

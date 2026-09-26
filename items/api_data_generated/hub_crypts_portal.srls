@@ -1,1 +1,4 @@
-meta { include("api_data/hub_crypts_portal", this); };
+meta {
+  id = HUB_CRYPTS_PORTAL;
+  include("api_data/hub_crypts_portal", this); 
+};

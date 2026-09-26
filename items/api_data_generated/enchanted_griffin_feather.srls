@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_griffin_feather", this); };
+meta {
+  id = ENCHANTED_GRIFFIN_FEATHER;
+  include("api_data/enchanted_griffin_feather", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/cyan_greater_backpack", this); };
+meta {
+  id = CYAN_GREATER_BACKPACK;
+  include("api_data/cyan_greater_backpack", this); 
+};

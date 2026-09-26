@@ -1,1 +1,4 @@
-meta { include("api_data/top_of_spiders_den_portal", this); };
+meta {
+  id = TOP_OF_SPIDERS_DEN_PORTAL;
+  include("api_data/top_of_spiders_den_portal", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/carrot_bedside_table", this); };
+meta {
+  id = CARROT_BEDSIDE_TABLE;
+  include("api_data/carrot_bedside_table", this); 
+};

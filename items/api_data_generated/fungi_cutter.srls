@@ -1,1 +1,4 @@
-meta { include("api_data/fungi_cutter", this); };
+meta {
+  id = FUNGI_CUTTER;
+  include("api_data/fungi_cutter", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/goblin_egg_blue", this); };
+meta {
+  id = GOBLIN_EGG_BLUE;
+  include("api_data/goblin_egg_blue", this); 
+};

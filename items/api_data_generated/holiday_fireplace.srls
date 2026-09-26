@@ -1,1 +1,4 @@
-meta { include("api_data/holiday_fireplace", this); };
+meta {
+  id = HOLIDAY_FIREPLACE;
+  include("api_data/holiday_fireplace", this); 
+};

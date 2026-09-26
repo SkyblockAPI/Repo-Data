@@ -1,1 +1,4 @@
-meta { include("api_data/intimidation_artifact", this); };
+meta {
+  id = INTIMIDATION_ARTIFACT;
+  include("api_data/intimidation_artifact", this); 
+};

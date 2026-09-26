@@ -1,1 +1,4 @@
-meta { include("api_data/helmet_of_the_pack", this); };
+meta {
+  id = HELMET_OF_THE_PACK;
+  include("api_data/helmet_of_the_pack", this); 
+};

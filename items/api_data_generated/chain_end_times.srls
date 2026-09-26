@@ -1,1 +1,4 @@
-meta { include("api_data/chain_end_times", this); };
+meta {
+  id = CHAIN_END_TIMES;
+  include("api_data/chain_end_times", this); 
+};

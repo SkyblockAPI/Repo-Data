@@ -1,1 +1,4 @@
-meta { include("api_data/deep_sea_orb", this); };
+meta {
+  id = DEEP_SEA_ORB;
+  include("api_data/deep_sea_orb", this); 
+};

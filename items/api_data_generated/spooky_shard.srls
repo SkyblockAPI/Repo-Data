@@ -1,1 +1,4 @@
-meta { include("api_data/spooky_shard", this); };
+meta {
+  id = SPOOKY_SHARD;
+  include("api_data/spooky_shard", this); 
+};

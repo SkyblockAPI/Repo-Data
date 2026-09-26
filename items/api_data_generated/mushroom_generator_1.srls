@@ -1,1 +1,4 @@
-meta { include("api_data/mushroom_generator_1", this); };
+meta {
+  id = MUSHROOM_GENERATOR_1;
+  include("api_data/mushroom_generator_1", this); 
+};

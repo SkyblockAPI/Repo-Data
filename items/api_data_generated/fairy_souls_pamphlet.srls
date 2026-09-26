@@ -1,1 +1,4 @@
-meta { include("api_data/fairy_souls_pamphlet", this); };
+meta {
+  id = FAIRY_SOULS_PAMPHLET;
+  include("api_data/fairy_souls_pamphlet", this); 
+};

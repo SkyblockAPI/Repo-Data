@@ -1,1 +1,4 @@
-meta { include("api_data/mastiff_helmet", this); };
+meta {
+  id = MASTIFF_HELMET;
+  include("api_data/mastiff_helmet", this); 
+};

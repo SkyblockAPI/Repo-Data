@@ -1,1 +1,4 @@
-meta { include("api_data/rift_necklace_outside", this); };
+meta {
+  id = RIFT_NECKLACE_OUTSIDE;
+  include("api_data/rift_necklace_outside", this); 
+};

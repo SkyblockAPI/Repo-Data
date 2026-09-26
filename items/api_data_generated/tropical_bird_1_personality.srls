@@ -1,1 +1,4 @@
-meta { include("api_data/tropical_bird_1_personality", this); };
+meta {
+  id = TROPICAL_BIRD_1_PERSONALITY;
+  include("api_data/tropical_bird_1_personality", this); 
+};

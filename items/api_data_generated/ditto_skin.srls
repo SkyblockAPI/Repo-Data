@@ -1,1 +1,4 @@
-meta { include("api_data/ditto_skin", this); };
+meta {
+  id = DITTO_SKIN;
+  include("api_data/ditto_skin", this); 
+};

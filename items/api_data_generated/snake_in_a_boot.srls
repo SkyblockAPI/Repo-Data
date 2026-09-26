@@ -1,1 +1,4 @@
-meta { include("api_data/snake_in_a_boot", this); };
+meta {
+  id = SNAKE_IN_A_BOOT;
+  include("api_data/snake_in_a_boot", this); 
+};

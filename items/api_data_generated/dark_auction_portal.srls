@@ -1,1 +1,4 @@
-meta { include("api_data/dark_auction_portal", this); };
+meta {
+  id = DARK_AUCTION_PORTAL;
+  include("api_data/dark_auction_portal", this); 
+};

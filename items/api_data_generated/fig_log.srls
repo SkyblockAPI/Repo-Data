@@ -1,1 +1,4 @@
-meta { include("api_data/fig_log", this); };
+meta {
+  id = FIG_LOG;
+  include("api_data/fig_log", this); 
+};

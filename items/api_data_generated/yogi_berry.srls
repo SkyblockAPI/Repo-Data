@@ -1,1 +1,4 @@
-meta { include("api_data/yogi_berry", this); };
+meta {
+  id = YOGI_BERRY;
+  include("api_data/yogi_berry", this); 
+};

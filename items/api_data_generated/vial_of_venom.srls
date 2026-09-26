@@ -1,1 +1,4 @@
-meta { include("api_data/vial_of_venom", this); };
+meta {
+  id = VIAL_OF_VENOM;
+  include("api_data/vial_of_venom", this); 
+};

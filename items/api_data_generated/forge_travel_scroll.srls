@@ -1,1 +1,4 @@
-meta { include("api_data/forge_travel_scroll", this); };
+meta {
+  id = FORGE_TRAVEL_SCROLL;
+  include("api_data/forge_travel_scroll", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/basketball_personality", this); };
+meta {
+  id = BASKETBALL_PERSONALITY;
+  include("api_data/basketball_personality", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/copper", this); };
+meta {
+  id = COPPER;
+  include("api_data/copper", this); 
+};

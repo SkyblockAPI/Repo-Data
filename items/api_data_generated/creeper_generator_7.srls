@@ -1,1 +1,4 @@
-meta { include("api_data/creeper_generator_7", this); };
+meta {
+  id = CREEPER_GENERATOR_7;
+  include("api_data/creeper_generator_7", this); 
+};

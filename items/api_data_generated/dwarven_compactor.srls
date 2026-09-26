@@ -1,1 +1,4 @@
-meta { include("api_data/dwarven_compactor", this); };
+meta {
+  id = DWARVEN_COMPACTOR;
+  include("api_data/dwarven_compactor", this); 
+};

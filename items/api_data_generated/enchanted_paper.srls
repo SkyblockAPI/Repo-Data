@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_paper", this); };
+meta {
+  id = ENCHANTED_PAPER;
+  include("api_data/enchanted_paper", this); 
+};

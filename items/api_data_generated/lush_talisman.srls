@@ -1,1 +1,4 @@
-meta { include("api_data/lush_talisman", this); };
+meta {
+  id = LUSH_TALISMAN;
+  include("api_data/lush_talisman", this); 
+};

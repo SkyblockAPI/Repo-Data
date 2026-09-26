@@ -3,7 +3,6 @@ index = {};
 
 for (entry : entries) {
     file = getter(entry);
-
     prefix = static(file).prefix;
 
     map = file(map);
@@ -14,6 +13,6 @@ for (entry : entries) {
         } else {
             index[entry.key] = (prefix + "/" + entry.key);
         }
-    }
+    };
 }
 return index;

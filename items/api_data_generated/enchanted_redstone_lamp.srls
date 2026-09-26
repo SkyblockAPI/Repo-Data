@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_redstone_lamp", this); };
+meta {
+  id = ENCHANTED_REDSTONE_LAMP;
+  include("api_data/enchanted_redstone_lamp", this); 
+};

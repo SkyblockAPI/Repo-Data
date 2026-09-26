@@ -1,1 +1,4 @@
-meta { include("api_data/note_block", this); };
+meta {
+  id = NOTE_BLOCK;
+  include("api_data/note_block", this); 
+};

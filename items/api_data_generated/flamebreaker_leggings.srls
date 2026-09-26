@@ -1,1 +1,4 @@
-meta { include("api_data/flamebreaker_leggings", this); };
+meta {
+  id = FLAMEBREAKER_LEGGINGS;
+  include("api_data/flamebreaker_leggings", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/starred_adaptive_belt", this); };
+meta {
+  id = STARRED_ADAPTIVE_BELT;
+  include("api_data/starred_adaptive_belt", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/seal_personality", this); };
+meta {
+  id = SEAL_PERSONALITY;
+  include("api_data/seal_personality", this); 
+};

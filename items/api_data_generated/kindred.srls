@@ -1,1 +1,4 @@
-meta { include("api_data/kindred", this); };
+meta {
+  id = KINDRED;
+  include("api_data/kindred", this); 
+};

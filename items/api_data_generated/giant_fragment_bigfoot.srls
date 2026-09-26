@@ -1,1 +1,4 @@
-meta { include("api_data/giant_fragment_bigfoot", this); };
+meta {
+  id = GIANT_FRAGMENT_BIGFOOT;
+  include("api_data/giant_fragment_bigfoot", this); 
+};

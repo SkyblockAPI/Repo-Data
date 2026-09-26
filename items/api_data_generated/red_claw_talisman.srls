@@ -1,1 +1,4 @@
-meta { include("api_data/red_claw_talisman", this); };
+meta {
+  id = RED_CLAW_TALISMAN;
+  include("api_data/red_claw_talisman", this); 
+};

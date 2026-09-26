@@ -1,1 +1,4 @@
-meta { include("api_data/patio_bench", this); };
+meta {
+  id = PATIO_BENCH;
+  include("api_data/patio_bench", this); 
+};

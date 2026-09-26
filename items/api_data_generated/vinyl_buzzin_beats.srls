@@ -1,1 +1,4 @@
-meta { include("api_data/vinyl_buzzin_beats", this); };
+meta {
+  id = VINYL_BUZZIN_BEATS;
+  include("api_data/vinyl_buzzin_beats", this); 
+};

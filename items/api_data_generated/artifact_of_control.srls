@@ -1,1 +1,4 @@
-meta { include("api_data/artifact_of_control", this); };
+meta {
+  id = ARTIFACT_OF_CONTROL;
+  include("api_data/artifact_of_control", this); 
+};

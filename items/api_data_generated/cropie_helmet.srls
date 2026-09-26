@@ -1,1 +1,4 @@
-meta { include("api_data/cropie_helmet", this); };
+meta {
+  id = CROPIE_HELMET;
+  include("api_data/cropie_helmet", this); 
+};

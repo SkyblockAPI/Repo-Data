@@ -1,1 +1,4 @@
-meta { include("api_data/satelite", this); };
+meta {
+  id = SATELITE;
+  include("api_data/satelite", this); 
+};

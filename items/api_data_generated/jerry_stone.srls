@@ -1,1 +1,4 @@
-meta { include("api_data/jerry_stone", this); };
+meta {
+  id = JERRY_STONE;
+  include("api_data/jerry_stone", this); 
+};

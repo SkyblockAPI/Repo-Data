@@ -1,1 +1,4 @@
-meta { include("api_data/amalgamated_crimsonite", this); };
+meta {
+  id = AMALGAMATED_CRIMSONITE;
+  include("api_data/amalgamated_crimsonite", this); 
+};

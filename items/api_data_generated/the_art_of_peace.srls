@@ -1,1 +1,4 @@
-meta { include("api_data/the_art_of_peace", this); };
+meta {
+  id = THE_ART_OF_PEACE;
+  include("api_data/the_art_of_peace", this); 
+};

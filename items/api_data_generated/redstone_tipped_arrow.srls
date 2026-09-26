@@ -1,1 +1,4 @@
-meta { include("api_data/redstone_tipped_arrow", this); };
+meta {
+  id = REDSTONE_TIPPED_ARROW;
+  include("api_data/redstone_tipped_arrow", this); 
+};

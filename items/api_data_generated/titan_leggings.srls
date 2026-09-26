@@ -1,1 +1,4 @@
-meta { include("api_data/titan_leggings", this); };
+meta {
+  id = TITAN_LEGGINGS;
+  include("api_data/titan_leggings", this); 
+};

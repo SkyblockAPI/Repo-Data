@@ -1,1 +1,4 @@
-meta { include("api_data/quality_map", this); };
+meta {
+  id = QUALITY_MAP;
+  include("api_data/quality_map", this); 
+};

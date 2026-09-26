@@ -1,1 +1,4 @@
-meta { include("api_data/bunny_bench", this); };
+meta {
+  id = BUNNY_BENCH;
+  include("api_data/bunny_bench", this); 
+};

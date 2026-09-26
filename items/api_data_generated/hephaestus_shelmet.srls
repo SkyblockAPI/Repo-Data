@@ -1,1 +1,4 @@
-meta { include("api_data/hephaestus_shelmet", this); };
+meta {
+  id = HEPHAESTUS_SHELMET;
+  include("api_data/hephaestus_shelmet", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/judgement_core", this); };
+meta {
+  id = JUDGEMENT_CORE;
+  include("api_data/judgement_core", this); 
+};

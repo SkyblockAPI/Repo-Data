@@ -1,1 +1,4 @@
-meta { include("api_data/rampart_helmet", this); };
+meta {
+  id = RAMPART_HELMET;
+  include("api_data/rampart_helmet", this); 
+};

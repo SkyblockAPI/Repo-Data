@@ -1,1 +1,4 @@
-meta { include("api_data/salmon_chestplate", this); };
+meta {
+  id = SALMON_CHESTPLATE;
+  include("api_data/salmon_chestplate", this); 
+};

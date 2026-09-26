@@ -1,1 +1,4 @@
-meta { include("api_data/gold_pickaxe", this); };
+meta {
+  id = GOLD_PICKAXE;
+  include("api_data/gold_pickaxe", this); 
+};

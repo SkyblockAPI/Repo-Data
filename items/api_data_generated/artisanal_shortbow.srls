@@ -1,1 +1,4 @@
-meta { include("api_data/artisanal_shortbow", this); };
+meta {
+  id = ARTISANAL_SHORTBOW;
+  include("api_data/artisanal_shortbow", this); 
+};

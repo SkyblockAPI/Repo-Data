@@ -1,1 +1,4 @@
-meta { include("api_data/reheated_gummy_polar_bear", this); };
+meta {
+  id = REHEATED_GUMMY_POLAR_BEAR;
+  include("api_data/reheated_gummy_polar_bear", this); 
+};

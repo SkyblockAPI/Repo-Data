@@ -1,1 +1,4 @@
-meta { include("api_data/frozen_blaze_chestplate", this); };
+meta {
+  id = FROZEN_BLAZE_CHESTPLATE;
+  include("api_data/frozen_blaze_chestplate", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/burned_pants", this); };
+meta {
+  id = BURNED_PANTS;
+  include("api_data/burned_pants", this); 
+};

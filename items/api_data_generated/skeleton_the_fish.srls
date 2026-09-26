@@ -1,1 +1,4 @@
-meta { include("api_data/skeleton_the_fish", this); };
+meta {
+  id = SKELETON_THE_FISH;
+  include("api_data/skeleton_the_fish", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/time_gun", this); };
+meta {
+  id = TIME_GUN;
+  include("api_data/time_gun", this); 
+};

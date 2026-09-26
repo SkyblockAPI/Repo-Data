@@ -1,1 +1,4 @@
-meta { include("api_data/shredded_line", this); };
+meta {
+  id = SHREDDED_LINE;
+  include("api_data/shredded_line", this); 
+};

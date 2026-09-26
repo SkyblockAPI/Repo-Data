@@ -1,1 +1,4 @@
-meta { include("api_data/anni_podium_meme_second", this); };
+meta {
+  id = ANNI_PODIUM_MEME_SECOND;
+  include("api_data/anni_podium_meme_second", this); 
+};

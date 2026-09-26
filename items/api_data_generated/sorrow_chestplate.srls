@@ -1,1 +1,4 @@
-meta { include("api_data/sorrow_chestplate", this); };
+meta {
+  id = SORROW_CHESTPLATE;
+  include("api_data/sorrow_chestplate", this); 
+};

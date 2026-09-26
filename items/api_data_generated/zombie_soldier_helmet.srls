@@ -1,1 +1,4 @@
-meta { include("api_data/zombie_soldier_helmet", this); };
+meta {
+  id = ZOMBIE_SOLDIER_HELMET;
+  include("api_data/zombie_soldier_helmet", this); 
+};

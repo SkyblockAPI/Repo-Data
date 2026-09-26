@@ -1,1 +1,4 @@
-meta { include("api_data/chyme", this); };
+meta {
+  id = CHYME;
+  include("api_data/chyme", this); 
+};

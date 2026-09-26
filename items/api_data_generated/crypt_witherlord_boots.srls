@@ -1,1 +1,4 @@
-meta { include("api_data/crypt_witherlord_boots", this); };
+meta {
+  id = CRYPT_WITHERLORD_BOOTS;
+  include("api_data/crypt_witherlord_boots", this); 
+};

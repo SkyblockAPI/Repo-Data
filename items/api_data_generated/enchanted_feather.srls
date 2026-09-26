@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_feather", this); };
+meta {
+  id = ENCHANTED_FEATHER;
+  include("api_data/enchanted_feather", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/molten_belt", this); };
+meta {
+  id = MOLTEN_BELT;
+  include("api_data/molten_belt", this); 
+};

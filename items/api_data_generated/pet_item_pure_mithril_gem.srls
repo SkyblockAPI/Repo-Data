@@ -1,1 +1,4 @@
-meta { include("api_data/pet_item_pure_mithril_gem", this); };
+meta {
+  id = PET_ITEM_PURE_MITHRIL_GEM;
+  include("api_data/pet_item_pure_mithril_gem", this); 
+};

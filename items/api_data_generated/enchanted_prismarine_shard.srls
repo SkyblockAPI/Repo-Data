@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_prismarine_shard", this); };
+meta {
+  id = ENCHANTED_PRISMARINE_SHARD;
+  include("api_data/enchanted_prismarine_shard", this); 
+};

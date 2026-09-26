@@ -1,1 +1,4 @@
-meta { include("api_data/shark_scale_boots", this); };
+meta {
+  id = SHARK_SCALE_BOOTS;
+  include("api_data/shark_scale_boots", this); 
+};

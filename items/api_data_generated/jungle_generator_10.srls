@@ -1,1 +1,4 @@
-meta { include("api_data/jungle_generator_10", this); };
+meta {
+  id = JUNGLE_GENERATOR_10;
+  include("api_data/jungle_generator_10", this); 
+};

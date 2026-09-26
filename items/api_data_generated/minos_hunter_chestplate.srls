@@ -1,1 +1,4 @@
-meta { include("api_data/minos_hunter_chestplate", this); };
+meta {
+  id = MINOS_HUNTER_CHESTPLATE;
+  include("api_data/minos_hunter_chestplate", this); 
+};

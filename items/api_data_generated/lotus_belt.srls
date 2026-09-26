@@ -1,1 +1,4 @@
-meta { include("api_data/lotus_belt", this); };
+meta {
+  id = LOTUS_BELT;
+  include("api_data/lotus_belt", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/coal_generator_12", this); };
+meta {
+  id = COAL_GENERATOR_12;
+  include("api_data/coal_generator_12", this); 
+};

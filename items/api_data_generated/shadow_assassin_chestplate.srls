@@ -1,1 +1,4 @@
-meta { include("api_data/shadow_assassin_chestplate", this); };
+meta {
+  id = SHADOW_ASSASSIN_CHESTPLATE;
+  include("api_data/shadow_assassin_chestplate", this); 
+};

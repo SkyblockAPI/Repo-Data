@@ -1,1 +1,4 @@
-meta { include("api_data/hotspot_sinker", this); };
+meta {
+  id = HOTSPOT_SINKER;
+  include("api_data/hotspot_sinker", this); 
+};

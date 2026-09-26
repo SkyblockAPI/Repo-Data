@@ -1,1 +1,4 @@
-meta { include("api_data/carrot_generator_8", this); };
+meta {
+  id = CARROT_GENERATOR_8;
+  include("api_data/carrot_generator_8", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/gelatinous_gloop", this); };
+meta {
+  id = GELATINOUS_GLOOP;
+  include("api_data/gelatinous_gloop", this); 
+};

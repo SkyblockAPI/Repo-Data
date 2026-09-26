@@ -1,1 +1,4 @@
-meta { include("api_data/bundled_snowman", this); };
+meta {
+  id = BUNDLED_SNOWMAN;
+  include("api_data/bundled_snowman", this); 
+};

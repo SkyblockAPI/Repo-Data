@@ -1,1 +1,4 @@
-meta { include("api_data/green_medium_backpack", this); };
+meta {
+  id = GREEN_MEDIUM_BACKPACK;
+  include("api_data/green_medium_backpack", this); 
+};

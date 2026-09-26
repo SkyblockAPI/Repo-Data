@@ -1,1 +1,4 @@
-meta { include("api_data/moon_greenhouse_skin", this); };
+meta {
+  id = MOON_GREENHOUSE_SKIN;
+  include("api_data/moon_greenhouse_skin", this); 
+};

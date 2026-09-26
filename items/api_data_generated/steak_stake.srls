@@ -1,1 +1,4 @@
-meta { include("api_data/steak_stake", this); };
+meta {
+  id = STEAK_STAKE;
+  include("api_data/steak_stake", this); 
+};

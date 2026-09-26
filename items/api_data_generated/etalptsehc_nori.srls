@@ -1,1 +1,4 @@
-meta { include("api_data/etalptsehc_nori", this); };
+meta {
+  id = ETALPTSEHC_NORI;
+  include("api_data/etalptsehc_nori", this); 
+};

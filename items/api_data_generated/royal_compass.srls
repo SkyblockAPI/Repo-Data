@@ -1,1 +1,4 @@
-meta { include("api_data/royal_compass", this); };
+meta {
+  id = ROYAL_COMPASS;
+  include("api_data/royal_compass", this); 
+};

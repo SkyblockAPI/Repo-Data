@@ -1,1 +1,4 @@
-meta { include("api_data/expensive_toy", this); };
+meta {
+  id = EXPENSIVE_TOY;
+  include("api_data/expensive_toy", this); 
+};

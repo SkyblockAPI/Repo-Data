@@ -1,1 +1,4 @@
-meta { include("api_data/thorny_vines", this); };
+meta {
+  id = THORNY_VINES;
+  include("api_data/thorny_vines", this); 
+};

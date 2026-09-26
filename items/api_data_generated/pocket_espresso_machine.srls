@@ -1,1 +1,4 @@
-meta { include("api_data/pocket_espresso_machine", this); };
+meta {
+  id = POCKET_ESPRESSO_MACHINE;
+  include("api_data/pocket_espresso_machine", this); 
+};

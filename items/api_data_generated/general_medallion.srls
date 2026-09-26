@@ -1,1 +1,4 @@
-meta { include("api_data/general_medallion", this); };
+meta {
+  id = GENERAL_MEDALLION;
+  include("api_data/general_medallion", this); 
+};

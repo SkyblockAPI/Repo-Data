@@ -1,1 +1,4 @@
-meta { include("api_data/veilshroom", this); };
+meta {
+  id = VEILSHROOM;
+  include("api_data/veilshroom", this); 
+};

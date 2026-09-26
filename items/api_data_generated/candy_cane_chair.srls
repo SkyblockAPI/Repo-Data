@@ -1,1 +1,4 @@
-meta { include("api_data/candy_cane_chair", this); };
+meta {
+  id = CANDY_CANE_CHAIR;
+  include("api_data/candy_cane_chair", this); 
+};

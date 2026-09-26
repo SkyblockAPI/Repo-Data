@@ -1,1 +1,4 @@
-meta { include("api_data/shield_dust", this); };
+meta {
+  id = SHIELD_DUST;
+  include("api_data/shield_dust", this); 
+};

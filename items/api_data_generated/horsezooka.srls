@@ -1,1 +1,4 @@
-meta { include("api_data/horsezooka", this); };
+meta {
+  id = HORSEZOOKA;
+  include("api_data/horsezooka", this); 
+};

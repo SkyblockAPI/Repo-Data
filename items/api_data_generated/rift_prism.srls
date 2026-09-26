@@ -1,1 +1,4 @@
-meta { include("api_data/rift_prism", this); };
+meta {
+  id = RIFT_PRISM;
+  include("api_data/rift_prism", this); 
+};

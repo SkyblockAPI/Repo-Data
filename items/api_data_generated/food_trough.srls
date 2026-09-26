@@ -1,1 +1,4 @@
-meta { include("api_data/food_trough", this); };
+meta {
+  id = FOOD_TROUGH;
+  include("api_data/food_trough", this); 
+};

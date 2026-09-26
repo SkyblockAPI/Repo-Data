@@ -1,1 +1,4 @@
-meta { include("api_data/soothing_incense", this); };
+meta {
+  id = SOOTHING_INCENSE;
+  include("api_data/soothing_incense", this); 
+};

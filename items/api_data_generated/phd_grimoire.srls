@@ -1,1 +1,4 @@
-meta { include("api_data/phd_grimoire", this); };
+meta {
+  id = PHD_GRIMOIRE;
+  include("api_data/phd_grimoire", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/dwarven_os_gemstone_grahams", this); };
+meta {
+  id = DWARVEN_OS_GEMSTONE_GRAHAMS;
+  include("api_data/dwarven_os_gemstone_grahams", this); 
+};

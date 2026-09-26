@@ -1,1 +1,4 @@
-meta { include("api_data/juicy_sprayonator", this); };
+meta {
+  id = JUICY_SPRAYONATOR;
+  include("api_data/juicy_sprayonator", this); 
+};

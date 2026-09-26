@@ -1,1 +1,4 @@
-meta { include("api_data/golden_carrot", this); };
+meta {
+  id = GOLDEN_CARROT;
+  include("api_data/golden_carrot", this); 
+};

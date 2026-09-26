@@ -1,1 +1,4 @@
-meta { include("api_data/bronze_hunter_helmet", this); };
+meta {
+  id = BRONZE_HUNTER_HELMET;
+  include("api_data/bronze_hunter_helmet", this); 
+};

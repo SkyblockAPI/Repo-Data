@@ -1,1 +1,4 @@
-meta { include("api_data/pelt_belt", this); };
+meta {
+  id = PELT_BELT;
+  include("api_data/pelt_belt", this); 
+};

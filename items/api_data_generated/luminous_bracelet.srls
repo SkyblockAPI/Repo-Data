@@ -1,1 +1,4 @@
-meta { include("api_data/luminous_bracelet", this); };
+meta {
+  id = LUMINOUS_BRACELET;
+  include("api_data/luminous_bracelet", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/junk_talisman", this); };
+meta {
+  id = JUNK_TALISMAN;
+  include("api_data/junk_talisman", this); 
+};

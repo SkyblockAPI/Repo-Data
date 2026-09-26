@@ -1,1 +1,4 @@
-meta { include("api_data/entropy_suppressor", this); };
+meta {
+  id = ENTROPY_SUPPRESSOR;
+  include("api_data/entropy_suppressor", this); 
+};

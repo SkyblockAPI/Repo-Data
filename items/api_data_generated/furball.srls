@@ -1,1 +1,4 @@
-meta { include("api_data/furball", this); };
+meta {
+  id = FURBALL;
+  include("api_data/furball", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/ice_lolly_personality", this); };
+meta {
+  id = ICE_LOLLY_PERSONALITY;
+  include("api_data/ice_lolly_personality", this); 
+};

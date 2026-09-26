@@ -1,1 +1,4 @@
-meta { include("api_data/floral_gelatin", this); };
+meta {
+  id = FLORAL_GELATIN;
+  include("api_data/floral_gelatin", this); 
+};

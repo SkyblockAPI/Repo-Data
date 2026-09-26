@@ -1,1 +1,4 @@
-meta { include("api_data/flaming_flay", this); };
+meta {
+  id = FLAMING_FLAY;
+  include("api_data/flaming_flay", this); 
+};

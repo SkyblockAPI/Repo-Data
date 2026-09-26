@@ -1,1 +1,4 @@
-meta { include("api_data/moil_log", this); };
+meta {
+  id = MOIL_LOG;
+  include("api_data/moil_log", this); 
+};

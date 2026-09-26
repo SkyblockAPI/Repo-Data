@@ -1,1 +1,4 @@
-meta { include("api_data/noctilume", this); };
+meta {
+  id = NOCTILUME;
+  include("api_data/noctilume", this); 
+};

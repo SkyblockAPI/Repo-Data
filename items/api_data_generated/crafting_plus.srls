@@ -1,1 +1,4 @@
-meta { include("api_data/crafting_plus", this); };
+meta {
+  id = CRAFTING_PLUS;
+  include("api_data/crafting_plus", this); 
+};

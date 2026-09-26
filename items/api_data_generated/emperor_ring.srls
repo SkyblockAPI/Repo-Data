@@ -1,1 +1,4 @@
-meta { include("api_data/emperor_ring", this); };
+meta {
+  id = EMPEROR_RING;
+  include("api_data/emperor_ring", this); 
+};

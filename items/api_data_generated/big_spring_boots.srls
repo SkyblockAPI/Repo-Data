@@ -1,1 +1,4 @@
-meta { include("api_data/big_spring_boots", this); };
+meta {
+  id = BIG_SPRING_BOOTS;
+  include("api_data/big_spring_boots", this); 
+};

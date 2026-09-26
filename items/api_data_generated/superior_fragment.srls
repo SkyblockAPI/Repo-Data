@@ -1,1 +1,4 @@
-meta { include("api_data/superior_fragment", this); };
+meta {
+  id = SUPERIOR_FRAGMENT;
+  include("api_data/superior_fragment", this); 
+};

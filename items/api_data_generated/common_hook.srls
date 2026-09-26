@@ -1,1 +1,4 @@
-meta { include("api_data/common_hook", this); };
+meta {
+  id = COMMON_HOOK;
+  include("api_data/common_hook", this); 
+};

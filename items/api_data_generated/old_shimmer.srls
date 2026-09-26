@@ -1,1 +1,4 @@
-meta { include("api_data/old_shimmer", this); };
+meta {
+  id = OLD_SHIMMER;
+  include("api_data/old_shimmer", this); 
+};

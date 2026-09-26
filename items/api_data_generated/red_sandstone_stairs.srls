@@ -1,1 +1,4 @@
-meta { include("api_data/red_sandstone_stairs", this); };
+meta {
+  id = RED_SANDSTONE_STAIRS;
+  include("api_data/red_sandstone_stairs", this); 
+};

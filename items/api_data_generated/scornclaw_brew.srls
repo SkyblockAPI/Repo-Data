@@ -1,1 +1,4 @@
-meta { include("api_data/scornclaw_brew", this); };
+meta {
+  id = SCORNCLAW_BREW;
+  include("api_data/scornclaw_brew", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/miniature_nuke", this); };
+meta {
+  id = MINIATURE_NUKE;
+  include("api_data/miniature_nuke", this); 
+};

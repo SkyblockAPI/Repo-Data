@@ -1,1 +1,4 @@
-meta { include("api_data/chocoberry", this); };
+meta {
+  id = CHOCOBERRY;
+  include("api_data/chocoberry", this); 
+};

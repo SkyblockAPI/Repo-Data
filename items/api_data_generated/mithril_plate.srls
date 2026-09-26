@@ -1,1 +1,4 @@
-meta { include("api_data/mithril_plate", this); };
+meta {
+  id = MITHRIL_PLATE;
+  include("api_data/mithril_plate", this); 
+};

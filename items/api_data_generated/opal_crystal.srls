@@ -1,1 +1,4 @@
-meta { include("api_data/opal_crystal", this); };
+meta {
+  id = OPAL_CRYSTAL;
+  include("api_data/opal_crystal", this); 
+};

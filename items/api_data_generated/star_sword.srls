@@ -1,1 +1,4 @@
-meta { include("api_data/star_sword", this); };
+meta {
+  id = STAR_SWORD;
+  include("api_data/star_sword", this); 
+};

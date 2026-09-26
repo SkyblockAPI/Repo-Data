@@ -1,1 +1,4 @@
-meta { include("api_data/midas_jewel", this); };
+meta {
+  id = MIDAS_JEWEL;
+  include("api_data/midas_jewel", this); 
+};

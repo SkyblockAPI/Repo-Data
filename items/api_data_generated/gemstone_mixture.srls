@@ -1,1 +1,4 @@
-meta { include("api_data/gemstone_mixture", this); };
+meta {
+  id = GEMSTONE_MIXTURE;
+  include("api_data/gemstone_mixture", this); 
+};

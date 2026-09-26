@@ -1,1 +1,4 @@
-meta { include("api_data/helianthus_helmet", this); };
+meta {
+  id = HELIANTHUS_HELMET;
+  include("api_data/helianthus_helmet", this); 
+};

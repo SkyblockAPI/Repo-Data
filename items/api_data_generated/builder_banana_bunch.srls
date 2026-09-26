@@ -1,1 +1,4 @@
-meta { include("api_data/builder_banana_bunch", this); };
+meta {
+  id = BUILDER_BANANA_BUNCH;
+  include("api_data/builder_banana_bunch", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/enchantment_table", this); };
+meta {
+  id = ENCHANTMENT_TABLE;
+  include("api_data/enchantment_table", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/ender_plus", this); };
+meta {
+  id = ENDER_PLUS;
+  include("api_data/ender_plus", this); 
+};

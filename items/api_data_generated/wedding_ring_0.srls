@@ -1,1 +1,4 @@
-meta { include("api_data/wedding_ring_0", this); };
+meta {
+  id = WEDDING_RING_0;
+  include("api_data/wedding_ring_0", this); 
+};

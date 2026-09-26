@@ -1,1 +1,4 @@
-meta { include("api_data/jungle_chair", this); };
+meta {
+  id = JUNGLE_CHAIR;
+  include("api_data/jungle_chair", this); 
+};

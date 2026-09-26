@@ -1,1 +1,4 @@
-meta { include("api_data/nether_brick", this); };
+meta {
+  id = NETHER_BRICK;
+  include("api_data/nether_brick", this); 
+};

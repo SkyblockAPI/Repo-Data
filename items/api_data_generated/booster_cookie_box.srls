@@ -1,1 +1,4 @@
-meta { include("api_data/booster_cookie_box", this); };
+meta {
+  id = BOOSTER_COOKIE_BOX;
+  include("api_data/booster_cookie_box", this); 
+};

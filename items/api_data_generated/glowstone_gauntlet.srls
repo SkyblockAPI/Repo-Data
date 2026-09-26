@@ -1,1 +1,4 @@
-meta { include("api_data/glowstone_gauntlet", this); };
+meta {
+  id = GLOWSTONE_GAUNTLET;
+  include("api_data/glowstone_gauntlet", this); 
+};

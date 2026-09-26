@@ -1,1 +1,4 @@
-meta { include("api_data/hard_clay", this); };
+meta {
+  id = HARD_CLAY;
+  include("api_data/hard_clay", this); 
+};

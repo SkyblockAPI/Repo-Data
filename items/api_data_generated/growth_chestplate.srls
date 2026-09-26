@@ -1,1 +1,4 @@
-meta { include("api_data/growth_chestplate", this); };
+meta {
+  id = GROWTH_CHESTPLATE;
+  include("api_data/growth_chestplate", this); 
+};

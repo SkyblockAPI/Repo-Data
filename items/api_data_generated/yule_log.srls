@@ -1,1 +1,4 @@
-meta { include("api_data/yule_log", this); };
+meta {
+  id = YULE_LOG;
+  include("api_data/yule_log", this); 
+};

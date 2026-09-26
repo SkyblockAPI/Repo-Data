@@ -1,1 +1,4 @@
-meta { include("api_data/goblin_omelette_pesto", this); };
+meta {
+  id = GOBLIN_OMELETTE_PESTO;
+  include("api_data/goblin_omelette_pesto", this); 
+};

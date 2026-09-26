@@ -1,1 +1,4 @@
-meta { include("api_data/freshly_minted_coins", this); };
+meta {
+  id = FRESHLY_MINTED_COINS;
+  include("api_data/freshly_minted_coins", this); 
+};

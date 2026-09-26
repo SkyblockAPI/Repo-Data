@@ -1,1 +1,4 @@
-meta { include("api_data/bone", this); };
+meta {
+  id = BONE;
+  include("api_data/bone", this); 
+};

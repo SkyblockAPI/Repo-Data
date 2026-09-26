@@ -1,1 +1,4 @@
-meta { include("api_data/minnow_bait", this); };
+meta {
+  id = MINNOW_BAIT;
+  include("api_data/minnow_bait", this); 
+};

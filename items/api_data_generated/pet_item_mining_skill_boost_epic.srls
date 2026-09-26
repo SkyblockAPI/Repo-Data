@@ -1,1 +1,4 @@
-meta { include("api_data/pet_item_mining_skill_boost_epic", this); };
+meta {
+  id = PET_ITEM_MINING_SKILL_BOOST_EPIC;
+  include("api_data/pet_item_mining_skill_boost_epic", this); 
+};

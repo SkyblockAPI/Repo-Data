@@ -1,1 +1,4 @@
-meta { include("api_data/editor_pencil", this); };
+meta {
+  id = EDITOR_PENCIL;
+  include("api_data/editor_pencil", this); 
+};

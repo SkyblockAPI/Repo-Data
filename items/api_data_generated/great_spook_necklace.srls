@@ -1,1 +1,4 @@
-meta { include("api_data/great_spook_necklace", this); };
+meta {
+  id = GREAT_SPOOK_NECKLACE;
+  include("api_data/great_spook_necklace", this); 
+};

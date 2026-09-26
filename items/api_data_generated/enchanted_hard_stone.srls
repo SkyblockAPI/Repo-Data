@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_hard_stone", this); };
+meta {
+  id = ENCHANTED_HARD_STONE;
+  include("api_data/enchanted_hard_stone", this); 
+};

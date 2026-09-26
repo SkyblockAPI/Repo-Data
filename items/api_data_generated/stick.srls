@@ -1,1 +1,4 @@
-meta { include("api_data/stick", this); };
+meta {
+  id = STICK;
+  include("api_data/stick", this); 
+};

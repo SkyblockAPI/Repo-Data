@@ -1,1 +1,4 @@
-meta { include("api_data/perfect_ruby_gem", this); };
+meta {
+  id = PERFECT_RUBY_GEM;
+  include("api_data/perfect_ruby_gem", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_gold", this); };
+meta {
+  id = ENCHANTED_GOLD;
+  include("api_data/enchanted_gold", this); 
+};

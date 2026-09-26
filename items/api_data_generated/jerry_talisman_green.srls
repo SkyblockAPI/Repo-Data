@@ -1,1 +1,4 @@
-meta { include("api_data/jerry_talisman_green", this); };
+meta {
+  id = JERRY_TALISMAN_GREEN;
+  include("api_data/jerry_talisman_green", this); 
+};

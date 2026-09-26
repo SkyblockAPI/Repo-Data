@@ -1,1 +1,4 @@
-meta { include("api_data/half_eaten_mushroom", this); };
+meta {
+  id = HALF_EATEN_MUSHROOM;
+  include("api_data/half_eaten_mushroom", this); 
+};

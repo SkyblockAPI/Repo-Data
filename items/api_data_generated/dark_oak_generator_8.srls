@@ -1,1 +1,4 @@
-meta { include("api_data/dark_oak_generator_8", this); };
+meta {
+  id = DARK_OAK_GENERATOR_8;
+  include("api_data/dark_oak_generator_8", this); 
+};

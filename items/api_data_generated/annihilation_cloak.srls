@@ -1,1 +1,4 @@
-meta { include("api_data/annihilation_cloak", this); };
+meta {
+  id = ANNIHILATION_CLOAK;
+  include("api_data/annihilation_cloak", this); 
+};

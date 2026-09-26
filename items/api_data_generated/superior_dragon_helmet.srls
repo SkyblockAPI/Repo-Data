@@ -1,1 +1,4 @@
-meta { include("api_data/superior_dragon_helmet", this); };
+meta {
+  id = SUPERIOR_DRAGON_HELMET;
+  include("api_data/superior_dragon_helmet", this); 
+};

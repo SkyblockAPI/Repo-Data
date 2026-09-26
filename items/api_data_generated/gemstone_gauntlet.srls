@@ -1,1 +1,4 @@
-meta { include("api_data/gemstone_gauntlet", this); };
+meta {
+  id = GEMSTONE_GAUNTLET;
+  include("api_data/gemstone_gauntlet", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/turbomax_vacuum", this); };
+meta {
+  id = TURBOMAX_VACUUM;
+  include("api_data/turbomax_vacuum", this); 
+};

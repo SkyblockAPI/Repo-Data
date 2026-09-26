@@ -1,1 +1,4 @@
-meta { include("api_data/colossal_exp_bottle_upgrade", this); };
+meta {
+  id = COLOSSAL_EXP_BOTTLE_UPGRADE;
+  include("api_data/colossal_exp_bottle_upgrade", this); 
+};

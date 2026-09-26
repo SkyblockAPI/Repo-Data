@@ -1,1 +1,4 @@
-meta { include("api_data/picnic_set", this); };
+meta {
+  id = PICNIC_SET;
+  include("api_data/picnic_set", this); 
+};

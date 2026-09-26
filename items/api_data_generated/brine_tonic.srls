@@ -1,1 +1,4 @@
-meta { include("api_data/brine_tonic", this); };
+meta {
+  id = BRINE_TONIC;
+  include("api_data/brine_tonic", this); 
+};

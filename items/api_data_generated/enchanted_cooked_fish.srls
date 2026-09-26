@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_cooked_fish", this); };
+meta {
+  id = ENCHANTED_COOKED_FISH;
+  include("api_data/enchanted_cooked_fish", this); 
+};

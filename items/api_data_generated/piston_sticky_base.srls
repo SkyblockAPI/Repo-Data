@@ -1,1 +1,4 @@
-meta { include("api_data/piston_sticky_base", this); };
+meta {
+  id = PISTON_STICKY_BASE;
+  include("api_data/piston_sticky_base", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/pumpkin_pie", this); };
+meta {
+  id = PUMPKIN_PIE;
+  include("api_data/pumpkin_pie", this); 
+};

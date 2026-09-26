@@ -1,1 +1,4 @@
-meta { include("api_data/frigid_husk", this); };
+meta {
+  id = FRIGID_HUSK;
+  include("api_data/frigid_husk", this); 
+};

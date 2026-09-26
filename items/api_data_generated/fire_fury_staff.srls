@@ -1,1 +1,4 @@
-meta { include("api_data/fire_fury_staff", this); };
+meta {
+  id = FIRE_FURY_STAFF;
+  include("api_data/fire_fury_staff", this); 
+};

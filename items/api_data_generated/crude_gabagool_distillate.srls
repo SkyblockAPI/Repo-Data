@@ -1,1 +1,4 @@
-meta { include("api_data/crude_gabagool_distillate", this); };
+meta {
+  id = CRUDE_GABAGOOL_DISTILLATE;
+  include("api_data/crude_gabagool_distillate", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/detransfigured_mask", this); };
+meta {
+  id = DETRANSFIGURED_MASK;
+  include("api_data/detransfigured_mask", this); 
+};

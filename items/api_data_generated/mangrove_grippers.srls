@@ -1,1 +1,4 @@
-meta { include("api_data/mangrove_grippers", this); };
+meta {
+  id = MANGROVE_GRIPPERS;
+  include("api_data/mangrove_grippers", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_rabbit_hide", this); };
+meta {
+  id = ENCHANTED_RABBIT_HIDE;
+  include("api_data/enchanted_rabbit_hide", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/student_studies", this); };
+meta {
+  id = STUDENT_STUDIES;
+  include("api_data/student_studies", this); 
+};

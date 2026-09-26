@@ -1,1 +1,4 @@
-meta { include("api_data/titanium_lantern", this); };
+meta {
+  id = TITANIUM_LANTERN;
+  include("api_data/titanium_lantern", this); 
+};

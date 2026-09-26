@@ -1,1 +1,4 @@
-meta { include("api_data/carnival_mask_bag", this); };
+meta {
+  id = CARNIVAL_MASK_BAG;
+  include("api_data/carnival_mask_bag", this); 
+};

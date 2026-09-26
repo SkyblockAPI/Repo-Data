@@ -1,1 +1,4 @@
-meta { include("api_data/end_portal_fumes_mixin", this); };
+meta {
+  id = END_PORTAL_FUMES_MIXIN;
+  include("api_data/end_portal_fumes_mixin", this); 
+};

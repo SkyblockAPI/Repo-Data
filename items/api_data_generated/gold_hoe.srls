@@ -1,1 +1,4 @@
-meta { include("api_data/gold_hoe", this); };
+meta {
+  id = GOLD_HOE;
+  include("api_data/gold_hoe", this); 
+};

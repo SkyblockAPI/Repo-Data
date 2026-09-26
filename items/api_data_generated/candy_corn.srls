@@ -1,1 +1,4 @@
-meta { include("api_data/candy_corn", this); };
+meta {
+  id = CANDY_CORN;
+  include("api_data/candy_corn", this); 
+};

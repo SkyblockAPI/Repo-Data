@@ -1,1 +1,4 @@
-meta { include("api_data/eye_of_ender", this); };
+meta {
+  id = EYE_OF_ENDER;
+  include("api_data/eye_of_ender", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/flawed_topaz_gem", this); };
+meta {
+  id = FLAWED_TOPAZ_GEM;
+  include("api_data/flawed_topaz_gem", this); 
+};

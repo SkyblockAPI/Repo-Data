@@ -1,1 +1,4 @@
-meta { include("api_data/wise_dragon_leggings", this); };
+meta {
+  id = WISE_DRAGON_LEGGINGS;
+  include("api_data/wise_dragon_leggings", this); 
+};

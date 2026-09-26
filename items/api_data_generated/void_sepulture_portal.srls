@@ -1,1 +1,4 @@
-meta { include("api_data/void_sepulture_portal", this); };
+meta {
+  id = VOID_SEPULTURE_PORTAL;
+  include("api_data/void_sepulture_portal", this); 
+};

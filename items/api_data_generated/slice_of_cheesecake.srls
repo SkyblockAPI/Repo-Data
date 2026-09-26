@@ -1,1 +1,4 @@
-meta { include("api_data/slice_of_cheesecake", this); };
+meta {
+  id = SLICE_OF_CHEESECAKE;
+  include("api_data/slice_of_cheesecake", this); 
+};

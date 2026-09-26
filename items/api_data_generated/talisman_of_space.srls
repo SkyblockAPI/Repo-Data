@@ -1,1 +1,4 @@
-meta { include("api_data/talisman_of_space", this); };
+meta {
+  id = TALISMAN_OF_SPACE;
+  include("api_data/talisman_of_space", this); 
+};

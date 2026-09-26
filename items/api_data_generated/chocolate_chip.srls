@@ -1,1 +1,4 @@
-meta { include("api_data/chocolate_chip", this); };
+meta {
+  id = CHOCOLATE_CHIP;
+  include("api_data/chocolate_chip", this); 
+};

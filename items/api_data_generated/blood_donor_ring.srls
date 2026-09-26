@@ -1,1 +1,4 @@
-meta { include("api_data/blood_donor_ring", this); };
+meta {
+  id = BLOOD_DONOR_RING;
+  include("api_data/blood_donor_ring", this); 
+};

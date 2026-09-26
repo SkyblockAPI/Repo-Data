@@ -1,1 +1,4 @@
-meta { include("api_data/odgers_bronze_tooth", this); };
+meta {
+  id = ODGERS_BRONZE_TOOTH;
+  include("api_data/odgers_bronze_tooth", this); 
+};

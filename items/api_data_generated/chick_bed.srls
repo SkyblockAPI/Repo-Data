@@ -1,1 +1,4 @@
-meta { include("api_data/chick_bed", this); };
+meta {
+  id = CHICK_BED;
+  include("api_data/chick_bed", this); 
+};

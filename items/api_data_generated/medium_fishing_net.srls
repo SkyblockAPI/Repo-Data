@@ -1,1 +1,4 @@
-meta { include("api_data/medium_fishing_net", this); };
+meta {
+  id = MEDIUM_FISHING_NET;
+  include("api_data/medium_fishing_net", this); 
+};

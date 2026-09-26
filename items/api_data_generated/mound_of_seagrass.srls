@@ -1,1 +1,4 @@
-meta { include("api_data/mound_of_seagrass", this); };
+meta {
+  id = MOUND_OF_SEAGRASS;
+  include("api_data/mound_of_seagrass", this); 
+};

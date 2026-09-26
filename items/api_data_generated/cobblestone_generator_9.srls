@@ -1,1 +1,4 @@
-meta { include("api_data/cobblestone_generator_9", this); };
+meta {
+  id = COBBLESTONE_GENERATOR_9;
+  include("api_data/cobblestone_generator_9", this); 
+};

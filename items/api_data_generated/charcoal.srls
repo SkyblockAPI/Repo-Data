@@ -1,1 +1,4 @@
-meta { include("api_data/charcoal", this); };
+meta {
+  id = CHARCOAL;
+  include("api_data/charcoal", this); 
+};

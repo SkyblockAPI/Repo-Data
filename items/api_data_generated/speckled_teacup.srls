@@ -1,1 +1,4 @@
-meta { include("api_data/speckled_teacup", this); };
+meta {
+  id = SPECKLED_TEACUP;
+  include("api_data/speckled_teacup", this); 
+};

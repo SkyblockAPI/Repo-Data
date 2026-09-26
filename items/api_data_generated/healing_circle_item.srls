@@ -1,1 +1,4 @@
-meta { include("api_data/healing_circle_item", this); };
+meta {
+  id = HEALING_CIRCLE_ITEM;
+  include("api_data/healing_circle_item", this); 
+};

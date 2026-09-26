@@ -1,1 +1,4 @@
-meta { include("api_data/trading_post_barn_skin", this); };
+meta {
+  id = TRADING_POST_BARN_SKIN;
+  include("api_data/trading_post_barn_skin", this); 
+};

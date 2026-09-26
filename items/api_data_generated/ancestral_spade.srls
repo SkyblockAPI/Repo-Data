@@ -1,1 +1,4 @@
-meta { include("api_data/ancestral_spade", this); };
+meta {
+  id = ANCESTRAL_SPADE;
+  include("api_data/ancestral_spade", this); 
+};

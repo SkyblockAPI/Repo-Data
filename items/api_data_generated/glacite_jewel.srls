@@ -1,1 +1,4 @@
-meta { include("api_data/glacite_jewel", this); };
+meta {
+  id = GLACITE_JEWEL;
+  include("api_data/glacite_jewel", this); 
+};

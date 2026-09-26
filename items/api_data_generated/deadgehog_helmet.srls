@@ -1,1 +1,4 @@
-meta { include("api_data/deadgehog_helmet", this); };
+meta {
+  id = DEADGEHOG_HELMET;
+  include("api_data/deadgehog_helmet", this); 
+};

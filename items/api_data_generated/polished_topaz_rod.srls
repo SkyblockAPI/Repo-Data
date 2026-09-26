@@ -1,1 +1,4 @@
-meta { include("api_data/polished_topaz_rod", this); };
+meta {
+  id = POLISHED_TOPAZ_ROD;
+  include("api_data/polished_topaz_rod", this); 
+};

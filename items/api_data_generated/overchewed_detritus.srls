@@ -1,1 +1,4 @@
-meta { include("api_data/overchewed_detritus", this); };
+meta {
+  id = OVERCHEWED_DETRITUS;
+  include("api_data/overchewed_detritus", this); 
+};

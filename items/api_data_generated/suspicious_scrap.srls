@@ -1,1 +1,4 @@
-meta { include("api_data/suspicious_scrap", this); };
+meta {
+  id = SUSPICIOUS_SCRAP;
+  include("api_data/suspicious_scrap", this); 
+};

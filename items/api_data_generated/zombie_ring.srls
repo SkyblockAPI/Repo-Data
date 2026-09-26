@@ -1,1 +1,4 @@
-meta { include("api_data/zombie_ring", this); };
+meta {
+  id = ZOMBIE_RING;
+  include("api_data/zombie_ring", this); 
+};

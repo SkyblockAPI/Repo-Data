@@ -1,1 +1,4 @@
-meta { include("api_data/name_tag", this); };
+meta {
+  id = NAME_TAG;
+  include("api_data/name_tag", this); 
+};

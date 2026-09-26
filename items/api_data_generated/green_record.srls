@@ -1,1 +1,4 @@
-meta { include("api_data/green_record", this); };
+meta {
+  id = GREEN_RECORD;
+  include("api_data/green_record", this); 
+};

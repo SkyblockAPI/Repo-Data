@@ -1,1 +1,4 @@
-meta { include("api_data/skyblock_bench", this); };
+meta {
+  id = SKYBLOCK_BENCH;
+  include("api_data/skyblock_bench", this); 
+};

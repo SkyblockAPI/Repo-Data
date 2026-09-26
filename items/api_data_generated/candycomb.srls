@@ -1,1 +1,4 @@
-meta { include("api_data/candycomb", this); };
+meta {
+  id = CANDYCOMB;
+  include("api_data/candycomb", this); 
+};

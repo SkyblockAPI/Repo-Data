@@ -1,1 +1,4 @@
-meta { include("api_data/pest_repellent", this); };
+meta {
+  id = PEST_REPELLENT;
+  include("api_data/pest_repellent", this); 
+};

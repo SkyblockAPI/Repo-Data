@@ -1,1 +1,4 @@
-meta { include("api_data/watcher_legs", this); };
+meta {
+  id = WATCHER_LEGS;
+  include("api_data/watcher_legs", this); 
+};

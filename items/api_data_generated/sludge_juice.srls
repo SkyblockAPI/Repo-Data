@@ -1,1 +1,4 @@
-meta { include("api_data/sludge_juice", this); };
+meta {
+  id = SLUDGE_JUICE;
+  include("api_data/sludge_juice", this); 
+};

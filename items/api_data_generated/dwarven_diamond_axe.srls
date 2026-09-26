@@ -1,1 +1,4 @@
-meta { include("api_data/dwarven_diamond_axe", this); };
+meta {
+  id = DWARVEN_DIAMOND_AXE;
+  include("api_data/dwarven_diamond_axe", this); 
+};

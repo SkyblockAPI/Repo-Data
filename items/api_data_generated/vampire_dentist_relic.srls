@@ -1,1 +1,4 @@
-meta { include("api_data/vampire_dentist_relic", this); };
+meta {
+  id = VAMPIRE_DENTIST_RELIC;
+  include("api_data/vampire_dentist_relic", this); 
+};

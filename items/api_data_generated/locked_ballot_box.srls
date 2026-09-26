@@ -1,1 +1,4 @@
-meta { include("api_data/locked_ballot_box", this); };
+meta {
+  id = LOCKED_BALLOT_BOX;
+  include("api_data/locked_ballot_box", this); 
+};

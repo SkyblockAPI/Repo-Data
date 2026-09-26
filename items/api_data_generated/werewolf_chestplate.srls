@@ -1,1 +1,4 @@
-meta { include("api_data/werewolf_chestplate", this); };
+meta {
+  id = WEREWOLF_CHESTPLATE;
+  include("api_data/werewolf_chestplate", this); 
+};

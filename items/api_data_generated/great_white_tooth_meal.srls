@@ -1,1 +1,4 @@
-meta { include("api_data/great_white_tooth_meal", this); };
+meta {
+  id = GREAT_WHITE_TOOTH_MEAL;
+  include("api_data/great_white_tooth_meal", this); 
+};

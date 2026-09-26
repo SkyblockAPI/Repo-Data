@@ -1,1 +1,4 @@
-meta { include("api_data/melon_seeds", this); };
+meta {
+  id = MELON_SEEDS;
+  include("api_data/melon_seeds", this); 
+};

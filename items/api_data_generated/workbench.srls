@@ -1,1 +1,4 @@
-meta { include("api_data/workbench", this); };
+meta {
+  id = WORKBENCH;
+  include("api_data/workbench", this); 
+};

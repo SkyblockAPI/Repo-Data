@@ -1,1 +1,4 @@
-meta { include("api_data/wand_of_recall", this); };
+meta {
+  id = WAND_OF_RECALL;
+  include("api_data/wand_of_recall", this); 
+};

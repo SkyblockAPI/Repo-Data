@@ -1,1 +1,4 @@
-meta { include("api_data/scoville_belt", this); };
+meta {
+  id = SCOVILLE_BELT;
+  include("api_data/scoville_belt", this); 
+};

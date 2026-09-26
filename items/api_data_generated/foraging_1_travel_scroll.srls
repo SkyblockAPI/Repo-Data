@@ -1,1 +1,4 @@
-meta { include("api_data/foraging_1_travel_scroll", this); };
+meta {
+  id = FORAGING_1_TRAVEL_SCROLL;
+  include("api_data/foraging_1_travel_scroll", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/medium_fish_bowl", this); };
+meta {
+  id = MEDIUM_FISH_BOWL;
+  include("api_data/medium_fish_bowl", this); 
+};

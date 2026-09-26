@@ -1,1 +1,4 @@
-meta { include("api_data/theoretical_hoe_sunflower_2", this); };
+meta {
+  id = THEORETICAL_HOE_SUNFLOWER_2;
+  include("api_data/theoretical_hoe_sunflower_2", this); 
+};

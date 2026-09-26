@@ -1,1 +1,4 @@
-meta { include("api_data/celestial_mason_jar", this); };
+meta {
+  id = CELESTIAL_MASON_JAR;
+  include("api_data/celestial_mason_jar", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/iron_ore", this); };
+meta {
+  id = IRON_ORE;
+  include("api_data/iron_ore", this); 
+};

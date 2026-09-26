@@ -1,1 +1,4 @@
-meta { include("api_data/zombud", this); };
+meta {
+  id = ZOMBUD;
+  include("api_data/zombud", this); 
+};

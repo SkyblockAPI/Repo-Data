@@ -1,1 +1,4 @@
-meta { include("api_data/gravel_generator_7", this); };
+meta {
+  id = GRAVEL_GENERATOR_7;
+  include("api_data/gravel_generator_7", this); 
+};

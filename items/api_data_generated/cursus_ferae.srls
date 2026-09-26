@@ -1,1 +1,4 @@
-meta { include("api_data/cursus_ferae", this); };
+meta {
+  id = CURSUS_FERAE;
+  include("api_data/cursus_ferae", this); 
+};

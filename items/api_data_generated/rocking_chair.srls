@@ -1,1 +1,4 @@
-meta { include("api_data/rocking_chair", this); };
+meta {
+  id = ROCKING_CHAIR;
+  include("api_data/rocking_chair", this); 
+};

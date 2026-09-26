@@ -1,1 +1,4 @@
-meta { include("api_data/basic_gardening_hoe", this); };
+meta {
+  id = BASIC_GARDENING_HOE;
+  include("api_data/basic_gardening_hoe", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/gateway_wand", this); };
+meta {
+  id = GATEWAY_WAND;
+  include("api_data/gateway_wand", this); 
+};

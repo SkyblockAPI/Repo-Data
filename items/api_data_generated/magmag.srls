@@ -1,1 +1,4 @@
-meta { include("api_data/magmag", this); };
+meta {
+  id = MAGMAG;
+  include("api_data/magmag", this); 
+};

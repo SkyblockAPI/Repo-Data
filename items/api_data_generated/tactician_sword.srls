@@ -1,1 +1,4 @@
-meta { include("api_data/tactician_sword", this); };
+meta {
+  id = TACTICIAN_SWORD;
+  include("api_data/tactician_sword", this); 
+};

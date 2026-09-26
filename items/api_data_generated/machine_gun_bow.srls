@@ -1,1 +1,4 @@
-meta { include("api_data/machine_gun_bow", this); };
+meta {
+  id = MACHINE_GUN_BOW;
+  include("api_data/machine_gun_bow", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/rough_opal_gem", this); };
+meta {
+  id = ROUGH_OPAL_GEM;
+  include("api_data/rough_opal_gem", this); 
+};

@@ -1,0 +1,4 @@
+meta {
+  id = ZOMBIE_EYE_PERSONALITY;
+  include("api_data/zombie_eye_personality", this); 
+};

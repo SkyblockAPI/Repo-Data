@@ -1,1 +1,4 @@
-meta { include("api_data/farming_2_portal", this); };
+meta {
+  id = FARMING_2_PORTAL;
+  include("api_data/farming_2_portal", this); 
+};

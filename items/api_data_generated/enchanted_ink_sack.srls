@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_ink_sack", this); };
+meta {
+  id = ENCHANTED_INK_SACK;
+  include("api_data/enchanted_ink_sack", this); 
+};

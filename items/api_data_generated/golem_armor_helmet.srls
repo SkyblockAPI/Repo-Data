@@ -1,1 +1,4 @@
-meta { include("api_data/golem_armor_helmet", this); };
+meta {
+  id = GOLEM_ARMOR_HELMET;
+  include("api_data/golem_armor_helmet", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/forest_island_crystal", this); };
+meta {
+  id = FOREST_ISLAND_CRYSTAL;
+  include("api_data/forest_island_crystal", this); 
+};

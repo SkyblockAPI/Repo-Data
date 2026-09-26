@@ -1,1 +1,4 @@
-meta { include("api_data/infini_vacuum_hooverius", this); };
+meta {
+  id = INFINI_VACUUM_HOOVERIUS;
+  include("api_data/infini_vacuum_hooverius", this); 
+};

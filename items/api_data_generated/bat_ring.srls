@@ -1,1 +1,4 @@
-meta { include("api_data/bat_ring", this); };
+meta {
+  id = BAT_RING;
+  include("api_data/bat_ring", this); 
+};

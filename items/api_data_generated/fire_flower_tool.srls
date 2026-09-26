@@ -1,1 +1,4 @@
-meta { include("api_data/fire_flower_tool", this); };
+meta {
+  id = FIRE_FLOWER_TOOL;
+  include("api_data/fire_flower_tool", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/sadan_brooch", this); };
+meta {
+  id = SADAN_BROOCH;
+  include("api_data/sadan_brooch", this); 
+};

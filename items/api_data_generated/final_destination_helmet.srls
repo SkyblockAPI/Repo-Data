@@ -1,1 +1,4 @@
-meta { include("api_data/final_destination_helmet", this); };
+meta {
+  id = FINAL_DESTINATION_HELMET;
+  include("api_data/final_destination_helmet", this); 
+};

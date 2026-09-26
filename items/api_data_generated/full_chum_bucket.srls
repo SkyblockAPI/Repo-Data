@@ -1,1 +1,4 @@
-meta { include("api_data/full_chum_bucket", this); };
+meta {
+  id = FULL_CHUM_BUCKET;
+  include("api_data/full_chum_bucket", this); 
+};

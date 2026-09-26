@@ -1,1 +1,4 @@
-meta { include("api_data/giant_tooth", this); };
+meta {
+  id = GIANT_TOOTH;
+  include("api_data/giant_tooth", this); 
+};

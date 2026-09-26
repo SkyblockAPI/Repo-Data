@@ -1,1 +1,4 @@
-meta { include("api_data/hot_crimson_helmet", this); };
+meta {
+  id = HOT_CRIMSON_HELMET;
+  include("api_data/hot_crimson_helmet", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/very_official_yellow_rock", this); };
+meta {
+  id = VERY_OFFICIAL_YELLOW_ROCK;
+  include("api_data/very_official_yellow_rock", this); 
+};

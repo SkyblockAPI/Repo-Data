@@ -1,1 +1,4 @@
-meta { include("api_data/thunderling", this); };
+meta {
+  id = THUNDERLING;
+  include("api_data/thunderling", this); 
+};

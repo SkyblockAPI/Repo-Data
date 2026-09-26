@@ -1,1 +1,4 @@
-meta { include("api_data/werewolf_leggings", this); };
+meta {
+  id = WEREWOLF_LEGGINGS;
+  include("api_data/werewolf_leggings", this); 
+};

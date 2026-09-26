@@ -1,1 +1,4 @@
-meta { include("api_data/endstone_idol", this); };
+meta {
+  id = ENDSTONE_IDOL;
+  include("api_data/endstone_idol", this); 
+};

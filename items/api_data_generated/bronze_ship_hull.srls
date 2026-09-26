@@ -1,1 +1,4 @@
-meta { include("api_data/bronze_ship_hull", this); };
+meta {
+  id = BRONZE_SHIP_HULL;
+  include("api_data/bronze_ship_hull", this); 
+};

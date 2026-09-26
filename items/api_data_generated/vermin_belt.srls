@@ -1,1 +1,4 @@
-meta { include("api_data/vermin_belt", this); };
+meta {
+  id = VERMIN_BELT;
+  include("api_data/vermin_belt", this); 
+};

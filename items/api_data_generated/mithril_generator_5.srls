@@ -1,1 +1,4 @@
-meta { include("api_data/mithril_generator_5", this); };
+meta {
+  id = MITHRIL_GENERATOR_5;
+  include("api_data/mithril_generator_5", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/cup_of_blood", this); };
+meta {
+  id = CUP_OF_BLOOD;
+  include("api_data/cup_of_blood", this); 
+};

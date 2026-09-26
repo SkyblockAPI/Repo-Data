@@ -1,1 +1,4 @@
-meta { include("api_data/jungle_dresser", this); };
+meta {
+  id = JUNGLE_DRESSER;
+  include("api_data/jungle_dresser", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/scorched_books", this); };
+meta {
+  id = SCORCHED_BOOKS;
+  include("api_data/scorched_books", this); 
+};

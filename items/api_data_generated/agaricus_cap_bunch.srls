@@ -1,1 +1,4 @@
-meta { include("api_data/agaricus_cap_bunch", this); };
+meta {
+  id = AGARICUS_CAP_BUNCH;
+  include("api_data/agaricus_cap_bunch", this); 
+};

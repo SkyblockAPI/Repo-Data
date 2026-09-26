@@ -1,1 +1,4 @@
-meta { include("api_data/tungsten", this); };
+meta {
+  id = TUNGSTEN;
+  include("api_data/tungsten", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/coven_seal", this); };
+meta {
+  id = COVEN_SEAL;
+  include("api_data/coven_seal", this); 
+};

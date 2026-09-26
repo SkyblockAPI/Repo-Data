@@ -1,1 +1,4 @@
-meta { include("api_data/pet_skin_dragon_neon_blue", this); };
+meta {
+  id = PET_SKIN_DRAGON_NEON_BLUE;
+  include("api_data/pet_skin_dragon_neon_blue", this); 
+};

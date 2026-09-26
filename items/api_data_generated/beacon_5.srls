@@ -1,1 +1,4 @@
-meta { include("api_data/beacon_5", this); };
+meta {
+  id = BEACON_5;
+  include("api_data/beacon_5", this); 
+};

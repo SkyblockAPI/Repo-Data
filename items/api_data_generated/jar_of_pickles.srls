@@ -1,1 +1,4 @@
-meta { include("api_data/jar_of_pickles", this); };
+meta {
+  id = JAR_OF_PICKLES;
+  include("api_data/jar_of_pickles", this); 
+};

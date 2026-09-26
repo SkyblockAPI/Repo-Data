@@ -1,1 +1,4 @@
-meta { include("api_data/emerald_ring", this); };
+meta {
+  id = EMERALD_RING;
+  include("api_data/emerald_ring", this); 
+};

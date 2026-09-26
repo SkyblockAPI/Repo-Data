@@ -1,1 +1,4 @@
-meta { include("api_data/green_gift", this); };
+meta {
+  id = GREEN_GIFT;
+  include("api_data/green_gift", this); 
+};

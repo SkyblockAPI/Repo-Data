@@ -1,1 +1,4 @@
-meta { include("api_data/fire_in_a_bottle", this); };
+meta {
+  id = FIRE_IN_A_BOTTLE;
+  include("api_data/fire_in_a_bottle", this); 
+};

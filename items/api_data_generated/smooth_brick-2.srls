@@ -1,1 +1,4 @@
-meta { include("api_data/smooth_brick-2", this); };
+meta {
+  id = SMOOTH_BRICK:2;
+  include("api_data/smooth_brick-2", this); 
+};

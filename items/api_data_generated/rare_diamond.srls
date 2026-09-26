@@ -1,1 +1,4 @@
-meta { include("api_data/rare_diamond", this); };
+meta {
+  id = RARE_DIAMOND;
+  include("api_data/rare_diamond", this); 
+};

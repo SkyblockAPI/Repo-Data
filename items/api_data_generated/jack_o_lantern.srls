@@ -1,1 +1,4 @@
-meta { include("api_data/jack_o_lantern", this); };
+meta {
+  id = JACK_O_LANTERN;
+  include("api_data/jack_o_lantern", this); 
+};

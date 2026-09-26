@@ -1,1 +1,4 @@
-meta { include("api_data/perfect_chestplate_10", this); };
+meta {
+  id = PERFECT_CHESTPLATE_10;
+  include("api_data/perfect_chestplate_10", this); 
+};

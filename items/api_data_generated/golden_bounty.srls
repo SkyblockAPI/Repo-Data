@@ -1,1 +1,4 @@
-meta { include("api_data/golden_bounty", this); };
+meta {
+  id = GOLDEN_BOUNTY;
+  include("api_data/golden_bounty", this); 
+};

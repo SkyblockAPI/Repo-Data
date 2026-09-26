@@ -1,1 +1,4 @@
-meta { include("api_data/oak_generator_1", this); };
+meta {
+  id = OAK_GENERATOR_1;
+  include("api_data/oak_generator_1", this); 
+};

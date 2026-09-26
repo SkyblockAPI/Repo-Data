@@ -1,1 +1,4 @@
-meta { include("api_data/aote_stone", this); };
+meta {
+  id = AOTE_STONE;
+  include("api_data/aote_stone", this); 
+};

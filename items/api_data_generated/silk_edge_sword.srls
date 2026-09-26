@@ -1,1 +1,4 @@
-meta { include("api_data/silk_edge_sword", this); };
+meta {
+  id = SILK_EDGE_SWORD;
+  include("api_data/silk_edge_sword", this); 
+};

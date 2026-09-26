@@ -1,1 +1,4 @@
-meta { include("api_data/aatrox_phone_number", this); };
+meta {
+  id = AATROX_PHONE_NUMBER;
+  include("api_data/aatrox_phone_number", this); 
+};

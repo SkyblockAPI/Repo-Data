@@ -1,1 +1,4 @@
-meta { include("api_data/retia_forta", this); };
+meta {
+  id = RETIA_FORTA;
+  include("api_data/retia_forta", this); 
+};

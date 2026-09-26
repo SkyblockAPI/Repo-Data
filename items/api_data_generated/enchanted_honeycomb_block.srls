@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_honeycomb_block", this); };
+meta {
+  id = ENCHANTED_HONEYCOMB_BLOCK;
+  include("api_data/enchanted_honeycomb_block", this); 
+};

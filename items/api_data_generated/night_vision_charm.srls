@@ -1,1 +1,4 @@
-meta { include("api_data/night_vision_charm", this); };
+meta {
+  id = NIGHT_VISION_CHARM;
+  include("api_data/night_vision_charm", this); 
+};

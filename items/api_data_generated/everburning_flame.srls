@@ -1,1 +1,4 @@
-meta { include("api_data/everburning_flame", this); };
+meta {
+  id = EVERBURNING_FLAME;
+  include("api_data/everburning_flame", this); 
+};

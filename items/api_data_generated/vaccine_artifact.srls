@@ -1,1 +1,4 @@
-meta { include("api_data/vaccine_artifact", this); };
+meta {
+  id = VACCINE_ARTIFACT;
+  include("api_data/vaccine_artifact", this); 
+};

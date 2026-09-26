@@ -1,1 +1,4 @@
-meta { include("api_data/spooky_pie", this); };
+meta {
+  id = SPOOKY_PIE;
+  include("api_data/spooky_pie", this); 
+};

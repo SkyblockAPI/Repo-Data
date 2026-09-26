@@ -1,1 +1,4 @@
-meta { include("api_data/daedalus_stick", this); };
+meta {
+  id = DAEDALUS_STICK;
+  include("api_data/daedalus_stick", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/hydro_can_turbo_2000", this); };
+meta {
+  id = HYDRO_CAN_TURBO_2000;
+  include("api_data/hydro_can_turbo_2000", this); 
+};

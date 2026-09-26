@@ -1,1 +1,4 @@
-meta { include("api_data/minos_relic", this); };
+meta {
+  id = MINOS_RELIC;
+  include("api_data/minos_relic", this); 
+};

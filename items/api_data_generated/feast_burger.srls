@@ -1,1 +1,4 @@
-meta { include("api_data/feast_burger", this); };
+meta {
+  id = FEAST_BURGER;
+  include("api_data/feast_burger", this); 
+};

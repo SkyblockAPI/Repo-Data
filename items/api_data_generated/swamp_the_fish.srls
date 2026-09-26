@@ -1,1 +1,4 @@
-meta { include("api_data/swamp_the_fish", this); };
+meta {
+  id = SWAMP_THE_FISH;
+  include("api_data/swamp_the_fish", this); 
+};

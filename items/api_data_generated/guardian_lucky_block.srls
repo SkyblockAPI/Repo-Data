@@ -1,1 +1,4 @@
-meta { include("api_data/guardian_lucky_block", this); };
+meta {
+  id = GUARDIAN_LUCKY_BLOCK;
+  include("api_data/guardian_lucky_block", this); 
+};

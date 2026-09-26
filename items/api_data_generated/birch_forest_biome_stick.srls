@@ -1,1 +1,4 @@
-meta { include("api_data/birch_forest_biome_stick", this); };
+meta {
+  id = BIRCH_FOREST_BIOME_STICK;
+  include("api_data/birch_forest_biome_stick", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/auto_smelter", this); };
+meta {
+  id = AUTO_SMELTER;
+  include("api_data/auto_smelter", this); 
+};

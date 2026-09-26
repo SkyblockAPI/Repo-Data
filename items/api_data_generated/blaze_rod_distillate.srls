@@ -1,1 +1,4 @@
-meta { include("api_data/blaze_rod_distillate", this); };
+meta {
+  id = BLAZE_ROD_DISTILLATE;
+  include("api_data/blaze_rod_distillate", this); 
+};

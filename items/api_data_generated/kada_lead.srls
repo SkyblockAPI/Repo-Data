@@ -1,1 +1,4 @@
-meta { include("api_data/kada_lead", this); };
+meta {
+  id = KADA_LEAD;
+  include("api_data/kada_lead", this); 
+};

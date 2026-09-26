@@ -1,1 +1,4 @@
-meta { include("api_data/inferno_generator_3", this); };
+meta {
+  id = INFERNO_GENERATOR_3;
+  include("api_data/inferno_generator_3", this); 
+};

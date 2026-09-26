@@ -1,1 +1,4 @@
-meta { include("api_data/heat_chestplate", this); };
+meta {
+  id = HEAT_CHESTPLATE;
+  include("api_data/heat_chestplate", this); 
+};

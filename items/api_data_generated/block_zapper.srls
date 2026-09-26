@@ -1,1 +1,4 @@
-meta { include("api_data/block_zapper", this); };
+meta {
+  id = BLOCK_ZAPPER;
+  include("api_data/block_zapper", this); 
+};

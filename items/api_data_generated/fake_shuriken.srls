@@ -1,1 +1,4 @@
-meta { include("api_data/fake_shuriken", this); };
+meta {
+  id = FAKE_SHURIKEN;
+  include("api_data/fake_shuriken", this); 
+};

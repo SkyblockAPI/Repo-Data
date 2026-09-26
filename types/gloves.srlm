@@ -1,0 +1,3 @@
+include("types/equipment", this);
+category = "GLOVES";
+categories += "gloves";

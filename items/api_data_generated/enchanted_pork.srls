@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_pork", this); };
+meta {
+  id = ENCHANTED_PORK;
+  include("api_data/enchanted_pork", this); 
+};

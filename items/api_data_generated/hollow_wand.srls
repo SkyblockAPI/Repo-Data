@@ -1,1 +1,4 @@
-meta { include("api_data/hollow_wand", this); };
+meta {
+  id = HOLLOW_WAND;
+  include("api_data/hollow_wand", this); 
+};

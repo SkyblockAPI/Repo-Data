@@ -1,1 +1,4 @@
-meta { include("api_data/archfiend_dice", this); };
+meta {
+  id = ARCHFIEND_DICE;
+  include("api_data/archfiend_dice", this); 
+};

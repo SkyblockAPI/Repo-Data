@@ -1,1 +1,4 @@
-meta { include("api_data/mushroom_chestplate", this); };
+meta {
+  id = MUSHROOM_CHESTPLATE;
+  include("api_data/mushroom_chestplate", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/davids_cloak", this); };
+meta {
+  id = DAVIDS_CLOAK;
+  include("api_data/davids_cloak", this); 
+};

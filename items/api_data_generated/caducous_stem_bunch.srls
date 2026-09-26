@@ -1,1 +1,4 @@
-meta { include("api_data/caducous_stem_bunch", this); };
+meta {
+  id = CADUCOUS_STEM_BUNCH;
+  include("api_data/caducous_stem_bunch", this); 
+};

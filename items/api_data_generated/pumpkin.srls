@@ -1,1 +1,4 @@
-meta { include("api_data/pumpkin", this); };
+meta {
+  id = PUMPKIN;
+  include("api_data/pumpkin", this); 
+};

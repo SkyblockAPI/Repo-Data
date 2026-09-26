@@ -1,1 +1,4 @@
-meta { include("api_data/leather_cloth", this); };
+meta {
+  id = LEATHER_CLOTH;
+  include("api_data/leather_cloth", this); 
+};

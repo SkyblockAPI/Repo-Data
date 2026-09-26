@@ -1,1 +1,4 @@
-meta { include("api_data/rabbit_hide", this); };
+meta {
+  id = RABBIT_HIDE;
+  include("api_data/rabbit_hide", this); 
+};

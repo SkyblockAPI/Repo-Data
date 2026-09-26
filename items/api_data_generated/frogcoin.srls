@@ -1,1 +1,4 @@
-meta { include("api_data/frogcoin", this); };
+meta {
+  id = FROGCOIN;
+  include("api_data/frogcoin", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/grizzly_paw", this); };
+meta {
+  id = GRIZZLY_PAW;
+  include("api_data/grizzly_paw", this); 
+};

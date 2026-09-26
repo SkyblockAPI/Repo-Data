@@ -1,1 +1,4 @@
-meta { include("api_data/starred_stone_blade", this); };
+meta {
+  id = STARRED_STONE_BLADE;
+  include("api_data/starred_stone_blade", this); 
+};

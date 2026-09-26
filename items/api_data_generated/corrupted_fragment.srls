@@ -1,1 +1,4 @@
-meta { include("api_data/corrupted_fragment", this); };
+meta {
+  id = CORRUPTED_FRAGMENT;
+  include("api_data/corrupted_fragment", this); 
+};

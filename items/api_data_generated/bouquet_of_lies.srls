@@ -1,1 +1,4 @@
-meta { include("api_data/bouquet_of_lies", this); };
+meta {
+  id = BOUQUET_OF_LIES;
+  include("api_data/bouquet_of_lies", this); 
+};

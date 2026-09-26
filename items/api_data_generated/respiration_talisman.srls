@@ -1,1 +1,4 @@
-meta { include("api_data/respiration_talisman", this); };
+meta {
+  id = RESPIRATION_TALISMAN;
+  include("api_data/respiration_talisman", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/fake_emerald_altar", this); };
+meta {
+  id = FAKE_EMERALD_ALTAR;
+  include("api_data/fake_emerald_altar", this); 
+};

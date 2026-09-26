@@ -1,1 +1,4 @@
-meta { include("api_data/talisman_enrichment_critical_chance", this); };
+meta {
+  id = TALISMAN_ENRICHMENT_CRITICAL_CHANCE;
+  include("api_data/talisman_enrichment_critical_chance", this); 
+};

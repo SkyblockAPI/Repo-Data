@@ -1,1 +1,4 @@
-meta { include("api_data/turbo_gourd", this); };
+meta {
+  id = TURBO_GOURD;
+  include("api_data/turbo_gourd", this); 
+};

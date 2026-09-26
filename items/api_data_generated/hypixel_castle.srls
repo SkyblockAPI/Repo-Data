@@ -1,1 +1,4 @@
-meta { include("api_data/hypixel_castle", this); };
+meta {
+  id = HYPIXEL_CASTLE;
+  include("api_data/hypixel_castle", this); 
+};

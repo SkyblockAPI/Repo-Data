@@ -1,1 +1,4 @@
-meta { include("api_data/full_tree_axe", this); };
+meta {
+  id = FULL_TREE_AXE;
+  include("api_data/full_tree_axe", this); 
+};

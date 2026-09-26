@@ -1,1 +1,4 @@
-meta { include("api_data/fiery_aurora_chestplate", this); };
+meta {
+  id = FIERY_AURORA_CHESTPLATE;
+  include("api_data/fiery_aurora_chestplate", this); 
+};

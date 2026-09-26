@@ -1,1 +1,4 @@
-meta { include("api_data/freshly_baked_artifact", this); };
+meta {
+  id = FRESHLY_BAKED_ARTIFACT;
+  include("api_data/freshly_baked_artifact", this); 
+};

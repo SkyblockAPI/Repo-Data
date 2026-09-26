@@ -1,1 +1,4 @@
-meta { include("api_data/abiphone_basic", this); };
+meta {
+  id = ABIPHONE_BASIC;
+  include("api_data/abiphone_basic", this); 
+};

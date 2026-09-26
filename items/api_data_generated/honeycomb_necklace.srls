@@ -1,1 +1,4 @@
-meta { include("api_data/honeycomb_necklace", this); };
+meta {
+  id = HONEYCOMB_NECKLACE;
+  include("api_data/honeycomb_necklace", this); 
+};

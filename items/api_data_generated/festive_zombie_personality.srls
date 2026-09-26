@@ -1,1 +1,4 @@
-meta { include("api_data/festive_zombie_personality", this); };
+meta {
+  id = FESTIVE_ZOMBIE_PERSONALITY;
+  include("api_data/festive_zombie_personality", this); 
+};

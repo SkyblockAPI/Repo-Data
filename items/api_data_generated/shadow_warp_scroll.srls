@@ -1,1 +1,4 @@
-meta { include("api_data/shadow_warp_scroll", this); };
+meta {
+  id = SHADOW_WARP_SCROLL;
+  include("api_data/shadow_warp_scroll", this); 
+};

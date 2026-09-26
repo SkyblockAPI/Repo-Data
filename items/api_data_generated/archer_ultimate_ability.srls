@@ -1,1 +1,4 @@
-meta { include("api_data/archer_ultimate_ability", this); };
+meta {
+  id = ARCHER_ULTIMATE_ABILITY;
+  include("api_data/archer_ultimate_ability", this); 
+};

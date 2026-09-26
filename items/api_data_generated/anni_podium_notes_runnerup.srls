@@ -1,1 +1,4 @@
-meta { include("api_data/anni_podium_notes_runnerup", this); };
+meta {
+  id = ANNI_PODIUM_NOTES_RUNNERUP;
+  include("api_data/anni_podium_notes_runnerup", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/campfire_talisman_25", this); };
+meta {
+  id = CAMPFIRE_TALISMAN_25;
+  include("api_data/campfire_talisman_25", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_wild_rose", this); };
+meta {
+  id = ENCHANTED_WILD_ROSE;
+  include("api_data/enchanted_wild_rose", this); 
+};

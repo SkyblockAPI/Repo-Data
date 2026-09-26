@@ -1,1 +1,4 @@
-meta { include("api_data/hot_fervor_leggings", this); };
+meta {
+  id = HOT_FERVOR_LEGGINGS;
+  include("api_data/hot_fervor_leggings", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/basic_chicken_axe", this); };
+meta {
+  id = BASIC_CHICKEN_AXE;
+  include("api_data/basic_chicken_axe", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/hephaestus_souvenir", this); };
+meta {
+  id = HEPHAESTUS_SOUVENIR;
+  include("api_data/hephaestus_souvenir", this); 
+};

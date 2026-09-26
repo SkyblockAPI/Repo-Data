@@ -1,1 +1,4 @@
-meta { include("api_data/beginner_foraging_sack", this); };
+meta {
+  id = BEGINNER_FORAGING_SACK;
+  include("api_data/beginner_foraging_sack", this); 
+};

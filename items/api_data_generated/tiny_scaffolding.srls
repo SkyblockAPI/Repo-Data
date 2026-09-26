@@ -1,1 +1,4 @@
-meta { include("api_data/tiny_scaffolding", this); };
+meta {
+  id = TINY_SCAFFOLDING;
+  include("api_data/tiny_scaffolding", this); 
+};

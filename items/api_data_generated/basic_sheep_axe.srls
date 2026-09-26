@@ -1,1 +1,4 @@
-meta { include("api_data/basic_sheep_axe", this); };
+meta {
+  id = BASIC_SHEEP_AXE;
+  include("api_data/basic_sheep_axe", this); 
+};

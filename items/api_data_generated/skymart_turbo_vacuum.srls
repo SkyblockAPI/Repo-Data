@@ -1,1 +1,4 @@
-meta { include("api_data/skymart_turbo_vacuum", this); };
+meta {
+  id = SKYMART_TURBO_VACUUM;
+  include("api_data/skymart_turbo_vacuum", this); 
+};

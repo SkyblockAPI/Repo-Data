@@ -1,1 +1,4 @@
-meta { include("api_data/pet_item_farming_skill_boost_uncommon", this); };
+meta {
+  id = PET_ITEM_FARMING_SKILL_BOOST_UNCOMMON;
+  include("api_data/pet_item_farming_skill_boost_uncommon", this); 
+};

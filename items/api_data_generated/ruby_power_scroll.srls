@@ -1,1 +1,4 @@
-meta { include("api_data/ruby_power_scroll", this); };
+meta {
+  id = RUBY_POWER_SCROLL;
+  include("api_data/ruby_power_scroll", this); 
+};

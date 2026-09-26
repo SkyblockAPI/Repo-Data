@@ -1,1 +1,4 @@
-meta { include("api_data/miria_coupon", this); };
+meta {
+  id = MIRIA_COUPON;
+  include("api_data/miria_coupon", this); 
+};

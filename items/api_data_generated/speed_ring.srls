@@ -1,1 +1,4 @@
-meta { include("api_data/speed_ring", this); };
+meta {
+  id = SPEED_RING;
+  include("api_data/speed_ring", this); 
+};

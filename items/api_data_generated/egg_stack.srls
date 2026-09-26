@@ -1,1 +1,4 @@
-meta { include("api_data/egg_stack", this); };
+meta {
+  id = EGG_STACK;
+  include("api_data/egg_stack", this); 
+};

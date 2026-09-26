@@ -1,1 +1,4 @@
-meta { include("api_data/redstone_torch_on", this); };
+meta {
+  id = REDSTONE_TORCH_ON;
+  include("api_data/redstone_torch_on", this); 
+};

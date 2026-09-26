@@ -1,1 +1,4 @@
-meta { include("api_data/training_dummy", this); };
+meta {
+  id = TRAINING_DUMMY;
+  include("api_data/training_dummy", this); 
+};

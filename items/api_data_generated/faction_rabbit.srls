@@ -1,1 +1,4 @@
-meta { include("api_data/faction_rabbit", this); };
+meta {
+  id = FACTION_RABBIT;
+  include("api_data/faction_rabbit", this); 
+};

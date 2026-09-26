@@ -1,1 +1,4 @@
-meta { include("api_data/knockoff_cola", this); };
+meta {
+  id = KNOCKOFF_COLA;
+  include("api_data/knockoff_cola", this); 
+};

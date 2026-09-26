@@ -1,1 +1,4 @@
-meta { include("api_data/flavor_packed_fish", this); };
+meta {
+  id = FLAVOR_PACKED_FISH;
+  include("api_data/flavor_packed_fish", this); 
+};

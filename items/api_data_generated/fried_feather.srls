@@ -1,1 +1,4 @@
-meta { include("api_data/fried_feather", this); };
+meta {
+  id = FRIED_FEATHER;
+  include("api_data/fried_feather", this); 
+};

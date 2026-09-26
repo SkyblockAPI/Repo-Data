@@ -1,1 +1,4 @@
-meta { include("api_data/wither_leggings", this); };
+meta {
+  id = WITHER_LEGGINGS;
+  include("api_data/wither_leggings", this); 
+};

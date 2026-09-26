@@ -33,8 +33,5 @@ description = [{
 
 {
   level,
-  description,
-  stat_bonus: {
-    health_regen: health_regen_bonus
-  }
+  description
 }

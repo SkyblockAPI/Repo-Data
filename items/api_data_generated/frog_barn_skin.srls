@@ -1,1 +1,4 @@
-meta { include("api_data/frog_barn_skin", this); };
+meta {
+  id = FROG_BARN_SKIN;
+  include("api_data/frog_barn_skin", this); 
+};

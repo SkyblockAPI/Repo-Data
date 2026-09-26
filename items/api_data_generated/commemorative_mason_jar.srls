@@ -1,1 +1,4 @@
-meta { include("api_data/commemorative_mason_jar", this); };
+meta {
+  id = COMMEMORATIVE_MASON_JAR;
+  include("api_data/commemorative_mason_jar", this); 
+};

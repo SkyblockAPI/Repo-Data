@@ -1,1 +1,4 @@
-meta { include("api_data/red_rose-3", this); };
+meta {
+  id = RED_ROSE:3;
+  include("api_data/red_rose-3", this); 
+};

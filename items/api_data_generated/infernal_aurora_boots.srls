@@ -1,1 +1,4 @@
-meta { include("api_data/infernal_aurora_boots", this); };
+meta {
+  id = INFERNAL_AURORA_BOOTS;
+  include("api_data/infernal_aurora_boots", this); 
+};

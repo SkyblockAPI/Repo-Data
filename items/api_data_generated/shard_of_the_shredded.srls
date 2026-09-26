@@ -1,1 +1,4 @@
-meta { include("api_data/shard_of_the_shredded", this); };
+meta {
+  id = SHARD_OF_THE_SHREDDED;
+  include("api_data/shard_of_the_shredded", this); 
+};

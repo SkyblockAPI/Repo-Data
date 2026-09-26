@@ -1,1 +1,4 @@
-meta { include("api_data/pesthunter_artifact", this); };
+meta {
+  id = PESTHUNTER_ARTIFACT;
+  include("api_data/pesthunter_artifact", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/double_plant-5", this); };
+meta {
+  id = DOUBLE_PLANT:5;
+  include("api_data/double_plant-5", this); 
+};

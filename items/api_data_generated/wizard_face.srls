@@ -1,1 +1,4 @@
-meta { include("api_data/wizard_face", this); };
+meta {
+  id = WIZARD_FACE;
+  include("api_data/wizard_face", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/golem_poppy", this); };
+meta {
+  id = GOLEM_POPPY;
+  include("api_data/golem_poppy", this); 
+};

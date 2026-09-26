@@ -1,1 +1,4 @@
-meta { include("api_data/diamond_barding", this); };
+meta {
+  id = DIAMOND_BARDING;
+  include("api_data/diamond_barding", this); 
+};

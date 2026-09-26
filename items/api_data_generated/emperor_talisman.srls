@@ -1,1 +1,4 @@
-meta { include("api_data/emperor_talisman", this); };
+meta {
+  id = EMPEROR_TALISMAN;
+  include("api_data/emperor_talisman", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/wand_of_restoration", this); };
+meta {
+  id = WAND_OF_RESTORATION;
+  include("api_data/wand_of_restoration", this); 
+};

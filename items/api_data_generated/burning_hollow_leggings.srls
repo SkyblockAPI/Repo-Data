@@ -1,1 +1,4 @@
-meta { include("api_data/burning_hollow_leggings", this); };
+meta {
+  id = BURNING_HOLLOW_LEGGINGS;
+  include("api_data/burning_hollow_leggings", this); 
+};

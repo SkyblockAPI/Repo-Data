@@ -1,1 +1,4 @@
-meta { include("api_data/anti_morph_potion", this); };
+meta {
+  id = ANTI_MORPH_POTION;
+  include("api_data/anti_morph_potion", this); 
+};

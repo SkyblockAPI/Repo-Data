@@ -1,1 +1,4 @@
-meta { include("api_data/salty_nozzle", this); };
+meta {
+  id = SALTY_NOZZLE;
+  include("api_data/salty_nozzle", this); 
+};

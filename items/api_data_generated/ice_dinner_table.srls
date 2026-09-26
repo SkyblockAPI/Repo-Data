@@ -1,1 +1,4 @@
-meta { include("api_data/ice_dinner_table", this); };
+meta {
+  id = ICE_DINNER_TABLE;
+  include("api_data/ice_dinner_table", this); 
+};

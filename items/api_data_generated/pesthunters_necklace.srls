@@ -1,1 +1,4 @@
-meta { include("api_data/pesthunters_necklace", this); };
+meta {
+  id = PESTHUNTERS_NECKLACE;
+  include("api_data/pesthunters_necklace", this); 
+};

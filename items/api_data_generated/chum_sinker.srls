@@ -1,1 +1,4 @@
-meta { include("api_data/chum_sinker", this); };
+meta {
+  id = CHUM_SINKER;
+  include("api_data/chum_sinker", this); 
+};

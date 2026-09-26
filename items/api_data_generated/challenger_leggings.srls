@@ -1,1 +1,4 @@
-meta { include("api_data/challenger_leggings", this); };
+meta {
+  id = CHALLENGER_LEGGINGS;
+  include("api_data/challenger_leggings", this); 
+};

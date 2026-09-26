@@ -1,1 +1,4 @@
-meta { include("api_data/hot_crimson_leggings", this); };
+meta {
+  id = HOT_CRIMSON_LEGGINGS;
+  include("api_data/hot_crimson_leggings", this); 
+};

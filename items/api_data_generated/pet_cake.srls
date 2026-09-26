@@ -1,1 +1,4 @@
-meta { include("api_data/pet_cake", this); };
+meta {
+  id = PET_CAKE;
+  include("api_data/pet_cake", this); 
+};

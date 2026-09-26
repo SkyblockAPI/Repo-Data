@@ -1,1 +1,4 @@
-meta { include("api_data/festive_mailbox", this); };
+meta {
+  id = FESTIVE_MAILBOX;
+  include("api_data/festive_mailbox", this); 
+};

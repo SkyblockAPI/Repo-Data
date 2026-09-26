@@ -1,1 +1,4 @@
-meta { include("api_data/greater_enchanted_chest_upgrade", this); };
+meta {
+  id = GREATER_ENCHANTED_CHEST_UPGRADE;
+  include("api_data/greater_enchanted_chest_upgrade", this); 
+};

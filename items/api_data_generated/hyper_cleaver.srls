@@ -1,1 +1,4 @@
-meta { include("api_data/hyper_cleaver", this); };
+meta {
+  id = HYPER_CLEAVER;
+  include("api_data/hyper_cleaver", this); 
+};

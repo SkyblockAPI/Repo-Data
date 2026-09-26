@@ -1,1 +1,4 @@
-meta { include("api_data/fancy_beach_chair", this); };
+meta {
+  id = FANCY_BEACH_CHAIR;
+  include("api_data/fancy_beach_chair", this); 
+};

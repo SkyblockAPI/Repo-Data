@@ -1,1 +1,4 @@
-meta { include("api_data/draconic_ring", this); };
+meta {
+  id = DRACONIC_RING;
+  include("api_data/draconic_ring", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/lil_pad", this); };
+meta {
+  id = LIL_PAD;
+  include("api_data/lil_pad", this); 
+};

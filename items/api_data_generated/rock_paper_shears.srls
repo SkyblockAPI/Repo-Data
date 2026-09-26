@@ -1,1 +1,4 @@
-meta { include("api_data/rock_paper_shears", this); };
+meta {
+  id = ROCK_PAPER_SHEARS;
+  include("api_data/rock_paper_shears", this); 
+};

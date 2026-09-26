@@ -1,1 +1,4 @@
-meta { include("api_data/teleporter_pill", this); };
+meta {
+  id = TELEPORTER_PILL;
+  include("api_data/teleporter_pill", this); 
+};

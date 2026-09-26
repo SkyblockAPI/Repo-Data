@@ -1,1 +1,4 @@
-meta { include("api_data/gold_gift_talisman", this); };
+meta {
+  id = GOLD_GIFT_TALISMAN;
+  include("api_data/gold_gift_talisman", this); 
+};

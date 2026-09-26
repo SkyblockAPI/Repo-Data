@@ -1,1 +1,4 @@
-meta { include("api_data/plant_matter", this); };
+meta {
+  id = PLANT_MATTER;
+  include("api_data/plant_matter", this); 
+};

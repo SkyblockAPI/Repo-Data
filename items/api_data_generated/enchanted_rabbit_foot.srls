@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_rabbit_foot", this); };
+meta {
+  id = ENCHANTED_RABBIT_FOOT;
+  include("api_data/enchanted_rabbit_foot", this); 
+};

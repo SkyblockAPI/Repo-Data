@@ -1,1 +1,4 @@
-meta { include("api_data/book_of_stats", this); };
+meta {
+  id = BOOK_OF_STATS;
+  include("api_data/book_of_stats", this); 
+};

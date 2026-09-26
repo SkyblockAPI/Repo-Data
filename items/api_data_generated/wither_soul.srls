@@ -1,1 +1,4 @@
-meta { include("api_data/wither_soul", this); };
+meta {
+  id = WITHER_SOUL;
+  include("api_data/wither_soul", this); 
+};

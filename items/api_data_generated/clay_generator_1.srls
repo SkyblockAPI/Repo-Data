@@ -1,1 +1,4 @@
-meta { include("api_data/clay_generator_1", this); };
+meta {
+  id = CLAY_GENERATOR_1;
+  include("api_data/clay_generator_1", this); 
+};

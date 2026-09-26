@@ -1,1 +1,4 @@
-meta { include("api_data/celeste_chestplate", this); };
+meta {
+  id = CELESTE_CHESTPLATE;
+  include("api_data/celeste_chestplate", this); 
+};

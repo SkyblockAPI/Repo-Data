@@ -1,1 +1,4 @@
-meta { include("api_data/hardened_diamond_leggings", this); };
+meta {
+  id = HARDENED_DIAMOND_LEGGINGS;
+  include("api_data/hardened_diamond_leggings", this); 
+};

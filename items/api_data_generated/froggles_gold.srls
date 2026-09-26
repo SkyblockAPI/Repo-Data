@@ -1,1 +1,4 @@
-meta { include("api_data/froggles_gold", this); };
+meta {
+  id = FROGGLES_GOLD;
+  include("api_data/froggles_gold", this); 
+};

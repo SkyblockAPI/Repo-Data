@@ -1,1 +1,4 @@
-meta { include("api_data/century_ring", this); };
+meta {
+  id = CENTURY_RING;
+  include("api_data/century_ring", this); 
+};

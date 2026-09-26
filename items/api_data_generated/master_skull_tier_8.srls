@@ -1,1 +1,4 @@
-meta { include("api_data/master_skull_tier_8", this); };
+meta {
+  id = MASTER_SKULL_TIER_8;
+  include("api_data/master_skull_tier_8", this); 
+};

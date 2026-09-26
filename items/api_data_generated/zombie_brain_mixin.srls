@@ -1,1 +1,4 @@
-meta { include("api_data/zombie_brain_mixin", this); };
+meta {
+  id = ZOMBIE_BRAIN_MIXIN;
+  include("api_data/zombie_brain_mixin", this); 
+};

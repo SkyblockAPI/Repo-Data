@@ -1,1 +1,4 @@
-meta { include("api_data/medium_enchanted_chest", this); };
+meta {
+  id = MEDIUM_ENCHANTED_CHEST;
+  include("api_data/medium_enchanted_chest", this); 
+};

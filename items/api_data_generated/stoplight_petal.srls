@@ -1,1 +1,4 @@
-meta { include("api_data/stoplight_petal", this); };
+meta {
+  id = STOPLIGHT_PETAL;
+  include("api_data/stoplight_petal", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/rookie_pickaxe", this); };
+meta {
+  id = ROOKIE_PICKAXE;
+  include("api_data/rookie_pickaxe", this); 
+};

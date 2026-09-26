@@ -1,1 +1,4 @@
-meta { include("api_data/blood_god_crest", this); };
+meta {
+  id = BLOOD_GOD_CREST;
+  include("api_data/blood_god_crest", this); 
+};

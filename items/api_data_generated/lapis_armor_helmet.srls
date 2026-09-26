@@ -1,1 +1,4 @@
-meta { include("api_data/lapis_armor_helmet", this); };
+meta {
+  id = LAPIS_ARMOR_HELMET;
+  include("api_data/lapis_armor_helmet", this); 
+};

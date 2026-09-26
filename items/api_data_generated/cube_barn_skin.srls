@@ -1,1 +1,4 @@
-meta { include("api_data/cube_barn_skin", this); };
+meta {
+  id = CUBE_BARN_SKIN;
+  include("api_data/cube_barn_skin", this); 
+};

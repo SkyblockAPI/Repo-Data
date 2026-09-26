@@ -1,1 +1,4 @@
-meta { include("api_data/hopper", this); };
+meta {
+  id = HOPPER;
+  include("api_data/hopper", this); 
+};

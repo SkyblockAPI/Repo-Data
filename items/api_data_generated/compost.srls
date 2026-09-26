@@ -1,1 +1,4 @@
-meta { include("api_data/compost", this); };
+meta {
+  id = COMPOST;
+  include("api_data/compost", this); 
+};

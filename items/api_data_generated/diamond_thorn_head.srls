@@ -1,1 +1,4 @@
-meta { include("api_data/diamond_thorn_head", this); };
+meta {
+  id = DIAMOND_THORN_HEAD;
+  include("api_data/diamond_thorn_head", this); 
+};

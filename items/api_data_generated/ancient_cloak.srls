@@ -1,1 +1,4 @@
-meta { include("api_data/ancient_cloak", this); };
+meta {
+  id = ANCIENT_CLOAK;
+  include("api_data/ancient_cloak", this); 
+};

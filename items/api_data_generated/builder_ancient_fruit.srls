@@ -1,1 +1,4 @@
-meta { include("api_data/builder_ancient_fruit", this); };
+meta {
+  id = BUILDER_ANCIENT_FRUIT;
+  include("api_data/builder_ancient_fruit", this); 
+};

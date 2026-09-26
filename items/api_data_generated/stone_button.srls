@@ -1,1 +1,4 @@
-meta { include("api_data/stone_button", this); };
+meta {
+  id = STONE_BUTTON;
+  include("api_data/stone_button", this); 
+};

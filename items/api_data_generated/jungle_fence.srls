@@ -1,1 +1,4 @@
-meta { include("api_data/jungle_fence", this); };
+meta {
+  id = JUNGLE_FENCE;
+  include("api_data/jungle_fence", this); 
+};

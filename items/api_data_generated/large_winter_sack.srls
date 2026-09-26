@@ -1,1 +1,4 @@
-meta { include("api_data/large_winter_sack", this); };
+meta {
+  id = LARGE_WINTER_SACK;
+  include("api_data/large_winter_sack", this); 
+};

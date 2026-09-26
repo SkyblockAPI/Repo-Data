@@ -1,1 +1,4 @@
-meta { include("api_data/water_lily", this); };
+meta {
+  id = WATER_LILY;
+  include("api_data/water_lily", this); 
+};

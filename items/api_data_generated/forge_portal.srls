@@ -1,1 +1,4 @@
-meta { include("api_data/forge_portal", this); };
+meta {
+  id = FORGE_PORTAL;
+  include("api_data/forge_portal", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/feather_talisman", this); };
+meta {
+  id = FEATHER_TALISMAN;
+  include("api_data/feather_talisman", this); 
+};

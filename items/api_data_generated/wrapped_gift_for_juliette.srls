@@ -1,1 +1,4 @@
-meta { include("api_data/wrapped_gift_for_juliette", this); };
+meta {
+  id = WRAPPED_GIFT_FOR_JULIETTE;
+  include("api_data/wrapped_gift_for_juliette", this); 
+};

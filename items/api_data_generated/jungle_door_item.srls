@@ -1,1 +1,4 @@
-meta { include("api_data/jungle_door_item", this); };
+meta {
+  id = JUNGLE_DOOR_ITEM;
+  include("api_data/jungle_door_item", this); 
+};

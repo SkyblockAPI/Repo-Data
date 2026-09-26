@@ -1,1 +1,4 @@
-meta { include("api_data/unfanged_vampire_part", this); };
+meta {
+  id = UNFANGED_VAMPIRE_PART;
+  include("api_data/unfanged_vampire_part", this); 
+};

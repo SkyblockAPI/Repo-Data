@@ -1,1 +1,4 @@
-meta { include("api_data/glossy_gemstone", this); };
+meta {
+  id = GLOSSY_GEMSTONE;
+  include("api_data/glossy_gemstone", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/weak_wolf_catalyst", this); };
+meta {
+  id = WEAK_WOLF_CATALYST;
+  include("api_data/weak_wolf_catalyst", this); 
+};

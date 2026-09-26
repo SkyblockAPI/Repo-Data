@@ -1,1 +1,4 @@
-meta { include("api_data/vampire_mask", this); };
+meta {
+  id = VAMPIRE_MASK;
+  include("api_data/vampire_mask", this); 
+};

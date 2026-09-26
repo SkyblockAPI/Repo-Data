@@ -1,1 +1,4 @@
-meta { include("api_data/crystal_hollows_travel_scroll", this); };
+meta {
+  id = CRYSTAL_HOLLOWS_TRAVEL_SCROLL;
+  include("api_data/crystal_hollows_travel_scroll", this); 
+};

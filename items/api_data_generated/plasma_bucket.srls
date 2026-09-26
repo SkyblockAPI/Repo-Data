@@ -1,1 +1,4 @@
-meta { include("api_data/plasma_bucket", this); };
+meta {
+  id = PLASMA_BUCKET;
+  include("api_data/plasma_bucket", this); 
+};

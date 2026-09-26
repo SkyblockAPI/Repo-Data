@@ -1,1 +1,4 @@
-meta { include("api_data/salted_sunflower_seeds", this); };
+meta {
+  id = SALTED_SUNFLOWER_SEEDS;
+  include("api_data/salted_sunflower_seeds", this); 
+};

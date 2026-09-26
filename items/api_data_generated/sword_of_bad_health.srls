@@ -1,1 +1,4 @@
-meta { include("api_data/sword_of_bad_health", this); };
+meta {
+  id = SWORD_OF_BAD_HEALTH;
+  include("api_data/sword_of_bad_health", this); 
+};

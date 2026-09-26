@@ -1,1 +1,4 @@
-meta { include("api_data/leaflet_chestplate", this); };
+meta {
+  id = LEAFLET_CHESTPLATE;
+  include("api_data/leaflet_chestplate", this); 
+};

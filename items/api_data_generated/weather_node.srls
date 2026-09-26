@@ -1,1 +1,4 @@
-meta { include("api_data/weather_node", this); };
+meta {
+  id = WEATHER_NODE;
+  include("api_data/weather_node", this); 
+};

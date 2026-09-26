@@ -1,1 +1,4 @@
-meta { include("api_data/pet_item_sharpened_claws_common", this); };
+meta {
+  id = PET_ITEM_SHARPENED_CLAWS_COMMON;
+  include("api_data/pet_item_sharpened_claws_common", this); 
+};

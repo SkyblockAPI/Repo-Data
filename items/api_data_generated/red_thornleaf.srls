@@ -1,1 +1,4 @@
-meta { include("api_data/red_thornleaf", this); };
+meta {
+  id = RED_THORNLEAF;
+  include("api_data/red_thornleaf", this); 
+};

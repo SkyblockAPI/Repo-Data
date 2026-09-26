@@ -1,1 +1,4 @@
-meta { include("api_data/nutcracker_boots", this); };
+meta {
+  id = NUTCRACKER_BOOTS;
+  include("api_data/nutcracker_boots", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/theoretical_hoe_wild_rose_1", this); };
+meta {
+  id = THEORETICAL_HOE_WILD_ROSE_1;
+  include("api_data/theoretical_hoe_wild_rose_1", this); 
+};

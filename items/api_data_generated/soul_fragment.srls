@@ -1,1 +1,4 @@
-meta { include("api_data/soul_fragment", this); };
+meta {
+  id = SOUL_FRAGMENT;
+  include("api_data/soul_fragment", this); 
+};

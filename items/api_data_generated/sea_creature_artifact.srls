@@ -1,1 +1,4 @@
-meta { include("api_data/sea_creature_artifact", this); };
+meta {
+  id = SEA_CREATURE_ARTIFACT;
+  include("api_data/sea_creature_artifact", this); 
+};

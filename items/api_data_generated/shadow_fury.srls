@@ -1,1 +1,4 @@
-meta { include("api_data/shadow_fury", this); };
+meta {
+  id = SHADOW_FURY;
+  include("api_data/shadow_fury", this); 
+};

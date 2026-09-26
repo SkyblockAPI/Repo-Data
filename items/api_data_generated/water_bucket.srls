@@ -1,1 +1,4 @@
-meta { include("api_data/water_bucket", this); };
+meta {
+  id = WATER_BUCKET;
+  include("api_data/water_bucket", this); 
+};

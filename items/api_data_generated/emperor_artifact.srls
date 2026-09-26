@@ -1,1 +1,4 @@
-meta { include("api_data/emperor_artifact", this); };
+meta {
+  id = EMPEROR_ARTIFACT;
+  include("api_data/emperor_artifact", this); 
+};

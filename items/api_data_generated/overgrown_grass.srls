@@ -1,1 +1,4 @@
-meta { include("api_data/overgrown_grass", this); };
+meta {
+  id = OVERGROWN_GRASS;
+  include("api_data/overgrown_grass", this); 
+};

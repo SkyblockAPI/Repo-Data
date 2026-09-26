@@ -1,1 +1,4 @@
-meta { include("api_data/wise_shimmer", this); };
+meta {
+  id = WISE_SHIMMER;
+  include("api_data/wise_shimmer", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/sunstone", this); };
+meta {
+  id = SUNSTONE;
+  include("api_data/sunstone", this); 
+};

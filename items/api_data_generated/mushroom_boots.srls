@@ -1,1 +1,4 @@
-meta { include("api_data/mushroom_boots", this); };
+meta {
+  id = MUSHROOM_BOOTS;
+  include("api_data/mushroom_boots", this); 
+};

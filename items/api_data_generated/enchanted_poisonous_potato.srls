@@ -1,1 +1,4 @@
-meta { include("api_data/enchanted_poisonous_potato", this); };
+meta {
+  id = ENCHANTED_POISONOUS_POTATO;
+  include("api_data/enchanted_poisonous_potato", this); 
+};

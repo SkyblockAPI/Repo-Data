@@ -1,1 +1,4 @@
-meta { include("api_data/foul_flesh", this); };
+meta {
+  id = FOUL_FLESH;
+  include("api_data/foul_flesh", this); 
+};

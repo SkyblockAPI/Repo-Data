@@ -1,1 +1,4 @@
-meta { include("api_data/voter_badge_vip", this); };
+meta {
+  id = VOTER_BADGE_VIP;
+  include("api_data/voter_badge_vip", this); 
+};

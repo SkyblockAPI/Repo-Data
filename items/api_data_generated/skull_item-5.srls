@@ -1,1 +1,4 @@
-meta { include("api_data/skull_item-5", this); };
+meta {
+  id = SKULL_ITEM:5;
+  include("api_data/skull_item-5", this); 
+};

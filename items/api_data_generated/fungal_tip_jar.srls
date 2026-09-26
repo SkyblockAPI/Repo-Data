@@ -1,1 +1,4 @@
-meta { include("api_data/fungal_tip_jar", this); };
+meta {
+  id = FUNGAL_TIP_JAR;
+  include("api_data/fungal_tip_jar", this); 
+};

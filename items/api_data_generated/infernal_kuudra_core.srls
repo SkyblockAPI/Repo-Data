@@ -1,1 +1,4 @@
-meta { include("api_data/infernal_kuudra_core", this); };
+meta {
+  id = INFERNAL_KUUDRA_CORE;
+  include("api_data/infernal_kuudra_core", this); 
+};

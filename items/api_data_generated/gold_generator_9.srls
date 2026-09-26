@@ -1,1 +1,4 @@
-meta { include("api_data/gold_generator_9", this); };
+meta {
+  id = GOLD_GENERATOR_9;
+  include("api_data/gold_generator_9", this); 
+};

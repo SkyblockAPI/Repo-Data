@@ -1,1 +1,4 @@
-meta { include("api_data/savana_bow", this); };
+meta {
+  id = SAVANA_BOW;
+  include("api_data/savana_bow", this); 
+};

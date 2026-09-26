@@ -1,1 +1,4 @@
-meta { include("api_data/tarantula_fang", this); };
+meta {
+  id = TARANTULA_FANG;
+  include("api_data/tarantula_fang", this); 
+};

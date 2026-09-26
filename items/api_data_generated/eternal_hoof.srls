@@ -1,1 +1,4 @@
-meta { include("api_data/eternal_hoof", this); };
+meta {
+  id = ETERNAL_HOOF;
+  include("api_data/eternal_hoof", this); 
+};

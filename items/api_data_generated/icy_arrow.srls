@@ -1,1 +1,4 @@
-meta { include("api_data/icy_arrow", this); };
+meta {
+  id = ICY_ARROW;
+  include("api_data/icy_arrow", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/stone-3", this); };
+meta {
+  id = STONE:3;
+  include("api_data/stone-3", this); 
+};

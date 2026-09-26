@@ -1,1 +1,4 @@
-meta { include("api_data/neurotoxin_needle", this); };
+meta {
+  id = NEUROTOXIN_NEEDLE;
+  include("api_data/neurotoxin_needle", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/gold_ingot", this); };
+meta {
+  id = GOLD_INGOT;
+  include("api_data/gold_ingot", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/skeleton_grunt_boots", this); };
+meta {
+  id = SKELETON_GRUNT_BOOTS;
+  include("api_data/skeleton_grunt_boots", this); 
+};

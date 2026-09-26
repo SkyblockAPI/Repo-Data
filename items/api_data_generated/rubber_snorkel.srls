@@ -1,1 +1,4 @@
-meta { include("api_data/rubber_snorkel", this); };
+meta {
+  id = RUBBER_SNORKEL;
+  include("api_data/rubber_snorkel", this); 
+};

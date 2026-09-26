@@ -1,1 +1,4 @@
-meta { include("api_data/haste_block", this); };
+meta {
+  id = HASTE_BLOCK;
+  include("api_data/haste_block", this); 
+};

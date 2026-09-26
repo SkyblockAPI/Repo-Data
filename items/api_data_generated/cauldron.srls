@@ -1,1 +1,4 @@
-meta { include("api_data/cauldron", this); };
+meta {
+  id = CAULDRON;
+  include("api_data/cauldron", this); 
+};

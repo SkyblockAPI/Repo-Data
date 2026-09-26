@@ -1,1 +1,4 @@
-meta { include("api_data/jerry_box_purple", this); };
+meta {
+  id = JERRY_BOX_PURPLE;
+  include("api_data/jerry_box_purple", this); 
+};

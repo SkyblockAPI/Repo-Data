@@ -1,1 +1,4 @@
-meta { include("api_data/kelly_tshirt", this); };
+meta {
+  id = KELLY_TSHIRT;
+  include("api_data/kelly_tshirt", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/acacia_fence_gate", this); };
+meta {
+  id = ACACIA_FENCE_GATE;
+  include("api_data/acacia_fence_gate", this); 
+};

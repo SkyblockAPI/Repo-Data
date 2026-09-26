@@ -1,1 +1,4 @@
-meta { include("api_data/spiked_bait", this); };
+meta {
+  id = SPIKED_BAIT;
+  include("api_data/spiked_bait", this); 
+};

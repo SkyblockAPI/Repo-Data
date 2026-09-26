@@ -1,1 +1,4 @@
-meta { include("api_data/armor_of_yog_helmet", this); };
+meta {
+  id = ARMOR_OF_YOG_HELMET;
+  include("api_data/armor_of_yog_helmet", this); 
+};

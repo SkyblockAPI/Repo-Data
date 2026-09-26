@@ -1,1 +1,4 @@
-meta { include("api_data/rift_strength_elixir", this); };
+meta {
+  id = RIFT_STRENGTH_ELIXIR;
+  include("api_data/rift_strength_elixir", this); 
+};

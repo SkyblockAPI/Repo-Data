@@ -1,1 +1,4 @@
-meta { include("api_data/personal_compactor_7000", this); };
+meta {
+  id = PERSONAL_COMPACTOR_7000;
+  include("api_data/personal_compactor_7000", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/paper", this); };
+meta {
+  id = PAPER;
+  include("api_data/paper", this); 
+};

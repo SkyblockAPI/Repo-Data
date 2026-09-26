@@ -1,1 +1,4 @@
-meta { include("api_data/tessellated_ender_pearl", this); };
+meta {
+  id = TESSELLATED_ENDER_PEARL;
+  include("api_data/tessellated_ender_pearl", this); 
+};

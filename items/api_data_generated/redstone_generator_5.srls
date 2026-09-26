@@ -1,1 +1,4 @@
-meta { include("api_data/redstone_generator_5", this); };
+meta {
+  id = REDSTONE_GENERATOR_5;
+  include("api_data/redstone_generator_5", this); 
+};

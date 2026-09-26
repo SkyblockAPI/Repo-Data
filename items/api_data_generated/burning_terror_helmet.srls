@@ -1,1 +1,4 @@
-meta { include("api_data/burning_terror_helmet", this); };
+meta {
+  id = BURNING_TERROR_HELMET;
+  include("api_data/burning_terror_helmet", this); 
+};

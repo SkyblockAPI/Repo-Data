@@ -1,1 +1,4 @@
-meta { include("api_data/starred_bonzo_staff", this); };
+meta {
+  id = STARRED_BONZO_STAFF;
+  include("api_data/starred_bonzo_staff", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/chirping_stereo", this); };
+meta {
+  id = CHIRPING_STEREO;
+  include("api_data/chirping_stereo", this); 
+};

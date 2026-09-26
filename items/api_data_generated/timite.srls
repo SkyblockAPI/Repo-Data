@@ -1,1 +1,4 @@
-meta { include("api_data/timite", this); };
+meta {
+  id = TIMITE;
+  include("api_data/timite", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/hilt_of_true_ice", this); };
+meta {
+  id = HILT_OF_TRUE_ICE;
+  include("api_data/hilt_of_true_ice", this); 
+};

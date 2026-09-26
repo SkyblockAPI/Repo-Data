@@ -1,1 +1,4 @@
-meta { include("api_data/spiders_den_top_travel_scroll", this); };
+meta {
+  id = SPIDERS_DEN_TOP_TRAVEL_SCROLL;
+  include("api_data/spiders_den_top_travel_scroll", this); 
+};

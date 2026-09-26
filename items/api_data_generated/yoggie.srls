@@ -1,1 +1,4 @@
-meta { include("api_data/yoggie", this); };
+meta {
+  id = YOGGIE;
+  include("api_data/yoggie", this); 
+};

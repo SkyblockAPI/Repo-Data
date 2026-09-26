@@ -1,1 +1,4 @@
-meta { include("api_data/piggy_bank", this); };
+meta {
+  id = PIGGY_BANK;
+  include("api_data/piggy_bank", this); 
+};

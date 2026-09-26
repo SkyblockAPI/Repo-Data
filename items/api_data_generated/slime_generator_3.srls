@@ -1,1 +1,4 @@
-meta { include("api_data/slime_generator_3", this); };
+meta {
+  id = SLIME_GENERATOR_3;
+  include("api_data/slime_generator_3", this); 
+};

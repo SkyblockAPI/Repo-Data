@@ -1,1 +1,4 @@
-meta { include("api_data/sponge_belt", this); };
+meta {
+  id = SPONGE_BELT;
+  include("api_data/sponge_belt", this); 
+};

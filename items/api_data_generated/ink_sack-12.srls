@@ -1,1 +1,4 @@
-meta { include("api_data/ink_sack-12", this); };
+meta {
+  id = INK_SACK:12;
+  include("api_data/ink_sack-12", this); 
+};

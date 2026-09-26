@@ -1,1 +1,4 @@
-meta { include("api_data/wheel_of_fate", this); };
+meta {
+  id = WHEEL_OF_FATE;
+  include("api_data/wheel_of_fate", this); 
+};

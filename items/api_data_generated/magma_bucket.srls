@@ -1,1 +1,4 @@
-meta { include("api_data/magma_bucket", this); };
+meta {
+  id = MAGMA_BUCKET;
+  include("api_data/magma_bucket", this); 
+};

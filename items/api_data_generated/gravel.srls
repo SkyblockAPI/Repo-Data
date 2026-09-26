@@ -1,1 +1,4 @@
-meta { include("api_data/gravel", this); };
+meta {
+  id = GRAVEL;
+  include("api_data/gravel", this); 
+};

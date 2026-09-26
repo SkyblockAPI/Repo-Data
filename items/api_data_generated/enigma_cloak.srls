@@ -1,1 +1,4 @@
-meta { include("api_data/enigma_cloak", this); };
+meta {
+  id = ENIGMA_CLOAK;
+  include("api_data/enigma_cloak", this); 
+};

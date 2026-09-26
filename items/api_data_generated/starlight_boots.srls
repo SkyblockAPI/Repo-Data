@@ -1,1 +1,4 @@
-meta { include("api_data/starlight_boots", this); };
+meta {
+  id = STARLIGHT_BOOTS;
+  include("api_data/starlight_boots", this); 
+};

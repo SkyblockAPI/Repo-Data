@@ -1,1 +1,4 @@
-meta { include("api_data/slice_of_green_velvet_cake", this); };
+meta {
+  id = SLICE_OF_GREEN_VELVET_CAKE;
+  include("api_data/slice_of_green_velvet_cake", this); 
+};

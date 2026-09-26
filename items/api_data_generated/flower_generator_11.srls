@@ -1,1 +1,4 @@
-meta { include("api_data/flower_generator_11", this); };
+meta {
+  id = FLOWER_GENERATOR_11;
+  include("api_data/flower_generator_11", this); 
+};

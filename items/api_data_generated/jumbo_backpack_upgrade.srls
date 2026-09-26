@@ -1,1 +1,4 @@
-meta { include("api_data/jumbo_backpack_upgrade", this); };
+meta {
+  id = JUMBO_BACKPACK_UPGRADE;
+  include("api_data/jumbo_backpack_upgrade", this); 
+};

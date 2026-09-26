@@ -1,1 +1,4 @@
-meta { include("api_data/record_8", this); };
+meta {
+  id = RECORD_8;
+  include("api_data/record_8", this); 
+};

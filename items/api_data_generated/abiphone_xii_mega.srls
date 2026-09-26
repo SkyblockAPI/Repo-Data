@@ -1,1 +1,4 @@
-meta { include("api_data/abiphone_xii_mega", this); };
+meta {
+  id = ABIPHONE_XII_MEGA;
+  include("api_data/abiphone_xii_mega", this); 
+};

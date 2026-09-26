@@ -1,1 +1,4 @@
-meta { include("api_data/lantern_of_the_dead", this); };
+meta {
+  id = LANTERN_OF_THE_DEAD;
+  include("api_data/lantern_of_the_dead", this); 
+};

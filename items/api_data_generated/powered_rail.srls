@@ -1,1 +1,4 @@
-meta { include("api_data/powered_rail", this); };
+meta {
+  id = POWERED_RAIL;
+  include("api_data/powered_rail", this); 
+};

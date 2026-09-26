@@ -1,1 +1,4 @@
-meta { include("api_data/fine_peridot_gem", this); };
+meta {
+  id = FINE_PERIDOT_GEM;
+  include("api_data/fine_peridot_gem", this); 
+};

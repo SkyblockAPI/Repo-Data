@@ -1,1 +1,4 @@
-meta { include("api_data/iron_fence", this); };
+meta {
+  id = IRON_FENCE;
+  include("api_data/iron_fence", this); 
+};

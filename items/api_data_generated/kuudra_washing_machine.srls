@@ -1,1 +1,4 @@
-meta { include("api_data/kuudra_washing_machine", this); };
+meta {
+  id = KUUDRA_WASHING_MACHINE;
+  include("api_data/kuudra_washing_machine", this); 
+};

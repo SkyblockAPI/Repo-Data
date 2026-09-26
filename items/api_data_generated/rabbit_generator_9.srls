@@ -1,1 +1,4 @@
-meta { include("api_data/rabbit_generator_9", this); };
+meta {
+  id = RABBIT_GENERATOR_9;
+  include("api_data/rabbit_generator_9", this); 
+};

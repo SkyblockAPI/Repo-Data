@@ -1,1 +1,4 @@
-meta { include("api_data/elegant_tuxedo_chestplate", this); };
+meta {
+  id = ELEGANT_TUXEDO_CHESTPLATE;
+  include("api_data/elegant_tuxedo_chestplate", this); 
+};

@@ -1,1 +1,4 @@
-meta { include("api_data/pumpkin_generator_8", this); };
+meta {
+  id = PUMPKIN_GENERATOR_8;
+  include("api_data/pumpkin_generator_8", this); 
+};

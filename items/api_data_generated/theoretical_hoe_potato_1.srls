@@ -1,1 +1,4 @@
-meta { include("api_data/theoretical_hoe_potato_1", this); };
+meta {
+  id = THEORETICAL_HOE_POTATO_1;
+  include("api_data/theoretical_hoe_potato_1", this); 
+};

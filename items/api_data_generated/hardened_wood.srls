@@ -1,1 +1,4 @@
-meta { include("api_data/hardened_wood", this); };
+meta {
+  id = HARDENED_WOOD;
+  include("api_data/hardened_wood", this); 
+};

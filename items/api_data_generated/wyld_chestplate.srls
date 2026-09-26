@@ -1,1 +1,4 @@
-meta { include("api_data/wyld_chestplate", this); };
+meta {
+  id = WYLD_CHESTPLATE;
+  include("api_data/wyld_chestplate", this); 
+};

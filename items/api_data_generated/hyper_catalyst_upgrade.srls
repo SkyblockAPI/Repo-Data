@@ -1,1 +1,4 @@
-meta { include("api_data/hyper_catalyst_upgrade", this); };
+meta {
+  id = HYPER_CATALYST_UPGRADE;
+  include("api_data/hyper_catalyst_upgrade", this); 
+};

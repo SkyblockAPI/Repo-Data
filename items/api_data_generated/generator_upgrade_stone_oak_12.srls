@@ -1,1 +1,4 @@
-meta { include("api_data/generator_upgrade_stone_oak_12", this); };
+meta {
+  id = GENERATOR_UPGRADE_STONE_OAK_12;
+  include("api_data/generator_upgrade_stone_oak_12", this); 
+};

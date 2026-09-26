@@ -1,0 +1,3 @@
+include("types/equipment", this);
+category = "BELT";
+categories += "belt";

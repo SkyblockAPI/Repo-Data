@@ -1,1 +1,4 @@
-meta { include("api_data/transmission_tuner", this); };
+meta {
+  id = TRANSMISSION_TUNER;
+  include("api_data/transmission_tuner", this); 
+};

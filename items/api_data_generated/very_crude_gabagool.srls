@@ -1,1 +1,4 @@
-meta { include("api_data/very_crude_gabagool", this); };
+meta {
+  id = VERY_CRUDE_GABAGOOL;
+  include("api_data/very_crude_gabagool", this); 
+};

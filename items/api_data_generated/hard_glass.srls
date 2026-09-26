@@ -1,1 +1,4 @@
-meta { include("api_data/hard_glass", this); };
+meta {
+  id = HARD_GLASS;
+  include("api_data/hard_glass", this); 
+};

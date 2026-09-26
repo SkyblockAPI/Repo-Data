@@ -1,1 +1,4 @@
-meta { include("api_data/pumpkin_candy_handout", this); };
+meta {
+  id = PUMPKIN_CANDY_HANDOUT;
+  include("api_data/pumpkin_candy_handout", this); 
+};

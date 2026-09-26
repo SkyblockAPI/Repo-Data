@@ -1,1 +1,4 @@
-meta { include("api_data/burststopper_artifact", this); };
+meta {
+  id = BURSTSTOPPER_ARTIFACT;
+  include("api_data/burststopper_artifact", this); 
+};

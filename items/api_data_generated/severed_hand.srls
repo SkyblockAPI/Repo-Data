@@ -1,1 +1,4 @@
-meta { include("api_data/severed_hand", this); };
+meta {
+  id = SEVERED_HAND;
+  include("api_data/severed_hand", this); 
+};
