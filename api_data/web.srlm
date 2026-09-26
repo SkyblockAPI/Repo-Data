@@ -1,3 +1,4 @@
+id = "WEB";
 item = "web";
 name = "Web";
 rarity = "UNCOMMON";

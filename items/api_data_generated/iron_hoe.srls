@@ -1,4 +1,3 @@
 meta {
-  id = IRON_HOE;
   include("api_data/iron_hoe", this); 
 };

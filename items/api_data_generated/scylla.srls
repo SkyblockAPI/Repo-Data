@@ -1,4 +1,3 @@
 meta {
-  id = SCYLLA;
   include("api_data/scylla", this); 
 };

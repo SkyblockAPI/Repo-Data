@@ -1,4 +1,3 @@
 meta {
-  id = SYPHONER;
   include("api_data/syphoner", this); 
 };

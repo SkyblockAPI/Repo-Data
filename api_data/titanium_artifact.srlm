@@ -1,3 +1,4 @@
+id = "TITANIUM_ARTIFACT";
 item = "player_head";
 name = "Titanium Artifact";
 include("types/accessory", this);

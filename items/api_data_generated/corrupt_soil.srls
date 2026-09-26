@@ -1,4 +1,3 @@
 meta {
-  id = CORRUPT_SOIL;
   include("api_data/corrupt_soil", this); 
 };

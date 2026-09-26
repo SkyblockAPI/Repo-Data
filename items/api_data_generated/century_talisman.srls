@@ -1,4 +1,3 @@
 meta {
-  id = CENTURY_TALISMAN;
   include("api_data/century_talisman", this); 
 };

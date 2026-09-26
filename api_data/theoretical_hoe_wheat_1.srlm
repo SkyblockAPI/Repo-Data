@@ -1,3 +1,4 @@
+id = "THEORETICAL_HOE_WHEAT_1";
 item = "iron_hoe";
 name = "Euclid's Wheat Sickle Mk. I";
 include("types/farming_tool", this);

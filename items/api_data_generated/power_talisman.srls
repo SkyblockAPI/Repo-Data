@@ -1,4 +1,3 @@
 meta {
-  id = POWER_TALISMAN;
   include("api_data/power_talisman", this); 
 };

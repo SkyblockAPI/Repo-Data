@@ -1,3 +1,4 @@
+id = "FRESHLY_MINTED_COINS";
 item = "player_head";
 name = "Freshly-Minted Coins";
 include("types/none", this);

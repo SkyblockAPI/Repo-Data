@@ -1,3 +1,4 @@
+id = "DWARVEN_OS_GEMSTONE_GRAHAMS";
 item = "player_head";
 name = "Dwarven O's Gemstone Grahams";
 include("types/consumable", this);

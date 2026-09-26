@@ -1,3 +1,4 @@
+id = "FLOWER_OF_TRUTH";
 item = "paper";
 name = "Flower of Truth";
 include("types/sword", this);

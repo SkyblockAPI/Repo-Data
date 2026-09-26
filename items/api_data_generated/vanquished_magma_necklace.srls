@@ -1,4 +1,3 @@
 meta {
-  id = VANQUISHED_MAGMA_NECKLACE;
   include("api_data/vanquished_magma_necklace", this); 
 };

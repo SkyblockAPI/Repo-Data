@@ -1,4 +1,3 @@
 meta {
-  id = PERFECT_HOPPER;
   include("api_data/perfect_hopper", this); 
 };

@@ -1,3 +1,4 @@
+id = "VOIDWALKER_KATANA";
 item = "blaze_rod";
 name = "Voidwalker Katana";
 include("types/sword", this);

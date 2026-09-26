@@ -1,3 +1,4 @@
+id = "MATCH_STICKS";
 item = "paper";
 name = "Match-Sticks";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/match_sticks";

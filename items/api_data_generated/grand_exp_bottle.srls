@@ -1,4 +1,3 @@
 meta {
-  id = GRAND_EXP_BOTTLE;
   include("api_data/grand_exp_bottle", this); 
 };

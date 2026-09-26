@@ -1,4 +1,3 @@
 meta {
-  id = POIGNANT_LUCKY_CLOVER;
   include("api_data/poignant_lucky_clover", this); 
 };

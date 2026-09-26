@@ -1,3 +1,4 @@
+id = "SOUL_CAMPFIRE_TALISMAN_26";
 item = "player_head";
 name = "Soul Campfire God Badge VI";
 include("types/accessory", this);

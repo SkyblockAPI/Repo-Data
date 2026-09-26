@@ -1,3 +1,4 @@
+id = "STRONG_BABY";
 item = "player_head";
 name = "Baby Skin";
 include("types/cosmetic", this);

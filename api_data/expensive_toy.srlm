@@ -1,3 +1,4 @@
+id = "EXPENSIVE_TOY";
 item = "player_head";
 name = "Expensive Toy";
 include("types/memento", this);

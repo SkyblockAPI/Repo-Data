@@ -1,4 +1,3 @@
 meta {
-  id = SINGED_POWDER;
   include("api_data/singed_powder", this); 
 };

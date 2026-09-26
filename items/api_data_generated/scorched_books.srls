@@ -1,4 +1,3 @@
 meta {
-  id = SCORCHED_BOOKS;
   include("api_data/scorched_books", this); 
 };

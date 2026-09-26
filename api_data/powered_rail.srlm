@@ -1,3 +1,4 @@
+id = "POWERED_RAIL";
 item = "powered_rail";
 name = "Powered Rail";
 rarity = "COMMON";

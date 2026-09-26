@@ -1,3 +1,4 @@
+id = "PARTY_GLOVES";
 item = "player_head";
 name = "Party Gloves";
 include("types/gloves", this);

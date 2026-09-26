@@ -1,4 +1,3 @@
 meta {
-  id = FLESHTRAP;
   include("api_data/fleshtrap", this); 
 };

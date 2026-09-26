@@ -1,3 +1,4 @@
+id = "PET_ITEM_TIER_BOOST";
 item = "hopper";
 name = "Tier Boost";
 include("types/pet_item", this);

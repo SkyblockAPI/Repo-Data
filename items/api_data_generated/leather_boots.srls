@@ -1,4 +1,3 @@
 meta {
-  id = LEATHER_BOOTS;
   include("api_data/leather_boots", this); 
 };

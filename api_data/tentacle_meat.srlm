@@ -1,3 +1,4 @@
+id = "TENTACLE_MEAT";
 item = "paper";
 name = "Tentacle Meat";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/tentacle_meat";

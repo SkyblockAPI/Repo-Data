@@ -1,4 +1,3 @@
 meta {
-  id = DEADGEHOG_SPINE;
   include("api_data/deadgehog_spine", this); 
 };

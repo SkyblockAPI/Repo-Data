@@ -1,3 +1,4 @@
+id = "ENCHANTED_MITHRIL";
 item = "prismarine_crystals";
 name = "Enchanted Mithril";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/mithril";

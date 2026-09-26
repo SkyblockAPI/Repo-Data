@@ -1,4 +1,3 @@
 meta {
-  id = GOLD_THORN_HEAD;
   include("api_data/gold_thorn_head", this); 
 };

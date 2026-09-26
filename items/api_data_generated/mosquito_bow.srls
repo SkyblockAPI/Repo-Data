@@ -1,4 +1,3 @@
 meta {
-  id = MOSQUITO_BOW;
   include("api_data/mosquito_bow", this); 
 };

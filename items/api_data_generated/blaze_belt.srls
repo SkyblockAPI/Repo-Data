@@ -1,4 +1,3 @@
 meta {
-  id = BLAZE_BELT;
   include("api_data/blaze_belt", this); 
 };

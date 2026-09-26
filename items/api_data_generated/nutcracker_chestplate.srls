@@ -1,4 +1,3 @@
 meta {
-  id = NUTCRACKER_CHESTPLATE;
   include("api_data/nutcracker_chestplate", this); 
 };

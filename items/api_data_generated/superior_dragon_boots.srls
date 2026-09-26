@@ -1,4 +1,3 @@
 meta {
-  id = SUPERIOR_DRAGON_BOOTS;
   include("api_data/superior_dragon_boots", this); 
 };

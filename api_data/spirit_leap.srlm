@@ -1,3 +1,4 @@
+id = "SPIRIT_LEAP";
 item = "ender_pearl";
 name = "Spirit Leap";
 include("types/dungeon", this);

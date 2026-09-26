@@ -1,3 +1,4 @@
+id = "SKYBLOCK_MENU";
 item = "nether_star";
 name = "SkyBlock Menu";
 rarity = "COMMON";

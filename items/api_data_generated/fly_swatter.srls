@@ -1,4 +1,3 @@
 meta {
-  id = FLY_SWATTER;
   include("api_data/fly_swatter", this); 
 };

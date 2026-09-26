@@ -1,4 +1,3 @@
 meta {
-  id = VIAL_OF_SPRING_WATER;
   include("api_data/vial_of_spring_water", this); 
 };

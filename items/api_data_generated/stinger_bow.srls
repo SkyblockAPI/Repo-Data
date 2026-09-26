@@ -1,4 +1,3 @@
 meta {
-  id = STINGER_BOW;
   include("api_data/stinger_bow", this); 
 };

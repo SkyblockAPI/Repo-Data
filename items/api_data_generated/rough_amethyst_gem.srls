@@ -1,4 +1,3 @@
 meta {
-  id = ROUGH_AMETHYST_GEM;
   include("api_data/rough_amethyst_gem", this); 
 };

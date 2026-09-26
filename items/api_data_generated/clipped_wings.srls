@@ -1,4 +1,3 @@
 meta {
-  id = CLIPPED_WINGS;
   include("api_data/clipped_wings", this); 
 };

@@ -1,3 +1,4 @@
+id = "GOLDEN_TOOTH";
 item = "gold_nugget";
 name = "Golden Tooth";
 this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/wolf/golden_tooth";

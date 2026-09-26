@@ -1,4 +1,3 @@
 meta {
-  id = DIRTY_FINGERNAILS;
   include("api_data/dirty_fingernails", this); 
 };

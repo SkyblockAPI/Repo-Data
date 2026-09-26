@@ -1,4 +1,3 @@
 meta {
-  id = MEDIUM_WITCH_CAULDRON;
   include("api_data/medium_witch_cauldron", this); 
 };

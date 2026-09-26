@@ -1,3 +1,4 @@
+id = "STARLYN_PRIZE";
 item = "paper";
 name = "Agatha's Prize";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/starlyn/starlyn_prize";

@@ -1,3 +1,4 @@
+id = "SHIMMERING_LIGHT_SLIPPERS";
 item = "leather_boots";
 name = "Shimmering Light Slippers";
 include("types/boots", this);

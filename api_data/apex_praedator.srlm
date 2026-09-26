@@ -1,3 +1,4 @@
+id = "APEX_PRAEDATOR";
 item = "gold_axe";
 name = "Savage Huntaxe - Praedator";
 include("types/axe", this);

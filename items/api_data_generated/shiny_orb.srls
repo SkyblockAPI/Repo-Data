@@ -1,4 +1,3 @@
 meta {
-  id = SHINY_ORB;
   include("api_data/shiny_orb", this); 
 };

@@ -1,3 +1,4 @@
+id = "SHINY_PRISM";
 item = "player_head";
 name = "Shiny Prism";
 include("types/reforge_stone", this);

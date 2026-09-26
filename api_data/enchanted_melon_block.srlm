@@ -1,3 +1,4 @@
+id = "ENCHANTED_MELON_BLOCK";
 item = "melon_block";
 name = "Enchanted Melon";
 rarity = "RARE";

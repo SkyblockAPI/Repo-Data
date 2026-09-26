@@ -1,3 +1,4 @@
+id = "MUSHROOM_BARN_SKIN";
 item = "red_mushroom";
 name = "Mushroom Barn Skin";
 include("types/cosmetic", this);

@@ -1,3 +1,4 @@
+id = "SUBLIME_SILK";
 item = "paper";
 name = "Sublime Silk";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/sublime_silk";

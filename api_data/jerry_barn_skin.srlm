@@ -1,3 +1,4 @@
+id = "JERRY_BARN_SKIN";
 item = "player_head";
 name = "Jerry Barn Skin";
 include("types/cosmetic", this);

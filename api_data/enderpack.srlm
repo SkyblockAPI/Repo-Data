@@ -1,3 +1,4 @@
+id = "ENDERPACK";
 item = "player_head";
 name = "Enderpack Skin";
 include("types/cosmetic", this);

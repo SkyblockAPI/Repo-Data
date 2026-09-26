@@ -1,4 +1,3 @@
 meta {
-  id = CREAMBLOOM;
   include("api_data/creambloom", this); 
 };

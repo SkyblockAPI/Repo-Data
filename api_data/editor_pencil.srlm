@@ -1,3 +1,4 @@
+id = "EDITOR_PENCIL";
 item = "feather";
 name = "Editor's Pencil";
 rarity = "SPECIAL";

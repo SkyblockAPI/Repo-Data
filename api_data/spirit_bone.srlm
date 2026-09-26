@@ -1,3 +1,4 @@
+id = "SPIRIT_BONE";
 item = "paper";
 name = "Spirit Bone";
 include("types/dungeon", this);

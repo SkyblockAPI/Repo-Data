@@ -1,4 +1,3 @@
 meta {
-  id = MAGENTA_SMALL_BACKPACK;
   include("api_data/magenta_small_backpack", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = TINY_SCAFFOLDING;
   include("api_data/tiny_scaffolding", this); 
 };

@@ -1,3 +1,4 @@
+id = "ENCHANTED_SNOW_BLOCK";
 item = "snow_block";
 name = "Enchanted Snow Block";
 rarity = "UNCOMMON";

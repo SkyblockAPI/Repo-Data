@@ -1,3 +1,4 @@
+id = "GLACITE_PALACE_GREENHOUSE_SKIN";
 item = "player_head";
 name = "Glacite Palace Greenhouse Skin";
 include("types/cosmetic", this);

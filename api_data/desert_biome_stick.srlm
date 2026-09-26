@@ -1,3 +1,4 @@
+id = "DESERT_BIOME_STICK";
 item = "stick";
 name = "Desert Biome Stick";
 rarity = "COMMON";

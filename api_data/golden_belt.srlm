@@ -1,3 +1,4 @@
+id = "GOLDEN_BELT";
 item = "player_head";
 name = "Golden Belt";
 include("types/belt", this);

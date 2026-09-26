@@ -1,3 +1,4 @@
+id = "VERMIN_BELT";
 item = "player_head";
 name = "Vermin Belt";
 include("types/belt", this);

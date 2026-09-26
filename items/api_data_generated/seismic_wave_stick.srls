@@ -1,4 +1,3 @@
 meta {
-  id = SEISMIC_WAVE_STICK;
   include("api_data/seismic_wave_stick", this); 
 };

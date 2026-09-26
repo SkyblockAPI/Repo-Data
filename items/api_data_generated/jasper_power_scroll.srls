@@ -1,4 +1,3 @@
 meta {
-  id = JASPER_POWER_SCROLL;
   include("api_data/jasper_power_scroll", this); 
 };

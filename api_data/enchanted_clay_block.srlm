@@ -1,3 +1,4 @@
+id = "ENCHANTED_CLAY_BLOCK";
 item = "clay";
 name = "Enchanted Clay Block";
 rarity = "RARE";

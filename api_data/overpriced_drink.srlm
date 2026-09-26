@@ -1,3 +1,4 @@
+id = "OVERPRICED_DRINK";
 item = "player_head";
 name = "Overpriced Drink";
 include("types/reforge_stone", this);

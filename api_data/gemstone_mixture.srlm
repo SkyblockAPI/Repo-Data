@@ -1,3 +1,4 @@
+id = "GEMSTONE_MIXTURE";
 item = "paper";
 name = "Gemstone Mixture";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/gemstone_mixture";

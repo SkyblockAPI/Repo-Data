@@ -1,4 +1,3 @@
 meta {
-  id = CAKE;
   include("api_data/cake", this); 
 };

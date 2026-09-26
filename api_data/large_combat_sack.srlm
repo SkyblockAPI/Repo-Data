@@ -1,3 +1,4 @@
+id = "LARGE_COMBAT_SACK";
 item = "player_head";
 name = "Large Combat Sack";
 include("types/sack", this);

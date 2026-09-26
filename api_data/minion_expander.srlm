@@ -1,3 +1,4 @@
+id = "MINION_EXPANDER";
 item = "command";
 name = "Minion Expander";
 rarity = "RARE";

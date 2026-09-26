@@ -1,4 +1,3 @@
 meta {
-  id = MINING_CORE;
   include("api_data/mining_core", this); 
 };

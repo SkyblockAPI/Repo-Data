@@ -1,4 +1,3 @@
 meta {
-  id = REINDEER_PLUSH;
   include("api_data/reindeer_plush", this); 
 };

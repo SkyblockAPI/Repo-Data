@@ -1,3 +1,4 @@
+id = "REKINDLED_EMBER_CHESTPLATE";
 item = "chainmail_chestplate";
 name = "Rekindled Ember Chestplate";
 include("types/chestplate", this);

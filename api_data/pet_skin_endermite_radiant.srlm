@@ -1,3 +1,4 @@
+id = "PET_SKIN_ENDERMITE_RADIANT";
 item = "player_head";
 name = "RadiantEndermite";
 include("types/cosmetic", this);

@@ -1,3 +1,4 @@
+id = "SAPPHIRE_CRYSTAL";
 item = "paper";
 name = "Saphhire Crystal";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/sapphire_crystal";

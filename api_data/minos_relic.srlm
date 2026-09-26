@@ -1,3 +1,4 @@
+id = "MINOS_RELIC";
 item = "player_head";
 name = "Minos Relic";
 include("types/pet_item", this);

@@ -1,3 +1,4 @@
+id = "GLOOMLOCK_GRIMOIRE";
 item = "book";
 name = "Gloomlock Grimoire";
 rarity = "EPIC";

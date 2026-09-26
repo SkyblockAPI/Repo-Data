@@ -1,4 +1,3 @@
 meta {
-  id = EMMETT_POINTER;
   include("api_data/emmett_pointer", this); 
 };

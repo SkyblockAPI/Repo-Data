@@ -1,3 +1,4 @@
+id = "VINERIP_LASSO";
 item = "paper";
 name = "Vinerip Lasso";
 include("types/lasso", this);

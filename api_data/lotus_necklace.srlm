@@ -1,3 +1,4 @@
+id = "LOTUS_NECKLACE";
 item = "player_head";
 name = "Peony Necklace";
 include("types/necklace", this);

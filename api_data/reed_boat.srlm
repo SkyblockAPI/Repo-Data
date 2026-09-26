@@ -1,3 +1,4 @@
+id = "REED_BOAT";
 item = "boat";
 name = "Rift Boat";
 rarity = "UNCOMMON";

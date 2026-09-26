@@ -1,3 +1,4 @@
+id = "TOTEM_OF_CORRUPTION";
 item = "banner";
 name = "Totem of Corruption";
 include("types/deployable", this);

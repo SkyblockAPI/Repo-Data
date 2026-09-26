@@ -1,3 +1,4 @@
+id = "ORGANIC_MILK";
 item = "milk_bucket";
 name = "Organic Milk";
 rarity = "UNCOMMON";

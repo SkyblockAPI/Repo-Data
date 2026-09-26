@@ -1,3 +1,4 @@
+id = "WISHING_COMPASS";
 item = "paper";
 name = "Wishing Compass";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/wishing_compass";

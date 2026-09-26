@@ -1,3 +1,4 @@
+id = "TRIO_CONTACTS_ADDON";
 item = "redstone_comparator";
 name = "Abiphone Contacts Trio";
 rarity = "SPECIAL";

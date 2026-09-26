@@ -1,4 +1,3 @@
 meta {
-  id = SAPPHIRE_POWER_SCROLL;
   include("api_data/sapphire_power_scroll", this); 
 };

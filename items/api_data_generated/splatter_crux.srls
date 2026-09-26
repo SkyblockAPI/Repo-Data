@@ -1,4 +1,3 @@
 meta {
-  id = SPLATTER_CRUX;
   include("api_data/splatter_crux", this); 
 };

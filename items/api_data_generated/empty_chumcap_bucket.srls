@@ -1,4 +1,3 @@
 meta {
-  id = EMPTY_CHUMCAP_BUCKET;
   include("api_data/empty_chumcap_bucket", this); 
 };

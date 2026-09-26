@@ -1,3 +1,4 @@
+id = "SHADOW_ASSASSIN_MAUVE";
 item = "player_head";
 name = "Mauve Skin";
 include("types/cosmetic", this);

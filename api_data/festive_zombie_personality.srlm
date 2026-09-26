@@ -1,3 +1,4 @@
+id = "FESTIVE_ZOMBIE_PERSONALITY";
 item = "player_head";
 name = "Festive Zombie Minion Skin";
 include("types/cosmetic", this);

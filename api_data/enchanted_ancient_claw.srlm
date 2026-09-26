@@ -1,3 +1,4 @@
+id = "ENCHANTED_ANCIENT_CLAW";
 item = "flint";
 name = "Enchanted Ancient Claw";
 ::items::prototypes::ingredient::(this);

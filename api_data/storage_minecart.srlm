@@ -1,3 +1,4 @@
+id = "STORAGE_MINECART";
 item = "storage_minecart";
 name = "Minecart with Chest";
 rarity = "COMMON";

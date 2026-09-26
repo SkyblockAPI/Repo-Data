@@ -1,4 +1,3 @@
 meta {
-  id = BLENDED_FISH_MIXIN;
   include("api_data/blended_fish_mixin", this); 
 };

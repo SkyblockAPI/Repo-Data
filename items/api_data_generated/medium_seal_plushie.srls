@@ -1,4 +1,3 @@
 meta {
-  id = MEDIUM_SEAL_PLUSHIE;
   include("api_data/medium_seal_plushie", this); 
 };

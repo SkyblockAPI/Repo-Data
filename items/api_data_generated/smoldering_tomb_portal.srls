@@ -1,4 +1,3 @@
 meta {
-  id = SMOLDERING_TOMB_PORTAL;
   include("api_data/smoldering_tomb_portal", this); 
 };

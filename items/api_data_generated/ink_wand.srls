@@ -1,4 +1,3 @@
 meta {
-  id = INK_WAND;
   include("api_data/ink_wand", this); 
 };

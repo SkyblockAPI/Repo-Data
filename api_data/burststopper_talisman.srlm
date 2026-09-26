@@ -1,3 +1,4 @@
+id = "BURSTSTOPPER_TALISMAN";
 item = "player_head";
 name = "Burststopper Talisman";
 include("types/accessory", this);

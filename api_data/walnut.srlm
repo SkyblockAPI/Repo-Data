@@ -1,3 +1,4 @@
+id = "WALNUT";
 item = "player_head";
 name = "Walnut";
 include("types/none", this);

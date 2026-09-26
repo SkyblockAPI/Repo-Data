@@ -1,3 +1,4 @@
+id = "DRAGON_SCALE";
 item = "player_head";
 name = "Dragon Scale";
 include("types/reforge_stone", this);

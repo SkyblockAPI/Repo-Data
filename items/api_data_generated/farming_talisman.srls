@@ -1,4 +1,3 @@
 meta {
-  id = FARMING_TALISMAN;
   include("api_data/farming_talisman", this); 
 };

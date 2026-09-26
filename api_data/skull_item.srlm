@@ -1,3 +1,4 @@
+id = "SKULL_ITEM";
 item = "skeleton_skull";
 name = "Skeleton Skull";
 rarity = "RARE";

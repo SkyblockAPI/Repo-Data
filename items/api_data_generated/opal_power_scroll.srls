@@ -1,4 +1,3 @@
 meta {
-  id = OPAL_POWER_SCROLL;
   include("api_data/opal_power_scroll", this); 
 };

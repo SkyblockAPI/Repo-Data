@@ -1,4 +1,3 @@
 meta {
-  id = MYCELIUM_GENERATOR_11;
   include("api_data/mycelium_generator_11", this); 
 };

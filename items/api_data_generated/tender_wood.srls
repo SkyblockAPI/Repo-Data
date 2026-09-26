@@ -1,4 +1,3 @@
 meta {
-  id = TENDER_WOOD;
   include("api_data/tender_wood", this); 
 };

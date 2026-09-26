@@ -1,3 +1,4 @@
+id = "JUNGLE_BIOME_STICK";
 item = "stick";
 name = "Jungle Biome Stick";
 rarity = "COMMON";

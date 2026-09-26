@@ -1,4 +1,3 @@
 meta {
-  id = HUB_CASTLE_PORTAL;
   include("api_data/hub_castle_portal", this); 
 };

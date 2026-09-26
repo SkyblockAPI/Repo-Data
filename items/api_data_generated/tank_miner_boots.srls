@@ -1,4 +1,3 @@
 meta {
-  id = TANK_MINER_BOOTS;
   include("api_data/tank_miner_boots", this); 
 };

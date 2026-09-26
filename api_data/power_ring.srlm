@@ -1,3 +1,4 @@
+id = "POWER_RING";
 item = "player_head";
 name = "Ring of Power";
 include("types/accessory", this);

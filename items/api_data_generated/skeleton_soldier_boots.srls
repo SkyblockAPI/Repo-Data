@@ -1,4 +1,3 @@
 meta {
-  id = SKELETON_SOLDIER_BOOTS;
   include("api_data/skeleton_soldier_boots", this); 
 };

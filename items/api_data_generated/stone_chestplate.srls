@@ -1,4 +1,3 @@
 meta {
-  id = STONE_CHESTPLATE;
   include("api_data/stone_chestplate", this); 
 };

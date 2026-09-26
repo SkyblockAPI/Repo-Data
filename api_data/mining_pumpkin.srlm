@@ -1,3 +1,4 @@
+id = "MINING_PUMPKIN";
 item = "pumpkin_pie";
 name = "Powder Pie";
 rarity = "UNCOMMON";

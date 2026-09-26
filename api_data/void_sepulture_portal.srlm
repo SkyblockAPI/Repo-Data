@@ -1,3 +1,4 @@
+id = "VOID_SEPULTURE_PORTAL";
 item = "player_head";
 name = "Portal to the Void Sepulture";
 include("types/portal", this);

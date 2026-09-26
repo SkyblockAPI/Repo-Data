@@ -1,3 +1,4 @@
+id = "CARNIVAL_MASK_BAG";
 item = "player_head";
 name = "Carnival Mask Bag";
 include("types/accessory", this);

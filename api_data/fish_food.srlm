@@ -1,3 +1,4 @@
+id = "FISH_FOOD";
 item = "raw_fish";
 name = "Fish Food";
 rarity = "COMMON";

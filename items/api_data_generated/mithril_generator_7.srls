@@ -1,4 +1,3 @@
 meta {
-  id = MITHRIL_GENERATOR_7;
   include("api_data/mithril_generator_7", this); 
 };

@@ -1,3 +1,4 @@
+id = "DIVER_PUFFER";
 item = "player_head";
 name = "Puffer Fish Skin";
 include("types/cosmetic", this);

@@ -1,4 +1,3 @@
 meta {
-  id = FIG_BOOTS;
   include("api_data/fig_boots", this); 
 };

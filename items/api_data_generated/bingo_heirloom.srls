@@ -1,4 +1,3 @@
 meta {
-  id = BINGO_HEIRLOOM;
   include("api_data/bingo_heirloom", this); 
 };

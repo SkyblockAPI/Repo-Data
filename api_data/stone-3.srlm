@@ -1,3 +1,4 @@
+id = "STONE:3";
 item = "stone";
 name = "Diorite";
 rarity = "COMMON";

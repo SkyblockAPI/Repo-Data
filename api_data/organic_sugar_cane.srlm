@@ -1,3 +1,4 @@
+id = "ORGANIC_SUGAR_CANE";
 item = "sugar_cane";
 name = "Organic Sugar Cane";
 rarity = "UNCOMMON";

@@ -1,3 +1,4 @@
+id = "COMPASS_TALISMAN";
 item = "compass";
 name = "Compass Talisman";
 include("types/accessory", this);

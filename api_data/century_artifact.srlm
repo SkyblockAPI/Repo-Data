@@ -1,3 +1,4 @@
+id = "CENTURY_ARTIFACT";
 item = "player_head";
 name = "Artifact of the Century";
 include("types/accessory", this);

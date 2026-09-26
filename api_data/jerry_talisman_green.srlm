@@ -1,3 +1,4 @@
+id = "JERRY_TALISMAN_GREEN";
 item = "player_head";
 name = "Green Jerry Talisman";
 include("types/accessory", this);

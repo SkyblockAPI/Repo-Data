@@ -1,4 +1,3 @@
 meta {
-  id = ENCHANTED_QUARTZ_BLOCK;
   include("api_data/enchanted_quartz_block", this); 
 };

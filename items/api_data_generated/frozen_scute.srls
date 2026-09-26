@@ -1,4 +1,3 @@
 meta {
-  id = FROZEN_SCUTE;
   include("api_data/frozen_scute", this); 
 };

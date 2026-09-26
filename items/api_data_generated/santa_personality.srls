@@ -1,4 +1,3 @@
 meta {
-  id = SANTA_PERSONALITY;
   include("api_data/santa_personality", this); 
 };

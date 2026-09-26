@@ -1,3 +1,4 @@
+id = "BUCKET_OF_DYE";
 item = "player_head";
 name = "Bucket of Dye";
 include("types/accessory", this);

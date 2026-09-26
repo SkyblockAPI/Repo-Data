@@ -1,4 +1,3 @@
 meta {
-  id = SMOLDERING_EMBERS;
   include("api_data/smoldering_embers", this); 
 };

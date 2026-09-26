@@ -1,3 +1,4 @@
+id = "STONE:6";
 item = "stone";
 name = "Polished Andesite";
 rarity = "COMMON";

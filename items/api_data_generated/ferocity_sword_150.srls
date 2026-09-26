@@ -1,4 +1,3 @@
 meta {
-  id = FEROCITY_SWORD_150;
   include("api_data/ferocity_sword_150", this); 
 };

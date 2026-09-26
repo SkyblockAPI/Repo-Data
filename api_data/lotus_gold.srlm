@@ -1,3 +1,4 @@
+id = "LOTUS_GOLD";
 item = "paper";
 name = "Gold Lotus";
 this["minecraft:item_model"] = "hypixel_skyblock:item/collections/lotus/gold_lotus";

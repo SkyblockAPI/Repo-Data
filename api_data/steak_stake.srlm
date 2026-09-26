@@ -1,3 +1,4 @@
+id = "STEAK_STAKE";
 item = "cooked_mutton";
 name = "Steak Stake";
 include("types/sword", this);

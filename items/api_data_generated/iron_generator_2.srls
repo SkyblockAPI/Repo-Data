@@ -1,4 +1,3 @@
 meta {
-  id = IRON_GENERATOR_2;
   include("api_data/iron_generator_2", this); 
 };

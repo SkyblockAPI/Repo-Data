@@ -1,3 +1,4 @@
+id = "PET_SKIN_HORSE_ZOMBIE";
 item = "player_head";
 name = "ZombieSkeleton Horse";
 include("types/cosmetic", this);

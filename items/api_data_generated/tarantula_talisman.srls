@@ -1,4 +1,3 @@
 meta {
-  id = TARANTULA_TALISMAN;
   include("api_data/tarantula_talisman", this); 
 };

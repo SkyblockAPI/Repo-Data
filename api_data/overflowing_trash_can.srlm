@@ -1,3 +1,4 @@
+id = "OVERFLOWING_TRASH_CAN";
 item = "player_head";
 name = "Overflowing Trash Can";
 include("types/reforge_stone", this);

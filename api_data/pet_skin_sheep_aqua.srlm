@@ -1,3 +1,4 @@
+id = "PET_SKIN_SHEEP_AQUA";
 item = "player_head";
 name = "AquaSheep";
 include("types/cosmetic", this);

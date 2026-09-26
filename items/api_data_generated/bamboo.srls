@@ -1,4 +1,3 @@
 meta {
-  id = BAMBOO;
   include("api_data/bamboo", this); 
 };

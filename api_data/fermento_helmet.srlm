@@ -1,3 +1,4 @@
+id = "FERMENTO_HELMET";
 item = "player_head";
 name = "Fermento Helmet";
 include("types/helmet", this);

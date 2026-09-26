@@ -1,3 +1,4 @@
+id = "SWORD_OF_BAD_HEALTH";
 item = "wood_sword";
 name = "Sword of Bad Health";
 include("types/sword", this);

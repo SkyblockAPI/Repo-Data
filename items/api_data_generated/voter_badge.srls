@@ -1,4 +1,3 @@
 meta {
-  id = VOTER_BADGE;
   include("api_data/voter_badge", this); 
 };

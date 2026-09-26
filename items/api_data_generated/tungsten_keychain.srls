@@ -1,4 +1,3 @@
 meta {
-  id = TUNGSTEN_KEYCHAIN;
   include("api_data/tungsten_keychain", this); 
 };

@@ -1,3 +1,4 @@
+id = "STARRED_LAST_BREATH";
 item = "bow";
 name = "Last Breath";
 include("types/bow", this);

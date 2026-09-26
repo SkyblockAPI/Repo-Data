@@ -1,3 +1,4 @@
+id = "FESTIVE_SINKER";
 item = "paper";
 name = "Festive Sinker";
 include("types/fishing_rod_part", this);

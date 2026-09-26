@@ -1,4 +1,3 @@
 meta {
-  id = CADUCOUS_FEEDER;
   include("api_data/caducous_feeder", this); 
 };

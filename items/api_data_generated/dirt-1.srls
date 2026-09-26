@@ -1,4 +1,3 @@
 meta {
-  id = DIRT:1;
   include("api_data/dirt-1", this); 
 };

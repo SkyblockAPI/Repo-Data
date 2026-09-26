@@ -1,4 +1,3 @@
 meta {
-  id = BOB_OMB;
   include("api_data/bob_omb", this); 
 };

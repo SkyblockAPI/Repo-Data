@@ -1,4 +1,3 @@
 meta {
-  id = POTATO_SPREADING;
   include("api_data/potato_spreading", this); 
 };

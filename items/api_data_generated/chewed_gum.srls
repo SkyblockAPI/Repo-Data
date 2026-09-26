@@ -1,4 +1,3 @@
 meta {
-  id = CHEWED_GUM;
   include("api_data/chewed_gum", this); 
 };

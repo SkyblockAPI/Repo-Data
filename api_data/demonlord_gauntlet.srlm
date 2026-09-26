@@ -1,3 +1,4 @@
+id = "DEMONLORD_GAUNTLET";
 item = "player_head";
 name = "Demonslayer Gauntlet";
 include("types/gloves", this);

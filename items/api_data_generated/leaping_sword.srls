@@ -1,4 +1,3 @@
 meta {
-  id = LEAPING_SWORD;
   include("api_data/leaping_sword", this); 
 };

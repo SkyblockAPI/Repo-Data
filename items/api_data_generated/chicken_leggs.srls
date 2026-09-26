@@ -1,4 +1,3 @@
 meta {
-  id = CHICKEN_LEGGS;
   include("api_data/chicken_leggs", this); 
 };

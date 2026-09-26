@@ -1,3 +1,4 @@
+id = "AXE_PREVIEW";
 item = "diamond_axe";
 name = "%%green%%Axe Preview %%gray%%(Right-Click)";
 include("types/axe", this);

@@ -1,3 +1,4 @@
+id = "DUNGEON_CHEST_KEY";
 item = "paper";
 name = "Dungeon Chest Key";
 include("types/dungeon", this);

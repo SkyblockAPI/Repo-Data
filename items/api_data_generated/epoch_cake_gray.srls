@@ -1,4 +1,3 @@
 meta {
-  id = EPOCH_CAKE_GRAY;
   include("api_data/epoch_cake_gray", this); 
 };

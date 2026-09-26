@@ -1,4 +1,3 @@
 meta {
-  id = WORKBENCH;
   include("api_data/workbench", this); 
 };

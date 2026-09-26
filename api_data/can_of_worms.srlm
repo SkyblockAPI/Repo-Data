@@ -1,3 +1,4 @@
+id = "CAN_OF_WORMS";
 item = "paper";
 name = "Can of Worms";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/can_of_worms";

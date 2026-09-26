@@ -1,4 +1,3 @@
 meta {
-  id = MENDER_FEDORA;
   include("api_data/mender_fedora", this); 
 };

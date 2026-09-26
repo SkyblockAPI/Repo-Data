@@ -1,3 +1,4 @@
+id = "KUUDRAS_HEART";
 item = "player_head";
 name = "Kuudra's Heart";
 include("types/accessory", this);

@@ -1,4 +1,3 @@
 meta {
-  id = SPIDER_EYE;
   include("api_data/spider_eye", this); 
 };

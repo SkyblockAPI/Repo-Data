@@ -1,4 +1,3 @@
 meta {
-  id = BIOHAZARD_SUIT;
   include("api_data/biohazard_suit", this); 
 };

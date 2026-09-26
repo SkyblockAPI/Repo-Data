@@ -1,4 +1,3 @@
 meta {
-  id = WILL_O_WISP;
   include("api_data/will_o_wisp", this); 
 };

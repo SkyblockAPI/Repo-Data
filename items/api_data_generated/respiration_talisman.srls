@@ -1,4 +1,3 @@
 meta {
-  id = RESPIRATION_TALISMAN;
   include("api_data/respiration_talisman", this); 
 };

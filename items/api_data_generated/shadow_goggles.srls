@@ -1,4 +1,3 @@
 meta {
-  id = SHADOW_GOGGLES;
   include("api_data/shadow_goggles", this); 
 };

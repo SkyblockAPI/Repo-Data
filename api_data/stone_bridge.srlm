@@ -1,3 +1,4 @@
+id = "STONE_BRIDGE";
 item = "egg";
 name = "Stone Platform";
 rarity = "COMMON";

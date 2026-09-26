@@ -1,4 +1,3 @@
 meta {
-  id = CHUMMING_TALISMAN;
   include("api_data/chumming_talisman", this); 
 };

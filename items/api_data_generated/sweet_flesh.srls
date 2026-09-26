@@ -1,4 +1,3 @@
 meta {
-  id = SWEET_FLESH;
   include("api_data/sweet_flesh", this); 
 };

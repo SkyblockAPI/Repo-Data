@@ -1,4 +1,3 @@
 meta {
-  id = ANUBIS;
   include("api_data/anubis", this); 
 };

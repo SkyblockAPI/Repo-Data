@@ -1,3 +1,4 @@
+id = "CLIPPED_WINGS";
 item = "player_head";
 name = "Clipped Wings";
 include("types/reforge_stone", this);

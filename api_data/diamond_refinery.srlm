@@ -1,3 +1,4 @@
+id = "DIAMOND_REFINERY";
 item = "diamond_ore";
 name = "Diamond Refinery";
 rarity = "RARE";

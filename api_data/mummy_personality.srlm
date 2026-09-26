@@ -1,3 +1,4 @@
+id = "MUMMY_PERSONALITY";
 item = "player_head";
 name = "Mummy Minion Skin";
 include("types/cosmetic", this);

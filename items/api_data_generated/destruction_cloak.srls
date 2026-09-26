@@ -1,4 +1,3 @@
 meta {
-  id = DESTRUCTION_CLOAK;
   include("api_data/destruction_cloak", this); 
 };

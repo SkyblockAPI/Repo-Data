@@ -1,3 +1,4 @@
+id = "BROWN_BANDANA";
 item = "player_head";
 name = "Brown Bandana";
 include("types/pet_item", this);

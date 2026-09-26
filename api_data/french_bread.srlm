@@ -1,3 +1,4 @@
+id = "FRENCH_BREAD";
 item = "player_head";
 name = "French Bread";
 include("types/memento", this);

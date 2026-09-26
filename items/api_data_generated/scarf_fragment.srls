@@ -1,4 +1,3 @@
 meta {
-  id = SCARF_FRAGMENT;
   include("api_data/scarf_fragment", this); 
 };

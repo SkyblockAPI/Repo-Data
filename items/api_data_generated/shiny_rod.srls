@@ -1,4 +1,3 @@
 meta {
-  id = SHINY_ROD;
   include("api_data/shiny_rod", this); 
 };

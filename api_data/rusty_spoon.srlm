@@ -1,3 +1,4 @@
+id = "RUSTY_SPOON";
 item = "wood_spade";
 name = "Rusty Spoon";
 include("types/memento", this);

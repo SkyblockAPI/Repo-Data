@@ -1,4 +1,3 @@
 meta {
-  id = BEE_SALIVA;
   include("api_data/bee_saliva", this); 
 };

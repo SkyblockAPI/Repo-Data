@@ -1,3 +1,4 @@
+id = "POCKET_ICEBERG";
 item = "player_head";
 name = "Pocket Iceberg";
 include("types/reforge_stone", this);

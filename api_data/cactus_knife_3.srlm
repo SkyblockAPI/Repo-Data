@@ -1,3 +1,4 @@
+id = "CACTUS_KNIFE_3";
 item = "iron_sword";
 name = "Cactus Knife Mk. III";
 include("types/farming_tool", this);

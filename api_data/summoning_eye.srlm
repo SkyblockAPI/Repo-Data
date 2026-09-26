@@ -1,3 +1,4 @@
+id = "SUMMONING_EYE";
 item = "paper";
 name = "Summoning Eye";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/summoning_eye";

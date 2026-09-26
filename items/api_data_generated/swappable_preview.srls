@@ -1,4 +1,3 @@
 meta {
-  id = SWAPPABLE_PREVIEW;
   include("api_data/swappable_preview", this); 
 };

@@ -1,3 +1,4 @@
+id = "DUNGEON_STONE";
 item = "player_head";
 name = "Dungeon Orb";
 include("types/dungeon", this);

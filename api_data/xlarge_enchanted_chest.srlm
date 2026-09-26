@@ -1,3 +1,4 @@
+id = "XLARGE_ENCHANTED_CHEST";
 item = "chest";
 name = "X-Large Storage";
 rarity = "EPIC";

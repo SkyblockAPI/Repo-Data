@@ -1,3 +1,4 @@
+id = "CARPET:5";
 item = "carpet";
 name = "Lime Carpet";
 rarity = "COMMON";

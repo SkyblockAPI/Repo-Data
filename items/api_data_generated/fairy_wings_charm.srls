@@ -1,4 +1,3 @@
 meta {
-  id = FAIRY_WINGS_CHARM;
   include("api_data/fairy_wings_charm", this); 
 };

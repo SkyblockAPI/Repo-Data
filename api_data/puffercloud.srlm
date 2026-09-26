@@ -1,3 +1,4 @@
+id = "PUFFERCLOUD";
 item = "player_head";
 name = "Puffercloud";
 include("types/mutation", this);

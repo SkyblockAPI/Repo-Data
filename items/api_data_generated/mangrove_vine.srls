@@ -1,4 +1,3 @@
 meta {
-  id = MANGROVE_VINE;
   include("api_data/mangrove_vine", this); 
 };

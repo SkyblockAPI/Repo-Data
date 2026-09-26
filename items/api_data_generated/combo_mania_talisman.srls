@@ -1,4 +1,3 @@
 meta {
-  id = COMBO_MANIA_TALISMAN;
   include("api_data/combo_mania_talisman", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = TARANTULA_GENERATOR_11;
   include("api_data/tarantula_generator_11", this); 
 };

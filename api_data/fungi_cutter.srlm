@@ -1,3 +1,4 @@
+id = "FUNGI_CUTTER";
 item = "iron_hoe";
 name = "Fungi Cutter Mk. I";
 include("types/farming_tool", this);

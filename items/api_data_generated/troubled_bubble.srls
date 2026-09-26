@@ -1,4 +1,3 @@
 meta {
-  id = TROUBLED_BUBBLE;
   include("api_data/troubled_bubble", this); 
 };

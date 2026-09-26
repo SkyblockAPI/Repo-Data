@@ -1,3 +1,4 @@
+id = "PERFECT_PLATE";
 item = "paper";
 name = "Perfect Plate";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/uncategorized/perfect_plate";

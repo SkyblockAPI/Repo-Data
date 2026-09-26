@@ -1,4 +1,3 @@
 meta {
-  id = BOTANICAL_GREENHOUSE_SKIN;
   include("api_data/botanical_greenhouse_skin", this); 
 };

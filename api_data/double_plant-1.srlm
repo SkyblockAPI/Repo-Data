@@ -1,3 +1,4 @@
+id = "DOUBLE_PLANT:1";
 item = "double_plant";
 name = "Lilac";
 rarity = "COMMON";

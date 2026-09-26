@@ -1,4 +1,3 @@
 meta {
-  id = ARACHNE_SANCTUARY_TRAVEL_SCROLL;
   include("api_data/arachne_sanctuary_travel_scroll", this); 
 };

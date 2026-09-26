@@ -1,3 +1,4 @@
+id = "ELECTRON_TRANSMITTER";
 item = "paper";
 name = "Electron Transmitter";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/electron_transmitter";

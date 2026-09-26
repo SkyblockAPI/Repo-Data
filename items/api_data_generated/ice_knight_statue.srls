@@ -1,4 +1,3 @@
 meta {
-  id = ICE_KNIGHT_STATUE;
   include("api_data/ice_knight_statue", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = BLUE_GIFT_TALISMAN;
   include("api_data/blue_gift_talisman", this); 
 };

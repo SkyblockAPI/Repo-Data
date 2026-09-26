@@ -1,4 +1,3 @@
 meta {
-  id = HYPERCHARGE_GARDEN_CHIP;
   include("api_data/hypercharge_garden_chip", this); 
 };

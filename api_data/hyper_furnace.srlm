@@ -1,3 +1,4 @@
+id = "HYPER_FURNACE";
 item = "furnace";
 name = "Hyper Furnace";
 rarity = "UNCOMMON";

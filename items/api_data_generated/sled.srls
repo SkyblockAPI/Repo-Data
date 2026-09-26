@@ -1,4 +1,3 @@
 meta {
-  id = SLED;
   include("api_data/sled", this); 
 };

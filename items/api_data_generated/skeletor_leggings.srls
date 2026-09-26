@@ -1,4 +1,3 @@
 meta {
-  id = SKELETOR_LEGGINGS;
   include("api_data/skeletor_leggings", this); 
 };

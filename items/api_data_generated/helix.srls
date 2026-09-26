@@ -1,4 +1,3 @@
 meta {
-  id = HELIX;
   include("api_data/helix", this); 
 };

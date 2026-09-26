@@ -1,3 +1,4 @@
+id = "KEY_TO_KAT_SOUL";
 item = "gold_nugget";
 name = "Key to Infested House Soul";
 rarity = "RARE";

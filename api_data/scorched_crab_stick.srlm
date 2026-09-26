@@ -1,3 +1,4 @@
+id = "SCORCHED_CRAB_STICK";
 item = "paper";
 name = "Scorched Crab Stick";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/scorched_crab_stick";

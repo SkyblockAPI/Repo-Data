@@ -1,3 +1,4 @@
+id = "HEMOVIBE";
 item = "redstone_ore";
 name = "Hemovibe";
 rarity = "UNCOMMON";

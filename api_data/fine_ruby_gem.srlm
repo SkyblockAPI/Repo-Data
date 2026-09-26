@@ -1,3 +1,4 @@
+id = "FINE_RUBY_GEM";
 item = "paper";
 name = "Fine Ruby Gemstone";
 this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/ruby/fine_ruby_gem";

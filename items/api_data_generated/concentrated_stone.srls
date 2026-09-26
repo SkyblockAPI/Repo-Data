@@ -1,4 +1,3 @@
 meta {
-  id = CONCENTRATED_STONE;
   include("api_data/concentrated_stone", this); 
 };

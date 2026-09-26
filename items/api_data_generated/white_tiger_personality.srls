@@ -1,4 +1,3 @@
 meta {
-  id = WHITE_TIGER_PERSONALITY;
   include("api_data/white_tiger_personality", this); 
 };

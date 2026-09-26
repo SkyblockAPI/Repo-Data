@@ -1,3 +1,4 @@
+id = "DUNG";
 item = "paper";
 name = "Dung";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/pests/dung";

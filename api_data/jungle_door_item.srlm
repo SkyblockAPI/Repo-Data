@@ -1,3 +1,4 @@
+id = "JUNGLE_DOOR_ITEM";
 item = "jungle_door_item";
 name = "Jungle Door";
 rarity = "COMMON";

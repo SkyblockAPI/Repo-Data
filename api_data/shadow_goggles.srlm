@@ -1,3 +1,4 @@
+id = "SHADOW_GOGGLES";
 item = "player_head";
 name = "Shadow Goggles";
 include("types/helmet", this);

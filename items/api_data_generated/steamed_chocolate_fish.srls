@@ -1,4 +1,3 @@
 meta {
-  id = STEAMED_CHOCOLATE_FISH;
   include("api_data/steamed_chocolate_fish", this); 
 };

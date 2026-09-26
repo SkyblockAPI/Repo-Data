@@ -1,3 +1,4 @@
+id = "ENCHANTED_COCOA";
 item = "ink_sack";
 name = "Enchanted Cocoa Beans";
 rarity = "UNCOMMON";

@@ -1,4 +1,3 @@
 meta {
-  id = LIME_LARGE_BACKPACK;
   include("api_data/lime_large_backpack", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = YOUNG_DRAGON_BOOTS;
   include("api_data/young_dragon_boots", this); 
 };

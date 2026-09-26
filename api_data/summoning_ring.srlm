@@ -1,3 +1,4 @@
+id = "SUMMONING_RING";
 item = "player_head";
 name = "Summoning Ring";
 include("types/dungeon", this);

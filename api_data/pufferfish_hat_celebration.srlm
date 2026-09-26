@@ -1,3 +1,4 @@
+id = "PUFFERFISH_HAT_CELEBRATION";
 item = "player_head";
 name = "Pufferfish Hat";
 include("types/helmet", this);

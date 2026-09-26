@@ -1,3 +1,4 @@
+id = "DOJO_BLUE_BELT";
 item = "player_head";
 name = "Blue Belt";
 include("types/belt", this);

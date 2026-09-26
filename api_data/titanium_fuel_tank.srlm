@@ -1,3 +1,4 @@
+id = "TITANIUM_FUEL_TANK";
 item = "paper";
 name = "Titanium-Infused Fuel Tank";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/titanium_infused_fuel_tank";

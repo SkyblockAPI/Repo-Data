@@ -1,4 +1,3 @@
 meta {
-  id = SUPER_SCORCHER;
   include("api_data/super_scorcher", this); 
 };

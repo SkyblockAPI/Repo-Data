@@ -1,3 +1,4 @@
+id = "FORGE_TRAVEL_SCROLL";
 item = "empty_map";
 name = "Travel Scroll to the Dwarven Forge";
 include("types/travel_scroll", this);

@@ -1,3 +1,4 @@
+id = "RED_MUSHROOM";
 item = "red_mushroom";
 name = "Red Mushroom";
 rarity = "COMMON";

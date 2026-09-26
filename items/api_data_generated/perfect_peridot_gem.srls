@@ -1,4 +1,3 @@
 meta {
-  id = PERFECT_PERIDOT_GEM;
   include("api_data/perfect_peridot_gem", this); 
 };

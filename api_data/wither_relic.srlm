@@ -1,3 +1,4 @@
+id = "WITHER_RELIC";
 item = "player_head";
 name = "Wither Relic";
 include("types/accessory", this);

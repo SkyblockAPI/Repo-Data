@@ -1,4 +1,3 @@
 meta {
-  id = COOKED_RABBIT;
   include("api_data/cooked_rabbit", this); 
 };

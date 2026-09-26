@@ -1,4 +1,3 @@
 meta {
-  id = ELECTRIC_WAND_ITEM;
   include("api_data/electric_wand_item", this); 
 };

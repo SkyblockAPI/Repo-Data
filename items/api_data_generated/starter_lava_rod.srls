@@ -1,4 +1,3 @@
 meta {
-  id = STARTER_LAVA_ROD;
   include("api_data/starter_lava_rod", this); 
 };

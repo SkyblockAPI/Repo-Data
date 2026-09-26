@@ -1,4 +1,3 @@
 meta {
-  id = HYPERGOLIC_IONIZED_CERAMICS;
   include("api_data/hypergolic_ionized_ceramics", this); 
 };

@@ -1,3 +1,4 @@
+id = "ENCHANTED_EGG";
 item = "egg";
 name = "Enchanted Egg";
 rarity = "RARE";

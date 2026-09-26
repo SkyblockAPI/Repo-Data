@@ -1,4 +1,3 @@
 meta {
-  id = DEMONLORD_GAUNTLET;
   include("api_data/demonlord_gauntlet", this); 
 };

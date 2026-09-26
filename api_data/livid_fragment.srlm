@@ -1,3 +1,4 @@
+id = "LIVID_FRAGMENT";
 item = "nether_brick_item";
 name = "Livid Fragment";
 include("types/dungeon", this);

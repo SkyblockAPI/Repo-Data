@@ -1,3 +1,4 @@
+id = "ARACHNE_SANCTUARY_PORTAL";
 item = "player_head";
 name = "Portal to Arachne's Sanctuary";
 include("types/portal", this);

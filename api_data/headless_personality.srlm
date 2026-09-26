@@ -1,3 +1,4 @@
+id = "HEADLESS_PERSONALITY";
 item = "player_head";
 name = "Beheaded Minion Skin";
 include("types/cosmetic", this);

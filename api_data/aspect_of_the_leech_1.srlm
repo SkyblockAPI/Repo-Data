@@ -1,3 +1,4 @@
+id = "ASPECT_OF_THE_LEECH_1";
 item = "wood_spade";
 name = "Aspect of the Leech";
 include("types/wand", this);

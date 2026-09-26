@@ -1,3 +1,4 @@
+id = "SPEED_RACER";
 item = "player_head";
 name = "The Fast";
 include("types/helmet", this);

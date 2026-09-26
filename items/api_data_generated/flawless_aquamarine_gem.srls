@@ -1,4 +1,3 @@
 meta {
-  id = FLAWLESS_AQUAMARINE_GEM;
   include("api_data/flawless_aquamarine_gem", this); 
 };

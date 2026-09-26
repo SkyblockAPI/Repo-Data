@@ -1,4 +1,3 @@
 meta {
-  id = PERSONAL_BANK_ITEM;
   include("api_data/personal_bank_item", this); 
 };

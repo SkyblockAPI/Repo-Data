@@ -1,3 +1,4 @@
+id = "BLAZE_ROD";
 item = "blaze_rod";
 name = "Blaze Rod";
 rarity = "COMMON";

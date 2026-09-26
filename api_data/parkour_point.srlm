@@ -1,3 +1,4 @@
+id = "PARKOUR_POINT";
 item = "iron_plate";
 name = "Parkour Checkpoint";
 rarity = "COMMON";

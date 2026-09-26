@@ -1,4 +1,3 @@
 meta {
-  id = METAPHORIC_EGG;
   include("api_data/metaphoric_egg", this); 
 };

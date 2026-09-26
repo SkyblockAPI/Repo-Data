@@ -1,4 +1,3 @@
 meta {
-  id = BUILDERS_WAND;
   include("api_data/builders_wand", this); 
 };

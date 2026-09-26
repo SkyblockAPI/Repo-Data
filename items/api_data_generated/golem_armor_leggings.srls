@@ -1,4 +1,3 @@
 meta {
-  id = GOLEM_ARMOR_LEGGINGS;
   include("api_data/golem_armor_leggings", this); 
 };

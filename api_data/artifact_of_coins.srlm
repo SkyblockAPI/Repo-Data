@@ -1,3 +1,4 @@
+id = "ARTIFACT_OF_COINS";
 item = "player_head";
 name = "Artifact of Coins";
 include("types/accessory", this);

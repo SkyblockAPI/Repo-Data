@@ -1,4 +1,3 @@
 meta {
-  id = INFERNAL_FERVOR_BOOTS;
   include("api_data/infernal_fervor_boots", this); 
 };

@@ -1,3 +1,4 @@
+id = "WISE_WITHER_HELMET";
 item = "player_head";
 name = "Storm's Helmet";
 include("types/helmet", this);

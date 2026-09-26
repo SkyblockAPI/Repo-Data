@@ -1,4 +1,3 @@
 meta {
-  id = ELEANOR_SLIPPERS;
   include("api_data/eleanor_slippers", this); 
 };

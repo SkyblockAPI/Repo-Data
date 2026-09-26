@@ -1,3 +1,4 @@
+id = "ETERNAL_HOOF";
 item = "gold_barding";
 name = "Eternal Hoof";
 include("types/accessory", this);

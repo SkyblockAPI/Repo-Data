@@ -1,3 +1,4 @@
+id = "SILKRIDER_SAFETY_BELT";
 item = "player_head";
 name = "Silkrider Safety Belt";
 include("types/belt", this);

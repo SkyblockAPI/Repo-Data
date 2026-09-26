@@ -1,3 +1,4 @@
+id = "BOTANICAL_GREENHOUSE_SKIN";
 item = "brick";
 name = "Botanical Garden Greenhouse Skin";
 include("types/cosmetic", this);

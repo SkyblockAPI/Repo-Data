@@ -1,3 +1,4 @@
+id = "ENCHANTED_MELON";
 item = "melon";
 name = "Enchanted Melon Slice";
 rarity = "UNCOMMON";

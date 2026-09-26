@@ -1,3 +1,4 @@
+id = "MEGA_LUCK";
 item = "player_head";
 name = "Arenjey God";
 include("types/helmet", this);

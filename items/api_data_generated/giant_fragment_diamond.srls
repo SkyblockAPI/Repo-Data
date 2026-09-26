@@ -1,4 +1,3 @@
 meta {
-  id = GIANT_FRAGMENT_DIAMOND;
   include("api_data/giant_fragment_diamond", this); 
 };

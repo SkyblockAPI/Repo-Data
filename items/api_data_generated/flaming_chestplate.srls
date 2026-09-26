@@ -1,4 +1,3 @@
 meta {
-  id = FLAMING_CHESTPLATE;
   include("api_data/flaming_chestplate", this); 
 };

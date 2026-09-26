@@ -1,4 +1,3 @@
 meta {
-  id = METAL_CHESTPLATE;
   include("api_data/metal_chestplate", this); 
 };

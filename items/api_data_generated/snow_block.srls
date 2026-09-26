@@ -1,4 +1,3 @@
 meta {
-  id = SNOW_BLOCK;
   include("api_data/snow_block", this); 
 };

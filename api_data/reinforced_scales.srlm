@@ -1,3 +1,4 @@
+id = "REINFORCED_SCALES";
 item = "prismarine_crystals";
 name = "Reinforced Scales";
 include("types/pet_item", this);

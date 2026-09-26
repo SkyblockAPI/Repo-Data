@@ -1,3 +1,4 @@
+id = "PITCHIN_KOI";
 item = "player_head";
 name = "Pitchin' Koi";
 include("types/reforge_stone", this);

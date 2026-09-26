@@ -1,3 +1,4 @@
+id = "TORRHUS_TALISMAN";
 item = "paper";
 name = "Torrhus Talisman";
 include("types/accessory", this);

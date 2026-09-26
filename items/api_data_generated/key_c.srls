@@ -1,4 +1,3 @@
 meta {
-  id = KEY_C;
   include("api_data/key_c", this); 
 };

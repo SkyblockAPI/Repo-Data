@@ -1,3 +1,4 @@
+id = "FURBALL";
 item = "player_head";
 name = "Furball";
 include("types/reforge_stone", this);

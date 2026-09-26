@@ -1,3 +1,4 @@
+id = "PET_SKIN_WOLF_HENZO_DOGGO";
 item = "player_head";
 name = "Henzo DoggoWolf";
 include("types/cosmetic", this);

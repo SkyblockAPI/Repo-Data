@@ -1,4 +1,3 @@
 meta {
-  id = ANNI_PODIUM_NOTES_FIRST;
   include("api_data/anni_podium_notes_first", this); 
 };

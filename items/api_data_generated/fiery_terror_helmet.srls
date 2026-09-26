@@ -1,4 +1,3 @@
 meta {
-  id = FIERY_TERROR_HELMET;
   include("api_data/fiery_terror_helmet", this); 
 };

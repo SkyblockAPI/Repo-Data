@@ -1,3 +1,4 @@
+id = "CROCHET_TIGER_PLUSHIE";
 item = "player_head";
 name = "Crochet Tiger Plushie";
 include("types/pet_item", this);

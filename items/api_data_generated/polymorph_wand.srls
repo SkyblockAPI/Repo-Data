@@ -1,4 +1,3 @@
 meta {
-  id = POLYMORPH_WAND;
   include("api_data/polymorph_wand", this); 
 };

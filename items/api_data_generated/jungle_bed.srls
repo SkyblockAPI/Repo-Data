@@ -1,4 +1,3 @@
 meta {
-  id = JUNGLE_BED;
   include("api_data/jungle_bed", this); 
 };

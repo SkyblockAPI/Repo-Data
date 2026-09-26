@@ -1,3 +1,4 @@
+id = "AVARICIOUS_CHALICE";
 item = "player_head";
 name = "Avaricious Chalice";
 include("types/none", this);

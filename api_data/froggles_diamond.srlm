@@ -1,3 +1,4 @@
+id = "FROGGLES_DIAMOND";
 item = "player_head";
 name = "Diamond Froggles";
 include("types/helmet", this);

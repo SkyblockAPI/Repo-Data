@@ -1,4 +1,3 @@
 meta {
-  id = BAIT_RING;
   include("api_data/bait_ring", this); 
 };

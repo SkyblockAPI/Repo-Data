@@ -1,3 +1,4 @@
+id = "FUMING_POTATO_BOOK";
 item = "book";
 name = "Fuming Potato Book";
 include("types/dungeon", this);

@@ -1,3 +1,4 @@
+id = "HEALING_MELON";
 item = "speckled_melon";
 name = "Healing Melon";
 rarity = "UNCOMMON";

@@ -1,3 +1,4 @@
+id = "ZOMBIE_COMMANDER_BOOTS";
 item = "leather_boots";
 name = "Zombie Commander Boots";
 include("types/boots", this);

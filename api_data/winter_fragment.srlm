@@ -1,3 +1,4 @@
+id = "WINTER_FRAGMENT";
 item = "player_head";
 name = "Winter Fragment";
 include("types/none", this);

@@ -1,3 +1,4 @@
+id = "NEW_YEAR_CAKE_BAG";
 item = "player_head";
 name = "New Year Cake Bag";
 include("types/accessory", this);

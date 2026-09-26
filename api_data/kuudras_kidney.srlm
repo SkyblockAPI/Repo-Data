@@ -1,3 +1,4 @@
+id = "KUUDRAS_KIDNEY";
 item = "player_head";
 name = "Kuudra's Kidney";
 include("types/accessory", this);

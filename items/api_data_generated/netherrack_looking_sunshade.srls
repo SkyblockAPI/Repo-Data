@@ -1,4 +1,3 @@
 meta {
-  id = NETHERRACK_LOOKING_SUNSHADE;
   include("api_data/netherrack_looking_sunshade", this); 
 };

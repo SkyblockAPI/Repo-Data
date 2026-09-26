@@ -1,3 +1,4 @@
+id = "PET_ITEM_BIG_TEETH_UNCOMMON";
 item = "ghast_tear";
 name = "Big Teeth";
 include("types/pet_item", this);

@@ -1,4 +1,3 @@
 meta {
-  id = HOTSPOT_WATER_ORB;
   include("api_data/hotspot_water_orb", this); 
 };

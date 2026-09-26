@@ -1,4 +1,3 @@
 meta {
-  id = INK_SPLAT;
   include("api_data/ink_splat", this); 
 };

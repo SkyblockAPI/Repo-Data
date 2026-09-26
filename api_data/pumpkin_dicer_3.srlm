@@ -1,3 +1,4 @@
+id = "PUMPKIN_DICER_3";
 item = "gold_axe";
 name = "Pumpkin Dicer Mk. III";
 include("types/farming_tool", this);

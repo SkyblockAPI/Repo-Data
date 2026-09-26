@@ -1,3 +1,4 @@
+id = "MINING_RAFFLE_TICKET";
 item = "name_tag";
 name = "Raffle Ticket";
 rarity = "UNCOMMON";

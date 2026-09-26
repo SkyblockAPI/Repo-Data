@@ -1,3 +1,4 @@
+id = "THUNDERSTORM_ABILITY";
 item = "bedrock";
 name = "Thunderstorm";
 include("types/dungeon", this);

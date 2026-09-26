@@ -1,4 +1,3 @@
 meta {
-  id = ABICASE;
   include("api_data/abicase", this); 
 };

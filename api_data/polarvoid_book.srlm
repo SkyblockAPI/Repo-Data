@@ -1,3 +1,4 @@
+id = "POLARVOID_BOOK";
 item = "book";
 name = "Polarvoid Book";
 rarity = "RARE";

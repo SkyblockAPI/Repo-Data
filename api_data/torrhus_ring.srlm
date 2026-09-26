@@ -1,3 +1,4 @@
+id = "TORRHUS_RING";
 item = "paper";
 name = "Torrhus Ring";
 include("types/accessory", this);

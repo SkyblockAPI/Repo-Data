@@ -1,3 +1,4 @@
+id = "BLAZE_POWDER";
 item = "blaze_powder";
 name = "Blaze Powder";
 rarity = "COMMON";

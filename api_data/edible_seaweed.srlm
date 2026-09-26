@@ -1,3 +1,4 @@
+id = "EDIBLE_SEAWEED";
 item = "player_head";
 name = "Edible Seaweed";
 include("types/pet_item", this);

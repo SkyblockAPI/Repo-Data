@@ -1,4 +1,3 @@
 meta {
-  id = BLACK_WOOLEN_YARN;
   include("api_data/black_woolen_yarn", this); 
 };

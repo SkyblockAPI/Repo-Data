@@ -1,3 +1,4 @@
+id = "ARROW_SWAPPER";
 item = "paper";
 name = "Arrow Swapper";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/arrow_swapper";

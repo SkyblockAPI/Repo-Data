@@ -1,4 +1,3 @@
 meta {
-  id = CAGED_WISP;
   include("api_data/caged_wisp", this); 
 };

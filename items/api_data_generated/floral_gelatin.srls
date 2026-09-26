@@ -1,4 +1,3 @@
 meta {
-  id = FLORAL_GELATIN;
   include("api_data/floral_gelatin", this); 
 };

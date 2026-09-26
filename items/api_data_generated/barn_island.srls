@@ -1,4 +1,3 @@
 meta {
-  id = BARN_ISLAND;
   include("api_data/barn_island", this); 
 };

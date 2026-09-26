@@ -1,3 +1,4 @@
+id = "TARANTULA_SILK";
 item = "paper";
 name = "Tarantula Silk";
 this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/spider/tarantula_silk";

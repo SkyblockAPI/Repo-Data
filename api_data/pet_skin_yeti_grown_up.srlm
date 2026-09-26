@@ -1,3 +1,4 @@
+id = "PET_SKIN_YETI_GROWN_UP";
 item = "player_head";
 name = "Grown-upBaby Yeti";
 include("types/cosmetic", this);

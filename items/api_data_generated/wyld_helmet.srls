@@ -1,4 +1,3 @@
 meta {
-  id = WYLD_HELMET;
   include("api_data/wyld_helmet", this); 
 };

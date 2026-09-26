@@ -1,3 +1,4 @@
+id = "REKINDLED_EMBER_FRAGMENT";
 item = "paper";
 name = "Rekindled Ember Fragment";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/rekindled_ember_fragment";

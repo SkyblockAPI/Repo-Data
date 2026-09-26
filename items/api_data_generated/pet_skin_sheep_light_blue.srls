@@ -1,4 +1,3 @@
 meta {
-  id = PET_SKIN_SHEEP_LIGHT_BLUE;
   include("api_data/pet_skin_sheep_light_blue", this); 
 };

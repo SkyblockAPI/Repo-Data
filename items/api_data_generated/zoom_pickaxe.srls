@@ -1,4 +1,3 @@
 meta {
-  id = ZOOM_PICKAXE;
   include("api_data/zoom_pickaxe", this); 
 };

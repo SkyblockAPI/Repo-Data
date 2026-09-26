@@ -1,4 +1,3 @@
 meta {
-  id = SATIN_TROUSERS;
   include("api_data/satin_trousers", this); 
 };

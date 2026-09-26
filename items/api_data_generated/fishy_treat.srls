@@ -1,4 +1,3 @@
 meta {
-  id = FISHY_TREAT;
   include("api_data/fishy_treat", this); 
 };

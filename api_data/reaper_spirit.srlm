@@ -1,3 +1,4 @@
+id = "REAPER_SPIRIT";
 item = "player_head";
 name = "Spirit Skin";
 include("types/cosmetic", this);

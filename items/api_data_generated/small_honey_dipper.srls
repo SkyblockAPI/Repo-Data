@@ -1,4 +1,3 @@
 meta {
-  id = SMALL_HONEY_DIPPER;
   include("api_data/small_honey_dipper", this); 
 };

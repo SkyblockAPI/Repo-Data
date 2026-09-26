@@ -1,4 +1,3 @@
 meta {
-  id = MIRRORED_WOOD;
   include("api_data/mirrored_wood", this); 
 };

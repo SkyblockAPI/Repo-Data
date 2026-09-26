@@ -1,4 +1,3 @@
 meta {
-  id = RANDOM_CENTURY_CAKE_PACK;
   include("api_data/random_century_cake_pack", this); 
 };

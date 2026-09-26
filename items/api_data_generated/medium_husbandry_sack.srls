@@ -1,4 +1,3 @@
 meta {
-  id = MEDIUM_HUSBANDRY_SACK;
   include("api_data/medium_husbandry_sack", this); 
 };

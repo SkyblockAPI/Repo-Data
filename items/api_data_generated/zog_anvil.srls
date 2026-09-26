@@ -1,4 +1,3 @@
 meta {
-  id = ZOG_ANVIL;
   include("api_data/zog_anvil", this); 
 };

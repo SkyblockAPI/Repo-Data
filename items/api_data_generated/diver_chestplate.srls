@@ -1,4 +1,3 @@
 meta {
-  id = DIVER_CHESTPLATE;
   include("api_data/diver_chestplate", this); 
 };

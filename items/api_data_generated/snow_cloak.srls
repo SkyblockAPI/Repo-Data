@@ -1,4 +1,3 @@
 meta {
-  id = SNOW_CLOAK;
   include("api_data/snow_cloak", this); 
 };

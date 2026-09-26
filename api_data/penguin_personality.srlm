@@ -1,3 +1,4 @@
+id = "PENGUIN_PERSONALITY";
 item = "player_head";
 name = "Penguin Minion Skin";
 include("types/cosmetic", this);

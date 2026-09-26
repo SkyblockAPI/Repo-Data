@@ -1,3 +1,4 @@
+id = "JAKE_PLUSHIE";
 item = "player_head";
 name = "Jake's Plushie";
 include("types/accessory", this);

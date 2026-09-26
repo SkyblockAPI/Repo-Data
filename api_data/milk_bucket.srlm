@@ -1,3 +1,4 @@
+id = "MILK_BUCKET";
 item = "milk_bucket";
 name = "Milk Bucket";
 rarity = "COMMON";

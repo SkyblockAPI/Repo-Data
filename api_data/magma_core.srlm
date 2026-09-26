@@ -1,3 +1,4 @@
+id = "MAGMA_CORE";
 item = "magma_cream";
 name = "Magma Core";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/magma_core";

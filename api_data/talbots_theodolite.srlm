@@ -1,3 +1,4 @@
+id = "TALBOTS_THEODOLITE";
 item = "diode";
 name = "Talbot's Theodolite";
 rarity = "RARE";

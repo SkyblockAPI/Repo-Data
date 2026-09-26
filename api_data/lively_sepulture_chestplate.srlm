@@ -1,3 +1,4 @@
+id = "LIVELY_SEPULTURE_CHESTPLATE";
 item = "chainmail_chestplate";
 name = "Lively Sepulture Chestplate";
 include("types/chestplate", this);

@@ -1,4 +1,3 @@
 meta {
-  id = ABIPHONE_XIV_ENORMOUS;
   include("api_data/abiphone_xiv_enormous", this); 
 };

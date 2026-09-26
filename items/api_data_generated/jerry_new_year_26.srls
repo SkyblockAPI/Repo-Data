@@ -1,4 +1,3 @@
 meta {
-  id = JERRY_NEW_YEAR_26;
   include("api_data/jerry_new_year_26", this); 
 };

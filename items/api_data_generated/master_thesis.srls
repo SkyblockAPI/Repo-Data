@@ -1,4 +1,3 @@
 meta {
-  id = MASTER_THESIS;
   include("api_data/master_thesis", this); 
 };

@@ -1,3 +1,4 @@
+id = "TIKI_MASK";
 item = "player_head";
 name = "Tiki Mask";
 include("types/helmet", this);

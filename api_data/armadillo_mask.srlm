@@ -1,3 +1,4 @@
+id = "ARMADILLO_MASK";
 item = "player_head";
 name = "Armadillo Mask";
 include("types/carnival_mask", this);

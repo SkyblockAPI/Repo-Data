@@ -1,3 +1,4 @@
+id = "BAIT_RING";
 item = "player_head";
 name = "Bait Ring";
 include("types/accessory", this);

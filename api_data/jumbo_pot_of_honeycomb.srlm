@@ -1,3 +1,4 @@
+id = "JUMBO_POT_OF_HONEYCOMB";
 item = "paper";
 name = "Jumbo Pot of Honeycomb";
 include("types/consumable", this);

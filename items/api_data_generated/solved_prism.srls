@@ -1,4 +1,3 @@
 meta {
-  id = SOLVED_PRISM;
   include("api_data/solved_prism", this); 
 };

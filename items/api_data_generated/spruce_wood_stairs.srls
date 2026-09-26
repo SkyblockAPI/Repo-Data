@@ -1,4 +1,3 @@
 meta {
-  id = SPRUCE_WOOD_STAIRS;
   include("api_data/spruce_wood_stairs", this); 
 };

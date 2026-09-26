@@ -1,4 +1,3 @@
 meta {
-  id = COUNTS_MANOR_BARN_SKIN;
   include("api_data/counts_manor_barn_skin", this); 
 };

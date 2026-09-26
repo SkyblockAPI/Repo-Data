@@ -1,4 +1,3 @@
 meta {
-  id = CLAW_FOSSIL;
   include("api_data/claw_fossil", this); 
 };

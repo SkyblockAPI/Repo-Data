@@ -1,4 +1,3 @@
 meta {
-  id = PERSONAL_DELETOR_5000;
   include("api_data/personal_deletor_5000", this); 
 };

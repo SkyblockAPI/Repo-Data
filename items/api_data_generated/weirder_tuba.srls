@@ -1,4 +1,3 @@
 meta {
-  id = WEIRDER_TUBA;
   include("api_data/weirder_tuba", this); 
 };

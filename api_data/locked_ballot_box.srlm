@@ -1,3 +1,4 @@
+id = "LOCKED_BALLOT_BOX";
 item = "player_head";
 name = "Locked Ballot Box";
 include("types/memento", this);

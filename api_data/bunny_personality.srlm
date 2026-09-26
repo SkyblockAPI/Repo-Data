@@ -1,3 +1,4 @@
+id = "BUNNY_PERSONALITY";
 item = "player_head";
 name = "Bunny Minion Skin";
 include("types/cosmetic", this);

@@ -1,4 +1,3 @@
 meta {
-  id = SOULFLOW_PILE;
   include("api_data/soulflow_pile", this); 
 };

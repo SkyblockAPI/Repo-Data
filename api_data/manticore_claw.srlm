@@ -1,3 +1,4 @@
+id = "MANTICORE_CLAW";
 item = "player_head";
 name = "Manticore Claw";
 include("types/gloves", this);

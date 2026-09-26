@@ -1,4 +1,3 @@
 meta {
-  id = SHELLFRUIT;
   include("api_data/shellfruit", this); 
 };

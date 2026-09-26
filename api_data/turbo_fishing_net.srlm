@@ -1,3 +1,4 @@
+id = "TURBO_FISHING_NET";
 item = "paper";
 name = "Turbo Fishing Net";
 include("types/fishing_net", this);

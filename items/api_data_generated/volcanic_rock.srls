@@ -1,4 +1,3 @@
 meta {
-  id = VOLCANIC_ROCK;
   include("api_data/volcanic_rock", this); 
 };

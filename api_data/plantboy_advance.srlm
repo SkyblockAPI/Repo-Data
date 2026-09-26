@@ -1,3 +1,4 @@
+id = "PLANTBOY_ADVANCE";
 item = "player_head";
 name = "PlantBoy Advance";
 include("types/mutation", this);

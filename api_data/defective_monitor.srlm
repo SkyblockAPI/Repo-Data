@@ -1,3 +1,4 @@
+id = "DEFECTIVE_MONITOR";
 item = "player_head";
 name = "Defective Monitor";
 include("types/accessory", this);

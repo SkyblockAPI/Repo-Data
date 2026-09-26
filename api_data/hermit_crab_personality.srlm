@@ -1,3 +1,4 @@
+id = "HERMIT_CRAB_PERSONALITY";
 item = "player_head";
 name = "Hermit Crab Minion Skin";
 include("types/cosmetic", this);

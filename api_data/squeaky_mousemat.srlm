@@ -1,3 +1,4 @@
+id = "SQUEAKY_MOUSEMAT";
 item = "paper";
 name = "Squeaky Mousemat";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/squeaky_mousemat";

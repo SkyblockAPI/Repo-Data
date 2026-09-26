@@ -1,3 +1,4 @@
+id = "WAND_OF_STRENGTH";
 item = "stick";
 name = "Wand of Strength";
 include("types/wand", this);

@@ -1,4 +1,3 @@
 meta {
-  id = GABAGOEY_MIXIN;
   include("api_data/gabagoey_mixin", this); 
 };

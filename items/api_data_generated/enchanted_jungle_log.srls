@@ -1,4 +1,3 @@
 meta {
-  id = ENCHANTED_JUNGLE_LOG;
   include("api_data/enchanted_jungle_log", this); 
 };

@@ -1,3 +1,4 @@
+id = "BONE_REAVER";
 item = "iron_sword";
 name = "Bone Reaver";
 include("types/longsword", this);

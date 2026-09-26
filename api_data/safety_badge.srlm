@@ -1,3 +1,4 @@
+id = "SAFETY_BADGE";
 item = "player_head";
 name = "Safety Badge";
 include("types/accessory", this);

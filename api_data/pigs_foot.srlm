@@ -1,3 +1,4 @@
+id = "PIGS_FOOT";
 item = "player_head";
 name = "Pig's Foot";
 include("types/accessory", this);

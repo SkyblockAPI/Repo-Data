@@ -1,4 +1,3 @@
 meta {
-  id = KUUDRA_SKULL_PORTAL;
   include("api_data/kuudra_skull_portal", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = ETERNAL_FLAME_RING;
   include("api_data/eternal_flame_ring", this); 
 };

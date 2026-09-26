@@ -1,3 +1,4 @@
+id = "ULTIMATE_WITHER_SCROLL";
 item = "paper";
 name = "Ultimate Wither Scroll";
 include("types/dungeon", this);

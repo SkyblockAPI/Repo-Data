@@ -1,3 +1,4 @@
+id = "VITAMIN_DEATH";
 item = "player_head";
 name = "Vitamin Death";
 include("types/reforge_stone", this);

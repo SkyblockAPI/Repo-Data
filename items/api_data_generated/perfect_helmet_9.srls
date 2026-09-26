@@ -1,4 +1,3 @@
 meta {
-  id = PERFECT_HELMET_9;
   include("api_data/perfect_helmet_9", this); 
 };

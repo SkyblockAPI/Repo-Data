@@ -1,4 +1,3 @@
 meta {
-  id = SMOOTH_BRICK:3;
   include("api_data/smooth_brick-3", this); 
 };

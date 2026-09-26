@@ -1,3 +1,4 @@
+id = "THEORETICAL_HOE_SUNFLOWER_3";
 item = "iron_hoe";
 name = "Eclipse Sickle Mk. III";
 include("types/farming_tool", this);

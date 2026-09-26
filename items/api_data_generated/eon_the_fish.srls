@@ -1,4 +1,3 @@
 meta {
-  id = EON_THE_FISH;
   include("api_data/eon_the_fish", this); 
 };

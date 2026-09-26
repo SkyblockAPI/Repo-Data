@@ -1,3 +1,4 @@
+id = "STONE_HOE";
 item = "stone_hoe";
 name = "Stone Hoe";
 include("types/farming_tool", this);

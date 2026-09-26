@@ -1,3 +1,4 @@
+id = "DIVER_CHESTPLATE";
 item = "gold_chestplate";
 name = "Diver's Shirt";
 include("types/chestplate", this);

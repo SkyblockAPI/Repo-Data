@@ -1,3 +1,4 @@
+id = "TOOL_EXP_CAPSULE";
 item = "paper";
 name = "Tool Exp Capsule";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/tool_xp_capsule";

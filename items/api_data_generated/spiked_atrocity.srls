@@ -1,4 +1,3 @@
 meta {
-  id = SPIKED_ATROCITY;
   include("api_data/spiked_atrocity", this); 
 };

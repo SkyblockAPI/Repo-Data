@@ -1,3 +1,4 @@
+id = "COMBO_MANIA_TALISMAN";
 item = "player_head";
 name = "Combo Mania";
 include("types/accessory", this);

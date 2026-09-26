@@ -1,4 +1,3 @@
 meta {
-  id = GOLEM_ARMOR_BOOTS;
   include("api_data/golem_armor_boots", this); 
 };

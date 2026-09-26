@@ -1,4 +1,3 @@
 meta {
-  id = BURNING_EYE;
   include("api_data/burning_eye", this); 
 };

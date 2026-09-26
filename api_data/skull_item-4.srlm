@@ -1,3 +1,4 @@
+id = "SKULL_ITEM:4";
 item = "creeper_head";
 name = "Creeper Skull";
 rarity = "RARE";

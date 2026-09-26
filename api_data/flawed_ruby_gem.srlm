@@ -1,3 +1,4 @@
+id = "FLAWED_RUBY_GEM";
 item = "paper";
 name = "Flawed Ruby Gemstone";
 this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/ruby/flawed_ruby_gem";

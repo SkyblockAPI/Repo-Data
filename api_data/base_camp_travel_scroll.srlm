@@ -1,3 +1,4 @@
+id = "BASE_CAMP_TRAVEL_SCROLL";
 item = "empty_map";
 name = "Travel Scroll to the Dwarven Base Camp";
 include("types/travel_scroll", this);

@@ -1,3 +1,4 @@
+id = "RELIC_OF_COINS";
 item = "player_head";
 name = "Relic of Coins";
 include("types/accessory", this);

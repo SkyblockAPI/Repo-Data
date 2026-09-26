@@ -1,4 +1,3 @@
 meta {
-  id = GAME_BREAKER;
   include("api_data/game_breaker", this); 
 };

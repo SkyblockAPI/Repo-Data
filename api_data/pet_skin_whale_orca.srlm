@@ -1,3 +1,4 @@
+id = "PET_SKIN_WHALE_ORCA";
 item = "player_head";
 name = "OrcaBlue Whale";
 include("types/cosmetic", this);

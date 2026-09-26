@@ -1,4 +1,3 @@
 meta {
-  id = GRIZZLY_BAIT;
   include("api_data/grizzly_bait", this); 
 };

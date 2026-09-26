@@ -1,4 +1,3 @@
 meta {
-  id = EMBER_BOOTS;
   include("api_data/ember_boots", this); 
 };

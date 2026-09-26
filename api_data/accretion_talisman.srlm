@@ -1,3 +1,4 @@
+id = "ACCRETION_TALISMAN";
 item = "paper";
 name = "Accretion Talisman";
 include("types/accessory", this);

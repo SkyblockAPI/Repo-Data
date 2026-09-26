@@ -1,3 +1,4 @@
+id = "LEAVES:1";
 item = "leaves";
 name = "Spruce Leaves";
 rarity = "COMMON";

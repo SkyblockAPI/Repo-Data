@@ -1,4 +1,3 @@
 meta {
-  id = THUNDER_LEGGINGS;
   include("api_data/thunder_leggings", this); 
 };

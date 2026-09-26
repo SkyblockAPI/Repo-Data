@@ -1,3 +1,4 @@
+id = "ENCHANTED_QUARTZ";
 item = "quartz";
 name = "Enchanted Nether Quartz";
 rarity = "UNCOMMON";

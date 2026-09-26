@@ -1,3 +1,4 @@
+id = "SAFARI_BARN_SKIN";
 item = "long_grass";
 name = "Safari Barn Skin";
 include("types/cosmetic", this);

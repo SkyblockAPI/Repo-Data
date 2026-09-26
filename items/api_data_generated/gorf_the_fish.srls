@@ -1,4 +1,3 @@
 meta {
-  id = GORF_THE_FISH;
   include("api_data/gorf_the_fish", this); 
 };

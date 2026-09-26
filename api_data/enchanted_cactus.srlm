@@ -1,3 +1,4 @@
+id = "ENCHANTED_CACTUS";
 item = "cactus";
 name = "Enchanted Cactus";
 rarity = "RARE";

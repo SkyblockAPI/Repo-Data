@@ -1,3 +1,4 @@
+id = "BACKWATER_HELMET";
 item = "player_head";
 name = "Backwater Helmet";
 include("types/helmet", this);

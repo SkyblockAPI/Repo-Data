@@ -1,3 +1,4 @@
+id = "HEALER_DUNGEON_ABILITY_2";
 item = "player_head";
 name = "Healing Potion";
 include("types/dungeon", this);

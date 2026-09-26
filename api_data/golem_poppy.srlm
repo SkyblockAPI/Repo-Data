@@ -1,3 +1,4 @@
+id = "GOLEM_POPPY";
 item = "paper";
 name = "Ancient Rose";
 include("types/dungeon", this);

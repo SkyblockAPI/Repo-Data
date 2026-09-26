@@ -1,4 +1,3 @@
 meta {
-  id = CANE_KNOT;
   include("api_data/cane_knot", this); 
 };

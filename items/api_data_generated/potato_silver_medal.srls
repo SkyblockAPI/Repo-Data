@@ -1,4 +1,3 @@
 meta {
-  id = POTATO_SILVER_MEDAL;
   include("api_data/potato_silver_medal", this); 
 };

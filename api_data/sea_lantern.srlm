@@ -1,3 +1,4 @@
+id = "SEA_LANTERN";
 item = "sea_lantern";
 name = "Sea Lantern";
 rarity = "COMMON";

@@ -1,4 +1,3 @@
 meta {
-  id = HARP;
   include("api_data/harp", this); 
 };

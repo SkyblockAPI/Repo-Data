@@ -1,4 +1,3 @@
 meta {
-  id = SORROW_BOOTS;
   include("api_data/sorrow_boots", this); 
 };

@@ -1,3 +1,4 @@
+id = "LARGE_ENCHANTED_CHEST";
 item = "chest";
 name = "Large Storage";
 rarity = "RARE";

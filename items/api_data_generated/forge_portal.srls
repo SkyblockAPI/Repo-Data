@@ -1,4 +1,3 @@
 meta {
-  id = FORGE_PORTAL;
   include("api_data/forge_portal", this); 
 };

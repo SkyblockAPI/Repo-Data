@@ -1,4 +1,3 @@
 meta {
-  id = FESTIVE_FRISBEE;
   include("api_data/festive_frisbee", this); 
 };

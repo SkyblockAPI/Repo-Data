@@ -1,4 +1,3 @@
 meta {
-  id = BUILDER_APPALLED_PUMPKIN;
   include("api_data/builder_appalled_pumpkin", this); 
 };

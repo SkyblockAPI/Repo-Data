@@ -1,3 +1,4 @@
+id = "DRACONIC_TALISMAN";
 item = "player_head";
 name = "Draconic Talisman";
 include("types/accessory", this);

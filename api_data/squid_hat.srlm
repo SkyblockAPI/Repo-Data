@@ -1,3 +1,4 @@
+id = "SQUID_HAT";
 item = "player_head";
 name = "Squid Hat";
 include("types/helmet", this);

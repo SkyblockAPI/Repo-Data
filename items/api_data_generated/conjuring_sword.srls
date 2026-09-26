@@ -1,4 +1,3 @@
 meta {
-  id = CONJURING_SWORD;
   include("api_data/conjuring_sword", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = WATCHER_BOOTS;
   include("api_data/watcher_boots", this); 
 };

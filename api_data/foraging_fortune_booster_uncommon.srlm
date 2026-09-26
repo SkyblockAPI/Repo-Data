@@ -1,3 +1,4 @@
+id = "FORAGING_FORTUNE_BOOSTER_UNCOMMON";
 item = "paper";
 name = "Uncommon Foraging Fortune Booster Upgrade";
 include("types/booster", this);

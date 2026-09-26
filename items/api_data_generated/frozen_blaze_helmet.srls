@@ -1,4 +1,3 @@
 meta {
-  id = FROZEN_BLAZE_HELMET;
   include("api_data/frozen_blaze_helmet", this); 
 };

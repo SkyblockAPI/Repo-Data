@@ -1,3 +1,4 @@
+id = "RUSTY_COIN";
 item = "paper";
 name = "Rusty Coin";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/junk/rusty_coin";

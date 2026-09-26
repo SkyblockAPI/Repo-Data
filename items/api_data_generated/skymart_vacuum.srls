@@ -1,4 +1,3 @@
 meta {
-  id = SKYMART_VACUUM;
   include("api_data/skymart_vacuum", this); 
 };

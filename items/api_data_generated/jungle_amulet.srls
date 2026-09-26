@@ -1,4 +1,3 @@
 meta {
-  id = JUNGLE_AMULET;
   include("api_data/jungle_amulet", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = ADVANCED_GARDENING_HOE;
   include("api_data/advanced_gardening_hoe", this); 
 };

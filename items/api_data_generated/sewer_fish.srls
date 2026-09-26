@@ -1,4 +1,3 @@
 meta {
-  id = SEWER_FISH;
   include("api_data/sewer_fish", this); 
 };

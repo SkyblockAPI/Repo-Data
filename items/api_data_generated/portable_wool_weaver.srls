@@ -1,4 +1,3 @@
 meta {
-  id = PORTABLE_WOOL_WEAVER;
   include("api_data/portable_wool_weaver", this); 
 };

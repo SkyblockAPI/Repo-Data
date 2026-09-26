@@ -1,4 +1,3 @@
 meta {
-  id = CRYPT_DREADLORD_SWORD;
   include("api_data/crypt_dreadlord_sword", this); 
 };

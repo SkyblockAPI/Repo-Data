@@ -1,3 +1,4 @@
+id = "FORAGING_WISDOM_BOOSTER";
 item = "paper";
 name = "Common Foraging Wisdom Booster";
 include("types/booster", this);

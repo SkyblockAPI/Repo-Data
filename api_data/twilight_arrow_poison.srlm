@@ -1,3 +1,4 @@
+id = "TWILIGHT_ARROW_POISON";
 item = "ink_sack";
 name = "Twilight Arrow Poison";
 include("types/arrow_poison", this);

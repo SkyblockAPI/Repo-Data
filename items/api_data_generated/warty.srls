@@ -1,4 +1,3 @@
 meta {
-  id = WARTY;
   include("api_data/warty", this); 
 };

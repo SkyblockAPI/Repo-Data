@@ -1,3 +1,4 @@
+id = "SKELETON_KEY";
 item = "paper";
 name = "Skeleton Key";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/uncategorized/skeleton_key";

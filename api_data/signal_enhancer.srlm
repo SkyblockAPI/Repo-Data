@@ -1,3 +1,4 @@
+id = "SIGNAL_ENHANCER";
 item = "paper";
 name = "Signal Enhancer";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/signal_enhancer";

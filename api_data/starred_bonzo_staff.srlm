@@ -1,3 +1,4 @@
+id = "STARRED_BONZO_STAFF";
 item = "blaze_rod";
 name = "Bonzo's Staff";
 include("types/sword", this);

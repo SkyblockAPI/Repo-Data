@@ -1,3 +1,4 @@
+id = "SOUL_WHIP";
 item = "fishing_rod";
 name = "Soul Whip";
 include("types/sword", this);

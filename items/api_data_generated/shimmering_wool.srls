@@ -1,4 +1,3 @@
 meta {
-  id = SHIMMERING_WOOL;
   include("api_data/shimmering_wool", this); 
 };

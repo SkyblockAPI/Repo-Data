@@ -1,4 +1,3 @@
 meta {
-  id = PINA_COOLADA_BARN_SKIN;
   include("api_data/pina_coolada_barn_skin", this); 
 };

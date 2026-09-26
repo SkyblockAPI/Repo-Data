@@ -1,3 +1,4 @@
+id = "SINGED_POWDER";
 item = "paper";
 name = "Singed Powder";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/singed_powder";

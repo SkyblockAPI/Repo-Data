@@ -1,4 +1,3 @@
 meta {
-  id = HASTE_RING;
   include("api_data/haste_ring", this); 
 };

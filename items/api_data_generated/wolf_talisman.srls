@@ -1,4 +1,3 @@
 meta {
-  id = WOLF_TALISMAN;
   include("api_data/wolf_talisman", this); 
 };

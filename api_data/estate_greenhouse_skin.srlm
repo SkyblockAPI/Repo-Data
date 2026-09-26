@@ -1,3 +1,4 @@
+id = "ESTATE_GREENHOUSE_SKIN";
 item = "quartz_block";
 name = "Estate Greenhouse Skin";
 include("types/cosmetic", this);

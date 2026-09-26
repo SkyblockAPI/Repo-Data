@@ -1,3 +1,4 @@
+id = "ARMOR_STAND";
 item = "armor_stand";
 name = "Armor Stand";
 rarity = "COMMON";

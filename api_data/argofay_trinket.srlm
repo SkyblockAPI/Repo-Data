@@ -1,3 +1,4 @@
+id = "ARGOFAY_TRINKET";
 item = "player_head";
 name = "Argofay Trinket";
 include("types/accessory", this);

@@ -1,3 +1,4 @@
+id = "REVIVED_HEART";
 item = "player_head";
 name = "Revived Heart";
 include("types/helmet", this);

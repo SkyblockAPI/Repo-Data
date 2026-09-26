@@ -1,3 +1,4 @@
+id = "HAUNT_ABILITY";
 item = "player_head";
 name = "Haunt";
 include("types/dungeon", this);

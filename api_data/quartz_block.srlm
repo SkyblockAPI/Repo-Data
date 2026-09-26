@@ -1,3 +1,4 @@
+id = "QUARTZ_BLOCK";
 item = "quartz_block";
 name = "Block of Quartz";
 rarity = "COMMON";

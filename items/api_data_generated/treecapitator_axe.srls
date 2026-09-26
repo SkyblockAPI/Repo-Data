@@ -1,4 +1,3 @@
 meta {
-  id = TREECAPITATOR_AXE;
   include("api_data/treecapitator_axe", this); 
 };

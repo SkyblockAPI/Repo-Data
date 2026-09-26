@@ -1,3 +1,4 @@
+id = "COOKIE";
 item = "cookie";
 name = "Cookie";
 rarity = "COMMON";

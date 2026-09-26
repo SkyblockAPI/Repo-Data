@@ -1,3 +1,4 @@
+id = "TITANIUM_DRILL_3";
 item = "diamond_pickaxe";
 name = "Titanium Drill DR-X555";
 include("types/drill", this);

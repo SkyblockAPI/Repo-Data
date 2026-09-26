@@ -1,3 +1,4 @@
+id = "CANDY_RELIC";
 item = "player_head";
 name = "Candy Relic";
 include("types/accessory", this);

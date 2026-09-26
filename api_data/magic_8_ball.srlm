@@ -1,3 +1,4 @@
+id = "MAGIC_8_BALL";
 item = "player_head";
 name = "Magic 8 Ball";
 include("types/accessory", this);

@@ -1,4 +1,3 @@
 meta {
-  id = PERFECTLY_CUT_DIAMOND;
   include("api_data/perfectly_cut_diamond", this); 
 };

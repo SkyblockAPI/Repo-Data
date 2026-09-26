@@ -1,4 +1,3 @@
 meta {
-  id = DEVOURER;
   include("api_data/devourer", this); 
 };

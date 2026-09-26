@@ -1,3 +1,4 @@
+id = "PET_SKIN_ROCK_EMBARRASSED";
 item = "player_head";
 name = "EmbarrassedRock";
 include("types/cosmetic", this);

@@ -1,4 +1,3 @@
 meta {
-  id = SMALL_DRAGON_SACK;
   include("api_data/small_dragon_sack", this); 
 };

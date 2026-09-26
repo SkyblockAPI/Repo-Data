@@ -1,3 +1,4 @@
+id = "DRAGONFUSE_GLOVE";
 item = "player_head";
 name = "Dragonfuse Glove";
 include("types/gloves", this);

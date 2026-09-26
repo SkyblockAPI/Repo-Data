@@ -1,3 +1,4 @@
+id = "ORGANIC_WOOL";
 item = "wool";
 name = "Organic Wool";
 rarity = "UNCOMMON";

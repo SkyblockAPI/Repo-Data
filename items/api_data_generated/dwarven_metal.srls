@@ -1,4 +1,3 @@
 meta {
-  id = DWARVEN_METAL;
   include("api_data/dwarven_metal", this); 
 };

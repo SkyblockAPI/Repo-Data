@@ -1,4 +1,3 @@
 meta {
-  id = BEAR_SIDE_TABLE;
   include("api_data/bear_side_table", this); 
 };

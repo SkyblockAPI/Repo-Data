@@ -1,3 +1,4 @@
+id = "TELEPORT_PAD";
 item = "ender_portal_frame";
 name = "Teleport Pad";
 rarity = "UNCOMMON";

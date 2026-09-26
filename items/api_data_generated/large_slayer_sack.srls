@@ -1,4 +1,3 @@
 meta {
-  id = LARGE_SLAYER_SACK;
   include("api_data/large_slayer_sack", this); 
 };

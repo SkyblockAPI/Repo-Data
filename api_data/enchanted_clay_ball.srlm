@@ -1,3 +1,4 @@
+id = "ENCHANTED_CLAY_BALL";
 item = "clay_ball";
 name = "Enchanted Clay Ball";
 rarity = "UNCOMMON";

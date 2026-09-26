@@ -1,3 +1,4 @@
+id = "REDSTONE_COMPARATOR";
 item = "redstone_comparator";
 name = "Comparator";
 rarity = "COMMON";

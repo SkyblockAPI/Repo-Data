@@ -1,4 +1,3 @@
 meta {
-  id = HAZMAT_ENDERMAN;
   include("api_data/hazmat_enderman", this); 
 };

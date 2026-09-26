@@ -1,3 +1,4 @@
+id = "AQUAMASTER_X";
 item = "carrot_stick";
 name = "AquaMaster™ X";
 include("types/watering_can", this);

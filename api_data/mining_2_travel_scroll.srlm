@@ -1,3 +1,4 @@
+id = "MINING_2_TRAVEL_SCROLL";
 item = "empty_map";
 name = "Travel Scroll to Deep Caverns";
 include("types/travel_scroll", this);

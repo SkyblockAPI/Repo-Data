@@ -1,4 +1,3 @@
 meta {
-  id = ROUGH_AMBER_GEM;
   include("api_data/rough_amber_gem", this); 
 };

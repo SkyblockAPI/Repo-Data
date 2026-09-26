@@ -1,3 +1,4 @@
+id = "LIVING_METAL_ANVIL";
 item = "anvil";
 name = "Living Metal Anchor";
 rarity = "RARE";

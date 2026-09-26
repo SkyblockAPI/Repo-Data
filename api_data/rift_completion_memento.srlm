@@ -1,3 +1,4 @@
+id = "RIFT_COMPLETION_MEMENTO";
 item = "book";
 name = "There and Back Again";
 include("types/memento", this);

@@ -1,4 +1,3 @@
 meta {
-  id = FROGGLES_SILVER;
   include("api_data/froggles_silver", this); 
 };

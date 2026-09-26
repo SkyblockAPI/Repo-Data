@@ -1,4 +1,3 @@
 meta {
-  id = RAGGEDY_SHARK_TOOTH_NECKLACE;
   include("api_data/raggedy_shark_tooth_necklace", this); 
 };

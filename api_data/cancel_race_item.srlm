@@ -1,3 +1,4 @@
+id = "CANCEL_RACE_ITEM";
 item = "stained_clay";
 name = "Cancel Race";
 rarity = "COMMON";

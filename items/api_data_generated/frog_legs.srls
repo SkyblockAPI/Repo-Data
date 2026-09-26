@@ -1,4 +1,3 @@
 meta {
-  id = FROG_LEGS;
   include("api_data/frog_legs", this); 
 };

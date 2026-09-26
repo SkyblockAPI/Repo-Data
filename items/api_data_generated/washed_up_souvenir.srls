@@ -1,4 +1,3 @@
 meta {
-  id = WASHED_UP_SOUVENIR;
   include("api_data/washed_up_souvenir", this); 
 };

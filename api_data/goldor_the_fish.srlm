@@ -1,3 +1,4 @@
+id = "GOLDOR_THE_FISH";
 item = "player_head";
 name = "Goldor the Fish";
 include("types/dungeon", this);

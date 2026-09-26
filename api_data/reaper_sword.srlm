@@ -1,3 +1,4 @@
+id = "REAPER_SWORD";
 item = "diamond_sword";
 name = "Reaper Falchion";
 include("types/sword", this);

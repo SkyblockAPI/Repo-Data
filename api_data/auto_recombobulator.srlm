@@ -1,3 +1,4 @@
+id = "AUTO_RECOMBOBULATOR";
 item = "player_head";
 name = "Auto Recombobulator";
 include("types/accessory", this);

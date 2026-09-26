@@ -1,3 +1,4 @@
+id = "VOODOO";
 item = "player_head";
 name = "Voodoo";
 include("types/helmet", this);

@@ -1,3 +1,4 @@
+id = "WOOD_STEP";
 item = "wood_step";
 name = "Oak Slab";
 rarity = "COMMON";

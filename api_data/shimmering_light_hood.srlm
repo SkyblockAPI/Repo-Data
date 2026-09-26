@@ -1,3 +1,4 @@
+id = "SHIMMERING_LIGHT_HOOD";
 item = "player_head";
 name = "Shimmering Light Hood";
 include("types/helmet", this);

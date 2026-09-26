@@ -1,4 +1,3 @@
 meta {
-  id = VAMPIRE_GENERATOR_2;
   include("api_data/vampire_generator_2", this); 
 };

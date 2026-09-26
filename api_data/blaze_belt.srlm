@@ -1,3 +1,4 @@
+id = "BLAZE_BELT";
 item = "player_head";
 name = "Blaze Belt";
 include("types/belt", this);

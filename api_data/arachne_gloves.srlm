@@ -1,3 +1,4 @@
+id = "ARACHNE_GLOVES";
 item = "player_head";
 name = "Arachne's Gloves";
 include("types/gloves", this);

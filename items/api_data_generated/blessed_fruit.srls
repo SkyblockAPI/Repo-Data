@@ -1,4 +1,3 @@
 meta {
-  id = BLESSED_FRUIT;
   include("api_data/blessed_fruit", this); 
 };

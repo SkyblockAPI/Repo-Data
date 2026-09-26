@@ -1,3 +1,4 @@
+id = "DETECTIVE_WALLET";
 item = "player_head";
 name = "Wallet";
 include("types/none", this);

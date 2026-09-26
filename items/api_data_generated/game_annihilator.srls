@@ -1,4 +1,3 @@
 meta {
-  id = GAME_ANNIHILATOR;
   include("api_data/game_annihilator", this); 
 };

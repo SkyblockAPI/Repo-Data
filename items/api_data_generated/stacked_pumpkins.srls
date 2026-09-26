@@ -1,4 +1,3 @@
 meta {
-  id = STACKED_PUMPKINS;
   include("api_data/stacked_pumpkins", this); 
 };

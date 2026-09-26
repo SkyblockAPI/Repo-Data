@@ -1,3 +1,4 @@
+id = "ABYSSAL_HELMET";
 item = "player_head";
 name = "Abyssal Helmet";
 include("types/helmet", this);

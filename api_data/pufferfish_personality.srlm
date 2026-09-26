@@ -1,3 +1,4 @@
+id = "PUFFERFISH_PERSONALITY";
 item = "player_head";
 name = "Pufferfish Minion Skin";
 include("types/cosmetic", this);

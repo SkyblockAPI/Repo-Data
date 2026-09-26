@@ -1,4 +1,3 @@
 meta {
-  id = WEDDING_RING_4;
   include("api_data/wedding_ring_4", this); 
 };

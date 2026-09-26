@@ -1,4 +1,3 @@
 meta {
-  id = UNLUCKY_DOUBLOON;
   include("api_data/unlucky_doubloon", this); 
 };

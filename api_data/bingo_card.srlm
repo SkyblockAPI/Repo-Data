@@ -1,3 +1,4 @@
+id = "BINGO_CARD";
 item = "paper";
 name = "Bingo Card";
 rarity = "SPECIAL";

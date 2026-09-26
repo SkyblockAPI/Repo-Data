@@ -1,4 +1,3 @@
 meta {
-  id = CHOCO_RABBIT_PERSONALITY;
   include("api_data/choco_rabbit_personality", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = COCO_CHOPPER_2;
   include("api_data/coco_chopper_2", this); 
 };

@@ -1,3 +1,4 @@
+id = "MELODY_HAIR";
 item = "string";
 name = "Melody's Hair";
 include("types/accessory", this);

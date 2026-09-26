@@ -1,4 +1,3 @@
 meta {
-  id = HOLY_DRAGON_BOOTS;
   include("api_data/holy_dragon_boots", this); 
 };

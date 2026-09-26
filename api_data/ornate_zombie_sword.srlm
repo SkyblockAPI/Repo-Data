@@ -1,3 +1,4 @@
+id = "ORNATE_ZOMBIE_SWORD";
 item = "gold_sword";
 name = "Ornate Zombie Sword";
 include("types/sword", this);

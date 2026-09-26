@@ -1,3 +1,4 @@
+id = "CANE_KNOT";
 item = "paper";
 name = "Cane Knot";
 this["minecraft:item_model"] = "minecraft:kelp";

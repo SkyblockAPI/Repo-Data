@@ -1,4 +1,3 @@
 meta {
-  id = SHADEVINE;
   include("api_data/shadevine", this); 
 };

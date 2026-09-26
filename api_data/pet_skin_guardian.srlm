@@ -1,3 +1,4 @@
+id = "PET_SKIN_GUARDIAN";
 item = "player_head";
 name = "WatcherGuardian";
 include("types/cosmetic", this);

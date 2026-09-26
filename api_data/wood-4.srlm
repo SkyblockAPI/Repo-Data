@@ -1,3 +1,4 @@
+id = "WOOD:4";
 item = "wood";
 name = "Acacia Planks";
 rarity = "COMMON";

@@ -1,4 +1,3 @@
 meta {
-  id = ICY_SINKER;
   include("api_data/icy_sinker", this); 
 };

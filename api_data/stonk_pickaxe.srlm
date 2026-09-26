@@ -1,3 +1,4 @@
+id = "STONK_PICKAXE";
 item = "gold_pickaxe";
 name = "Stonk";
 include("types/pickaxe", this);

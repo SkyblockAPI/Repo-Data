@@ -1,3 +1,4 @@
+id = "TRAPPER_CREST";
 item = "player_head";
 name = "Trapper Crest";
 include("types/accessory", this);

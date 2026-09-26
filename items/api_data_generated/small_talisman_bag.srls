@@ -1,4 +1,3 @@
 meta {
-  id = SMALL_TALISMAN_BAG;
   include("api_data/small_talisman_bag", this); 
 };

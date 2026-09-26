@@ -1,3 +1,4 @@
+id = "CELESTE_WAND";
 item = "stick";
 name = "Celeste Wand";
 include("types/wand", this);

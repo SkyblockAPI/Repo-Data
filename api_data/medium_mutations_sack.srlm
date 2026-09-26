@@ -1,3 +1,4 @@
+id = "MEDIUM_MUTATIONS_SACK";
 item = "player_head";
 name = "Medium Mutations Sack";
 include("types/sack", this);

@@ -1,3 +1,4 @@
+id = "VAMPIRE_WITCH_MASK";
 item = "player_head";
 name = "Vampire Witch Mask";
 include("types/helmet", this);

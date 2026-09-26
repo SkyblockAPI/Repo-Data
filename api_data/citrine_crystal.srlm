@@ -1,3 +1,4 @@
+id = "CITRINE_CRYSTAL";
 item = "paper";
 name = "Citrine Crystal";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/crystal/citrine_crystal";

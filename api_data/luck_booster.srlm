@@ -1,3 +1,4 @@
+id = "LUCK_BOOSTER";
 item = "paper";
 name = "Common Luck Booster";
 include("types/booster", this);

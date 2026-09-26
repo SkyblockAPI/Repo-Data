@@ -1,3 +1,4 @@
+id = "REINFORCED_CHISEL";
 item = "armor_stand";
 name = "Reinforced Chisel";
 include("types/chisel", this);

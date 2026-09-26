@@ -1,4 +1,3 @@
 meta {
-  id = ARGOFAY_TRINKET;
   include("api_data/argofay_trinket", this); 
 };

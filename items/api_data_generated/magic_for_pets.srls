@@ -1,4 +1,3 @@
 meta {
-  id = MAGIC_FOR_PETS;
   include("api_data/magic_for_pets", this); 
 };

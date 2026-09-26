@@ -1,4 +1,3 @@
 meta {
-  id = RIFTWART_ROOTS;
   include("api_data/riftwart_roots", this); 
 };

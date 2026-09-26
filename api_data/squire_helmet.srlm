@@ -1,3 +1,4 @@
+id = "SQUIRE_HELMET";
 item = "chainmail_helmet";
 name = "Squire Helmet";
 include("types/helmet", this);

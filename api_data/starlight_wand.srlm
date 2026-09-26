@@ -1,3 +1,4 @@
+id = "STARLIGHT_WAND";
 item = "stick";
 name = "Starlight Wand";
 include("types/wand", this);

@@ -1,4 +1,3 @@
 meta {
-  id = CENTURY_MEMENTO_RED;
   include("api_data/century_memento_red", this); 
 };

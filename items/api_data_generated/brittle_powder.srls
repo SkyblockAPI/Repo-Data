@@ -1,4 +1,3 @@
 meta {
-  id = BRITTLE_POWDER;
   include("api_data/brittle_powder", this); 
 };

@@ -1,3 +1,4 @@
+id = "ENCHANTED_SUNFLOWER";
 item = "double_plant";
 name = "Enchanted Sunflower";
 rarity = "UNCOMMON";

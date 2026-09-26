@@ -1,3 +1,4 @@
+id = "ACACIA_FENCE";
 item = "acacia_fence";
 name = "Acacia Fence";
 rarity = "COMMON";

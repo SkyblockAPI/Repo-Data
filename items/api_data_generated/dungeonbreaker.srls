@@ -1,4 +1,3 @@
 meta {
-  id = DUNGEONBREAKER;
   include("api_data/dungeonbreaker", this); 
 };

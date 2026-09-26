@@ -1,4 +1,3 @@
 meta {
-  id = GANACHE_CHOCOLATE_SLAB;
   include("api_data/ganache_chocolate_slab", this); 
 };

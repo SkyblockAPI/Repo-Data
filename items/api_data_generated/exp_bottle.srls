@@ -1,4 +1,3 @@
 meta {
-  id = EXP_BOTTLE;
   include("api_data/exp_bottle", this); 
 };

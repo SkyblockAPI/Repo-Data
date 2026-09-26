@@ -1,4 +1,3 @@
 meta {
-  id = NECROMANCER_LORD_HELMET;
   include("api_data/necromancer_lord_helmet", this); 
 };

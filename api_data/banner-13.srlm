@@ -1,3 +1,4 @@
+id = "BANNER:13";
 item = "paper";
 name = "Magenta Banner";
 this["minecraft:item_model"] = "minecraft:magenta_banner";

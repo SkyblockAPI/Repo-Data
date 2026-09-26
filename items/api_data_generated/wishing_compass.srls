@@ -1,4 +1,3 @@
 meta {
-  id = WISHING_COMPASS;
   include("api_data/wishing_compass", this); 
 };

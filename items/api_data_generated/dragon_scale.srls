@@ -1,4 +1,3 @@
 meta {
-  id = DRAGON_SCALE;
   include("api_data/dragon_scale", this); 
 };

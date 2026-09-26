@@ -1,4 +1,3 @@
 meta {
-  id = PRIMORDIAL_EYE;
   include("api_data/primordial_eye", this); 
 };

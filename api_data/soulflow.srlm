@@ -1,3 +1,4 @@
+id = "SOULFLOW";
 item = "paper";
 name = "Soulflow";
 this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/enderman/soulflow";

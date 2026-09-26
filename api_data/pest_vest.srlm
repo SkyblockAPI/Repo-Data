@@ -1,3 +1,4 @@
+id = "PEST_VEST";
 item = "player_head";
 name = "Pest Vest";
 include("types/cloak", this);

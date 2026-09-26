@@ -1,3 +1,4 @@
+id = "PORTABLE_WASHER";
 item = "paper";
 name = "Portable Washer";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/pests/portable_washer";

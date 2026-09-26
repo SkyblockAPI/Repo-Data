@@ -1,3 +1,4 @@
+id = "ENCHANTED_PORK";
 item = "pork";
 name = "Enchanted Raw Porkchop";
 rarity = "UNCOMMON";

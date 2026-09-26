@@ -1,3 +1,4 @@
+id = "BLACK_WOOLEN_YARN";
 item = "wool";
 name = "Black Woolen Yarn";
 rarity = "MYTHIC";

@@ -1,3 +1,4 @@
+id = "EVERSTRETCH_LASSO";
 item = "paper";
 name = "Everstretch Lasso";
 include("types/lasso", this);

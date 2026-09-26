@@ -1,4 +1,3 @@
 meta {
-  id = SLIME_GENERATOR_4;
   include("api_data/slime_generator_4", this); 
 };

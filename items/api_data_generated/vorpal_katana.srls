@@ -1,4 +1,3 @@
 meta {
-  id = VORPAL_KATANA;
   include("api_data/vorpal_katana", this); 
 };

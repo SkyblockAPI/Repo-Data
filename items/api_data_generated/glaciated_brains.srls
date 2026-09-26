@@ -1,4 +1,3 @@
 meta {
-  id = GLACIATED_BRAINS;
   include("api_data/glaciated_brains", this); 
 };

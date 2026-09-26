@@ -1,4 +1,3 @@
 meta {
-  id = SUPER_JACOB_SYSTEM;
   include("api_data/super_jacob_system", this); 
 };

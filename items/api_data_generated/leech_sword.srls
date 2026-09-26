@@ -1,4 +1,3 @@
 meta {
-  id = LEECH_SWORD;
   include("api_data/leech_sword", this); 
 };

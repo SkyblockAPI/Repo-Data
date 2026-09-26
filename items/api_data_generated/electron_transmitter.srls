@@ -1,4 +1,3 @@
 meta {
-  id = ELECTRON_TRANSMITTER;
   include("api_data/electron_transmitter", this); 
 };

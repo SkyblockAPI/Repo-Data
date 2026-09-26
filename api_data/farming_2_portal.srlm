@@ -1,3 +1,4 @@
+id = "FARMING_2_PORTAL";
 item = "player_head";
 name = "Portal to Mushroom Island";
 include("types/portal", this);

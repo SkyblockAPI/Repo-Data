@@ -1,4 +1,3 @@
 meta {
-  id = BEAR_CHAIR;
   include("api_data/bear_chair", this); 
 };

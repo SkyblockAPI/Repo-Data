@@ -1,3 +1,4 @@
+id = "RETRO_ENCABULATING_VISOR";
 item = "player_head";
 name = "Retro-Encabulating Visor";
 include("types/helmet", this);

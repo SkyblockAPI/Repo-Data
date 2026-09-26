@@ -1,4 +1,3 @@
 meta {
-  id = PORTABLE_CAMPFIRE;
   include("api_data/portable_campfire", this); 
 };

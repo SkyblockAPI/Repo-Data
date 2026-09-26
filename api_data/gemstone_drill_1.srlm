@@ -1,3 +1,4 @@
+id = "GEMSTONE_DRILL_1";
 item = "diamond_pickaxe";
 name = "Ruby Drill TX-15";
 include("types/drill", this);

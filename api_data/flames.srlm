@@ -1,3 +1,4 @@
+id = "FLAMES";
 item = "blaze_powder";
 name = "Flames";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/flames";

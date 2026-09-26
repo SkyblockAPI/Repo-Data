@@ -1,3 +1,4 @@
+id = "RUNE";
 item = "player_head";
 name = "Rune";
 include("types/cosmetic", this);

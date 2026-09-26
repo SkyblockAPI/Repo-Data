@@ -1,4 +1,3 @@
 meta {
-  id = HOSTAGE_COMPASS;
   include("api_data/hostage_compass", this); 
 };

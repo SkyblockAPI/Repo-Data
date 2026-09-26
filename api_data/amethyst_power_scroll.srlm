@@ -1,3 +1,4 @@
+id = "AMETHYST_POWER_SCROLL";
 item = "paper";
 name = "Amethyst Power Scroll";
 this["minecraft:item_model"] = "minecraft:writable_book";

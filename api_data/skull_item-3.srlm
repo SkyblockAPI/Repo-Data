@@ -1,3 +1,4 @@
+id = "SKULL_ITEM:3";
 item = "player_head";
 name = "Player Head";
 rarity = "COMMON";

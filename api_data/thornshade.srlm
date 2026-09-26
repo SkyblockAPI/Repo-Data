@@ -1,3 +1,4 @@
+id = "THORNSHADE";
 item = "player_head";
 name = "Thornshade";
 include("types/mutation", this);

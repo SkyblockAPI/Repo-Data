@@ -1,4 +1,3 @@
 meta {
-  id = ENCHANTED_MITHRIL;
   include("api_data/enchanted_mithril", this); 
 };

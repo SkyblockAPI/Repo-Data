@@ -1,4 +1,3 @@
 meta {
-  id = ULTIMATE_CARROT_CANDY_UPGRADE;
   include("api_data/ultimate_carrot_candy_upgrade", this); 
 };

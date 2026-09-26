@@ -1,3 +1,4 @@
+id = "MOIL_LOG";
 item = "player_head";
 name = "Moil Log";
 include("types/reforge_stone", this);

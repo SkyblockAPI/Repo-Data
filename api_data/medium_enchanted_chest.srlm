@@ -1,3 +1,4 @@
+id = "MEDIUM_ENCHANTED_CHEST";
 item = "chest";
 name = "Medium Storage";
 rarity = "UNCOMMON";

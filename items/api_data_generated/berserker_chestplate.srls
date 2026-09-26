@@ -1,4 +1,3 @@
 meta {
-  id = BERSERKER_CHESTPLATE;
   include("api_data/berserker_chestplate", this); 
 };

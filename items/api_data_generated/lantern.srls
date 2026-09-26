@@ -1,4 +1,3 @@
 meta {
-  id = LANTERN;
   include("api_data/lantern", this); 
 };

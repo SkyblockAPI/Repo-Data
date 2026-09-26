@@ -1,4 +1,3 @@
 meta {
-  id = LAVA_SHELL;
   include("api_data/lava_shell", this); 
 };

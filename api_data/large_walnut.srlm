@@ -1,3 +1,4 @@
+id = "LARGE_WALNUT";
 item = "player_head";
 name = "Large Walnut";
 include("types/reforge_stone", this);

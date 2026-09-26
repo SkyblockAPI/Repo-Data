@@ -1,3 +1,4 @@
+id = "SKYMART_HYPER_VACUUM";
 item = "paper";
 name = "SkyMart Hyper Vacuum";
 include("types/vacuum", this);

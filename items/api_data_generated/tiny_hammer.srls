@@ -1,4 +1,3 @@
 meta {
-  id = TINY_HAMMER;
   include("api_data/tiny_hammer", this); 
 };

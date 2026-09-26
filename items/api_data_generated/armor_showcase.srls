@@ -1,4 +1,3 @@
 meta {
-  id = ARMOR_SHOWCASE;
   include("api_data/armor_showcase", this); 
 };

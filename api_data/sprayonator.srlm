@@ -1,3 +1,4 @@
+id = "SPRAYONATOR";
 item = "paper";
 name = "Sprayonator";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/pests/sprayonator";

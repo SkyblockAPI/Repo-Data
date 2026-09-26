@@ -1,3 +1,4 @@
+id = "MOONGLADE_JEWEL";
 item = "player_head";
 name = "Moonglade Jewel";
 include("types/reforge_stone", this);

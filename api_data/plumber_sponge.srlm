@@ -1,3 +1,4 @@
+id = "PLUMBER_SPONGE";
 item = "sponge";
 name = "Plumber's Sponge";
 rarity = "UNCOMMON";

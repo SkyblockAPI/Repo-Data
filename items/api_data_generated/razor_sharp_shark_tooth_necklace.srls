@@ -1,4 +1,3 @@
 meta {
-  id = RAZOR_SHARP_SHARK_TOOTH_NECKLACE;
   include("api_data/razor_sharp_shark_tooth_necklace", this); 
 };

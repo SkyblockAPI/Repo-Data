@@ -1,3 +1,4 @@
+id = "MOLTEN_CUBE";
 item = "player_head";
 name = "Molten Cube";
 include("types/reforge_stone", this);

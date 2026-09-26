@@ -1,3 +1,4 @@
+id = "SPEED_WITHER_HELMET";
 item = "player_head";
 name = "Maxor's Helmet";
 include("types/helmet", this);

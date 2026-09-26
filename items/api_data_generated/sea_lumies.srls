@@ -1,4 +1,3 @@
 meta {
-  id = SEA_LUMIES;
   include("api_data/sea_lumies", this); 
 };

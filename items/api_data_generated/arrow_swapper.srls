@@ -1,4 +1,3 @@
 meta {
-  id = ARROW_SWAPPER;
   include("api_data/arrow_swapper", this); 
 };

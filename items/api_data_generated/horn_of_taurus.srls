@@ -1,4 +1,3 @@
 meta {
-  id = HORN_OF_TAURUS;
   include("api_data/horn_of_taurus", this); 
 };

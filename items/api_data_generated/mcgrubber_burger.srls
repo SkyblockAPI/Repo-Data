@@ -1,4 +1,3 @@
 meta {
-  id = MCGRUBBER_BURGER;
   include("api_data/mcgrubber_burger", this); 
 };

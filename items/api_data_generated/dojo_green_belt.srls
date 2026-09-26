@@ -1,4 +1,3 @@
 meta {
-  id = DOJO_GREEN_BELT;
   include("api_data/dojo_green_belt", this); 
 };

@@ -1,3 +1,4 @@
+id = "PRE_DIGESTION_FISH";
 item = "raw_fish";
 name = "Pre-Digestion Fish";
 ::items::prototypes::ingredient::(this);

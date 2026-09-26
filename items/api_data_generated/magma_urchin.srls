@@ -1,4 +1,3 @@
 meta {
-  id = MAGMA_URCHIN;
   include("api_data/magma_urchin", this); 
 };

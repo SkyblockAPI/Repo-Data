@@ -1,3 +1,4 @@
+id = "RIFT_NECKLACE_OUTSIDE";
 item = "player_head";
 name = "%%light_purple%%Rift Necklace";
 include("types/necklace", this);

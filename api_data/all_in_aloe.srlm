@@ -1,3 +1,4 @@
+id = "ALL_IN_ALOE";
 item = "player_head";
 name = "All-in Aloe";
 include("types/mutation", this);

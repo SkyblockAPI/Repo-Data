@@ -1,3 +1,4 @@
+id = "THERMODYNAMIC_CHESTPLATE";
 item = "leather_chestplate";
 name = "Thermodynamic Chestplate";
 include("types/chestplate", this);

@@ -1,3 +1,4 @@
+id = "KUUDRA_FOLLOWER_ARTIFACT";
 item = "player_head";
 name = "Kuudra Follower Artifact";
 include("types/accessory", this);

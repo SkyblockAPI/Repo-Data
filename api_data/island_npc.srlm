@@ -1,3 +1,4 @@
+id = "ISLAND_NPC";
 item = "monster_egg";
 name = "Island NPC";
 this["minecraft:item_model"] = "minecraft:wandering_trader_spawn_egg";

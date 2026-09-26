@@ -1,3 +1,4 @@
+id = "LITTLEFOOT_FLUFF";
 item = "ink_sack";
 name = "Littlefoot Fluff";
 ::items::prototypes::ingredient::(this);

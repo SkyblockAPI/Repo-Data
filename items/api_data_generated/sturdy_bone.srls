@@ -1,4 +1,3 @@
 meta {
-  id = STURDY_BONE;
   include("api_data/sturdy_bone", this); 
 };

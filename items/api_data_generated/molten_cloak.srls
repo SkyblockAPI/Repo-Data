@@ -1,4 +1,3 @@
 meta {
-  id = MOLTEN_CLOAK;
   include("api_data/molten_cloak", this); 
 };

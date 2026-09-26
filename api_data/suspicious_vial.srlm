@@ -1,3 +1,4 @@
+id = "SUSPICIOUS_VIAL";
 item = "player_head";
 name = "Suspicious Vial";
 include("types/reforge_stone", this);

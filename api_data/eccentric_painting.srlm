@@ -1,3 +1,4 @@
+id = "ECCENTRIC_PAINTING";
 item = "player_head";
 name = "Eccentric Painting";
 include("types/reforge_stone", this);

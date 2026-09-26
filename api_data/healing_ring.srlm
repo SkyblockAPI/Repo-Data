@@ -1,3 +1,4 @@
+id = "HEALING_RING";
 item = "player_head";
 name = "Healing Ring";
 include("types/accessory", this);

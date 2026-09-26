@@ -1,3 +1,4 @@
+id = "GOBLIN_OMELETTE_BLUE_CHEESE";
 item = "paper";
 name = "Blue Cheese Goblin Omelette";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/mining_3/forge/omelettes/blue_cheese_goblin_omelette";

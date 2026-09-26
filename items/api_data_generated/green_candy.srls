@@ -1,4 +1,3 @@
 meta {
-  id = GREEN_CANDY;
   include("api_data/green_candy", this); 
 };

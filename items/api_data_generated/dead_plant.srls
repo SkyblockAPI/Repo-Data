@@ -1,4 +1,3 @@
 meta {
-  id = DEAD_PLANT;
   include("api_data/dead_plant", this); 
 };

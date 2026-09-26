@@ -1,4 +1,3 @@
 meta {
-  id = FROZEN_BAIT;
   include("api_data/frozen_bait", this); 
 };

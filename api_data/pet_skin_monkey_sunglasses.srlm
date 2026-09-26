@@ -1,3 +1,4 @@
+id = "PET_SKIN_MONKEY_SUNGLASSES";
 item = "player_head";
 name = "SunglassesMonkey";
 include("types/cosmetic", this);

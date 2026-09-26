@@ -1,3 +1,4 @@
+id = "MAGICAL_STAFF";
 item = "blaze_rod";
 name = "Magical Staff";
 rarity = "UNCOMMON";

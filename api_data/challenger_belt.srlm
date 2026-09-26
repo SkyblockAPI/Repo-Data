@@ -1,3 +1,4 @@
+id = "CHALLENGER_BELT";
 item = "player_head";
 name = "Challenger's Belt";
 include("types/belt", this);

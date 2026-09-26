@@ -1,4 +1,3 @@
 meta {
-  id = TEPID_GREEN_TEA;
   include("api_data/tepid_green_tea", this); 
 };

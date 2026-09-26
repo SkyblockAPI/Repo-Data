@@ -1,3 +1,4 @@
+id = "DARK_OAK_STAIRS";
 item = "dark_oak_stairs";
 name = "Dark Oak Stairs";
 rarity = "COMMON";

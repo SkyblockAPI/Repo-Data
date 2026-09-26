@@ -1,3 +1,4 @@
+id = "AGARIMOO_TONGUE";
 item = "mutton";
 name = "Agarimoo Tongue";
 ::items::prototypes::ingredient::(this);

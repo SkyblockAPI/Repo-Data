@@ -1,4 +1,3 @@
 meta {
-  id = DISINFESTOR_GLOVES;
   include("api_data/disinfestor_gloves", this); 
 };

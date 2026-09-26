@@ -1,3 +1,4 @@
+id = "ATOMSPLIT_KATANA";
 item = "blaze_rod";
 name = "Atomsplit Katana";
 include("types/sword", this);

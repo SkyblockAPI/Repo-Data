@@ -1,3 +1,4 @@
+id = "DARK_CLAYMORE";
 item = "stone_sword";
 name = "Dark Claymore";
 include("types/longsword", this);

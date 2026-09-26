@@ -1,3 +1,4 @@
+id = "CLAW_FOSSIL";
 item = "paper";
 name = "Claw Fossil";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/fossils/claw_fossil";

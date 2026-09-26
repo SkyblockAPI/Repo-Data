@@ -1,4 +1,3 @@
 meta {
-  id = FRAMED_VOLCANIC_STONEFISH;
   include("api_data/framed_volcanic_stonefish", this); 
 };

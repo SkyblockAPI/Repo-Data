@@ -1,3 +1,4 @@
+id = "GEOMETRIC_ODDITY";
 item = "player_head";
 name = "Geometric Oddity";
 include("types/reforge_stone", this);

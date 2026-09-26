@@ -1,4 +1,3 @@
 meta {
-  id = ENCHANTED_HAY_BLOCK;
   include("api_data/enchanted_hay_block", this); 
 };

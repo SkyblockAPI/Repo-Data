@@ -1,3 +1,4 @@
+id = "ANCIENT_ELEVATOR";
 item = "quartz_stairs";
 name = "Ancient Elevator";
 rarity = "SPECIAL";

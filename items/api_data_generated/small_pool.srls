@@ -1,4 +1,3 @@
 meta {
-  id = SMALL_POOL;
   include("api_data/small_pool", this); 
 };

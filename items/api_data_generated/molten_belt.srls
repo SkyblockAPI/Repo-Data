@@ -1,4 +1,3 @@
 meta {
-  id = MOLTEN_BELT;
   include("api_data/molten_belt", this); 
 };

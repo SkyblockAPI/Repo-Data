@@ -1,3 +1,4 @@
+id = "LEAFLET_HELMET";
 item = "leaves";
 name = "Leaflet Hat";
 include("types/helmet", this);

@@ -1,3 +1,4 @@
+id = "ENCHANTED_MYCELIUM_CUBE";
 item = "paper";
 name = "Enchanted Mycelium Cube";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/enchanted_mycelium_cube";

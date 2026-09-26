@@ -1,4 +1,3 @@
 meta {
-  id = TORRHUS_SAFARI_ENTRANCE_PORTAL;
   include("api_data/torrhus_safari_entrance_portal", this); 
 };

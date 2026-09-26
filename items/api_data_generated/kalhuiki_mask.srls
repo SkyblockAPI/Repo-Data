@@ -1,4 +1,3 @@
 meta {
-  id = KALHUIKI_MASK;
   include("api_data/kalhuiki_mask", this); 
 };

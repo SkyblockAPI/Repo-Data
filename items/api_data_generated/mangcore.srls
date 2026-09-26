@@ -1,4 +1,3 @@
 meta {
-  id = MANGCORE;
   include("api_data/mangcore", this); 
 };

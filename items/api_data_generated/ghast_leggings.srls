@@ -1,4 +1,3 @@
 meta {
-  id = GHAST_LEGGINGS;
   include("api_data/ghast_leggings", this); 
 };

@@ -1,3 +1,4 @@
+id = "DWARVEN_GOLD_HAMMER";
 item = "gold_axe";
 name = "Scavenged Golden Hammer";
 rarity = "SPECIAL";

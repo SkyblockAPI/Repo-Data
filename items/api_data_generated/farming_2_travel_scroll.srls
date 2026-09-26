@@ -1,4 +1,3 @@
 meta {
-  id = FARMING_2_TRAVEL_SCROLL;
   include("api_data/farming_2_travel_scroll", this); 
 };

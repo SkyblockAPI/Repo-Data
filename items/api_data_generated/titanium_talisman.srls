@@ -1,4 +1,3 @@
 meta {
-  id = TITANIUM_TALISMAN;
   include("api_data/titanium_talisman", this); 
 };

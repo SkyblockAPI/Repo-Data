@@ -1,4 +1,3 @@
 meta {
-  id = BOOKSHELF;
   include("api_data/bookshelf", this); 
 };

@@ -1,3 +1,4 @@
+id = "GIFT_COMPASS";
 item = "compass";
 name = "Gift Compass";
 rarity = "UNCOMMON";

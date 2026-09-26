@@ -1,4 +1,3 @@
 meta {
-  id = DINGY;
   include("api_data/dingy", this); 
 };

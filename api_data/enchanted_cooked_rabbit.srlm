@@ -1,3 +1,4 @@
+id = "ENCHANTED_COOKED_RABBIT";
 item = "cooked_rabbit";
 name = "Enchanted Cooked Rabbit";
 rarity = "RARE";

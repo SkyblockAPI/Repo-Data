@@ -1,3 +1,4 @@
+id = "STRING";
 item = "string";
 name = "String";
 rarity = "COMMON";

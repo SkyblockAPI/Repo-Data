@@ -1,3 +1,4 @@
+id = "GRAPPLING_HOOK";
 item = "fishing_rod";
 name = "Grappling Hook";
 rarity = "UNCOMMON";

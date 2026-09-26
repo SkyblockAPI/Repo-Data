@@ -1,4 +1,3 @@
 meta {
-  id = DUNGEON_RED_SUPPORT_ORB;
   include("api_data/dungeon_red_support_orb", this); 
 };

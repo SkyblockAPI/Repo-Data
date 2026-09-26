@@ -1,3 +1,4 @@
+id = "AGARIMOO_RING";
 item = "player_head";
 name = "Agarimoo Ring";
 include("types/accessory", this);

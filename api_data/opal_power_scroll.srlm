@@ -1,3 +1,4 @@
+id = "OPAL_POWER_SCROLL";
 item = "paper";
 name = "Opal Power Scroll";
 this["minecraft:item_model"] = "minecraft:writable_book";

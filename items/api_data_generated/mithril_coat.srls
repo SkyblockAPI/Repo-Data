@@ -1,4 +1,3 @@
 meta {
-  id = MITHRIL_COAT;
   include("api_data/mithril_coat", this); 
 };

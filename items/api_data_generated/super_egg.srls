@@ -1,4 +1,3 @@
 meta {
-  id = SUPER_EGG;
   include("api_data/super_egg", this); 
 };

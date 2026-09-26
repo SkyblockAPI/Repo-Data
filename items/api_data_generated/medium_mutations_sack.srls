@@ -1,4 +1,3 @@
 meta {
-  id = MEDIUM_MUTATIONS_SACK;
   include("api_data/medium_mutations_sack", this); 
 };

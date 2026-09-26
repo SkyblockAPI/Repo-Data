@@ -1,4 +1,3 @@
 meta {
-  id = SUGAR;
   include("api_data/sugar", this); 
 };

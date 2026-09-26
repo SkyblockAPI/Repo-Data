@@ -1,3 +1,4 @@
+id = "GOLD_INGOT";
 item = "gold_ingot";
 name = "Gold Ingot";
 rarity = "COMMON";

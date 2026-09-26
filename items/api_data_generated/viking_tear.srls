@@ -1,4 +1,3 @@
 meta {
-  id = VIKING_TEAR;
   include("api_data/viking_tear", this); 
 };

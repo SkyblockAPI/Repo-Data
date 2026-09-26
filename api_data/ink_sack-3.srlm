@@ -1,3 +1,4 @@
+id = "INK_SACK:3";
 item = "ink_sack";
 name = "Cocoa Beans";
 rarity = "COMMON";

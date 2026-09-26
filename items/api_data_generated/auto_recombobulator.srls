@@ -1,4 +1,3 @@
 meta {
-  id = AUTO_RECOMBOBULATOR;
   include("api_data/auto_recombobulator", this); 
 };

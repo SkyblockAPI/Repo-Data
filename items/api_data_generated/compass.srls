@@ -1,4 +1,3 @@
 meta {
-  id = COMPASS;
   include("api_data/compass", this); 
 };

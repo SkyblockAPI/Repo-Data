@@ -1,4 +1,3 @@
 meta {
-  id = TACTICIAN_MURDER_WEAPON;
   include("api_data/tactician_murder_weapon", this); 
 };

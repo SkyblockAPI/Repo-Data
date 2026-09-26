@@ -1,4 +1,3 @@
 meta {
-  id = CREEPER_HAT;
   include("api_data/creeper_hat", this); 
 };

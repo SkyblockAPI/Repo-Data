@@ -1,3 +1,4 @@
+id = "LOTUS_WATER_ORB";
 item = "paper";
 name = "Lotus Water Orb";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/lotus_atoll/lotus_water_orb";

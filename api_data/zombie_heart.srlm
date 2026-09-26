@@ -1,3 +1,4 @@
+id = "ZOMBIE_HEART";
 item = "player_head";
 name = "Zombie's Heart";
 include("types/helmet", this);

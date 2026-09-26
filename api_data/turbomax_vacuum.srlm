@@ -1,3 +1,4 @@
+id = "TURBOMAX_VACUUM";
 item = "hopper_minecart";
 name = "Turbomax Vacuum Cleaner";
 rarity = "RARE";

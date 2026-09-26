@@ -1,4 +1,3 @@
 meta {
-  id = MOLTEN_CUBE;
   include("api_data/molten_cube", this); 
 };

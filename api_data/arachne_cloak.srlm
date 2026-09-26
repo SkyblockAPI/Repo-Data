@@ -1,3 +1,4 @@
+id = "ARACHNE_CLOAK";
 item = "player_head";
 name = "Arachne's Cloak";
 include("types/cloak", this);

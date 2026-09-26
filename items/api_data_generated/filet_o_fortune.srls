@@ -1,4 +1,3 @@
 meta {
-  id = FILET_O_FORTUNE;
   include("api_data/filet_o_fortune", this); 
 };

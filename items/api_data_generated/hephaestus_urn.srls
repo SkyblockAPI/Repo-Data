@@ -1,4 +1,3 @@
 meta {
-  id = HEPHAESTUS_URN;
   include("api_data/hephaestus_urn", this); 
 };

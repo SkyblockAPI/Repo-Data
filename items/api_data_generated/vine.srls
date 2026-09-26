@@ -1,4 +1,3 @@
 meta {
-  id = VINE;
   include("api_data/vine", this); 
 };

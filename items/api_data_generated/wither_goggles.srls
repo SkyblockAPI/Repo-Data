@@ -1,4 +1,3 @@
 meta {
-  id = WITHER_GOGGLES;
   include("api_data/wither_goggles", this); 
 };

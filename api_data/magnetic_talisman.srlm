@@ -1,3 +1,4 @@
+id = "MAGNETIC_TALISMAN";
 item = "player_head";
 name = "Magnetic Talisman";
 include("types/accessory", this);

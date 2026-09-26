@@ -1,3 +1,4 @@
+id = "TANK_DUNGEON_ABILITY_1";
 item = "player_head";
 name = "Stun Potion";
 include("types/dungeon", this);

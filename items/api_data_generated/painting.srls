@@ -1,4 +1,3 @@
 meta {
-  id = PAINTING;
   include("api_data/painting", this); 
 };

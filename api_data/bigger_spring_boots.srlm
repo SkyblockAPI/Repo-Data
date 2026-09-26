@@ -1,3 +1,4 @@
+id = "BIGGER_SPRING_BOOTS";
 item = "iron_boots";
 name = "Bigger Spring Boots";
 include("types/boots", this);

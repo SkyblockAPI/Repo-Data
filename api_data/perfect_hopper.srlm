@@ -1,3 +1,4 @@
+id = "PERFECT_HOPPER";
 item = "hopper";
 name = "Perfect Hopper";
 rarity = "EPIC";

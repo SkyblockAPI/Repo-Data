@@ -1,3 +1,4 @@
+id = "PUMPKIN_LAUNCHER";
 item = "pumpkin";
 name = "Pumpkin Launcher";
 rarity = "EPIC";

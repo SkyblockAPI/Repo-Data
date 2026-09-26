@@ -1,3 +1,4 @@
+id = "SCARLETON_PORTAL";
 item = "player_head";
 name = "Portal to Scarleton";
 include("types/portal", this);

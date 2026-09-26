@@ -1,4 +1,3 @@
 meta {
-  id = WOOD_TALISMAN;
   include("api_data/wood_talisman", this); 
 };

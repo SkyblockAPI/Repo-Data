@@ -1,4 +1,3 @@
 meta {
-  id = MASTERFUL_CRITTER_CAPSULE;
   include("api_data/masterful_critter_capsule", this); 
 };

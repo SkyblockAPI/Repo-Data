@@ -1,4 +1,3 @@
 meta {
-  id = GINGERBREAD_PERSONALITY;
   include("api_data/gingerbread_personality", this); 
 };

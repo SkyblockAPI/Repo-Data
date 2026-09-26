@@ -1,4 +1,3 @@
 meta {
-  id = PRICKLY_CREEPER;
   include("api_data/prickly_creeper", this); 
 };

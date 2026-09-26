@@ -1,3 +1,4 @@
+id = "CYCLOPS_PERSONALITY";
 item = "player_head";
 name = "Cyclops Minion Skin";
 include("types/cosmetic", this);

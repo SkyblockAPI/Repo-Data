@@ -1,4 +1,3 @@
 meta {
-  id = FRESHLY_BAKED_TALISMAN;
   include("api_data/freshly_baked_talisman", this); 
 };

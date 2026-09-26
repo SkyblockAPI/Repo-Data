@@ -1,4 +1,3 @@
 meta {
-  id = CROWN_OF_AVARICE;
   include("api_data/crown_of_avarice", this); 
 };

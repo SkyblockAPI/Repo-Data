@@ -1,3 +1,4 @@
+id = "MYCELIUM_DUST";
 item = "ink_sack";
 name = "Mycelium Dust";
 rarity = "RARE";

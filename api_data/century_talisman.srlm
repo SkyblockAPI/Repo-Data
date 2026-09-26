@@ -1,3 +1,4 @@
+id = "CENTURY_TALISMAN";
 item = "player_head";
 name = "Talisman of the Century";
 include("types/accessory", this);

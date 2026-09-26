@@ -1,3 +1,4 @@
+id = "HEPHAESTUS_PLUSHIE";
 item = "player_head";
 name = "Hephaestus Plushie";
 include("types/pet_item", this);

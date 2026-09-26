@@ -1,3 +1,4 @@
+id = "STARRED_ADAPTIVE_BELT";
 item = "player_head";
 name = "Adaptive Belt";
 include("types/belt", this);

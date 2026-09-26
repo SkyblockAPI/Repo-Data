@@ -1,3 +1,4 @@
+id = "PARTY_HAT_CRAB_ANIMATED";
 item = "player_head";
 name = "Crab Hat of Celebration - 2022 Edition";
 include("types/accessory", this);

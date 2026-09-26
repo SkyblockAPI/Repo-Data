@@ -1,3 +1,4 @@
+id = "POCKET_ESPRESSO_MACHINE";
 item = "player_head";
 name = "Pocket Espresso Machine";
 include("types/accessory", this);

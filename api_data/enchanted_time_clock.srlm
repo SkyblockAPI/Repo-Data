@@ -1,3 +1,4 @@
+id = "ENCHANTED_TIME_CLOCK";
 item = "watch";
 name = "Enchanted Clock";
 rarity = "LEGENDARY";

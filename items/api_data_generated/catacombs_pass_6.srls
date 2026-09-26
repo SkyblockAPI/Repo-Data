@@ -1,4 +1,3 @@
 meta {
-  id = CATACOMBS_PASS_6;
   include("api_data/catacombs_pass_6", this); 
 };

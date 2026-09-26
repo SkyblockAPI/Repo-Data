@@ -1,4 +1,3 @@
 meta {
-  id = TORCH;
   include("api_data/torch", this); 
 };

@@ -1,3 +1,4 @@
+id = "CHISEL";
 item = "armor_stand";
 name = "Chisel";
 include("types/chisel", this);

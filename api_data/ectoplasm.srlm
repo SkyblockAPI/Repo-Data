@@ -1,3 +1,4 @@
+id = "ECTOPLASM";
 item = "prismarine_crystals";
 name = "Ectoplasm";
 ::items::prototypes::ingredient::(this);

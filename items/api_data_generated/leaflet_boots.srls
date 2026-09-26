@@ -1,4 +1,3 @@
 meta {
-  id = LEAFLET_BOOTS;
   include("api_data/leaflet_boots", this); 
 };

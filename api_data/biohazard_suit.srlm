@@ -1,3 +1,4 @@
+id = "BIOHAZARD_SUIT";
 item = "leather_chestplate";
 name = "Biohazard Suit";
 include("types/chestplate", this);

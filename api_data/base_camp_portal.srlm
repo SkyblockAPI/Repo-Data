@@ -1,3 +1,4 @@
+id = "BASE_CAMP_PORTAL";
 item = "player_head";
 name = "Portal to the Dwarven Base Camp";
 include("types/portal", this);

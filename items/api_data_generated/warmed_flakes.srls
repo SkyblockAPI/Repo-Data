@@ -1,4 +1,3 @@
 meta {
-  id = WARMED_FLAKES;
   include("api_data/warmed_flakes", this); 
 };

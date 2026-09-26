@@ -1,4 +1,3 @@
 meta {
-  id = EINARY_RED_HOODIE;
   include("api_data/einary_red_hoodie", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = LUSHLILAC_BONBON;
   include("api_data/lushlilac_bonbon", this); 
 };

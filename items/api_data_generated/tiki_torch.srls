@@ -1,4 +1,3 @@
 meta {
-  id = TIKI_TORCH;
   include("api_data/tiki_torch", this); 
 };

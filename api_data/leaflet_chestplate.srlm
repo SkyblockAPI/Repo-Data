@@ -1,3 +1,4 @@
+id = "LEAFLET_CHESTPLATE";
 item = "leather_chestplate";
 name = "Leaflet Tunic";
 include("types/chestplate", this);

@@ -1,4 +1,3 @@
 meta {
-  id = HAMSTER_WHEEL;
   include("api_data/hamster_wheel", this); 
 };

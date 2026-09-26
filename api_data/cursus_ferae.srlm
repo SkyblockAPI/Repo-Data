@@ -1,3 +1,4 @@
+id = "CURSUS_FERAE";
 item = "gold_axe";
 name = "Reinforced Huntaxe - Cursus";
 include("types/axe", this);

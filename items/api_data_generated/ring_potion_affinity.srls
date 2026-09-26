@@ -1,4 +1,3 @@
 meta {
-  id = RING_POTION_AFFINITY;
   include("api_data/ring_potion_affinity", this); 
 };

@@ -1,3 +1,4 @@
+id = "ANTI_BITE_SCARF";
 item = "carpet";
 name = "Anti-Bite Scarf";
 include("types/helmet", this);

@@ -1,4 +1,3 @@
 meta {
-  id = ENCHANTED_POPPY;
   include("api_data/enchanted_poppy", this); 
 };

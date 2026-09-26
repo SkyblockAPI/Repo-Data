@@ -1,3 +1,4 @@
+id = "WAND_OF_HEALING";
 item = "stick";
 name = "Wand of Healing";
 include("types/wand", this);

@@ -1,3 +1,4 @@
+id = "WILL_O_WISP";
 item = "player_head";
 name = "Will-o'-wisp";
 include("types/deployable", this);

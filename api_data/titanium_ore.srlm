@@ -1,3 +1,4 @@
+id = "TITANIUM_ORE";
 item = "paper";
 name = "Titanium";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/titanium";

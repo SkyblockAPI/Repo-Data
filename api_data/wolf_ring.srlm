@@ -1,3 +1,4 @@
+id = "WOLF_RING";
 item = "player_head";
 name = "Wolf Ring";
 include("types/accessory", this);

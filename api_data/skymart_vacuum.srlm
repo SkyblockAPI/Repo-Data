@@ -1,3 +1,4 @@
+id = "SKYMART_VACUUM";
 item = "paper";
 name = "SkyMart Vacuum";
 include("types/vacuum", this);

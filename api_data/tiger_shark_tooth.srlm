@@ -1,3 +1,4 @@
+id = "TIGER_SHARK_TOOTH";
 item = "ghast_tear";
 name = "Tiger Shark Tooth";
 this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/marina/tiger_shark_tooth";

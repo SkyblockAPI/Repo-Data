@@ -1,3 +1,4 @@
+id = "HOCUS_POCUS_CIPHER";
 item = "player_head";
 name = "Hocus-Pocus Cipher";
 include("types/accessory", this);

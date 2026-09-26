@@ -1,3 +1,4 @@
+id = "SYNTHESIZER_V2";
 item = "player_head";
 name = "Synthesizer v2";
 include("types/necklace", this);

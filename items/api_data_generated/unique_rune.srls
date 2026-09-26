@@ -1,4 +1,3 @@
 meta {
-  id = UNIQUE_RUNE;
   include("api_data/unique_rune", this); 
 };

@@ -1,3 +1,4 @@
+id = "ENCHANTED_REDSTONE_LAMP";
 item = "redstone_lamp_off";
 name = "Enchanted Redstone Lamp";
 rarity = "RARE";

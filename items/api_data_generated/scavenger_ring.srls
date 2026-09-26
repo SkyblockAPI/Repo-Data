@@ -1,4 +1,3 @@
 meta {
-  id = SCAVENGER_RING;
   include("api_data/scavenger_ring", this); 
 };

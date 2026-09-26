@@ -1,3 +1,4 @@
+id = "DEVOURER";
 item = "player_head";
 name = "Devourer";
 include("types/mutation", this);

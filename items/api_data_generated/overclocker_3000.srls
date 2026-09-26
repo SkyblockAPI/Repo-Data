@@ -1,4 +1,3 @@
 meta {
-  id = OVERCLOCKER_3000;
   include("api_data/overclocker_3000", this); 
 };

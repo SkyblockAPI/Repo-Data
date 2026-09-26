@@ -1,3 +1,4 @@
+id = "CENTURY_MEMENTO_BLUE";
 item = "player_head";
 name = "Cake Slice of the Century";
 include("types/memento", this);

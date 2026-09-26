@@ -1,4 +1,3 @@
 meta {
-  id = PIG_BRAIN_MIXIN;
   include("api_data/pig_brain_mixin", this); 
 };

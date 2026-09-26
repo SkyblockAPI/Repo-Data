@@ -1,4 +1,3 @@
 meta {
-  id = MINERAL_TALISMAN;
   include("api_data/mineral_talisman", this); 
 };

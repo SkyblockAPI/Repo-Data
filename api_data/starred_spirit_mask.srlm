@@ -1,3 +1,4 @@
+id = "STARRED_SPIRIT_MASK";
 item = "player_head";
 name = "Spirit Mask";
 include("types/helmet", this);

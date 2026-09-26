@@ -1,3 +1,4 @@
+id = "RING_POTION_AFFINITY";
 item = "player_head";
 name = "Potion Affinity Ring";
 include("types/accessory", this);

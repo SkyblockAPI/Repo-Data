@@ -1,4 +1,3 @@
 meta {
-  id = ENCHANTED_WET_SPONGE;
   include("api_data/enchanted_wet_sponge", this); 
 };

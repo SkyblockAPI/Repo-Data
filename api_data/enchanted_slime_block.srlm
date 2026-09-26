@@ -1,3 +1,4 @@
+id = "ENCHANTED_SLIME_BLOCK";
 item = "slime_block";
 name = "Enchanted Slime Block";
 rarity = "RARE";

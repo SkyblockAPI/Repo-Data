@@ -1,3 +1,4 @@
+id = "PET_SKIN_SILVERFISH_FOSSILIZED";
 item = "player_head";
 name = "FossilizedSilverfish";
 include("types/cosmetic", this);

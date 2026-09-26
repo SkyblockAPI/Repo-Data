@@ -1,4 +1,3 @@
 meta {
-  id = GOLDEN_DANTE_STATUE;
   include("api_data/golden_dante_statue", this); 
 };

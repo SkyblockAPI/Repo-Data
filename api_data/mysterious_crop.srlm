@@ -1,3 +1,4 @@
+id = "MYSTERIOUS_CROP";
 item = "dead_bush";
 name = "Mysterious Crop";
 rarity = "COMMON";

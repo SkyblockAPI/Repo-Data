@@ -1,4 +1,3 @@
 meta {
-  id = SPEEDSTER_ROD;
   include("api_data/speedster_rod", this); 
 };

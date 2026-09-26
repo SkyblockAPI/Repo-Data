@@ -1,4 +1,3 @@
 meta {
-  id = YETI_SWORD;
   include("api_data/yeti_sword", this); 
 };

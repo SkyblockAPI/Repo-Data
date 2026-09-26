@@ -1,3 +1,4 @@
+id = "PET_SATCHEL";
 item = "flower_pot_item";
 name = "Pet Satchel";
 rarity = "COMMON";

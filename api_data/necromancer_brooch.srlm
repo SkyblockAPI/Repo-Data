@@ -1,3 +1,4 @@
+id = "NECROMANCER_BROOCH";
 item = "player_head";
 name = "Necromancer's Brooch";
 include("types/reforge_stone", this);

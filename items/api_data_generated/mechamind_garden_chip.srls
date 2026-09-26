@@ -1,4 +1,3 @@
 meta {
-  id = MECHAMIND_GARDEN_CHIP;
   include("api_data/mechamind_garden_chip", this); 
 };

@@ -1,3 +1,4 @@
+id = "ARMOR_OF_THE_RESISTANCE_HELMET";
 item = "player_head";
 name = "Helmet of the Rising Sun";
 include("types/helmet", this);

@@ -1,3 +1,4 @@
+id = "CHEESE_FUEL";
 item = "paper";
 name = "Tasty Cheese";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/tasty_cheese";

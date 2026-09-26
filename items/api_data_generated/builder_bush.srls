@@ -1,4 +1,3 @@
 meta {
-  id = BUILDER_BUSH;
   include("api_data/builder_bush", this); 
 };

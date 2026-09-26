@@ -1,4 +1,3 @@
 meta {
-  id = BRAIDED_GRIFFIN_FEATHER;
   include("api_data/braided_griffin_feather", this); 
 };

@@ -1,3 +1,4 @@
+id = "SUPER_UNDEAD_BOW";
 item = "bow";
 name = "Super Undead Bow";
 include("types/bow", this);

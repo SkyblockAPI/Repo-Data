@@ -1,3 +1,4 @@
+id = "MAGMA_URCHIN";
 item = "player_head";
 name = "Magma Urchin";
 include("types/reforge_stone", this);

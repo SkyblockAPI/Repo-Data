@@ -1,3 +1,4 @@
+id = "DEAN_LETTER_OF_RECOMMENDATION";
 item = "paper";
 name = "Letter of Recommendation";
 rarity = "RARE";

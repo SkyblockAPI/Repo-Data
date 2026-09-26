@@ -1,4 +1,3 @@
 meta {
-  id = SUPERBOOM_TNT;
   include("api_data/superboom_tnt", this); 
 };

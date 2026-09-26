@@ -1,3 +1,4 @@
+id = "SHARK_WATER_ORB";
 item = "paper";
 name = "Shark Water Orb";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/crimson_isle/bobbin_time/shark_water_orb";

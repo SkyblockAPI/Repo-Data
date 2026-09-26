@@ -1,3 +1,4 @@
+id = "PET_SKIN_RABBIT";
 item = "player_head";
 name = "PrettyRabbit";
 include("types/cosmetic", this);

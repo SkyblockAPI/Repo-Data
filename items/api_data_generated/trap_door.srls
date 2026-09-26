@@ -1,4 +1,3 @@
 meta {
-  id = TRAP_DOOR;
   include("api_data/trap_door", this); 
 };

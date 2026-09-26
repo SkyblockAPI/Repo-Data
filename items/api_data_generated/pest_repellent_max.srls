@@ -1,4 +1,3 @@
 meta {
-  id = PEST_REPELLENT_MAX;
   include("api_data/pest_repellent_max", this); 
 };

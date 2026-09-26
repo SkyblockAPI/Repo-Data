@@ -1,3 +1,4 @@
+id = "MEDIUM_DRAGON_SACK";
 item = "player_head";
 name = "Medium Dragon Sack";
 include("types/sack", this);

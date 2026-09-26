@@ -1,3 +1,4 @@
+id = "TUNGSTEN_KEY";
 item = "paper";
 name = "Tungsten Key";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/tungsten/tungsten_key";

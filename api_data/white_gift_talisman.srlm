@@ -1,3 +1,4 @@
+id = "WHITE_GIFT_TALISMAN";
 item = "player_head";
 name = "White Gift Talisman";
 include("types/accessory", this);

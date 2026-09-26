@@ -1,3 +1,4 @@
+id = "PARTY_HAT_SLOTH";
 item = "player_head";
 name = "Sloth Hat of Celebration";
 include("types/accessory", this);

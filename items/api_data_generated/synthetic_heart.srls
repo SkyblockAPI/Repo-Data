@@ -1,4 +1,3 @@
 meta {
-  id = SYNTHETIC_HEART;
   include("api_data/synthetic_heart", this); 
 };

@@ -1,3 +1,4 @@
+id = "CONTROL_SWITCH";
 item = "paper";
 name = "Control Switch";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/control_switch";

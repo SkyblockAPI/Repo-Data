@@ -1,4 +1,3 @@
 meta {
-  id = PUMPKIN_SEEDS;
   include("api_data/pumpkin_seeds", this); 
 };

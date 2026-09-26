@@ -1,3 +1,4 @@
+id = "CATACOMBS_EXPERT_RING";
 item = "player_head";
 name = "Catacombs Expert Ring";
 include("types/accessory", this);

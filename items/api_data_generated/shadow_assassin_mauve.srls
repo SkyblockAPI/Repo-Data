@@ -1,4 +1,3 @@
 meta {
-  id = SHADOW_ASSASSIN_MAUVE;
   include("api_data/shadow_assassin_mauve", this); 
 };

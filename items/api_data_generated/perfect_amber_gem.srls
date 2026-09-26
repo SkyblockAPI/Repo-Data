@@ -1,4 +1,3 @@
 meta {
-  id = PERFECT_AMBER_GEM;
   include("api_data/perfect_amber_gem", this); 
 };

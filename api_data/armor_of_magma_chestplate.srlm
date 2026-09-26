@@ -1,3 +1,4 @@
+id = "ARMOR_OF_MAGMA_CHESTPLATE";
 item = "leather_chestplate";
 name = "Armor of Magma Chestplate";
 include("types/chestplate", this);

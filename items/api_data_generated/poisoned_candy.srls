@@ -1,4 +1,3 @@
 meta {
-  id = POISONED_CANDY;
   include("api_data/poisoned_candy", this); 
 };

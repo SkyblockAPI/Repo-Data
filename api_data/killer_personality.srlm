@@ -1,3 +1,4 @@
+id = "KILLER_PERSONALITY";
 item = "player_head";
 name = "Killer Minion Skin";
 include("types/cosmetic", this);

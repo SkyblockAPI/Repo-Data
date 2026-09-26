@@ -1,4 +1,3 @@
 meta {
-  id = BEHEMOTH_POT_OF_HONEYCOMB;
   include("api_data/behemoth_pot_of_honeycomb", this); 
 };

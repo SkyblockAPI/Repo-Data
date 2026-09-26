@@ -1,4 +1,3 @@
 meta {
-  id = BEGINNER_COMBAT_SACK;
   include("api_data/beginner_combat_sack", this); 
 };

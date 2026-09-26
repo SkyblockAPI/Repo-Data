@@ -1,4 +1,3 @@
 meta {
-  id = TRUNK_POLISH;
   include("api_data/trunk_polish", this); 
 };

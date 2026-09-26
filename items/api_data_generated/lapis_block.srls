@@ -1,4 +1,3 @@
 meta {
-  id = LAPIS_BLOCK;
   include("api_data/lapis_block", this); 
 };

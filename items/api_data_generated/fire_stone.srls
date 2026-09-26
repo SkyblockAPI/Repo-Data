@@ -1,4 +1,3 @@
 meta {
-  id = FIRE_STONE;
   include("api_data/fire_stone", this); 
 };

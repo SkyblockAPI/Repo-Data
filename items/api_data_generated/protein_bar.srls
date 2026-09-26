@@ -1,4 +1,3 @@
 meta {
-  id = PROTEIN_BAR;
   include("api_data/protein_bar", this); 
 };

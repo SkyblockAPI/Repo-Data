@@ -1,4 +1,3 @@
 meta {
-  id = CROCHET_TIGER_PLUSHIE;
   include("api_data/crochet_tiger_plushie", this); 
 };

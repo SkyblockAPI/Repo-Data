@@ -1,3 +1,4 @@
+id = "LAUNCH_PAD";
 item = "slime_block";
 name = "Launch Pad";
 rarity = "UNCOMMON";

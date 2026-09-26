@@ -1,3 +1,4 @@
+id = "NULL_ATOM";
 item = "paper";
 name = "Null Atom";
 this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/enderman/crafts/null_atom";

@@ -1,3 +1,4 @@
+id = "NAME_TAG";
 item = "name_tag";
 name = "Name Tag";
 rarity = "UNCOMMON";

@@ -1,4 +1,3 @@
 meta {
-  id = LARGE_POCKET_BLACK_HOLE;
   include("api_data/large_pocket_black_hole", this); 
 };

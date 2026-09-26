@@ -1,4 +1,3 @@
 meta {
-  id = LAMP_PINK;
   include("api_data/lamp_pink", this); 
 };

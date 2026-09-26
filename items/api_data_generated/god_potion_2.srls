@@ -1,4 +1,3 @@
 meta {
-  id = GOD_POTION_2;
   include("api_data/god_potion_2", this); 
 };

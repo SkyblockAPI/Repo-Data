@@ -1,3 +1,4 @@
+id = "ARMORSHRED_ARROW";
 item = "arrow";
 name = "Armorshred Arrow";
 include("types/arrow", this);

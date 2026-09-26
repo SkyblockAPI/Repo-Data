@@ -1,3 +1,4 @@
+id = "MOONGLADE_ARTIFACT";
 item = "player_head";
 name = "Moonglade Artifact";
 include("types/accessory", this);

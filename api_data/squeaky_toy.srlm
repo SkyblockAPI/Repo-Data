@@ -1,3 +1,4 @@
+id = "SQUEAKY_TOY";
 item = "player_head";
 name = "Squeaky Toy";
 include("types/reforge_stone", this);

@@ -1,4 +1,3 @@
 meta {
-  id = AATROX_BATPHONE;
   include("api_data/aatrox_batphone", this); 
 };

@@ -1,3 +1,4 @@
+id = "SHARK_PERSONALITY";
 item = "player_head";
 name = "Shark Minion Skin";
 include("types/cosmetic", this);

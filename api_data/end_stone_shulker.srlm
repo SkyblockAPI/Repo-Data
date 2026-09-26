@@ -1,3 +1,4 @@
+id = "END_STONE_SHULKER";
 item = "player_head";
 name = "End Stone Shulker";
 include("types/reforge_stone", this);

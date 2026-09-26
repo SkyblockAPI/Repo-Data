@@ -1,4 +1,3 @@
 meta {
-  id = ABINGOPHONE;
   include("api_data/abingophone", this); 
 };

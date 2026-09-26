@@ -1,3 +1,4 @@
+id = "STARFALL_SEASONING";
 item = "paper";
 name = "Starfall Seasoning";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/uncategorized/starfall_seasoning";

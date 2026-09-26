@@ -1,4 +1,3 @@
 meta {
-  id = JELLY;
   include("api_data/jelly", this); 
 };

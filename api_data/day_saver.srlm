@@ -1,3 +1,4 @@
+id = "DAY_SAVER";
 item = "daylight_detector";
 name = "Day Saver";
 rarity = "UNCOMMON";

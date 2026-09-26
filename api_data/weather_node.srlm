@@ -1,3 +1,4 @@
+id = "WEATHER_NODE";
 item = "lapis_block";
 name = "Weather Node";
 rarity = "UNCOMMON";

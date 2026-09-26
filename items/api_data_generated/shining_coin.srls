@@ -1,4 +1,3 @@
 meta {
-  id = SHINING_COIN;
   include("api_data/shining_coin", this); 
 };

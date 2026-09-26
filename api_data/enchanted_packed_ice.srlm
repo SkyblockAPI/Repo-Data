@@ -1,3 +1,4 @@
+id = "ENCHANTED_PACKED_ICE";
 item = "packed_ice";
 name = "Enchanted Packed Ice";
 rarity = "RARE";

@@ -1,4 +1,3 @@
 meta {
-  id = MEDIUM_PIG_EAR;
   include("api_data/medium_pig_ear", this); 
 };

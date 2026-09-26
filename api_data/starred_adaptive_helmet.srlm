@@ -1,3 +1,4 @@
+id = "STARRED_ADAPTIVE_HELMET";
 item = "player_head";
 name = "Adaptive Helmet";
 include("types/helmet", this);

@@ -1,4 +1,3 @@
 meta {
-  id = STRONG_SHIMMER;
   include("api_data/strong_shimmer", this); 
 };

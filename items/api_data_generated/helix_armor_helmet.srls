@@ -1,4 +1,3 @@
 meta {
-  id = HELIX_ARMOR_HELMET;
   include("api_data/helix_armor_helmet", this); 
 };

@@ -1,3 +1,4 @@
+id = "CARNIVAL_TICKET";
 item = "name_tag";
 name = "Carnival Ticket";
 rarity = "UNCOMMON";

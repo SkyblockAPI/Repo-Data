@@ -1,3 +1,4 @@
+id = "FROZEN_BAUBLE";
 item = "player_head";
 name = "Frozen Bauble";
 include("types/reforge_stone", this);

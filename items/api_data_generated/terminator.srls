@@ -1,4 +1,3 @@
 meta {
-  id = TERMINATOR;
   include("api_data/terminator", this); 
 };

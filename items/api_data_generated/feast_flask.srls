@@ -1,4 +1,3 @@
 meta {
-  id = FEAST_FLASK;
   include("api_data/feast_flask", this); 
 };

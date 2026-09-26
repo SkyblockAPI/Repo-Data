@@ -1,3 +1,4 @@
+id = "INFERNAL_AURORA_HELMET";
 item = "player_head";
 name = "Infernal Aurora Helmet";
 include("types/helmet", this);

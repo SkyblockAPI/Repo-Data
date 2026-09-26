@@ -1,3 +1,4 @@
+id = "GEMSTONE_DRILL_3";
 item = "diamond_pickaxe";
 name = "Topaz Drill KGR-12";
 include("types/drill", this);

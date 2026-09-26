@@ -1,3 +1,4 @@
+id = "HELIANTHUS_RELIC";
 item = "player_head";
 name = "Helianthus Relic";
 include("types/accessory", this);

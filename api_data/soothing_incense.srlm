@@ -1,3 +1,4 @@
+id = "SOOTHING_INCENSE";
 item = "paper";
 name = "Soothing Incense";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/safari/soothing_incense";

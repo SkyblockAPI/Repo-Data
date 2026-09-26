@@ -1,3 +1,4 @@
+id = "6_ANNIVERSARY_BARN_SKIN";
 item = "player_head";
 name = "6th Anniversary Barn Skin";
 include("types/cosmetic", this);

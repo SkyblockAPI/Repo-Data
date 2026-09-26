@@ -1,4 +1,3 @@
 meta {
-  id = REFINED_TUNGSTEN;
   include("api_data/refined_tungsten", this); 
 };

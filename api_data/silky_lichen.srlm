@@ -1,3 +1,4 @@
+id = "SILKY_LICHEN";
 item = "ink_sack";
 name = "Silky Lichen";
 ::items::prototypes::ingredient::(this);

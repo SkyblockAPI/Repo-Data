@@ -1,3 +1,4 @@
+id = "STARRED_STONE_BLADE";
 item = "stone_sword";
 name = "Adaptive Blade";
 include("types/sword", this);

@@ -1,3 +1,4 @@
+id = "SUNFLOWER_HEAD";
 item = "player_head";
 name = "Sunflower Head";
 include("types/helmet", this);

@@ -1,3 +1,4 @@
+id = "CRYSTALLIZED_HEART";
 item = "player_head";
 name = "Crystallized Heart";
 include("types/helmet", this);

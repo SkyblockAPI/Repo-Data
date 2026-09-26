@@ -1,3 +1,4 @@
+id = "SILVA_DOMINUS";
 item = "gold_axe";
 name = "Sharpened Huntaxe - Dominus";
 include("types/axe", this);

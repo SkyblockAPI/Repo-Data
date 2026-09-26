@@ -1,3 +1,4 @@
+id = "HASHBROWN";
 item = "player_head";
 name = "Hashbrown";
 include("types/reforge_stone", this);

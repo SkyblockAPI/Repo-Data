@@ -1,3 +1,4 @@
+id = "PRINCE_CROWN_JEWEL";
 item = "gold_nugget";
 name = "Prince's Crown Jewel";
 ::items::prototypes::ingredient::(this);

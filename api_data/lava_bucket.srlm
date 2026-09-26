@@ -1,3 +1,4 @@
+id = "LAVA_BUCKET";
 item = "lava_bucket";
 name = "Lava Bucket";
 rarity = "COMMON";

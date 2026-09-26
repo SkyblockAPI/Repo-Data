@@ -1,4 +1,3 @@
 meta {
-  id = POISON_SAMPLE;
   include("api_data/poison_sample", this); 
 };

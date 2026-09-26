@@ -1,3 +1,4 @@
+id = "STARRED_SHADOW_ASSASSIN_CLOAK";
 item = "player_head";
 name = "Shadow Assassin Cloak";
 include("types/cloak", this);

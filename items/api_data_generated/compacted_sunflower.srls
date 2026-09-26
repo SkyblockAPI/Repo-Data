@@ -1,4 +1,3 @@
 meta {
-  id = COMPACTED_SUNFLOWER;
   include("api_data/compacted_sunflower", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = PRESSURE_RING;
   include("api_data/pressure_ring", this); 
 };

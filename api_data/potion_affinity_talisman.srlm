@@ -1,3 +1,4 @@
+id = "POTION_AFFINITY_TALISMAN";
 item = "player_head";
 name = "Potion Affinity Talisman";
 include("types/accessory", this);

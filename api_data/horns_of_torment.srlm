@@ -1,3 +1,4 @@
+id = "HORNS_OF_TORMENT";
 item = "player_head";
 name = "Horns of Torment";
 include("types/reforge_stone", this);

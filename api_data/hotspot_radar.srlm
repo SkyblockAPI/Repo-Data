@@ -1,3 +1,4 @@
+id = "HOTSPOT_RADAR";
 item = "paper";
 name = "Hotspot Radar";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/hotspot_radar";

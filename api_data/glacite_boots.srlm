@@ -1,3 +1,4 @@
+id = "GLACITE_BOOTS";
 item = "leather_boots";
 name = "Glacite Boots";
 include("types/boots", this);

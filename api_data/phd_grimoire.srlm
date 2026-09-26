@@ -1,3 +1,4 @@
+id = "PHD_GRIMOIRE";
 item = "player_head";
 name = "PhD's Grimoire";
 include("types/accessory", this);

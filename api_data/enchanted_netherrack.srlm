@@ -1,3 +1,4 @@
+id = "ENCHANTED_NETHERRACK";
 item = "netherrack";
 name = "Enchanted Netherrack";
 rarity = "UNCOMMON";

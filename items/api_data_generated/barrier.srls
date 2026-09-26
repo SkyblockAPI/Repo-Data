@@ -1,4 +1,3 @@
 meta {
-  id = BARRIER;
   include("api_data/barrier", this); 
 };

@@ -1,3 +1,4 @@
+id = "TUTORIAL_GARDEN_CHIP";
 item = "paper";
 name = "Cropshot Chip";
 include("types/garden_chip", this);

@@ -1,3 +1,4 @@
+id = "SPIKED_ATROCITY";
 item = "player_head";
 name = "Spiked Atrocity";
 include("types/accessory", this);

@@ -1,4 +1,3 @@
 meta {
-  id = GYROKINETIC_WAND;
   include("api_data/gyrokinetic_wand", this); 
 };

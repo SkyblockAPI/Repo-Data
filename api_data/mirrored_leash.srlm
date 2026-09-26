@@ -1,3 +1,4 @@
+id = "MIRRORED_LEASH";
 item = "leash";
 name = "daeL";
 rarity = "COMMON";

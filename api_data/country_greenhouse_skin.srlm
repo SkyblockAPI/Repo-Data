@@ -1,3 +1,4 @@
+id = "COUNTRY_GREENHOUSE_SKIN";
 item = "fence_gate";
 name = "Country Greenhouse Skin";
 include("types/cosmetic", this);

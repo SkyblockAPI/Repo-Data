@@ -1,4 +1,3 @@
 meta {
-  id = MINING_RAFFLE_TICKET;
   include("api_data/mining_raffle_ticket", this); 
 };

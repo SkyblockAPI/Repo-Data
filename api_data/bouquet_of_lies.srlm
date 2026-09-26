@@ -1,3 +1,4 @@
+id = "BOUQUET_OF_LIES";
 item = "double_plant";
 name = "Bouquet of Lies";
 include("types/sword", this);

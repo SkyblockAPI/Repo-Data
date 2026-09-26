@@ -1,4 +1,3 @@
 meta {
-  id = CACTUS;
   include("api_data/cactus", this); 
 };

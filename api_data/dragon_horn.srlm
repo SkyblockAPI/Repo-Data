@@ -1,3 +1,4 @@
+id = "DRAGON_HORN";
 item = "player_head";
 name = "Dragon Horn";
 include("types/reforge_stone", this);

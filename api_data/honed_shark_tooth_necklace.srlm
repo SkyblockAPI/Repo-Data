@@ -1,3 +1,4 @@
+id = "HONED_SHARK_TOOTH_NECKLACE";
 item = "player_head";
 name = "Honed Shark Tooth Necklace";
 include("types/accessory", this);

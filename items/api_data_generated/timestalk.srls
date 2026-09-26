@@ -1,4 +1,3 @@
 meta {
-  id = TIMESTALK;
   include("api_data/timestalk", this); 
 };

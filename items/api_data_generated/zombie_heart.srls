@@ -1,4 +1,3 @@
 meta {
-  id = ZOMBIE_HEART;
   include("api_data/zombie_heart", this); 
 };

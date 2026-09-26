@@ -1,4 +1,3 @@
 meta {
-  id = PROMISING_HOE;
   include("api_data/promising_hoe", this); 
 };

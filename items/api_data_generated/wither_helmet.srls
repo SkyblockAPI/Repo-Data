@@ -1,4 +1,3 @@
 meta {
-  id = WITHER_HELMET;
   include("api_data/wither_helmet", this); 
 };

@@ -1,3 +1,4 @@
+id = "THEORETICAL_HOE_CANE_1";
 item = "iron_hoe";
 name = "Turing Sugar Cane Cutter Mk. I";
 include("types/farming_tool", this);

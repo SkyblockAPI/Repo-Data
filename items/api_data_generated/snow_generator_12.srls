@@ -1,4 +1,3 @@
 meta {
-  id = SNOW_GENERATOR_12;
   include("api_data/snow_generator_12", this); 
 };

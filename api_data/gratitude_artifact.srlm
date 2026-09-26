@@ -1,3 +1,4 @@
+id = "GRATITUDE_ARTIFACT";
 item = "player_head";
 name = "Gratitude Artifact";
 include("types/accessory", this);

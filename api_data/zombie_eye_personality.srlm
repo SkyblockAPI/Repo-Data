@@ -1,3 +1,4 @@
+id = "ZOMBIE_EYE_PERSONALITY";
 item = "player_head";
 name = "Zombie Eye Minion Skin";
 include("types/cosmetic", this);

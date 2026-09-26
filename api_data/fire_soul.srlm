@@ -1,3 +1,4 @@
+id = "FIRE_SOUL";
 item = "blaze_powder";
 name = "Fire Soul";
 rarity = "RARE";

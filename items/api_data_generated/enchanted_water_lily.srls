@@ -1,4 +1,3 @@
 meta {
-  id = ENCHANTED_WATER_LILY;
   include("api_data/enchanted_water_lily", this); 
 };

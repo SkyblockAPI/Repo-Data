@@ -1,4 +1,3 @@
 meta {
-  id = ICE;
   include("api_data/ice", this); 
 };

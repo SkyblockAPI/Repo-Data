@@ -1,4 +1,3 @@
 meta {
-  id = ENCHANTED_BOOK_BUNDLE_RAINBOW;
   include("api_data/enchanted_book_bundle_rainbow", this); 
 };

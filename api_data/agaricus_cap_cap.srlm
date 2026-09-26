@@ -1,3 +1,4 @@
+id = "AGARICUS_CAP_CAP";
 item = "player_head";
 name = "Agaricus Cap Cap";
 include("types/helmet", this);

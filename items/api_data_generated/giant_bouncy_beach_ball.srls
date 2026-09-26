@@ -1,4 +1,3 @@
 meta {
-  id = GIANT_BOUNCY_BEACH_BALL;
   include("api_data/giant_bouncy_beach_ball", this); 
 };

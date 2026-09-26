@@ -1,4 +1,3 @@
 meta {
-  id = SAVING_GRACE;
   include("api_data/saving_grace", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = ADAPTIVE_BOOTS;
   include("api_data/adaptive_boots", this); 
 };

@@ -1,3 +1,4 @@
+id = "BERBERIS_FUEL_INJECTOR";
 item = "trap_door";
 name = "Berberis Fuel Injector";
 rarity = "RARE";

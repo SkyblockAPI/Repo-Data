@@ -1,4 +1,3 @@
 meta {
-  id = HARPOON_LAUNCHER;
   include("api_data/harpoon_launcher", this); 
 };

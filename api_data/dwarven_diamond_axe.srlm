@@ -1,3 +1,4 @@
+id = "DWARVEN_DIAMOND_AXE";
 item = "diamond_axe";
 name = "Scavenged Diamond Axe";
 rarity = "SPECIAL";

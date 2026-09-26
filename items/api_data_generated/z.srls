@@ -1,4 +1,3 @@
 meta {
-  id = Z;
   include("api_data/z", this); 
 };

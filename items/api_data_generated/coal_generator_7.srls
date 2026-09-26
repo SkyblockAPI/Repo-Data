@@ -1,4 +1,3 @@
 meta {
-  id = COAL_GENERATOR_7;
   include("api_data/coal_generator_7", this); 
 };

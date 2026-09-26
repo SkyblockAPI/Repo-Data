@@ -1,3 +1,4 @@
+id = "NEUROTOXIN_NEEDLE";
 item = "lever";
 name = "Neurotoxin Needle";
 rarity = "EPIC";

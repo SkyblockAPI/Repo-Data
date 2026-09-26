@@ -1,3 +1,4 @@
+id = "SILKWIRE_STICK";
 item = "stick";
 name = "Silkwire Stick";
 rarity = "RARE";

@@ -1,3 +1,4 @@
+id = "CRETAN_URN";
 item = "player_head";
 name = "Cretan Urn";
 include("types/pet_item", this);

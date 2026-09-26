@@ -1,4 +1,3 @@
 meta {
-  id = GLUE_ARROW;
   include("api_data/glue_arrow", this); 
 };

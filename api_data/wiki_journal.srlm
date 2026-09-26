@@ -1,3 +1,4 @@
+id = "WIKI_JOURNAL";
 item = "book";
 name = "Wiki Journal";
 rarity = "SPECIAL";

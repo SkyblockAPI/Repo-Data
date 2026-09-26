@@ -1,4 +1,3 @@
 meta {
-  id = SOULFLOW_SUPERCELL;
   include("api_data/soulflow_supercell", this); 
 };

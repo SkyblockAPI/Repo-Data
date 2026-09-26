@@ -1,3 +1,4 @@
+id = "METEOR_SHARD";
 item = "player_head";
 name = "Meteor Chunk";
 include("types/reforge_stone", this);

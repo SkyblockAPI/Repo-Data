@@ -1,3 +1,4 @@
+id = "ENCHANTED_SEEDS";
 item = "seeds";
 name = "Enchanted Seeds";
 rarity = "UNCOMMON";

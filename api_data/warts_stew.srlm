@@ -1,3 +1,4 @@
+id = "WARTS_STEW";
 item = "rabbit_stew";
 name = "§cMushroom & Warts Stew";
 rarity = "RARE";

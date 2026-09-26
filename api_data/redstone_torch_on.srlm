@@ -1,3 +1,4 @@
+id = "REDSTONE_TORCH_ON";
 item = "redstone_torch_on";
 name = "Redstone Torch";
 rarity = "COMMON";

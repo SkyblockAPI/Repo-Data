@@ -1,3 +1,4 @@
+id = "RUNEBLADE_TALISMAN";
 item = "player_head";
 name = "Runeblade Talisman";
 include("types/accessory", this);

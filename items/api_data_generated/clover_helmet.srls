@@ -1,4 +1,3 @@
 meta {
-  id = CLOVER_HELMET;
   include("api_data/clover_helmet", this); 
 };

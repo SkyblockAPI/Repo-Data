@@ -1,3 +1,4 @@
+id = "ENCHANTED_WILD_ROSE";
 item = "double_plant";
 name = "Enchanted Wild Rose";
 rarity = "UNCOMMON";

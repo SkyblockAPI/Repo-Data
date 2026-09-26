@@ -1,4 +1,3 @@
 meta {
-  id = JERRY_TALISMAN_BLUE;
   include("api_data/jerry_talisman_blue", this); 
 };

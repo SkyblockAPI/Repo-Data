@@ -1,3 +1,4 @@
+id = "GAME_BREAKER";
 item = "tnt";
 name = "Game Breaker";
 rarity = "SPECIAL";

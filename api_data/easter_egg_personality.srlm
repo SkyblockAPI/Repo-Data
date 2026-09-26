@@ -1,3 +1,4 @@
+id = "EASTER_EGG_PERSONALITY";
 item = "player_head";
 name = "Easter Egg Minion Skin";
 include("types/cosmetic", this);

@@ -1,4 +1,3 @@
 meta {
-  id = VANGUARD_CHESTPLATE;
   include("api_data/vanguard_chestplate", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = CONSOLE_PANEL;
   include("api_data/console_panel", this); 
 };

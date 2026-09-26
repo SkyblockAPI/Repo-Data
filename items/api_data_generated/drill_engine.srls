@@ -1,4 +1,3 @@
 meta {
-  id = DRILL_ENGINE;
   include("api_data/drill_engine", this); 
 };

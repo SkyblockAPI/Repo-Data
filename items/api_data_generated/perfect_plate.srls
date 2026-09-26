@@ -1,4 +1,3 @@
 meta {
-  id = PERFECT_PLATE;
   include("api_data/perfect_plate", this); 
 };

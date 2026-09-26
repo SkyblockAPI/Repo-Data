@@ -1,4 +1,3 @@
 meta {
-  id = PIGMAN_SWORD;
   include("api_data/pigman_sword", this); 
 };

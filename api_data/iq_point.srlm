@@ -1,3 +1,4 @@
+id = "IQ_POINT";
 item = "player_head";
 name = "IQ Point";
 include("types/accessory", this);

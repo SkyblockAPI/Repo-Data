@@ -1,4 +1,3 @@
 meta {
-  id = SILEX;
   include("api_data/silex", this); 
 };

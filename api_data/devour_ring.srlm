@@ -1,3 +1,4 @@
+id = "DEVOUR_RING";
 item = "player_head";
 name = "Devour Ring";
 include("types/accessory", this);

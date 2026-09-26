@@ -1,3 +1,4 @@
+id = "MANTID_CLAW";
 item = "player_head";
 name = "Mantid Claw";
 include("types/reforge_stone", this);

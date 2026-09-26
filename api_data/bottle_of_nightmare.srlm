@@ -1,3 +1,4 @@
+id = "BOTTLE_OF_NIGHTMARE";
 item = "exp_bottle";
 name = "Bottle of Nightmare";
 rarity = "EPIC";

@@ -1,4 +1,3 @@
 meta {
-  id = TIC_TAC_TOE;
   include("api_data/tic_tac_toe", this); 
 };

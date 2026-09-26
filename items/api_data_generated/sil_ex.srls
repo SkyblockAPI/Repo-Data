@@ -1,4 +1,3 @@
 meta {
-  id = SIL_EX;
   include("api_data/sil_ex", this); 
 };

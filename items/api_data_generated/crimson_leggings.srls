@@ -1,4 +1,3 @@
 meta {
-  id = CRIMSON_LEGGINGS;
   include("api_data/crimson_leggings", this); 
 };

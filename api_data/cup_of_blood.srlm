@@ -1,3 +1,4 @@
+id = "CUP_OF_BLOOD";
 item = "paper";
 name = "Cup of Blood";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/cup_of_blood";

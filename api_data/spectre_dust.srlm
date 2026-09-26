@@ -1,3 +1,4 @@
+id = "SPECTRE_DUST";
 item = "paper";
 name = "Spectre Dust";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/spectre_dust";

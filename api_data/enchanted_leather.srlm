@@ -1,3 +1,4 @@
+id = "ENCHANTED_LEATHER";
 item = "leather";
 name = "Enchanted Leather";
 rarity = "UNCOMMON";

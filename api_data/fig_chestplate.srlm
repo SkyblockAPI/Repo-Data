@@ -1,3 +1,4 @@
+id = "FIG_CHESTPLATE";
 item = "leather_chestplate";
 name = "Figmail";
 include("types/chestplate", this);

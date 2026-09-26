@@ -1,3 +1,4 @@
+id = "BREWING_STAND_ITEM";
 item = "brewing_stand_item";
 name = "Brewing Stand";
 rarity = "COMMON";

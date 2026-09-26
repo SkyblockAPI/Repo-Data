@@ -1,4 +1,3 @@
 meta {
-  id = TERA_SHELL_NECKLACE;
   include("api_data/tera_shell_necklace", this); 
 };

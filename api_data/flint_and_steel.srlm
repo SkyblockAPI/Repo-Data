@@ -1,3 +1,4 @@
+id = "FLINT_AND_STEEL";
 item = "flint_and_steel";
 name = "Flint and Steel";
 rarity = "COMMON";

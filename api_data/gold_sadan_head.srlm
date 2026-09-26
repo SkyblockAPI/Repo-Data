@@ -1,3 +1,4 @@
+id = "GOLD_SADAN_HEAD";
 item = "player_head";
 name = "Golden Sadan Head";
 include("types/helmet", this);

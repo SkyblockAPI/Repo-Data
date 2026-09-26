@@ -1,3 +1,4 @@
+id = "FIG_HELMET";
 item = "player_head";
 name = "Fig Cap";
 include("types/helmet", this);

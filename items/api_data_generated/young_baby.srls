@@ -1,4 +1,3 @@
 meta {
-  id = YOUNG_BABY;
   include("api_data/young_baby", this); 
 };

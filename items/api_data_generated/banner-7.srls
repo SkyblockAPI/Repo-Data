@@ -1,4 +1,3 @@
 meta {
-  id = BANNER:7;
   include("api_data/banner-7", this); 
 };

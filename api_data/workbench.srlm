@@ -1,3 +1,4 @@
+id = "WORKBENCH";
 item = "workbench";
 name = "Crafting Table";
 rarity = "COMMON";

@@ -1,3 +1,4 @@
+id = "SOCIAL_DISPLAY";
 item = "gold_block";
 name = "Social Display";
 rarity = "UNCOMMON";

@@ -1,3 +1,4 @@
+id = "PLASMA_NUCLEUS";
 item = "ink_sack";
 name = "Plasma Nucleus";
 ::items::prototypes::ingredient::(this);

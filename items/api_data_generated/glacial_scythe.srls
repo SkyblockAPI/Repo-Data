@@ -1,4 +1,3 @@
 meta {
-  id = GLACIAL_SCYTHE;
   include("api_data/glacial_scythe", this); 
 };

@@ -1,3 +1,4 @@
+id = "ENDSTONE_GEODE";
 item = "player_head";
 name = "End Stone Geode";
 include("types/reforge_stone", this);

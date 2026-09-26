@@ -1,4 +1,3 @@
 meta {
-  id = GOLEM_ARMOR_CHESTPLATE;
   include("api_data/golem_armor_chestplate", this); 
 };

@@ -1,3 +1,4 @@
+id = "REVERSE_REFORGE_STONE_CORE";
 item = "clay_ball";
 name = "eroC enotS egrofeR";
 this["minecraft:item_model"] = "minecraft:popped_chorus_fruit";

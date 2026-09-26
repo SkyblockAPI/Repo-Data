@@ -1,3 +1,4 @@
+id = "REMOTE_TIME_CHAMBER_REMOTE";
 item = "painting";
 name = "Remote Time Chamber Remote";
 rarity = "RARE";

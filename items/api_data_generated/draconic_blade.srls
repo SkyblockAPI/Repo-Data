@@ -1,4 +1,3 @@
 meta {
-  id = DRACONIC_BLADE;
   include("api_data/draconic_blade", this); 
 };

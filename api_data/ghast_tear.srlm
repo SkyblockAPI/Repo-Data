@@ -1,3 +1,4 @@
+id = "GHAST_TEAR";
 item = "ghast_tear";
 name = "Ghast Tear";
 rarity = "COMMON";

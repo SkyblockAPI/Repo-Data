@@ -1,3 +1,4 @@
+id = "CRYPT_WITHERLORD_HELMET";
 item = "leather_helmet";
 name = "Crypt Witherlord Helmet";
 include("types/helmet", this);

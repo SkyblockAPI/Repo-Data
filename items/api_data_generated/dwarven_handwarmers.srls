@@ -1,4 +1,3 @@
 meta {
-  id = DWARVEN_HANDWARMERS;
   include("api_data/dwarven_handwarmers", this); 
 };

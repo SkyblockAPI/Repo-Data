@@ -1,4 +1,3 @@
 meta {
-  id = IRON_INGOT;
   include("api_data/iron_ingot", this); 
 };

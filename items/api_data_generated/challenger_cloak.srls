@@ -1,4 +1,3 @@
 meta {
-  id = CHALLENGER_CLOAK;
   include("api_data/challenger_cloak", this); 
 };

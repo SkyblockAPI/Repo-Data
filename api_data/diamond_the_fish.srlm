@@ -1,3 +1,4 @@
+id = "DIAMOND_THE_FISH";
 item = "cooked_fish";
 name = "Diamond the Fish";
 rarity = "SPECIAL";

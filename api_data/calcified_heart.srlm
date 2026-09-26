@@ -1,3 +1,4 @@
+id = "CALCIFIED_HEART";
 item = "player_head";
 name = "Calcified Heart";
 include("types/reforge_stone", this);

@@ -1,4 +1,3 @@
 meta {
-  id = NETHER_STALK_DISTILLATE;
   include("api_data/nether_stalk_distillate", this); 
 };

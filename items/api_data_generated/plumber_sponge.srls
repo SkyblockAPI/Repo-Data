@@ -1,4 +1,3 @@
 meta {
-  id = PLUMBER_SPONGE;
   include("api_data/plumber_sponge", this); 
 };

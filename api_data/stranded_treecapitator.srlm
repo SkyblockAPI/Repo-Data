@@ -1,3 +1,4 @@
+id = "STRANDED_TREECAPITATOR";
 item = "gold_axe";
 name = "Stranded Treecapitator";
 include("types/axe", this);

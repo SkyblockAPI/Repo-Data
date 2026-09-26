@@ -1,3 +1,4 @@
+id = "BRONZE_SHIP_ENGINE";
 item = "paper";
 name = "Bronze Ship Engine";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/ship/bronze_ship_engine";

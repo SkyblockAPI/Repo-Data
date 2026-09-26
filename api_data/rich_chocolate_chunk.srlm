@@ -1,3 +1,4 @@
+id = "RICH_CHOCOLATE_CHUNK";
 item = "player_head";
 name = "Rich Chocolate Chunk";
 include("types/accessory", this);

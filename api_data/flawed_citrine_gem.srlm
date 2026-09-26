@@ -1,3 +1,4 @@
+id = "FLAWED_CITRINE_GEM";
 item = "paper";
 name = "Flawed Citrine Gemstone";
 this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/citrine/flawed_citrine_gem";

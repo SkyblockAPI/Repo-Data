@@ -1,4 +1,3 @@
 meta {
-  id = AXE_PREVIEW;
   include("api_data/axe_preview", this); 
 };

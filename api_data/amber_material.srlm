@@ -1,3 +1,4 @@
+id = "AMBER_MATERIAL";
 item = "player_head";
 name = "Amber Material";
 include("types/reforge_stone", this);

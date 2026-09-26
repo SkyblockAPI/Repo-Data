@@ -1,4 +1,3 @@
 meta {
-  id = LEAFLET_LEGGINGS;
   include("api_data/leaflet_leggings", this); 
 };

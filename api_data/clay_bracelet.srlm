@@ -1,3 +1,4 @@
+id = "CLAY_BRACELET";
 item = "player_head";
 name = "Clay Bracelet";
 include("types/bracelet", this);

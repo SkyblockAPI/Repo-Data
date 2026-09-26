@@ -1,4 +1,3 @@
 meta {
-  id = SEA_LANTERN;
   include("api_data/sea_lantern", this); 
 };

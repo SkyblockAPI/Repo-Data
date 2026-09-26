@@ -1,4 +1,3 @@
 meta {
-  id = MOONGLADE_JEWEL;
   include("api_data/moonglade_jewel", this); 
 };

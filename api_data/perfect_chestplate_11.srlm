@@ -1,3 +1,4 @@
+id = "PERFECT_CHESTPLATE_11";
 item = "diamond_chestplate";
 name = "Perfect Chestplate - Tier XI";
 include("types/chestplate", this);

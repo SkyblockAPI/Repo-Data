@@ -1,4 +1,3 @@
 meta {
-  id = CARPET:12;
   include("api_data/carpet-12", this); 
 };

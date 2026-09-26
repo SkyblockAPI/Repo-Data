@@ -1,4 +1,3 @@
 meta {
-  id = MOONSTONE;
   include("api_data/moonstone", this); 
 };

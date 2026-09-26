@@ -1,3 +1,4 @@
+id = "SINGING_FISH";
 item = "raw_fish";
 name = "Singing Fish";
 rarity = "SPECIAL";

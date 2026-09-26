@@ -1,3 +1,4 @@
+id = "LM_EGG_BOOTS";
 item = "monster_egg";
 name = "Living Metal Bootspawn";
 this["minecraft:item_model"] = "minecraft:frog_spawn_egg";

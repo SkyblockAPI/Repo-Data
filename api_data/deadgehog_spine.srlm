@@ -1,3 +1,4 @@
+id = "DEADGEHOG_SPINE";
 item = "arrow";
 name = "Deadgehog Spine";
 ::items::prototypes::ingredient::(this);

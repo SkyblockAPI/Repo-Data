@@ -1,3 +1,4 @@
+id = "REDSTONE_BLOCK";
 item = "redstone_block";
 name = "Block of Redstone";
 rarity = "COMMON";

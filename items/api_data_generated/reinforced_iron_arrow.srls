@@ -1,4 +1,3 @@
 meta {
-  id = REINFORCED_IRON_ARROW;
   include("api_data/reinforced_iron_arrow", this); 
 };

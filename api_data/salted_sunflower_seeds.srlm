@@ -1,3 +1,4 @@
+id = "SALTED_SUNFLOWER_SEEDS";
 item = "paper";
 name = "Salted Sunflower Seeds";
 this["minecraft:item_model"] = "minecraft:yellow_bundle";

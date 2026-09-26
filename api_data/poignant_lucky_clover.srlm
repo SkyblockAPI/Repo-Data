@@ -1,3 +1,4 @@
+id = "POIGNANT_LUCKY_CLOVER";
 item = "paper";
 name = "Poignant Lucky Clover";
 include("types/pet_item", this);

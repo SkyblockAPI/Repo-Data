@@ -1,4 +1,3 @@
 meta {
-  id = SEVERED_PINCER;
   include("api_data/severed_pincer", this); 
 };

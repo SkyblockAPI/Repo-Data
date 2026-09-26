@@ -1,3 +1,4 @@
+id = "ATMOSPHERIC_FILTER";
 item = "player_head";
 name = "Atmospheric Filter";
 include("types/accessory", this);

@@ -1,3 +1,4 @@
+id = "S_LOGO_CHESTPLATE";
 item = "leather_chestplate";
 name = "W Logo";
 include("types/chestplate", this);

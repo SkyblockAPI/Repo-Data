@@ -1,4 +1,3 @@
 meta {
-  id = MELON_DICER_2;
   include("api_data/melon_dicer_2", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = MUTED_BARK;
   include("api_data/muted_bark", this); 
 };

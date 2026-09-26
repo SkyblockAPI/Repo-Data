@@ -1,4 +1,3 @@
 meta {
-  id = DAYSWITCH;
   include("api_data/dayswitch", this); 
 };

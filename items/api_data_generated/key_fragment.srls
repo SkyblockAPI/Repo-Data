@@ -1,4 +1,3 @@
 meta {
-  id = KEY_FRAGMENT;
   include("api_data/key_fragment", this); 
 };

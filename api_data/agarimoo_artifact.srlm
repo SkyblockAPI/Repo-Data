@@ -1,3 +1,4 @@
+id = "AGARIMOO_ARTIFACT";
 item = "player_head";
 name = "Agarimoo Artifact";
 include("types/accessory", this);

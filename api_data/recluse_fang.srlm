@@ -1,3 +1,4 @@
+id = "RECLUSE_FANG";
 item = "iron_sword";
 name = "Recluse Fang";
 include("types/sword", this);

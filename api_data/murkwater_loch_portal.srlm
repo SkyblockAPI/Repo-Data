@@ -1,3 +1,4 @@
+id = "MURKWATER_LOCH_PORTAL";
 item = "player_head";
 name = "Portal to the Murkwater Loch";
 include("types/portal", this);

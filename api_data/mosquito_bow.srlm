@@ -1,3 +1,4 @@
+id = "MOSQUITO_BOW";
 item = "bow";
 name = "Mosquito Shortbow";
 include("types/bow", this);

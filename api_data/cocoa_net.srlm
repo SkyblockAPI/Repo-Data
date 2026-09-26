@@ -1,3 +1,4 @@
+id = "COCOA_NET";
 item = "wood_axe";
 name = "Cocoa Net";
 ::items::prototypes::ingredient::(this);

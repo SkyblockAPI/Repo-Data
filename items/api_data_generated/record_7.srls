@@ -1,4 +1,3 @@
 meta {
-  id = RECORD_7;
   include("api_data/record_7", this); 
 };

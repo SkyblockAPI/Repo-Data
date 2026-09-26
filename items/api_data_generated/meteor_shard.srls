@@ -1,4 +1,3 @@
 meta {
-  id = METEOR_SHARD;
   include("api_data/meteor_shard", this); 
 };

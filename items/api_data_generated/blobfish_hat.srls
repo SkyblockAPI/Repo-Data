@@ -1,4 +1,3 @@
 meta {
-  id = BLOBFISH_HAT;
   include("api_data/blobfish_hat", this); 
 };

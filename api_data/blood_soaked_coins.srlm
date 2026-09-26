@@ -1,3 +1,4 @@
+id = "BLOOD_SOAKED_COINS";
 item = "player_head";
 name = "Blood-Soaked Coins";
 include("types/none", this);

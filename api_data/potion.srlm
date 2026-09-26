@@ -1,3 +1,4 @@
+id = "POTION";
 item = "potion";
 name = "Water Bottle";
 rarity = "COMMON";

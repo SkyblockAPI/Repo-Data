@@ -1,3 +1,4 @@
+id = "CAMPFIRE_TALISMAN_27";
 item = "player_head";
 name = "Campfire God Badge VII";
 include("types/accessory", this);

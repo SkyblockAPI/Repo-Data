@@ -1,3 +1,4 @@
+id = "FLAWLESS_JADE_GEM";
 item = "paper";
 name = "Flawless Jade Gemstone";
 this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/jade/flawless_jade_gem";

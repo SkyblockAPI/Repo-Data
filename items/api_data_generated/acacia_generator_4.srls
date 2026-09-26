@@ -1,4 +1,3 @@
 meta {
-  id = ACACIA_GENERATOR_4;
   include("api_data/acacia_generator_4", this); 
 };

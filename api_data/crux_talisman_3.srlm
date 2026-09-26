@@ -1,3 +1,4 @@
+id = "CRUX_TALISMAN_3";
 item = "player_head";
 name = "Crux Artifact";
 include("types/accessory", this);

@@ -1,3 +1,4 @@
+id = "ENCHANTED_PUMPKIN";
 item = "pumpkin";
 name = "Enchanted Pumpkin";
 rarity = "UNCOMMON";

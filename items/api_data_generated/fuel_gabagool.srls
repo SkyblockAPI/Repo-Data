@@ -1,4 +1,3 @@
 meta {
-  id = FUEL_GABAGOOL;
   include("api_data/fuel_gabagool", this); 
 };

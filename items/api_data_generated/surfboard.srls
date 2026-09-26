@@ -1,4 +1,3 @@
 meta {
-  id = SURFBOARD;
   include("api_data/surfboard", this); 
 };

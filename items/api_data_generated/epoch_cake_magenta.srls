@@ -1,4 +1,3 @@
 meta {
-  id = EPOCH_CAKE_MAGENTA;
   include("api_data/epoch_cake_magenta", this); 
 };

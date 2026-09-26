@@ -1,4 +1,3 @@
 meta {
-  id = ACCRETION_TALISMAN;
   include("api_data/accretion_talisman", this); 
 };

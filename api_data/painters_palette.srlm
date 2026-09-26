@@ -1,3 +1,4 @@
+id = "PAINTERS_PALETTE";
 item = "player_head";
 name = "Painter's Palette";
 include("types/memento", this);

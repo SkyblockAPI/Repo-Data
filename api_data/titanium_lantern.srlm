@@ -1,3 +1,4 @@
+id = "TITANIUM_LANTERN";
 item = "player_head";
 name = "Titanium Lantern";
 include("types/deployable", this);

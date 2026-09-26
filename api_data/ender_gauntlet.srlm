@@ -1,3 +1,4 @@
+id = "ENDER_GAUNTLET";
 item = "player_head";
 name = "Ender Gauntlet";
 include("types/gloves", this);

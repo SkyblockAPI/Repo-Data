@@ -1,4 +1,3 @@
 meta {
-  id = DIAMOND_GENERATOR_7;
   include("api_data/diamond_generator_7", this); 
 };

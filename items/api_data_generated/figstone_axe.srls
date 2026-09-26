@@ -1,4 +1,3 @@
 meta {
-  id = FIGSTONE_AXE;
   include("api_data/figstone_axe", this); 
 };

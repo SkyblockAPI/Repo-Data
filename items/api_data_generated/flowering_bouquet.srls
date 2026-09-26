@@ -1,4 +1,3 @@
 meta {
-  id = FLOWERING_BOUQUET;
   include("api_data/flowering_bouquet", this); 
 };

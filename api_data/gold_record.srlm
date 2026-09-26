@@ -1,3 +1,4 @@
+id = "GOLD_RECORD";
 item = "gold_record";
 name = "Music Disc - 13";
 rarity = "UNCOMMON";

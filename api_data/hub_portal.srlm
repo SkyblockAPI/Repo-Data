@@ -1,3 +1,4 @@
+id = "HUB_PORTAL";
 item = "player_head";
 name = "Portal to the Hub";
 include("types/portal", this);

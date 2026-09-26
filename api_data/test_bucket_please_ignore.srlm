@@ -1,3 +1,4 @@
+id = "TEST_BUCKET_PLEASE_IGNORE";
 item = "player_head";
 name = "Test Bucket Please Ignore";
 include("types/accessory", this);

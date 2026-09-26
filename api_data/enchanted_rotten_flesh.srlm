@@ -1,3 +1,4 @@
+id = "ENCHANTED_ROTTEN_FLESH";
 item = "rotten_flesh";
 name = "Enchanted Rotten Flesh";
 rarity = "UNCOMMON";

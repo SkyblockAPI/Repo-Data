@@ -1,3 +1,4 @@
+id = "STAINED_CLAY";
 item = "stained_clay";
 name = "White Hardened Clay";
 rarity = "COMMON";

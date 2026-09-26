@@ -1,4 +1,3 @@
 meta {
-  id = MOONFLOWER;
   include("api_data/moonflower", this); 
 };

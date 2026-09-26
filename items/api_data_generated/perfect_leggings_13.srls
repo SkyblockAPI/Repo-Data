@@ -1,4 +1,3 @@
 meta {
-  id = PERFECT_LEGGINGS_13;
   include("api_data/perfect_leggings_13", this); 
 };

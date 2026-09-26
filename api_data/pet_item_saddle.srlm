@@ -1,3 +1,4 @@
+id = "PET_ITEM_SADDLE";
 item = "saddle";
 name = "Saddle";
 include("types/pet_item", this);

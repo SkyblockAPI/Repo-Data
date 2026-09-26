@@ -1,4 +1,3 @@
 meta {
-  id = SPELL_SOOT;
   include("api_data/spell_soot", this); 
 };

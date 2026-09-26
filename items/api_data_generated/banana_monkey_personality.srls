@@ -1,4 +1,3 @@
 meta {
-  id = BANANA_MONKEY_PERSONALITY;
   include("api_data/banana_monkey_personality", this); 
 };

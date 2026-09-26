@@ -1,4 +1,3 @@
 meta {
-  id = TORN_CLOTH;
   include("api_data/torn_cloth", this); 
 };

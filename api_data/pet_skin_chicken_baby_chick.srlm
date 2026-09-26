@@ -1,3 +1,4 @@
+id = "PET_SKIN_CHICKEN_BABY_CHICK";
 item = "player_head";
 name = "Baby ChickChicken";
 include("types/cosmetic", this);

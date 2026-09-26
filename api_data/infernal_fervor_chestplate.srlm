@@ -1,3 +1,4 @@
+id = "INFERNAL_FERVOR_CHESTPLATE";
 item = "leather_chestplate";
 name = "Infernal Fervor Chestplate";
 include("types/chestplate", this);

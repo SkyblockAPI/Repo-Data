@@ -1,4 +1,3 @@
 meta {
-  id = REVENANT_GENERATOR_9;
   include("api_data/revenant_generator_9", this); 
 };

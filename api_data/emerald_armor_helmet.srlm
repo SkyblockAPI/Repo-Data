@@ -1,3 +1,4 @@
+id = "EMERALD_ARMOR_HELMET";
 item = "leather_helmet";
 name = "Emerald Armor Helmet";
 include("types/helmet", this);

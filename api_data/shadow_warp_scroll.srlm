@@ -1,3 +1,4 @@
+id = "SHADOW_WARP_SCROLL";
 item = "paper";
 name = "Shadow Warp";
 include("types/dungeon", this);

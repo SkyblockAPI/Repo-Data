@@ -1,3 +1,4 @@
+id = "SEWER_FISH";
 item = "raw_fish";
 name = "Sewer Fish";
 rarity = "UNCOMMON";

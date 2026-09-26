@@ -1,3 +1,4 @@
+id = "ORGANIC_EGG";
 item = "egg";
 name = "Organic Egg";
 rarity = "UNCOMMON";

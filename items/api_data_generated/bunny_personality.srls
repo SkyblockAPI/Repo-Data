@@ -1,4 +1,3 @@
 meta {
-  id = BUNNY_PERSONALITY;
   include("api_data/bunny_personality", this); 
 };

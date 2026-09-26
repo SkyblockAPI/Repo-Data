@@ -1,4 +1,3 @@
 meta {
-  id = WREATH;
   include("api_data/wreath", this); 
 };

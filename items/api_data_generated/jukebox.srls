@@ -1,4 +1,3 @@
 meta {
-  id = JUKEBOX;
   include("api_data/jukebox", this); 
 };

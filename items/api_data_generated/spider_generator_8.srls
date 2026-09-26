@@ -1,4 +1,3 @@
 meta {
-  id = SPIDER_GENERATOR_8;
   include("api_data/spider_generator_8", this); 
 };

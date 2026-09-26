@@ -1,4 +1,3 @@
 meta {
-  id = TUSK_FOSSIL;
   include("api_data/tusk_fossil", this); 
 };

@@ -1,3 +1,4 @@
+id = "PRISMARINE_BLADE";
 item = "prismarine_shard";
 name = "Prismarine Blade";
 include("types/sword", this);

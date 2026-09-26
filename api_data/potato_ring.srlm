@@ -1,3 +1,4 @@
+id = "POTATO_RING";
 item = "player_head";
 name = "Potato Ring";
 include("types/accessory", this);

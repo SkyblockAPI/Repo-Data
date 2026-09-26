@@ -1,3 +1,4 @@
+id = "GILL_MEMBRANE";
 item = "paper";
 name = "Gill Membrane";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/resources/gill_membrane";

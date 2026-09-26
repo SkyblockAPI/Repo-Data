@@ -1,4 +1,3 @@
 meta {
-  id = BINGO_CARD;
   include("api_data/bingo_card", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = BATTLE_DISC;
   include("api_data/battle_disc", this); 
 };

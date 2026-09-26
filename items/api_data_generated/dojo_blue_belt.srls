@@ -1,4 +1,3 @@
 meta {
-  id = DOJO_BLUE_BELT;
   include("api_data/dojo_blue_belt", this); 
 };

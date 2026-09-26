@@ -1,4 +1,3 @@
 meta {
-  id = MOLTEN_NECKLACE;
   include("api_data/molten_necklace", this); 
 };

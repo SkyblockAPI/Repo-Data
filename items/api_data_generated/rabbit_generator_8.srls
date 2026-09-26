@@ -1,4 +1,3 @@
 meta {
-  id = RABBIT_GENERATOR_8;
   include("api_data/rabbit_generator_8", this); 
 };

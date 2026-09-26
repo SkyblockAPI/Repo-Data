@@ -1,4 +1,3 @@
 meta {
-  id = CANOPY_BOOTS;
   include("api_data/canopy_boots", this); 
 };

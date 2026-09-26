@@ -1,3 +1,4 @@
+id = "TROPICAL_BIRD_2_PERSONALITY";
 item = "player_head";
 name = "Blue Gold Tropical Bird Minion Skin";
 include("types/cosmetic", this);

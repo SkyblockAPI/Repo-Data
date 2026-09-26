@@ -1,3 +1,4 @@
+id = "DWARVEN_LAPIS_SWORD";
 item = "diamond_sword";
 name = "Scavenged Lapis Sword";
 rarity = "SPECIAL";

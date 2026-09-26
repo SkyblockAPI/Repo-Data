@@ -1,3 +1,4 @@
+id = "RUBY_POWER_SCROLL";
 item = "paper";
 name = "Ruby Power Scroll";
 this["minecraft:item_model"] = "minecraft:writable_book";

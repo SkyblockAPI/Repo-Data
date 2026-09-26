@@ -1,3 +1,4 @@
+id = "SKULL_PERSONALITY";
 item = "player_head";
 name = "Skull Minion Skin";
 include("types/cosmetic", this);

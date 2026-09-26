@@ -1,3 +1,4 @@
+id = "KALHUIKI_MASK";
 item = "player_head";
 name = "Kalhuiki Mask";
 include("types/helmet", this);

@@ -1,4 +1,3 @@
 meta {
-  id = COBBLE_WALL;
   include("api_data/cobble_wall", this); 
 };

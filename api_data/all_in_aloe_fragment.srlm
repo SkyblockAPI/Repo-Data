@@ -1,3 +1,4 @@
+id = "ALL_IN_ALOE_FRAGMENT";
 item = "gold_nugget";
 name = "All-in Aloe Fragment";
 ::items::prototypes::ingredient::(this);

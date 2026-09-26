@@ -1,4 +1,3 @@
 meta {
-  id = POISONOUS_POTATO;
   include("api_data/poisonous_potato", this); 
 };

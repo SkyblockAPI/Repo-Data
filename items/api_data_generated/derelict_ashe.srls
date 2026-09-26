@@ -1,4 +1,3 @@
 meta {
-  id = DERELICT_ASHE;
   include("api_data/derelict_ashe", this); 
 };

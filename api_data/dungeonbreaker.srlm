@@ -1,3 +1,4 @@
+id = "DUNGEONBREAKER";
 item = "diamond_pickaxe";
 name = "Dungeonbreaker";
 rarity = "SPECIAL";

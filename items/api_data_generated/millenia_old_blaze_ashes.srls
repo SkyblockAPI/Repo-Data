@@ -1,4 +1,3 @@
 meta {
-  id = MILLENIA_OLD_BLAZE_ASHES;
   include("api_data/millenia_old_blaze_ashes", this); 
 };

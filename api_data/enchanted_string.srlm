@@ -1,3 +1,4 @@
+id = "ENCHANTED_STRING";
 item = "string";
 name = "Enchanted String";
 rarity = "UNCOMMON";

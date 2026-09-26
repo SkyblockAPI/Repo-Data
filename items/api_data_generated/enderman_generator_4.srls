@@ -1,4 +1,3 @@
 meta {
-  id = ENDERMAN_GENERATOR_4;
   include("api_data/enderman_generator_4", this); 
 };

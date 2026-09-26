@@ -1,4 +1,3 @@
 meta {
-  id = ACACIA_STAIRS;
   include("api_data/acacia_stairs", this); 
 };

@@ -1,3 +1,4 @@
+id = "CAMPFIRE_TALISMAN_2";
 item = "player_head";
 name = "Campfire Initiate Badge II";
 include("types/accessory", this);

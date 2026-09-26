@@ -1,4 +1,3 @@
 meta {
-  id = DRAGON_CLAW;
   include("api_data/dragon_claw", this); 
 };

@@ -1,3 +1,4 @@
+id = "BLADE_OF_THE_VOLCANO";
 item = "iron_sword";
 name = "Blade of the Volcano";
 include("types/sword", this);

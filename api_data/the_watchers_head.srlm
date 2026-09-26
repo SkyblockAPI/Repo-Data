@@ -1,3 +1,4 @@
+id = "THE_WATCHERS_HEAD";
 item = "player_head";
 name = "The Watcher's Head";
 include("types/dungeon", this);

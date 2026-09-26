@@ -1,4 +1,3 @@
 meta {
-  id = EMPTY_SODA_CAN;
   include("api_data/empty_soda_can", this); 
 };

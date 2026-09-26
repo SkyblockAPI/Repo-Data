@@ -1,3 +1,4 @@
+id = "EXPERIENCE_ARTIFACT";
 item = "enchanted_book";
 name = "Experience Artifact";
 include("types/accessory", this);

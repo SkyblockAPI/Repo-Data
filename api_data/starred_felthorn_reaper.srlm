@@ -1,3 +1,4 @@
+id = "STARRED_FELTHORN_REAPER";
 item = "iron_sword";
 name = "Felthorn Reaper";
 include("types/longsword", this);

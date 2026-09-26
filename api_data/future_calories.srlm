@@ -1,3 +1,4 @@
+id = "FUTURE_CALORIES";
 item = "player_head";
 name = "Future Calories Talisman";
 include("types/accessory", this);

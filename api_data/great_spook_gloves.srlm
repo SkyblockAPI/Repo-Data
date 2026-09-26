@@ -1,3 +1,4 @@
+id = "GREAT_SPOOK_GLOVES";
 item = "player_head";
 name = "Great Spook Gloves";
 include("types/gloves", this);

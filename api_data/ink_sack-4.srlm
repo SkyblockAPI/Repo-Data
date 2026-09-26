@@ -1,3 +1,4 @@
+id = "INK_SACK:4";
 item = "ink_sack";
 name = "Lapis Lazuli";
 rarity = "COMMON";

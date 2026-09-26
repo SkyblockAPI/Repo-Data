@@ -1,3 +1,4 @@
+id = "RUNEBLADE_RING";
 item = "player_head";
 name = "Runeblade Ring";
 include("types/accessory", this);

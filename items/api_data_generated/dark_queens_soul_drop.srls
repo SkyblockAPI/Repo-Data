@@ -1,4 +1,3 @@
 meta {
-  id = DARK_QUEENS_SOUL_DROP;
   include("api_data/dark_queens_soul_drop", this); 
 };

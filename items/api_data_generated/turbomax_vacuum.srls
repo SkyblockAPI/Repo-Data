@@ -1,4 +1,3 @@
 meta {
-  id = TURBOMAX_VACUUM;
   include("api_data/turbomax_vacuum", this); 
 };

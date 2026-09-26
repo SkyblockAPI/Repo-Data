@@ -1,4 +1,3 @@
 meta {
-  id = THE_SHREDDER;
   include("api_data/the_shredder", this); 
 };

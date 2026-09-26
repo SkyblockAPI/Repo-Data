@@ -1,4 +1,3 @@
 meta {
-  id = HEADLESS_PERSONALITY;
   include("api_data/headless_personality", this); 
 };

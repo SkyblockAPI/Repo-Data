@@ -1,3 +1,4 @@
+id = "SEA_LUMIES";
 item = "paper";
 name = "Sea Lumies";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/resources/sea_lumies";

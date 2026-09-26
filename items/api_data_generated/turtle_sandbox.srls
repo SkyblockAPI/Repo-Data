@@ -1,4 +1,3 @@
 meta {
-  id = TURTLE_SANDBOX;
   include("api_data/turtle_sandbox", this); 
 };

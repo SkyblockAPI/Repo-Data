@@ -1,3 +1,4 @@
+id = "STARRED_BONZO_MASK";
 item = "player_head";
 name = "Bonzo's Mask";
 include("types/helmet", this);

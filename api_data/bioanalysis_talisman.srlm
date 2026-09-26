@@ -1,3 +1,4 @@
+id = "BIOANALYSIS_TALISMAN";
 item = "player_head";
 name = "Bioanalysis Talisman";
 include("types/accessory", this);

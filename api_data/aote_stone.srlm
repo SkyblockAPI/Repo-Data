@@ -1,3 +1,4 @@
+id = "AOTE_STONE";
 item = "player_head";
 name = "Warped Stone";
 include("types/reforge_stone", this);

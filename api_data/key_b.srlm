@@ -1,3 +1,4 @@
+id = "KEY_B";
 item = "iron_ingot";
 name = "Key B";
 rarity = "UNCOMMON";

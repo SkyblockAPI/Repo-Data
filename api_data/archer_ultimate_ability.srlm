@@ -1,3 +1,4 @@
+id = "ARCHER_ULTIMATE_ABILITY";
 item = "bedrock";
 name = "Machine Gun Bow";
 include("types/dungeon", this);

@@ -1,3 +1,4 @@
+id = "JUNK_RING";
 item = "player_head";
 name = "Junk Ring";
 include("types/accessory", this);

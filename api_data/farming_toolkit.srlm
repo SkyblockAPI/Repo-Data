@@ -1,3 +1,4 @@
+id = "FARMING_TOOLKIT";
 item = "player_head";
 name = "Farming Toolkit";
 include("types/none", this);

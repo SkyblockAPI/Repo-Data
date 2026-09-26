@@ -1,4 +1,3 @@
 meta {
-  id = CAULDRON_ITEM;
   include("api_data/cauldron_item", this); 
 };

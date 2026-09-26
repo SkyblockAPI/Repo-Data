@@ -1,4 +1,3 @@
 meta {
-  id = IRON_PICKAXE;
   include("api_data/iron_pickaxe", this); 
 };

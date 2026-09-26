@@ -1,3 +1,4 @@
+id = "ROSE_BOUQUET";
 item = "double_plant";
 name = "§cRose Bouquet";
 rarity = "COMMON";

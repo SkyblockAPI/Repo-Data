@@ -1,3 +1,4 @@
+id = "MAGICAL_LAVA_BUCKET";
 item = "lava_bucket";
 name = "Magical Lava Bucket";
 rarity = "UNCOMMON";

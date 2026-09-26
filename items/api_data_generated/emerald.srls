@@ -1,4 +1,3 @@
 meta {
-  id = EMERALD;
   include("api_data/emerald", this); 
 };

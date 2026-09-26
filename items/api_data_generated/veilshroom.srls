@@ -1,4 +1,3 @@
 meta {
-  id = VEILSHROOM;
   include("api_data/veilshroom", this); 
 };

@@ -1,3 +1,4 @@
+id = "FIERY_FERVOR_HELMET";
 item = "player_head";
 name = "Fiery Fervor Helmet";
 include("types/helmet", this);

@@ -1,4 +1,3 @@
 meta {
-  id = ABYSSAL_LEGGINGS;
   include("api_data/abyssal_leggings", this); 
 };

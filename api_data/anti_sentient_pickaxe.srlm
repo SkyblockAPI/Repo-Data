@@ -1,3 +1,4 @@
+id = "ANTI_SENTIENT_PICKAXE";
 item = "wood_pickaxe";
 name = "Anti-Sentient Pickaxe";
 include("types/sword", this);

@@ -1,4 +1,3 @@
 meta {
-  id = ANCIENT_ELEVATOR;
   include("api_data/ancient_elevator", this); 
 };

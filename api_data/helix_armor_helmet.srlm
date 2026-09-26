@@ -1,3 +1,4 @@
+id = "HELIX_ARMOR_HELMET";
 item = "player_head";
 name = "Helix Helmet";
 include("types/helmet", this);

@@ -1,3 +1,4 @@
+id = "REFINED_UMBER";
 item = "paper";
 name = "Refined Umber";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/umber/refined_umber";

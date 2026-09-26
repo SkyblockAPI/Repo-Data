@@ -1,4 +1,3 @@
 meta {
-  id = LOCUST_LARVA;
   include("api_data/locust_larva", this); 
 };

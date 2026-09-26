@@ -1,4 +1,3 @@
 meta {
-  id = END_BOOTS;
   include("api_data/end_boots", this); 
 };

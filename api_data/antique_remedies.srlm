@@ -1,3 +1,4 @@
+id = "ANTIQUE_REMEDIES";
 item = "red_rose";
 name = "Antique Remedies";
 include("types/pet_item", this);

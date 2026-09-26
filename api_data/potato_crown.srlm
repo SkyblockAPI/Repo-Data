@@ -1,3 +1,4 @@
+id = "POTATO_CROWN";
 item = "gold_helmet";
 name = "Potato Crown";
 include("types/helmet", this);

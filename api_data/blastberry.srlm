@@ -1,3 +1,4 @@
+id = "BLASTBERRY";
 item = "player_head";
 name = "Blastberry";
 include("types/mutation", this);

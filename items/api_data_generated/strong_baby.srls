@@ -1,4 +1,3 @@
 meta {
-  id = STRONG_BABY;
   include("api_data/strong_baby", this); 
 };

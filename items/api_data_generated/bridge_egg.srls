@@ -1,4 +1,3 @@
 meta {
-  id = BRIDGE_EGG;
   include("api_data/bridge_egg", this); 
 };

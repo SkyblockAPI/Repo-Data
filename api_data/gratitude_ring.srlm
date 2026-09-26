@@ -1,3 +1,4 @@
+id = "GRATITUDE_RING";
 item = "player_head";
 name = "Gratitude Ring";
 include("types/accessory", this);

@@ -1,3 +1,4 @@
+id = "CRYSTAL_HOLLOWS_PORTAL";
 item = "player_head";
 name = "Portal to the Crystal Hollows";
 include("types/portal", this);

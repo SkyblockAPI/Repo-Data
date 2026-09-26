@@ -1,4 +1,3 @@
 meta {
-  id = FROSTY_SNOW_BALL;
   include("api_data/frosty_snow_ball", this); 
 };

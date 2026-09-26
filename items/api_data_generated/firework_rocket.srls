@@ -1,4 +1,3 @@
 meta {
-  id = FIREWORK_ROCKET;
   include("api_data/firework_rocket", this); 
 };

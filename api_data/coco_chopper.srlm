@@ -1,3 +1,4 @@
+id = "COCO_CHOPPER";
 item = "gold_axe";
 name = "Cocoa Chopper Mk. I";
 include("types/farming_tool", this);

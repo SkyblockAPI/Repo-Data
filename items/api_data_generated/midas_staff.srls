@@ -1,4 +1,3 @@
 meta {
-  id = MIDAS_STAFF;
   include("api_data/midas_staff", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = EMPEROR_SHOES;
   include("api_data/emperor_shoes", this); 
 };

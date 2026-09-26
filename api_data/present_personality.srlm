@@ -1,3 +1,4 @@
+id = "PRESENT_PERSONALITY";
 item = "player_head";
 name = "Present Minion Skin";
 include("types/cosmetic", this);

@@ -1,4 +1,3 @@
 meta {
-  id = ENCHANTED_EYE_OF_ENDER;
   include("api_data/enchanted_eye_of_ender", this); 
 };

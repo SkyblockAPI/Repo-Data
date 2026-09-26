@@ -1,3 +1,4 @@
+id = "VENOMS_TOUCH";
 item = "bow";
 name = "Venom's Touch";
 include("types/bow", this);

@@ -1,3 +1,4 @@
+id = "LARGE_HUSBANDRY_SACK";
 item = "player_head";
 name = "Large Husbandry Sack";
 include("types/sack", this);

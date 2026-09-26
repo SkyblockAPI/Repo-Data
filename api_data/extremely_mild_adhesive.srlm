@@ -1,3 +1,4 @@
+id = "EXTREMELY_MILD_ADHESIVE";
 item = "paper";
 name = "Extremely Mild Adhesive";
 include("types/reforge_stone", this);

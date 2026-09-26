@@ -1,3 +1,4 @@
+id = "LANTERN";
 item = "player_head";
 name = "Dwarven Lantern";
 include("types/deployable", this);

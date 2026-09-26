@@ -1,3 +1,4 @@
+id = "SAFARI_BELT";
 item = "paper";
 name = "Safari Belt";
 include("types/belt", this);

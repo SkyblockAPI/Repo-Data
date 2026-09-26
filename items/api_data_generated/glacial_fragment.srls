@@ -1,4 +1,3 @@
 meta {
-  id = GLACIAL_FRAGMENT;
   include("api_data/glacial_fragment", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = FIREDUST_DAGGER;
   include("api_data/firedust_dagger", this); 
 };

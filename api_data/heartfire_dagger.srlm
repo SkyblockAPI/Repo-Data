@@ -1,3 +1,4 @@
+id = "HEARTFIRE_DAGGER";
 item = "stone_sword";
 name = "Pyrochaos Dagger";
 include("types/sword", this);

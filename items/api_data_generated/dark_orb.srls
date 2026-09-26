@@ -1,4 +1,3 @@
 meta {
-  id = DARK_ORB;
   include("api_data/dark_orb", this); 
 };

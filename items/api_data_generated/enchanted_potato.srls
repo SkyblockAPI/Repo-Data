@@ -1,4 +1,3 @@
 meta {
-  id = ENCHANTED_POTATO;
   include("api_data/enchanted_potato", this); 
 };

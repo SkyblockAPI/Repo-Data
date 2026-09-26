@@ -1,4 +1,3 @@
 meta {
-  id = ITEM_SPIRIT_BOW;
   include("api_data/item_spirit_bow", this); 
 };

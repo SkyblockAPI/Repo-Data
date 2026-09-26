@@ -1,4 +1,3 @@
 meta {
-  id = REED_BOAT;
   include("api_data/reed_boat", this); 
 };

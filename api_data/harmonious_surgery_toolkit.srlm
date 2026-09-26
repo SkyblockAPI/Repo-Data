@@ -1,3 +1,4 @@
+id = "HARMONIOUS_SURGERY_TOOLKIT";
 item = "player_head";
 name = "Harmonious Surgery Toolkit";
 include("types/accessory", this);

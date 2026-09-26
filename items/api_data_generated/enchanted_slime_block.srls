@@ -1,4 +1,3 @@
 meta {
-  id = ENCHANTED_SLIME_BLOCK;
   include("api_data/enchanted_slime_block", this); 
 };

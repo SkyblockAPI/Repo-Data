@@ -1,3 +1,4 @@
+id = "Z";
 item = "paper";
 name = "Z";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/z";

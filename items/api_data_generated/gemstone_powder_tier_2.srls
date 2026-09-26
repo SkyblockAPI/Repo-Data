@@ -1,4 +1,3 @@
 meta {
-  id = GEMSTONE_POWDER_TIER_2;
   include("api_data/gemstone_powder_tier_2", this); 
 };

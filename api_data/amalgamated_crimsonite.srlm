@@ -1,3 +1,4 @@
+id = "AMALGAMATED_CRIMSONITE";
 item = "paper";
 name = "Amalgamated Crimsonite (Old)";
 this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/blaze/tokens/amalgamated_crimsonite";

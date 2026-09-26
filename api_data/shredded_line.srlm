@@ -1,3 +1,4 @@
+id = "SHREDDED_LINE";
 item = "paper";
 name = "Shredded Line";
 include("types/fishing_rod_part", this);

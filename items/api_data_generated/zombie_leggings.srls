@@ -1,4 +1,3 @@
 meta {
-  id = ZOMBIE_LEGGINGS;
   include("api_data/zombie_leggings", this); 
 };

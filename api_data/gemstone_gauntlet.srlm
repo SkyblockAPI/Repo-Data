@@ -1,3 +1,4 @@
+id = "GEMSTONE_GAUNTLET";
 item = "player_head";
 name = "Gemstone Gauntlet";
 include("types/gauntlet", this);

@@ -1,3 +1,4 @@
+id = "SNOW_SNOWGLOBE";
 item = "player_head";
 name = "Snowglobe Skin";
 include("types/cosmetic", this);

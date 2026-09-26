@@ -1,3 +1,4 @@
+id = "RUNEBOOK";
 item = "player_head";
 name = "Runebook";
 include("types/accessory", this);

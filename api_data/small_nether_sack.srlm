@@ -1,3 +1,4 @@
+id = "SMALL_NETHER_SACK";
 item = "player_head";
 name = "Small Nether Sack";
 include("types/sack", this);

@@ -1,3 +1,4 @@
+id = "FEL_PEARL";
 item = "paper";
 name = "Fel Pearl";
 include("types/dungeon", this);

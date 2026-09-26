@@ -1,3 +1,4 @@
+id = "SNOW_GLOVES";
 item = "player_head";
 name = "Snow Gloves";
 include("types/gloves", this);

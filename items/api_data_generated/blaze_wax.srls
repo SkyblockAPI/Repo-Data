@@ -1,4 +1,3 @@
 meta {
-  id = BLAZE_WAX;
   include("api_data/blaze_wax", this); 
 };

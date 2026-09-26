@@ -1,3 +1,4 @@
+id = "FLOWERING_BOUQUET";
 item = "player_head";
 name = "Flowering Bouquet";
 include("types/reforge_stone", this);

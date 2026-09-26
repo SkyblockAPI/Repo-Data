@@ -1,4 +1,3 @@
 meta {
-  id = DIANAS_BOOKSHELF;
   include("api_data/dianas_bookshelf", this); 
 };

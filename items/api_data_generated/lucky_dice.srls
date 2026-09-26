@@ -1,4 +1,3 @@
 meta {
-  id = LUCKY_DICE;
   include("api_data/lucky_dice", this); 
 };

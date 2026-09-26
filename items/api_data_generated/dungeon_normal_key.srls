@@ -1,4 +1,3 @@
 meta {
-  id = DUNGEON_NORMAL_KEY;
   include("api_data/dungeon_normal_key", this); 
 };

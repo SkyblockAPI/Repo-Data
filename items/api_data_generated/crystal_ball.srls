@@ -1,4 +1,3 @@
 meta {
-  id = CRYSTAL_BALL;
   include("api_data/crystal_ball", this); 
 };

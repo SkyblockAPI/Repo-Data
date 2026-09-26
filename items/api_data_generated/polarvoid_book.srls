@@ -1,4 +1,3 @@
 meta {
-  id = POLARVOID_BOOK;
   include("api_data/polarvoid_book", this); 
 };

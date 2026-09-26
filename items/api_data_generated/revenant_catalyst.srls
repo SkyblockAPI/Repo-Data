@@ -1,4 +1,3 @@
 meta {
-  id = REVENANT_CATALYST;
   include("api_data/revenant_catalyst", this); 
 };

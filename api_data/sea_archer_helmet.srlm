@@ -1,3 +1,4 @@
+id = "SEA_ARCHER_HELMET";
 item = "skeleton_skull";
 name = "Sea Archer Helmet";
 include("types/helmet", this);

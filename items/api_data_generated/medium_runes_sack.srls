@@ -1,4 +1,3 @@
 meta {
-  id = MEDIUM_RUNES_SACK;
   include("api_data/medium_runes_sack", this); 
 };

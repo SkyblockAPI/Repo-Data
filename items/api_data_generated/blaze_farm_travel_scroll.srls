@@ -1,4 +1,3 @@
 meta {
-  id = BLAZE_FARM_TRAVEL_SCROLL;
   include("api_data/blaze_farm_travel_scroll", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = KILLER_PERSONALITY;
   include("api_data/killer_personality", this); 
 };

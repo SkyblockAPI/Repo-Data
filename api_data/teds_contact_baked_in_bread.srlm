@@ -1,3 +1,4 @@
+id = "TEDS_CONTACT_BAKED_IN_BREAD";
 item = "name_tag";
 name = "Ted's Contact Baked In Bread";
 rarity = "EPIC";

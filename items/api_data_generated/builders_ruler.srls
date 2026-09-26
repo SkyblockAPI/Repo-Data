@@ -1,4 +1,3 @@
 meta {
-  id = BUILDERS_RULER;
   include("api_data/builders_ruler", this); 
 };

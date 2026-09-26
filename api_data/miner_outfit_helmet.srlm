@@ -1,3 +1,4 @@
+id = "MINER_OUTFIT_HELMET";
 item = "leather_helmet";
 name = "Prospecting Helmet";
 include("types/helmet", this);

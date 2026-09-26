@@ -1,4 +1,3 @@
 meta {
-  id = FOUR_EYED_FISH;
   include("api_data/four_eyed_fish", this); 
 };

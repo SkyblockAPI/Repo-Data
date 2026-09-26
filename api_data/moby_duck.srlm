@@ -1,3 +1,4 @@
+id = "MOBY_DUCK";
 item = "book";
 name = "Moby-Duck";
 rarity = "RARE";

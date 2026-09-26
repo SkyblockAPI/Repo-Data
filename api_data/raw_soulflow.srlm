@@ -1,3 +1,4 @@
+id = "RAW_SOULFLOW";
 item = "paper";
 name = "Raw Soulflow";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/raw_soulflow";

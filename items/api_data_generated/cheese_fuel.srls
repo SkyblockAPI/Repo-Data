@@ -1,4 +1,3 @@
 meta {
-  id = CHEESE_FUEL;
   include("api_data/cheese_fuel", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = STAINED_GLASS:15;
   include("api_data/stained_glass-15", this); 
 };

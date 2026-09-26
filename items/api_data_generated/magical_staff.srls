@@ -1,4 +1,3 @@
 meta {
-  id = MAGICAL_STAFF;
   include("api_data/magical_staff", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = BERBERIS_BLOWGUN;
   include("api_data/berberis_blowgun", this); 
 };

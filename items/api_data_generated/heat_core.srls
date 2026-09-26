@@ -1,4 +1,3 @@
 meta {
-  id = HEAT_CORE;
   include("api_data/heat_core", this); 
 };

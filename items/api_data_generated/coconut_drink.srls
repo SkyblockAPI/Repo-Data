@@ -1,4 +1,3 @@
 meta {
-  id = COCONUT_DRINK;
   include("api_data/coconut_drink", this); 
 };

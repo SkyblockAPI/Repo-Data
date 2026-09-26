@@ -1,4 +1,3 @@
 meta {
-  id = FINWAVE_CLOAK;
   include("api_data/finwave_cloak", this); 
 };

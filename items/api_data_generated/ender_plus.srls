@@ -1,4 +1,3 @@
 meta {
-  id = ENDER_PLUS;
   include("api_data/ender_plus", this); 
 };

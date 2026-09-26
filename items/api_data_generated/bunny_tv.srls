@@ -1,4 +1,3 @@
 meta {
-  id = BUNNY_TV;
   include("api_data/bunny_tv", this); 
 };

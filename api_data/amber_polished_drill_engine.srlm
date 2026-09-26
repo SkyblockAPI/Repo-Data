@@ -1,3 +1,4 @@
+id = "AMBER_POLISHED_DRILL_ENGINE";
 item = "paper";
 name = "Amber-Polished Drill Engine";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/amber_polished_drill_engine";

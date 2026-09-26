@@ -1,3 +1,4 @@
+id = "TREASURE_TALISMAN";
 item = "player_head";
 name = "Treasure Talisman";
 include("types/accessory", this);

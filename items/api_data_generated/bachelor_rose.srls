@@ -1,4 +1,3 @@
 meta {
-  id = BACHELOR_ROSE;
   include("api_data/bachelor_rose", this); 
 };

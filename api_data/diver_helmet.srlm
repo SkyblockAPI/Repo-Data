@@ -1,3 +1,4 @@
+id = "DIVER_HELMET";
 item = "player_head";
 name = "Diver's Mask";
 include("types/helmet", this);

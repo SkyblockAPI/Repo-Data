@@ -1,4 +1,3 @@
 meta {
-  id = MANTI_CORE;
   include("api_data/manti_core", this); 
 };

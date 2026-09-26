@@ -1,4 +1,3 @@
 meta {
-  id = FLORAL_WHEELBARROW;
   include("api_data/floral_wheelbarrow", this); 
 };

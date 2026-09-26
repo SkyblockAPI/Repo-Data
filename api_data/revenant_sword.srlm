@@ -1,3 +1,4 @@
+id = "REVENANT_SWORD";
 item = "diamond_sword";
 name = "Revenant Falchion";
 include("types/sword", this);

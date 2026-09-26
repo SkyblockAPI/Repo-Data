@@ -1,4 +1,3 @@
 meta {
-  id = ACACIA_DOOR_ITEM;
   include("api_data/acacia_door_item", this); 
 };

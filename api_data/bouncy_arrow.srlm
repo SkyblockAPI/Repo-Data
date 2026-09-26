@@ -1,3 +1,4 @@
+id = "BOUNCY_ARROW";
 item = "arrow";
 name = "Bouncy Arrow";
 include("types/arrow", this);

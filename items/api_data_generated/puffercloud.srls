@@ -1,4 +1,3 @@
 meta {
-  id = PUFFERCLOUD;
   include("api_data/puffercloud", this); 
 };

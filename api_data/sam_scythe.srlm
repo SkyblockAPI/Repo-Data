@@ -1,3 +1,4 @@
+id = "SAM_SCYTHE";
 item = "iron_hoe";
 name = "Sam's Scythe";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/tools/sam_scythe";

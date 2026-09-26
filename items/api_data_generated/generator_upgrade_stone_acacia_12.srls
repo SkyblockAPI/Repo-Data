@@ -1,4 +1,3 @@
 meta {
-  id = GENERATOR_UPGRADE_STONE_ACACIA_12;
   include("api_data/generator_upgrade_stone_acacia_12", this); 
 };

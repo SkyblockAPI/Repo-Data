@@ -1,3 +1,4 @@
+id = "HANDY_BLOOD_CHALICE";
 item = "player_head";
 name = "Handy Blood Chalice";
 include("types/accessory", this);

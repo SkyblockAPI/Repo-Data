@@ -1,3 +1,4 @@
+id = "THE_ART_OF_WAR";
 item = "book";
 name = "The Art of War";
 rarity = "LEGENDARY";

@@ -1,4 +1,3 @@
 meta {
-  id = MAGENTA_MEDIUM_BACKPACK;
   include("api_data/magenta_medium_backpack", this); 
 };

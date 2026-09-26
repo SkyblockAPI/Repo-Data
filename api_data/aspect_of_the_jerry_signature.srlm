@@ -1,3 +1,4 @@
+id = "ASPECT_OF_THE_JERRY_SIGNATURE";
 item = "wood_sword";
 name = "Aspect of the Jerry, Signature Edition";
 include("types/sword", this);

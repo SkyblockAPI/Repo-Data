@@ -1,4 +1,3 @@
 meta {
-  id = NECRON_BLADE;
   include("api_data/necron_blade", this); 
 };

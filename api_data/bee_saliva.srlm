@@ -1,3 +1,4 @@
+id = "BEE_SALIVA";
 item = "paper";
 name = "Bee Saliva";
 include("types/consumable", this);

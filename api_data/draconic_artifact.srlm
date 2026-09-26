@@ -1,3 +1,4 @@
+id = "DRACONIC_ARTIFACT";
 item = "player_head";
 name = "Draconic Artifact";
 include("types/accessory", this);

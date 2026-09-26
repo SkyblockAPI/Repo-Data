@@ -1,4 +1,3 @@
 meta {
-  id = S_LOGO_FRAGMENT;
   include("api_data/s_logo_fragment", this); 
 };

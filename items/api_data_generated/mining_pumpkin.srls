@@ -1,4 +1,3 @@
 meta {
-  id = MINING_PUMPKIN;
   include("api_data/mining_pumpkin", this); 
 };

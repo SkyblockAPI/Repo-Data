@@ -1,4 +1,3 @@
 meta {
-  id = EGG_PILE;
   include("api_data/egg_pile", this); 
 };

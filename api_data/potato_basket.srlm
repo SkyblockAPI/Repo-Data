@@ -1,3 +1,4 @@
+id = "POTATO_BASKET";
 item = "player_head";
 name = "Basket of Hope from the Great Potato War";
 include("types/memento", this);

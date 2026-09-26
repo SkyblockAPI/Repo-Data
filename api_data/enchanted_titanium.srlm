@@ -1,3 +1,4 @@
+id = "ENCHANTED_TITANIUM";
 item = "paper";
 name = "Enchanted Titanium";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/titanium";

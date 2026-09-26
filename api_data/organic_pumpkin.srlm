@@ -1,3 +1,4 @@
+id = "ORGANIC_PUMPKIN";
 item = "pumpkin";
 name = "Organic Pumpkin";
 rarity = "UNCOMMON";

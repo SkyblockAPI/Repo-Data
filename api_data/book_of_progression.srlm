@@ -1,3 +1,4 @@
+id = "BOOK_OF_PROGRESSION";
 item = "book";
 name = "Book of Progression";
 include("types/accessory", this);

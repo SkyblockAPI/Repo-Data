@@ -1,4 +1,3 @@
 meta {
-  id = POTATO_RING;
   include("api_data/potato_ring", this); 
 };

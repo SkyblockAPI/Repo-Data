@@ -1,4 +1,3 @@
 meta {
-  id = DARK_OAK_DOOR_ITEM;
   include("api_data/dark_oak_door_item", this); 
 };

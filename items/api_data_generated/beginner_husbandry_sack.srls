@@ -1,4 +1,3 @@
 meta {
-  id = BEGINNER_HUSBANDRY_SACK;
   include("api_data/beginner_husbandry_sack", this); 
 };

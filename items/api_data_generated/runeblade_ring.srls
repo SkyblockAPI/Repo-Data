@@ -1,4 +1,3 @@
 meta {
-  id = RUNEBLADE_RING;
   include("api_data/runeblade_ring", this); 
 };

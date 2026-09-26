@@ -1,3 +1,4 @@
+id = "ROCK_PAPER_SHEARS";
 item = "shears";
 name = "Rock Paper Shears";
 rarity = "UNCOMMON";

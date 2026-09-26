@@ -1,4 +1,3 @@
 meta {
-  id = POTATO_GENERATOR_10;
   include("api_data/potato_generator_10", this); 
 };

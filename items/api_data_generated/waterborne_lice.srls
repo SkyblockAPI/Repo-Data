@@ -1,4 +1,3 @@
 meta {
-  id = WATERBORNE_LICE;
   include("api_data/waterborne_lice", this); 
 };

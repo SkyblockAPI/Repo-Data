@@ -1,4 +1,3 @@
 meta {
-  id = DIAMONITE;
   include("api_data/diamonite", this); 
 };

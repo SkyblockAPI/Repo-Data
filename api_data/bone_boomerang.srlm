@@ -1,3 +1,4 @@
+id = "BONE_BOOMERANG";
 item = "bone";
 name = "Bonemerang";
 include("types/bow", this);

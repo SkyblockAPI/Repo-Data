@@ -1,4 +1,3 @@
 meta {
-  id = OVERPRICED_DRINK;
   include("api_data/overpriced_drink", this); 
 };

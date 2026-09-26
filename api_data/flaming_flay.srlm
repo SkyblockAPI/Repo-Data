@@ -1,3 +1,4 @@
+id = "FLAMING_FLAY";
 item = "fishing_rod";
 name = "Flaming Flay";
 include("types/sword", this);

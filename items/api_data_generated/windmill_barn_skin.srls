@@ -1,4 +1,3 @@
 meta {
-  id = WINDMILL_BARN_SKIN;
   include("api_data/windmill_barn_skin", this); 
 };

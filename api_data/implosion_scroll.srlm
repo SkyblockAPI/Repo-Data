@@ -1,3 +1,4 @@
+id = "IMPLOSION_SCROLL";
 item = "paper";
 name = "Implosion";
 include("types/dungeon", this);

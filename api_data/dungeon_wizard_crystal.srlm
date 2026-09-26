@@ -1,3 +1,4 @@
+id = "DUNGEON_WIZARD_CRYSTAL";
 item = "player_head";
 name = "Wizard's Crystal";
 include("types/dungeon", this);

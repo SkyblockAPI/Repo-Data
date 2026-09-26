@@ -1,4 +1,3 @@
 meta {
-  id = LOTUS_BRACELET;
   include("api_data/lotus_bracelet", this); 
 };

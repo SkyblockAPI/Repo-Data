@@ -1,4 +1,3 @@
 meta {
-  id = EMBER_FRAGMENT;
   include("api_data/ember_fragment", this); 
 };

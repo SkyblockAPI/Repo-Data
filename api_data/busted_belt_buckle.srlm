@@ -1,3 +1,4 @@
+id = "BUSTED_BELT_BUCKLE";
 item = "paper";
 name = "Busted Belt Buckle";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/junk/busted_belt_buckle";

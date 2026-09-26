@@ -1,4 +1,3 @@
 meta {
-  id = STAINED_CLAY:4;
   include("api_data/stained_clay-4", this); 
 };

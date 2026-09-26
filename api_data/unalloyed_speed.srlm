@@ -1,3 +1,4 @@
+id = "UNALLOYED_SPEED";
 item = "player_head";
 name = "Unalloyed Speed";
 include("types/pet_item", this);

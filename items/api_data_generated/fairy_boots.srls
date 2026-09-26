@@ -1,4 +1,3 @@
 meta {
-  id = FAIRY_BOOTS;
   include("api_data/fairy_boots", this); 
 };

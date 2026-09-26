@@ -1,4 +1,3 @@
 meta {
-  id = TARANTULA_BLACK_WIDOW;
   include("api_data/tarantula_black_widow", this); 
 };

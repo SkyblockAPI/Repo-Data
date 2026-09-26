@@ -1,4 +1,3 @@
 meta {
-  id = BINGO_RELIC;
   include("api_data/bingo_relic", this); 
 };

@@ -1,3 +1,4 @@
+id = "FARMING_1_PORTAL";
 item = "player_head";
 name = "Portal to The Barn";
 include("types/portal", this);

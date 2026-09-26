@@ -1,4 +1,3 @@
 meta {
-  id = SAND;
   include("api_data/sand", this); 
 };

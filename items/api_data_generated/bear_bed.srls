@@ -1,4 +1,3 @@
 meta {
-  id = BEAR_BED;
   include("api_data/bear_bed", this); 
 };

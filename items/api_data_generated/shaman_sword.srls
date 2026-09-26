@@ -1,4 +1,3 @@
 meta {
-  id = SHAMAN_SWORD;
   include("api_data/shaman_sword", this); 
 };

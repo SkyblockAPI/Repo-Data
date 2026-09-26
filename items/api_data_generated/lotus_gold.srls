@@ -1,4 +1,3 @@
 meta {
-  id = LOTUS_GOLD;
   include("api_data/lotus_gold", this); 
 };

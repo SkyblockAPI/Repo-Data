@@ -1,3 +1,4 @@
+id = "GOLD_BARDING";
 item = "gold_barding";
 name = "Gold Horse Armor";
 rarity = "EPIC";

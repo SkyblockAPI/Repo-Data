@@ -1,3 +1,4 @@
+id = "DUECES_BUILDER_CLAY";
 item = "stained_clay";
 name = "The Builder's Clay";
 include("types/helmet", this);

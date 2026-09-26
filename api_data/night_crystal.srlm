@@ -1,3 +1,4 @@
+id = "NIGHT_CRYSTAL";
 item = "player_head";
 name = "Night Crystal";
 include("types/accessory", this);

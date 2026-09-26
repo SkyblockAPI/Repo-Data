@@ -1,3 +1,4 @@
+id = "NIGHT_VISION_CHARM";
 item = "player_head";
 name = "Night Vision Charm";
 include("types/accessory", this);

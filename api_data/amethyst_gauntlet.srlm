@@ -1,3 +1,4 @@
+id = "AMETHYST_GAUNTLET";
 item = "player_head";
 name = "Amethyst Gauntlet";
 include("types/gloves", this);

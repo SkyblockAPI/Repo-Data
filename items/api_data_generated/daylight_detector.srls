@@ -1,4 +1,3 @@
 meta {
-  id = DAYLIGHT_DETECTOR;
   include("api_data/daylight_detector", this); 
 };

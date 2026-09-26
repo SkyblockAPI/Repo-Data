@@ -1,3 +1,4 @@
+id = "BLAZE_WAX";
 item = "player_head";
 name = "Blaze Wax";
 include("types/reforge_stone", this);

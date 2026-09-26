@@ -1,3 +1,4 @@
+id = "GOLD_TROPHY_FISHING_SACK";
 item = "player_head";
 name = "Gold Trophy Sack";
 include("types/sack", this);

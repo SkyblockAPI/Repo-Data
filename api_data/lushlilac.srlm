@@ -1,3 +1,4 @@
+id = "LUSHLILAC";
 item = "paper";
 name = "Lushlilac";
 include("types/salt", this);

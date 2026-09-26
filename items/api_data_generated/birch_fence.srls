@@ -1,4 +1,3 @@
 meta {
-  id = BIRCH_FENCE;
   include("api_data/birch_fence", this); 
 };

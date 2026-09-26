@@ -1,4 +1,3 @@
 meta {
-  id = JUNGLE_TABLE;
   include("api_data/jungle_table", this); 
 };

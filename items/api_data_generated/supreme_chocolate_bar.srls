@@ -1,4 +1,3 @@
 meta {
-  id = SUPREME_CHOCOLATE_BAR;
   include("api_data/supreme_chocolate_bar", this); 
 };

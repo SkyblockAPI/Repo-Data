@@ -1,4 +1,3 @@
 meta {
-  id = SAPLING:2;
   include("api_data/sapling-2", this); 
 };

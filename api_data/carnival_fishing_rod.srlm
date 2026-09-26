@@ -1,3 +1,4 @@
+id = "CARNIVAL_FISHING_ROD";
 item = "fishing_rod";
 name = "Carnival Rod";
 include("types/fishing_rod", this);

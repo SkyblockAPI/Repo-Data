@@ -1,3 +1,4 @@
+id = "ENCHANTED_ENDSTONE";
 item = "ender_stone";
 name = "Enchanted End Stone";
 rarity = "UNCOMMON";

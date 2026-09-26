@@ -1,3 +1,4 @@
+id = "SKYMART_BROCHURE";
 item = "player_head";
 name = "SkyMart Brochure";
 include("types/reforge_stone", this);

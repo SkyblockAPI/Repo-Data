@@ -1,4 +1,3 @@
 meta {
-  id = POND_ISLAND;
   include("api_data/pond_island", this); 
 };

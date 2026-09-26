@@ -1,3 +1,4 @@
+id = "FARM_ARMOR_HELMET";
 item = "hay_block";
 name = "Haymaker Helmet";
 include("types/helmet", this);

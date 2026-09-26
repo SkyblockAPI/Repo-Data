@@ -1,4 +1,3 @@
 meta {
-  id = KELVIN_INVERTER;
   include("api_data/kelvin_inverter", this); 
 };

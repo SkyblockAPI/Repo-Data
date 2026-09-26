@@ -1,4 +1,3 @@
 meta {
-  id = AGGOURDIAN;
   include("api_data/aggourdian", this); 
 };

@@ -1,3 +1,4 @@
+id = "FAMILY_DOUBLOON";
 item = "gold_nugget";
 name = "Doubloon of the Family";
 rarity = "RARE";

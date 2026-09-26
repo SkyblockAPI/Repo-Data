@@ -1,3 +1,4 @@
+id = "CRYPT_SKULL_KEY";
 item = "player_head";
 name = "Crypt Skull Key";
 include("types/dungeon", this);

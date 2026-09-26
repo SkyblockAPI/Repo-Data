@@ -1,3 +1,4 @@
+id = "EMPEROR_HEAD";
 item = "player_head";
 name = "Emperor Head";
 include("types/helmet", this);

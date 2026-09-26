@@ -1,3 +1,4 @@
+id = "PLANT_DIAGNOSTICS_TOOL";
 item = "paper";
 name = "Plant Diagnostics Tool";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/greenhouse/plant_diagnostics_tool";

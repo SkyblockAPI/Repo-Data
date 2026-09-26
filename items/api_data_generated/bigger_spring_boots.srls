@@ -1,4 +1,3 @@
 meta {
-  id = BIGGER_SPRING_BOOTS;
   include("api_data/bigger_spring_boots", this); 
 };

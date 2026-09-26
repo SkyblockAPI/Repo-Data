@@ -1,4 +1,3 @@
 meta {
-  id = IRON_CHEST;
   include("api_data/iron_chest", this); 
 };

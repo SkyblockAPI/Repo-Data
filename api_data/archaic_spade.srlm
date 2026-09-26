@@ -1,3 +1,4 @@
+id = "ARCHAIC_SPADE";
 item = "stone_spade";
 name = "Archaic Spade";
 include("types/spade", this);

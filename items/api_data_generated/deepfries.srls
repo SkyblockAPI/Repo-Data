@@ -1,4 +1,3 @@
 meta {
-  id = DEEPFRIES;
   include("api_data/deepfries", this); 
 };

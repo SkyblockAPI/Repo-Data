@@ -1,4 +1,3 @@
 meta {
-  id = PAPER;
   include("api_data/paper", this); 
 };

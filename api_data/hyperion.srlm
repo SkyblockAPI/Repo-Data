@@ -1,3 +1,4 @@
+id = "HYPERION";
 item = "iron_sword";
 name = "Hyperion";
 include("types/sword", this);

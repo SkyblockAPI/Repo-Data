@@ -1,3 +1,4 @@
+id = "VINYL_BEETLE";
 item = "record_7";
 name = "Not Just a Pest Vinyl";
 rarity = "UNCOMMON";

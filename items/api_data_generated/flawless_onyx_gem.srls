@@ -1,4 +1,3 @@
 meta {
-  id = FLAWLESS_ONYX_GEM;
   include("api_data/flawless_onyx_gem", this); 
 };

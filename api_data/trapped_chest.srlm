@@ -1,3 +1,4 @@
+id = "TRAPPED_CHEST";
 item = "trapped_chest";
 name = "Trapped Chest";
 rarity = "COMMON";

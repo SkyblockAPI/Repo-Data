@@ -1,3 +1,4 @@
+id = "GLACITE_SHARD";
 item = "player_head";
 name = "Glacite Chunk";
 include("types/reforge_stone", this);

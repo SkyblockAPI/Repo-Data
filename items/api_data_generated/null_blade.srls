@@ -1,4 +1,3 @@
 meta {
-  id = NULL_BLADE;
   include("api_data/null_blade", this); 
 };

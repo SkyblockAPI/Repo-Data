@@ -1,3 +1,4 @@
+id = "WYLD_HELMET";
 item = "player_head";
 name = "Wyld Helmet on a Helmet";
 include("types/helmet", this);

@@ -1,3 +1,4 @@
+id = "WARNING_FLARE";
 item = "firework";
 name = "Warning Flare";
 include("types/deployable", this);

@@ -1,3 +1,4 @@
+id = "BEE_PERSONALITY";
 item = "player_head";
 name = "Bee Minion Skin";
 include("types/cosmetic", this);

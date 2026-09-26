@@ -1,4 +1,3 @@
 meta {
-  id = BOTTLE_OF_NIGHTMARE;
   include("api_data/bottle_of_nightmare", this); 
 };

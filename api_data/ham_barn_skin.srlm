@@ -1,3 +1,4 @@
+id = "HAM_BARN_SKIN";
 item = "player_head";
 name = "Ham Barn Skin";
 include("types/cosmetic", this);

@@ -1,3 +1,4 @@
+id = "GAME_FIXER";
 item = "wood_pickaxe";
 name = "Game Fixer";
 include("types/pickaxe", this);

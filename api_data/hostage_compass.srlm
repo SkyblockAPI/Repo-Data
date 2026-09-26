@@ -1,3 +1,4 @@
+id = "HOSTAGE_COMPASS";
 item = "compass";
 name = "Hostage Compass";
 rarity = "UNCOMMON";

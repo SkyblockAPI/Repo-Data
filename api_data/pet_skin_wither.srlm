@@ -1,3 +1,4 @@
+id = "PET_SKIN_WITHER";
 item = "player_head";
 name = "DarkWither Skeleton";
 include("types/cosmetic", this);

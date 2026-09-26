@@ -1,4 +1,3 @@
 meta {
-  id = SILKRIDER_SAFETY_BELT;
   include("api_data/silkrider_safety_belt", this); 
 };

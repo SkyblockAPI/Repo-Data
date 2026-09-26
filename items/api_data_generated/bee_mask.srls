@@ -1,4 +1,3 @@
 meta {
-  id = BEE_MASK;
   include("api_data/bee_mask", this); 
 };

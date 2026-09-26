@@ -1,4 +1,3 @@
 meta {
-  id = DUNGEON_DISC_2;
   include("api_data/dungeon_disc_2", this); 
 };

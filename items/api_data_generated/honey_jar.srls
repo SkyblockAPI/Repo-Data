@@ -1,4 +1,3 @@
 meta {
-  id = HONEY_JAR;
   include("api_data/honey_jar", this); 
 };

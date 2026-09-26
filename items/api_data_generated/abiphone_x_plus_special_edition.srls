@@ -1,4 +1,3 @@
 meta {
-  id = ABIPHONE_X_PLUS_SPECIAL_EDITION;
   include("api_data/abiphone_x_plus_special_edition", this); 
 };

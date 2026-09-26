@@ -1,4 +1,3 @@
 meta {
-  id = DIGESTED_MUSHROOMS;
   include("api_data/digested_mushrooms", this); 
 };

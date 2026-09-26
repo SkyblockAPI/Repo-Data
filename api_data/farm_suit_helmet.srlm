@@ -1,3 +1,4 @@
+id = "FARM_SUIT_HELMET";
 item = "leather_helmet";
 name = "Farmhand Helmet";
 include("types/helmet", this);

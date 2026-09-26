@@ -1,4 +1,3 @@
 meta {
-  id = POTION_AFFINITY_TALISMAN;
   include("api_data/potion_affinity_talisman", this); 
 };

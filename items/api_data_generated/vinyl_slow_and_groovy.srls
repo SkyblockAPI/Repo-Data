@@ -1,4 +1,3 @@
 meta {
-  id = VINYL_SLOW_AND_GROOVY;
   include("api_data/vinyl_slow_and_groovy", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = CHRONO_PICKAXE;
   include("api_data/chrono_pickaxe", this); 
 };

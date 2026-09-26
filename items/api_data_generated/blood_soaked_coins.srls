@@ -1,4 +1,3 @@
 meta {
-  id = BLOOD_SOAKED_COINS;
   include("api_data/blood_soaked_coins", this); 
 };

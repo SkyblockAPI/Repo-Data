@@ -1,3 +1,4 @@
+id = "SHARP_STEAK_STAKE";
 item = "cooked_mutton";
 name = "Super Sharp 'n Stabby Steak Stake";
 include("types/sword", this);

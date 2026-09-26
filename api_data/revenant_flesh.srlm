@@ -1,3 +1,4 @@
+id = "REVENANT_FLESH";
 item = "rotten_flesh";
 name = "Revenant Flesh";
 this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/zombie/revenant_flesh";

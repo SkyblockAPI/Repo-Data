@@ -1,4 +1,3 @@
 meta {
-  id = ASPECT_OF_THE_JERRY;
   include("api_data/aspect_of_the_jerry", this); 
 };

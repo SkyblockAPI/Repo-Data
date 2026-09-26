@@ -1,4 +1,3 @@
 meta {
-  id = ZOMBIE_SOLDIER_CHESTPLATE;
   include("api_data/zombie_soldier_chestplate", this); 
 };

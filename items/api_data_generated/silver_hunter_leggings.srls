@@ -1,4 +1,3 @@
 meta {
-  id = SILVER_HUNTER_LEGGINGS;
   include("api_data/silver_hunter_leggings", this); 
 };

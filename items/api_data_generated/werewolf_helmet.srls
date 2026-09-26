@@ -1,4 +1,3 @@
 meta {
-  id = WEREWOLF_HELMET;
   include("api_data/werewolf_helmet", this); 
 };

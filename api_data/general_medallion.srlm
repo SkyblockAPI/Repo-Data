@@ -1,3 +1,4 @@
+id = "GENERAL_MEDALLION";
 item = "player_head";
 name = "General's Medallion";
 include("types/accessory", this);

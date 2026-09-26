@@ -1,3 +1,4 @@
+id = "REAPER_GEM";
 item = "player_head";
 name = "Reaper Gem";
 include("types/pet_item", this);

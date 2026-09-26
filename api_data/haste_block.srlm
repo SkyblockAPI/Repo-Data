@@ -1,3 +1,4 @@
+id = "HASTE_BLOCK";
 item = "ender_stone";
 name = "Haste Block";
 rarity = "UNCOMMON";

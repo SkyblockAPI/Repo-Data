@@ -1,3 +1,4 @@
+id = "MINING_1_PORTAL";
 item = "player_head";
 name = "Portal to the Gold Mine";
 include("types/portal", this);

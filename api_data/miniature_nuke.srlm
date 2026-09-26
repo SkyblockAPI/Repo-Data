@@ -1,3 +1,4 @@
+id = "MINIATURE_NUKE";
 item = "player_head";
 name = "Miniature Nuke";
 include("types/deployable", this);

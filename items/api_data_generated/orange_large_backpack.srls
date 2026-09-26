@@ -1,4 +1,3 @@
 meta {
-  id = ORANGE_LARGE_BACKPACK;
   include("api_data/orange_large_backpack", this); 
 };

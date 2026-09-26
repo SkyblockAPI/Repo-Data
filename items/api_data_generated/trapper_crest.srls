@@ -1,4 +1,3 @@
 meta {
-  id = TRAPPER_CREST;
   include("api_data/trapper_crest", this); 
 };

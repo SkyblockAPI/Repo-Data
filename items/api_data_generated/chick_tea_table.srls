@@ -1,4 +1,3 @@
 meta {
-  id = CHICK_TEA_TABLE;
   include("api_data/chick_tea_table", this); 
 };

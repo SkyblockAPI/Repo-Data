@@ -1,4 +1,3 @@
 meta {
-  id = ARTIFACT_OF_SPACE;
   include("api_data/artifact_of_space", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = ANTIQUE_REMEDIES;
   include("api_data/antique_remedies", this); 
 };

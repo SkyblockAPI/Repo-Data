@@ -1,4 +1,3 @@
 meta {
-  id = BERSERKER_BOOTS;
   include("api_data/berserker_boots", this); 
 };

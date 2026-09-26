@@ -1,4 +1,3 @@
 meta {
-  id = FRESHLY_BAKED_RING;
   include("api_data/freshly_baked_ring", this); 
 };

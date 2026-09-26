@@ -1,3 +1,4 @@
+id = "COOKED_CHICKEN";
 item = "cooked_chicken";
 name = "Cooked Chicken";
 rarity = "COMMON";

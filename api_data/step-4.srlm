@@ -1,3 +1,4 @@
+id = "STEP:4";
 item = "step";
 name = "Brick Slab";
 rarity = "COMMON";

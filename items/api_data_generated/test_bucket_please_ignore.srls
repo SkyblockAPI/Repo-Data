@@ -1,4 +1,3 @@
 meta {
-  id = TEST_BUCKET_PLEASE_IGNORE;
   include("api_data/test_bucket_please_ignore", this); 
 };

@@ -1,3 +1,4 @@
+id = "PEST_TRAP";
 item = "paper";
 name = "Pest Trap";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/pests/pest_trap";

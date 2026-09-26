@@ -1,4 +1,3 @@
 meta {
-  id = BARRY_PEN;
   include("api_data/barry_pen", this); 
 };

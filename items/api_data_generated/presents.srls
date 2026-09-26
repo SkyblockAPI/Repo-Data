@@ -1,4 +1,3 @@
 meta {
-  id = PRESENTS;
   include("api_data/presents", this); 
 };

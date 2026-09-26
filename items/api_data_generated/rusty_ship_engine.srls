@@ -1,4 +1,3 @@
 meta {
-  id = RUSTY_SHIP_ENGINE;
   include("api_data/rusty_ship_engine", this); 
 };

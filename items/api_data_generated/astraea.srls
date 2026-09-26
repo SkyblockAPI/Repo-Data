@@ -1,4 +1,3 @@
 meta {
-  id = ASTRAEA;
   include("api_data/astraea", this); 
 };

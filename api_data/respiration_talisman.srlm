@@ -1,3 +1,4 @@
+id = "RESPIRATION_TALISMAN";
 item = "player_head";
 name = "Respiration Talisman";
 include("types/accessory", this);

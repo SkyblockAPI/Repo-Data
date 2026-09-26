@@ -1,4 +1,3 @@
 meta {
-  id = VOODOO_DOLL;
   include("api_data/voodoo_doll", this); 
 };

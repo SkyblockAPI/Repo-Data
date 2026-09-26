@@ -1,4 +1,3 @@
 meta {
-  id = COAL_BLOCK;
   include("api_data/coal_block", this); 
 };

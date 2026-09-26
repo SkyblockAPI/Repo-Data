@@ -1,4 +1,3 @@
 meta {
-  id = HEMOBOMB;
   include("api_data/hemobomb", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = FISH_PERSONALITY;
   include("api_data/fish_personality", this); 
 };

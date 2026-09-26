@@ -1,4 +1,3 @@
 meta {
-  id = BAT_PERSON_CHESTPLATE;
   include("api_data/bat_person_chestplate", this); 
 };

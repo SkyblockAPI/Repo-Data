@@ -1,3 +1,4 @@
+id = "BONZO_STATUE";
 item = "player_head";
 name = "Bonzo Statue";
 include("types/cosmetic", this);

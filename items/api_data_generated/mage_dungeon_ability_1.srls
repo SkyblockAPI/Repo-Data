@@ -1,4 +1,3 @@
 meta {
-  id = MAGE_DUNGEON_ABILITY_1;
   include("api_data/mage_dungeon_ability_1", this); 
 };

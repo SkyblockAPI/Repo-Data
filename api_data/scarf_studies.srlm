@@ -1,3 +1,4 @@
+id = "SCARF_STUDIES";
 item = "player_head";
 name = "Scarf's Studies";
 include("types/accessory", this);

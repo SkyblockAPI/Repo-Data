@@ -1,4 +1,3 @@
 meta {
-  id = DRAGONFADE_CLOAK;
   include("api_data/dragonfade_cloak", this); 
 };

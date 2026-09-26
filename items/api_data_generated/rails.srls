@@ -1,4 +1,3 @@
 meta {
-  id = RAILS;
   include("api_data/rails", this); 
 };

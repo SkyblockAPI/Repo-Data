@@ -1,3 +1,4 @@
+id = "PET_SKIN_DRAGON_NEON_RED";
 item = "player_head";
 name = "Neon RedEnder Dragon";
 include("types/cosmetic", this);

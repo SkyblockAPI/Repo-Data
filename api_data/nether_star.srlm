@@ -1,3 +1,4 @@
+id = "NETHER_STAR";
 item = "nether_star";
 name = "Nether Star";
 rarity = "LEGENDARY";

@@ -1,4 +1,3 @@
 meta {
-  id = WISE_FRAGMENT;
   include("api_data/wise_fragment", this); 
 };

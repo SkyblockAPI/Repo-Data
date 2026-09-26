@@ -1,3 +1,4 @@
+id = "KUUDRA_FOLLOWER_RELIC";
 item = "player_head";
 name = "Kuudra Follower Relic";
 include("types/accessory", this);

@@ -1,3 +1,4 @@
+id = "LAPIS_ORE";
 item = "lapis_ore";
 name = "Lapis Lazuli Ore";
 rarity = "UNCOMMON";

@@ -1,4 +1,3 @@
 meta {
-  id = PROTOCHICKEN;
   include("api_data/protochicken", this); 
 };

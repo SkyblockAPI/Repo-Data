@@ -1,4 +1,3 @@
 meta {
-  id = RED_THORNLEAF_TEA;
   include("api_data/red_thornleaf_tea", this); 
 };

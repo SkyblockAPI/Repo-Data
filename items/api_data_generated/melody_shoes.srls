@@ -1,4 +1,3 @@
 meta {
-  id = MELODY_SHOES;
   include("api_data/melody_shoes", this); 
 };

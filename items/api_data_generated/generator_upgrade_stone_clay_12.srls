@@ -1,4 +1,3 @@
 meta {
-  id = GENERATOR_UPGRADE_STONE_CLAY_12;
   include("api_data/generator_upgrade_stone_clay_12", this); 
 };

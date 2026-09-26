@@ -1,4 +1,3 @@
 meta {
-  id = MUSHROOM_SPORE;
   include("api_data/mushroom_spore", this); 
 };

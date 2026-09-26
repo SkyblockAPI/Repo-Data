@@ -1,3 +1,4 @@
+id = "UNSTABLE_DRAGON_HELMET";
 item = "player_head";
 name = "Unstable Dragon Helmet";
 include("types/helmet", this);

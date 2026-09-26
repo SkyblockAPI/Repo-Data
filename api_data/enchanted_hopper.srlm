@@ -1,3 +1,4 @@
+id = "ENCHANTED_HOPPER";
 item = "hopper";
 name = "Enchanted Hopper";
 rarity = "RARE";

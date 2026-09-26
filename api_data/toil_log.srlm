@@ -1,3 +1,4 @@
+id = "TOIL_LOG";
 item = "player_head";
 name = "Toil Log";
 include("types/reforge_stone", this);

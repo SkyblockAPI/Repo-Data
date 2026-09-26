@@ -1,3 +1,4 @@
+id = "HEALING_TALISMAN";
 item = "player_head";
 name = "Healing Talisman";
 include("types/accessory", this);

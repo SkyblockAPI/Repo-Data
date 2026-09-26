@@ -1,3 +1,4 @@
+id = "POLYMORPH_WAND";
 item = "stick";
 name = "Polymorph Wand";
 include("types/sword", this);

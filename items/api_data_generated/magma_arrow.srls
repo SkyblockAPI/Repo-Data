@@ -1,4 +1,3 @@
 meta {
-  id = MAGMA_ARROW;
   include("api_data/magma_arrow", this); 
 };

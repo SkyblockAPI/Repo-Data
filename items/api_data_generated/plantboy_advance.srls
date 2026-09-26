@@ -1,4 +1,3 @@
 meta {
-  id = PLANTBOY_ADVANCE;
   include("api_data/plantboy_advance", this); 
 };

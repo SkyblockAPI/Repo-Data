@@ -1,3 +1,4 @@
+id = "DRAGONFADE_CLOAK";
 item = "player_head";
 name = "Dragonfade Cloak";
 include("types/cloak", this);

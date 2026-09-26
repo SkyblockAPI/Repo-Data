@@ -1,3 +1,4 @@
+id = "PET_SKIN_ENDERMAN_SLAYER";
 item = "player_head";
 name = "Void ConquerorEnderman";
 include("types/cosmetic", this);

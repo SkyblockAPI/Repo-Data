@@ -1,4 +1,3 @@
 meta {
-  id = SHARP_STEAK_STAKE;
   include("api_data/sharp_steak_stake", this); 
 };

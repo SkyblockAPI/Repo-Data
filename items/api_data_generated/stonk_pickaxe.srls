@@ -1,4 +1,3 @@
 meta {
-  id = STONK_PICKAXE;
   include("api_data/stonk_pickaxe", this); 
 };

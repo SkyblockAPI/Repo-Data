@@ -1,3 +1,4 @@
+id = "VANQUISHED_GHAST_CLOAK";
 item = "player_head";
 name = "Vanquished Ghast Cloak";
 include("types/cloak", this);

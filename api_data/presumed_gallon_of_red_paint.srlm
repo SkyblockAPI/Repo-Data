@@ -1,3 +1,4 @@
+id = "PRESUMED_GALLON_OF_RED_PAINT";
 item = "player_head";
 name = "Presumed Gallon of Red Paint";
 include("types/reforge_stone", this);

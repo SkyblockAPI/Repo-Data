@@ -1,3 +1,4 @@
+id = "DESIGNER_COFFEE_BEANS";
 item = "paper";
 name = "Designer Coffee Beans";
 this["minecraft:item_model"] = "minecraft:beetroot_seeds";

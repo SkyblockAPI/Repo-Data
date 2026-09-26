@@ -1,3 +1,4 @@
+id = "HILT_OF_REVELATIONS";
 item = "stick";
 name = "Hilt of Revelations";
 ::items::prototypes::ingredient::(this);

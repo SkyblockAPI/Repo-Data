@@ -1,3 +1,4 @@
+id = "TREASURE_HOOK";
 item = "paper";
 name = "Treasure Hook";
 include("types/fishing_rod_part", this);

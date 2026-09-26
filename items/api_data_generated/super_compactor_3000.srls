@@ -1,4 +1,3 @@
 meta {
-  id = SUPER_COMPACTOR_3000;
   include("api_data/super_compactor_3000", this); 
 };

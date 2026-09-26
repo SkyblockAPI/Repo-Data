@@ -1,3 +1,4 @@
+id = "VACCINE_TALISMAN";
 item = "player_head";
 name = "Vaccine Talisman";
 include("types/accessory", this);

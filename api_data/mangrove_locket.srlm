@@ -1,3 +1,4 @@
+id = "MANGROVE_LOCKET";
 item = "player_head";
 name = "Mangrove Locket";
 include("types/necklace", this);

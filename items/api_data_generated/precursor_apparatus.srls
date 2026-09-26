@@ -1,4 +1,3 @@
 meta {
-  id = PRECURSOR_APPARATUS;
   include("api_data/precursor_apparatus", this); 
 };

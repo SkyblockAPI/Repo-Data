@@ -1,4 +1,3 @@
 meta {
-  id = GRINCH_PERSONALITY;
   include("api_data/grinch_personality", this); 
 };

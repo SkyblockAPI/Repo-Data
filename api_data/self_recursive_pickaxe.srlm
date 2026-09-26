@@ -1,3 +1,4 @@
+id = "SELF_RECURSIVE_PICKAXE";
 item = "diamond_pickaxe";
 name = "Self-Recursive Pickaxe";
 include("types/sword", this);

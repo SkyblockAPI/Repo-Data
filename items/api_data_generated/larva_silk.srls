@@ -1,4 +1,3 @@
 meta {
-  id = LARVA_SILK;
   include("api_data/larva_silk", this); 
 };

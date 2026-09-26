@@ -1,3 +1,4 @@
+id = "GILLSPLASH_GLOVES";
 item = "player_head";
 name = "Gillsplash Gloves";
 include("types/gloves", this);

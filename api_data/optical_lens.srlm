@@ -1,3 +1,4 @@
+id = "OPTICAL_LENS";
 item = "player_head";
 name = "Optical Lens";
 include("types/reforge_stone", this);

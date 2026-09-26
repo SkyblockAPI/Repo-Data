@@ -1,3 +1,4 @@
+id = "DARK_PEBBLE";
 item = "flint";
 name = "Dark Pebble";
 rarity = "COMMON";

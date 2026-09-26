@@ -1,4 +1,3 @@
 meta {
-  id = CELESTE_BOOTS;
   include("api_data/celeste_boots", this); 
 };

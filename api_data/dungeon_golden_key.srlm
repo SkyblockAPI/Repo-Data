@@ -1,3 +1,4 @@
+id = "DUNGEON_GOLDEN_KEY";
 item = "player_head";
 name = "Golden Key";
 include("types/dungeon", this);

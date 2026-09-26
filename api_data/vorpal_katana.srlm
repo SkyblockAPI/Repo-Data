@@ -1,3 +1,4 @@
+id = "VORPAL_KATANA";
 item = "blaze_rod";
 name = "Vorpal Katana";
 include("types/sword", this);

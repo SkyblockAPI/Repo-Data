@@ -1,4 +1,3 @@
 meta {
-  id = LONG_GRASS:1;
   include("api_data/long_grass-1", this); 
 };

@@ -1,3 +1,4 @@
+id = "POWER_CRYSTAL";
 item = "nether_star";
 name = "Power Crystal";
 rarity = "EPIC";

@@ -1,3 +1,4 @@
+id = "POISON_SAMPLE";
 item = "paper";
 name = "Poison Sample";
 this["minecraft:item_model"] = "hypixel_skyblock:item/combat_1/poison_sample";

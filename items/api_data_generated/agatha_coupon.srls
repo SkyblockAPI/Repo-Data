@@ -1,4 +1,3 @@
 meta {
-  id = AGATHA_COUPON;
   include("api_data/agatha_coupon", this); 
 };

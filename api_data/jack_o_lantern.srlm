@@ -1,3 +1,4 @@
+id = "JACK_O_LANTERN";
 item = "jack_o_lantern";
 name = "Jack o' Lantern";
 rarity = "COMMON";

@@ -1,4 +1,3 @@
 meta {
-  id = TUNGSTEN_PLATE;
   include("api_data/tungsten_plate", this); 
 };

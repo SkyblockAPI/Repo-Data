@@ -1,3 +1,4 @@
+id = "REFINED_AMBER";
 item = "player_head";
 name = "Andesite Whetstone";
 include("types/reforge_stone", this);

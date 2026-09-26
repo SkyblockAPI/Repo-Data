@@ -1,3 +1,4 @@
+id = "SOUL_FRAGMENT";
 item = "paper";
 name = "Soul Fragment";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/soul_fragment";

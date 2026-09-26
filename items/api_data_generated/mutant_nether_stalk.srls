@@ -1,4 +1,3 @@
 meta {
-  id = MUTANT_NETHER_STALK;
   include("api_data/mutant_nether_stalk", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = MORNING_DEW;
   include("api_data/morning_dew", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = GOLEM_HAT;
   include("api_data/golem_hat", this); 
 };

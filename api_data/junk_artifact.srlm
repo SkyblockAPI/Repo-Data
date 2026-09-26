@@ -1,3 +1,4 @@
+id = "JUNK_ARTIFACT";
 item = "player_head";
 name = "Junk Artifact";
 include("types/accessory", this);

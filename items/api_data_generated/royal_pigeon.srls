@@ -1,4 +1,3 @@
 meta {
-  id = ROYAL_PIGEON;
   include("api_data/royal_pigeon", this); 
 };

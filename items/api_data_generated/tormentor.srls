@@ -1,4 +1,3 @@
 meta {
-  id = TORMENTOR;
   include("api_data/tormentor", this); 
 };

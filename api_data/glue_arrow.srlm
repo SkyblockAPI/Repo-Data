@@ -1,3 +1,4 @@
+id = "GLUE_ARROW";
 item = "arrow";
 name = "Glue Arrow";
 include("types/arrow", this);

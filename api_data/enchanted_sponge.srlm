@@ -1,3 +1,4 @@
+id = "ENCHANTED_SPONGE";
 item = "sponge";
 name = "Enchanted Sponge";
 rarity = "UNCOMMON";

@@ -1,4 +1,3 @@
 meta {
-  id = BAG_OF_GOLD;
   include("api_data/bag_of_gold", this); 
 };

@@ -1,3 +1,4 @@
+id = "INFINITE_SPIRIT_LEAP";
 item = "player_head";
 name = "Infinileap";
 include("types/dungeon", this);

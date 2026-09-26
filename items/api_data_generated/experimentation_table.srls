@@ -1,4 +1,3 @@
 meta {
-  id = EXPERIMENTATION_TABLE;
   include("api_data/experimentation_table", this); 
 };

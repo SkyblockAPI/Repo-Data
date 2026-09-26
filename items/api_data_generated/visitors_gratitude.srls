@@ -1,4 +1,3 @@
 meta {
-  id = VISITORS_GRATITUDE;
   include("api_data/visitors_gratitude", this); 
 };

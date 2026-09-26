@@ -1,3 +1,4 @@
+id = "WILSON_ENGINEERING_PLANS";
 item = "paper";
 name = "Wilson's Engineering Plans";
 ::items::prototypes::ingredient::(this);

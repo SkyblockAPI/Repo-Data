@@ -1,4 +1,3 @@
 meta {
-  id = RAMPART_BOOTS;
   include("api_data/rampart_boots", this); 
 };

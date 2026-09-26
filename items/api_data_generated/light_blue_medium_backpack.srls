@@ -1,4 +1,3 @@
 meta {
-  id = LIGHT_BLUE_MEDIUM_BACKPACK;
   include("api_data/light_blue_medium_backpack", this); 
 };

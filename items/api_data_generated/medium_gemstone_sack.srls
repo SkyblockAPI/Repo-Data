@@ -1,4 +1,3 @@
 meta {
-  id = MEDIUM_GEMSTONE_SACK;
   include("api_data/medium_gemstone_sack", this); 
 };

@@ -1,3 +1,4 @@
+id = "CHOCOLATE_CHIP";
 item = "cookie";
 name = "Fang-tastic Chocolate Chip";
 include("types/reforge_stone", this);

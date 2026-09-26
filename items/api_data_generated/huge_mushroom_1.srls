@@ -1,4 +1,3 @@
 meta {
-  id = HUGE_MUSHROOM_1;
   include("api_data/huge_mushroom_1", this); 
 };

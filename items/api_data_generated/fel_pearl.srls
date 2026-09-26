@@ -1,4 +1,3 @@
 meta {
-  id = FEL_PEARL;
   include("api_data/fel_pearl", this); 
 };

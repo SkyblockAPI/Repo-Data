@@ -1,3 +1,4 @@
+id = "ARCHAEOLOGIST_COMPASS";
 item = "compass";
 name = "Archaeologist's Compass";
 include("types/accessory", this);

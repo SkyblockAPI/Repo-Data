@@ -1,3 +1,4 @@
+id = "SPEED_TALISMAN";
 item = "player_head";
 name = "Speed Talisman";
 include("types/accessory", this);

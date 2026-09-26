@@ -1,3 +1,4 @@
+id = "PORTABLE_CAMPFIRE";
 item = "furnace";
 name = "Portable Campfire";
 rarity = "RARE";

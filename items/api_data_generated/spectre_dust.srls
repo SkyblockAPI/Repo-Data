@@ -1,4 +1,3 @@
 meta {
-  id = SPECTRE_DUST;
   include("api_data/spectre_dust", this); 
 };

@@ -1,3 +1,4 @@
+id = "GIANT_FRAGMENT_DIAMOND";
 item = "paper";
 name = "Diamante's Handle";
 include("types/dungeon", this);

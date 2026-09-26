@@ -1,3 +1,4 @@
+id = "SHARK_SCALE_HELMET";
 item = "player_head";
 name = "Shark Scale Helmet";
 include("types/helmet", this);

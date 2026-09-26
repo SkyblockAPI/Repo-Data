@@ -1,3 +1,4 @@
+id = "LESSER_ORB_OF_HEALING";
 item = "player_head";
 name = "Lesser Orb of Healing";
 include("types/dungeon", this);

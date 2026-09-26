@@ -1,4 +1,3 @@
 meta {
-  id = BLACK_COFFEE;
   include("api_data/black_coffee", this); 
 };

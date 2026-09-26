@@ -1,3 +1,4 @@
+id = "ZORROS_CAPE";
 item = "player_head";
 name = "Zorro's Cape";
 include("types/cloak", this);

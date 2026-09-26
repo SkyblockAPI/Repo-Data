@@ -1,4 +1,3 @@
 meta {
-  id = NULL_ATOM;
   include("api_data/null_atom", this); 
 };

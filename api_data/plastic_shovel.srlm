@@ -1,3 +1,4 @@
+id = "PLASTIC_SHOVEL";
 item = "iron_spade";
 name = "Plastic Shovel";
 rarity = "SPECIAL";

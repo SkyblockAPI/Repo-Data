@@ -1,4 +1,3 @@
 meta {
-  id = INFESTED_DJ_SET;
   include("api_data/infested_dj_set", this); 
 };

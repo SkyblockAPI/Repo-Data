@@ -1,3 +1,4 @@
+id = "DITTO_SKULL";
 item = "player_head";
 name = "Ditto Skull";
 include("types/cosmetic", this);

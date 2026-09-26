@@ -1,4 +1,3 @@
 meta {
-  id = ACCRETION_RING;
   include("api_data/accretion_ring", this); 
 };

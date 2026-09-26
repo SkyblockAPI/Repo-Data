@@ -1,3 +1,4 @@
+id = "HOLLOW_LEGGINGS";
 item = "leather_leggings";
 name = "Hollow Leggings";
 include("types/leggings", this);

@@ -1,3 +1,4 @@
+id = "DANGER_3_PORTAL";
 item = "player_head";
 name = "Portal to The End";
 include("types/portal", this);

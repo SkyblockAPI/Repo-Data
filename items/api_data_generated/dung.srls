@@ -1,4 +1,3 @@
 meta {
-  id = DUNG;
   include("api_data/dung", this); 
 };

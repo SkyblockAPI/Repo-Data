@@ -1,3 +1,4 @@
+id = "CADUCOUS_STEM";
 item = "double_plant";
 name = "Caducous Stem";
 rarity = "COMMON";

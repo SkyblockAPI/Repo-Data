@@ -1,4 +1,3 @@
 meta {
-  id = GRAVITY_TALISMAN;
   include("api_data/gravity_talisman", this); 
 };

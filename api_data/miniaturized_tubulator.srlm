@@ -1,3 +1,4 @@
+id = "MINIATURIZED_TUBULATOR";
 item = "player_head";
 name = "Miniaturized Tubulator";
 include("types/accessory", this);

@@ -1,3 +1,4 @@
+id = "MORNING_DEW";
 item = "paper";
 name = "Morning Dew";
 include("types/reforge_stone", this);

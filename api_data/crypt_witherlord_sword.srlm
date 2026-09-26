@@ -1,3 +1,4 @@
+id = "CRYPT_WITHERLORD_SWORD";
 item = "diamond_sword";
 name = "Crypt Witherlord Sword";
 include("types/sword", this);

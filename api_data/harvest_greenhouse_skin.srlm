@@ -1,3 +1,4 @@
+id = "HARVEST_GREENHOUSE_SKIN";
 item = "player_head";
 name = "Harvest Greenhouse Skin";
 include("types/cosmetic", this);

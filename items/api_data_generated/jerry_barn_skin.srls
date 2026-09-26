@@ -1,4 +1,3 @@
 meta {
-  id = JERRY_BARN_SKIN;
   include("api_data/jerry_barn_skin", this); 
 };

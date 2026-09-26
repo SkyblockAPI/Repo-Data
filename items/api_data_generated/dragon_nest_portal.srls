@@ -1,4 +1,3 @@
 meta {
-  id = DRAGON_NEST_PORTAL;
   include("api_data/dragon_nest_portal", this); 
 };

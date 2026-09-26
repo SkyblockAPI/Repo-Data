@@ -1,3 +1,4 @@
+id = "JERRY_TALISMAN_GOLDEN";
 item = "player_head";
 name = "Golden Jerry Artifact";
 include("types/accessory", this);

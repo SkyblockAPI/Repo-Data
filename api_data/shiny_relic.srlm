@@ -1,3 +1,4 @@
+id = "SHINY_RELIC";
 item = "player_head";
 name = "Shiny Relic";
 include("types/memento", this);

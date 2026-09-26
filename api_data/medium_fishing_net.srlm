@@ -1,3 +1,4 @@
+id = "MEDIUM_FISHING_NET";
 item = "paper";
 name = "Medium Fishing Net";
 include("types/fishing_net", this);

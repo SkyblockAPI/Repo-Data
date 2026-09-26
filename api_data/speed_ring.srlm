@@ -1,3 +1,4 @@
+id = "SPEED_RING";
 item = "player_head";
 name = "Speed Ring";
 include("types/accessory", this);

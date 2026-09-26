@@ -1,4 +1,3 @@
 meta {
-  id = BLOOMING_THORNS;
   include("api_data/blooming_thorns", this); 
 };

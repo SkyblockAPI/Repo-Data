@@ -1,3 +1,4 @@
+id = "BAT_PERSON_RING";
 item = "player_head";
 name = "Bat Person Ring";
 include("types/accessory", this);

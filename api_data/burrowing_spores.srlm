@@ -1,3 +1,4 @@
+id = "BURROWING_SPORES";
 item = "player_head";
 name = "Burrowing Spores";
 include("types/reforge_stone", this);

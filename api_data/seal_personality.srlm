@@ -1,3 +1,4 @@
+id = "SEAL_PERSONALITY";
 item = "player_head";
 name = "Seal Minion Skin";
 include("types/cosmetic", this);

@@ -1,3 +1,4 @@
+id = "MAGMA_LORD_GAUNTLET";
 item = "player_head";
 name = "Magma Lord Necklace";
 include("types/necklace", this);

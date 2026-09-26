@@ -1,3 +1,4 @@
+id = "MIRRORED_STRING";
 item = "string";
 name = "gnirtS";
 rarity = "COMMON";

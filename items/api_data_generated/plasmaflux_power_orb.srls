@@ -1,4 +1,3 @@
 meta {
-  id = PLASMAFLUX_POWER_ORB;
   include("api_data/plasmaflux_power_orb", this); 
 };

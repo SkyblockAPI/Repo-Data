@@ -1,3 +1,4 @@
+id = "SCARF_FRAGMENT";
 item = "red_rose";
 name = "Scarf Fragment";
 include("types/dungeon", this);

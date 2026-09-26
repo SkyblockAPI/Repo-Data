@@ -1,4 +1,3 @@
 meta {
-  id = SLIME_HAT;
   include("api_data/slime_hat", this); 
 };

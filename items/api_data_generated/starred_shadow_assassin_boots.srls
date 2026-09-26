@@ -1,4 +1,3 @@
 meta {
-  id = STARRED_SHADOW_ASSASSIN_BOOTS;
   include("api_data/starred_shadow_assassin_boots", this); 
 };

@@ -1,3 +1,4 @@
+id = "LUXURIOUS_SPOOL";
 item = "player_head";
 name = "Luxurious Spool";
 include("types/reforge_stone", this);

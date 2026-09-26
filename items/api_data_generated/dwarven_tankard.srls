@@ -1,4 +1,3 @@
 meta {
-  id = DWARVEN_TANKARD;
   include("api_data/dwarven_tankard", this); 
 };

@@ -1,3 +1,4 @@
+id = "NETHERRACK";
 item = "netherrack";
 name = "Netherrack";
 rarity = "COMMON";

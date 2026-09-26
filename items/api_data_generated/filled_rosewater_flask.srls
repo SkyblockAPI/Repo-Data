@@ -1,4 +1,3 @@
 meta {
-  id = FILLED_ROSEWATER_FLASK;
   include("api_data/filled_rosewater_flask", this); 
 };

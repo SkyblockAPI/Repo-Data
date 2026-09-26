@@ -1,4 +1,3 @@
 meta {
-  id = SNOW_SHOVEL;
   include("api_data/snow_shovel", this); 
 };

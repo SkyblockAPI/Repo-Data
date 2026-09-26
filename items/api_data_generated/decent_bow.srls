@@ -1,4 +1,3 @@
 meta {
-  id = DECENT_BOW;
   include("api_data/decent_bow", this); 
 };

@@ -1,3 +1,4 @@
+id = "PREMIUM_FLESH";
 item = "player_head";
 name = "Premium Flesh";
 include("types/reforge_stone", this);

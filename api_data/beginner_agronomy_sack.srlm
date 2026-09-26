@@ -1,3 +1,4 @@
+id = "BEGINNER_AGRONOMY_SACK";
 item = "player_head";
 name = "Beginner Agronomy Sack";
 include("types/sack", this);

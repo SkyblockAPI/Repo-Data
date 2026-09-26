@@ -1,4 +1,3 @@
 meta {
-  id = WHITE_GIFT;
   include("api_data/white_gift", this); 
 };

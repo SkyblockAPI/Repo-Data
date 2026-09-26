@@ -1,3 +1,4 @@
+id = "LEAVE_CHALLENGE_BUTTON";
 item = "stained_clay";
 name = "Leave Challenge";
 rarity = "COMMON";

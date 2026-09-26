@@ -1,4 +1,3 @@
 meta {
-  id = GOLDEN_FRAGMENT;
   include("api_data/golden_fragment", this); 
 };

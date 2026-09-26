@@ -1,3 +1,4 @@
+id = "SANTA_PERSONALITY";
 item = "player_head";
 name = "Santa Minion Skin";
 include("types/cosmetic", this);

@@ -1,3 +1,4 @@
+id = "WISE_WITHER_CHESTPLATE";
 item = "leather_chestplate";
 name = "Storm's Chestplate";
 include("types/chestplate", this);

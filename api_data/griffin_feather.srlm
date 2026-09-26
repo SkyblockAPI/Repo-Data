@@ -1,3 +1,4 @@
+id = "GRIFFIN_FEATHER";
 item = "feather";
 name = "Griffin Feather";
 ::items::prototypes::ingredient::(this);

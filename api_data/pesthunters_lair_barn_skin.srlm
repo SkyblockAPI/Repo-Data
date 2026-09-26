@@ -1,3 +1,4 @@
+id = "PESTHUNTERS_LAIR_BARN_SKIN";
 item = "dirt";
 name = "Pesthunter's Lair Barn Skin";
 include("types/cosmetic", this);

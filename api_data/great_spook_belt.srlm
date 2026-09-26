@@ -1,3 +1,4 @@
+id = "GREAT_SPOOK_BELT";
 item = "player_head";
 name = "Great Spook Belt";
 include("types/belt", this);

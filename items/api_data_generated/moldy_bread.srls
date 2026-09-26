@@ -1,4 +1,3 @@
 meta {
-  id = MOLDY_BREAD;
   include("api_data/moldy_bread", this); 
 };

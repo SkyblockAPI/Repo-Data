@@ -1,3 +1,4 @@
+id = "FIRE_FURY_STAFF";
 item = "blaze_rod";
 name = "Fire Fury Staff";
 include("types/sword", this);

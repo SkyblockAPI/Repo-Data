@@ -1,3 +1,4 @@
+id = "BOSS_SPIRIT_BOW";
 item = "bow";
 name = "Spirit Bow";
 include("types/bow", this);

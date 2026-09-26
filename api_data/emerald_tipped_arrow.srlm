@@ -1,3 +1,4 @@
+id = "EMERALD_TIPPED_ARROW";
 item = "arrow";
 name = "Emerald-tipped Arrow";
 include("types/arrow", this);

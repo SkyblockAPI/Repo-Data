@@ -1,3 +1,4 @@
+id = "ENCHANTED_NETHER_STALK";
 item = "nether_stalk";
 name = "Enchanted Nether Wart";
 rarity = "UNCOMMON";

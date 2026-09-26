@@ -1,3 +1,4 @@
+id = "PRESSURE_RING";
 item = "player_head";
 name = "Pressure Ring";
 include("types/accessory", this);

@@ -1,4 +1,3 @@
 meta {
-  id = EXPLOSIVE_MINECART;
   include("api_data/explosive_minecart", this); 
 };

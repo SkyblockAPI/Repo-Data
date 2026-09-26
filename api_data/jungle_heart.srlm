@@ -1,3 +1,4 @@
+id = "JUNGLE_HEART";
 item = "paper";
 name = "Jungle Heart";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/jungle_heart";

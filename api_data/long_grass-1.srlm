@@ -1,3 +1,4 @@
+id = "LONG_GRASS:1";
 item = "long_grass";
 name = "Long Grass";
 rarity = "COMMON";

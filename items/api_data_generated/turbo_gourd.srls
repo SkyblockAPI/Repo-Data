@@ -1,4 +1,3 @@
 meta {
-  id = TURBO_GOURD;
   include("api_data/turbo_gourd", this); 
 };

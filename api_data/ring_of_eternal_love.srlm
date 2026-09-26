@@ -1,3 +1,4 @@
+id = "RING_OF_ETERNAL_LOVE";
 item = "player_head";
 name = "Ring of Eternal Love";
 include("types/accessory", this);

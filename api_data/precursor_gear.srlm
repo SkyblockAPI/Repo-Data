@@ -1,3 +1,4 @@
+id = "PRECURSOR_GEAR";
 item = "player_head";
 name = "Precursor Gear";
 include("types/reforge_stone", this);

@@ -1,3 +1,4 @@
+id = "SOULFLOW_SUPERCELL";
 item = "player_head";
 name = "Soulflow Supercell";
 include("types/accessory", this);

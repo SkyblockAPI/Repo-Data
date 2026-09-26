@@ -1,4 +1,3 @@
 meta {
-  id = DIVAN_POWDER_COATING;
   include("api_data/divan_powder_coating", this); 
 };

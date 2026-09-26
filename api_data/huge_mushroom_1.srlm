@@ -1,3 +1,4 @@
+id = "HUGE_MUSHROOM_1";
 item = "huge_mushroom_1";
 name = "Brown Mushroom Block";
 rarity = "COMMON";

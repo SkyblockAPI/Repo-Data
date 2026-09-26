@@ -1,4 +1,3 @@
 meta {
-  id = NETHERRACK;
   include("api_data/netherrack", this); 
 };

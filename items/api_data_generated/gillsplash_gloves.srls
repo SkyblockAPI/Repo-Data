@@ -1,4 +1,3 @@
 meta {
-  id = GILLSPLASH_GLOVES;
   include("api_data/gillsplash_gloves", this); 
 };

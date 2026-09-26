@@ -1,4 +1,3 @@
 meta {
-  id = BOOKCASE;
   include("api_data/bookcase", this); 
 };

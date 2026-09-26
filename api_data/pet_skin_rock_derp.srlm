@@ -1,3 +1,4 @@
+id = "PET_SKIN_ROCK_DERP";
 item = "player_head";
 name = "DerpyRock";
 include("types/cosmetic", this);

@@ -1,3 +1,4 @@
+id = "WYLD_CHESTPLATE";
 item = "chainmail_chestplate";
 name = "Wyld Chain Top";
 include("types/chestplate", this);

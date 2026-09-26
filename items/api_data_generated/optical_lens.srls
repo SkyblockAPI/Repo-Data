@@ -1,4 +1,3 @@
 meta {
-  id = OPTICAL_LENS;
   include("api_data/optical_lens", this); 
 };

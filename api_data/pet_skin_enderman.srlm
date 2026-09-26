@@ -1,3 +1,4 @@
+id = "PET_SKIN_ENDERMAN";
 item = "player_head";
 name = "SpookyEnderman";
 include("types/cosmetic", this);

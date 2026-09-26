@@ -1,3 +1,4 @@
+id = "THEORETICAL_HOE_CARROT_2";
 item = "iron_hoe";
 name = "Gauss Carrot Shovel Mk. II";
 include("types/farming_tool", this);

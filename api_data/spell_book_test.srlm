@@ -1,3 +1,4 @@
+id = "SPELL_BOOK_TEST";
 item = "enchanted_book";
 name = "Spellbook";
 rarity = "SPECIAL";

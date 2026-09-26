@@ -1,3 +1,4 @@
+id = "EMPTY_MAP";
 item = "empty_map";
 name = "Empty Map";
 rarity = "COMMON";

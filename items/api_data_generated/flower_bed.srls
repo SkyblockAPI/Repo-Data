@@ -1,4 +1,3 @@
 meta {
-  id = FLOWER_BED;
   include("api_data/flower_bed", this); 
 };

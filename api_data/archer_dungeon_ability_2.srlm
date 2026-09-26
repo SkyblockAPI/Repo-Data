@@ -1,3 +1,4 @@
+id = "ARCHER_DUNGEON_ABILITY_2";
 item = "bow";
 name = "Stun Bow";
 include("types/bow", this);

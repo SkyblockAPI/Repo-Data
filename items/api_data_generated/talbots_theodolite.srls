@@ -1,4 +1,3 @@
 meta {
-  id = TALBOTS_THEODOLITE;
   include("api_data/talbots_theodolite", this); 
 };

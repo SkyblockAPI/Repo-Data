@@ -1,4 +1,3 @@
 meta {
-  id = MINING_2_PORTAL;
   include("api_data/mining_2_portal", this); 
 };

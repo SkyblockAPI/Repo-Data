@@ -1,3 +1,4 @@
+id = "BONE_MEAL";
 item = "ink_sack";
 name = "Bone Meal";
 rarity = "COMMON";

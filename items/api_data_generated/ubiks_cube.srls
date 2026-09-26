@@ -1,4 +1,3 @@
 meta {
-  id = UBIKS_CUBE;
   include("api_data/ubiks_cube", this); 
 };

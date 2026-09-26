@@ -1,4 +1,3 @@
 meta {
-  id = FLAWLESS_PERIDOT_GEM;
   include("api_data/flawless_peridot_gem", this); 
 };

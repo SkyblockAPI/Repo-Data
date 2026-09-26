@@ -1,3 +1,4 @@
+id = "PARTY_HAT_CRAB";
 item = "player_head";
 name = "Crab Hat of Celebration";
 include("types/accessory", this);

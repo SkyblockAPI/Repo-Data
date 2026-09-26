@@ -1,4 +1,3 @@
 meta {
-  id = SQUIRE_LEGGINGS;
   include("api_data/squire_leggings", this); 
 };

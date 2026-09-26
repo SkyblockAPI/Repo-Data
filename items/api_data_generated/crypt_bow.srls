@@ -1,4 +1,3 @@
 meta {
-  id = CRYPT_BOW;
   include("api_data/crypt_bow", this); 
 };

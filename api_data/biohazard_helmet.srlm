@@ -1,3 +1,4 @@
+id = "BIOHAZARD_HELMET";
 item = "player_head";
 name = "Biohazard Helmet";
 include("types/helmet", this);

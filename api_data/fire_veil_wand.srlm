@@ -1,3 +1,4 @@
+id = "FIRE_VEIL_WAND";
 item = "blaze_rod";
 name = "Fire Veil Wand";
 include("types/wand", this);

@@ -1,3 +1,4 @@
+id = "PET_ITEM_SPOOKY_CUPCAKE";
 item = "player_head";
 name = "Spooky Cupcake";
 include("types/pet_item", this);

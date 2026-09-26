@@ -1,3 +1,4 @@
+id = "AGARIMOO_TALISMAN";
 item = "player_head";
 name = "Agarimoo Talisman";
 include("types/accessory", this);

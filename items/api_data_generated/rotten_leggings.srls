@@ -1,4 +1,3 @@
 meta {
-  id = ROTTEN_LEGGINGS;
   include("api_data/rotten_leggings", this); 
 };

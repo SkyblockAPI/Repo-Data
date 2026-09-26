@@ -1,4 +1,3 @@
 meta {
-  id = FORAGING_WISDOM_BOOSTER;
   include("api_data/foraging_wisdom_booster", this); 
 };

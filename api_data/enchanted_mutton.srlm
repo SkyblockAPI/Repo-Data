@@ -1,3 +1,4 @@
+id = "ENCHANTED_MUTTON";
 item = "mutton";
 name = "Enchanted Raw Mutton";
 rarity = "UNCOMMON";

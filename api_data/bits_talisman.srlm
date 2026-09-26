@@ -1,3 +1,4 @@
+id = "BITS_TALISMAN";
 item = "player_head";
 name = "Bits Talisman";
 include("types/accessory", this);

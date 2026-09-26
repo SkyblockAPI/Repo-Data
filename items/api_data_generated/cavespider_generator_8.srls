@@ -1,4 +1,3 @@
 meta {
-  id = CAVESPIDER_GENERATOR_8;
   include("api_data/cavespider_generator_8", this); 
 };

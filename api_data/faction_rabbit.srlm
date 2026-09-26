@@ -1,3 +1,4 @@
+id = "FACTION_RABBIT";
 item = "player_head";
 name = "Faction Rabbit";
 rarity = "COMMON";

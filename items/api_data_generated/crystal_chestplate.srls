@@ -1,4 +1,3 @@
 meta {
-  id = CRYSTAL_CHESTPLATE;
   include("api_data/crystal_chestplate", this); 
 };

@@ -1,3 +1,4 @@
+id = "ONYX";
 item = "player_head";
 name = "Black Diamond";
 include("types/reforge_stone", this);

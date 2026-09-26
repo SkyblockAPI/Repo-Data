@@ -1,3 +1,4 @@
+id = "FROZEN_BLAZE_HELMET";
 item = "player_head";
 name = "Frozen Blaze Helmet";
 include("types/helmet", this);

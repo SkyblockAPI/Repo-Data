@@ -1,4 +1,3 @@
 meta {
-  id = TRAPPER_DEN_TRAVEL_SCROLL;
   include("api_data/trapper_den_travel_scroll", this); 
 };

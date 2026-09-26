@@ -1,3 +1,4 @@
+id = "SWAMP_THE_FISH";
 item = "cooked_fish";
 name = "Swamp the Fish";
 rarity = "SPECIAL";

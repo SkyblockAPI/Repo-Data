@@ -1,3 +1,4 @@
+id = "HUB_DA_TRAVEL_SCROLL";
 item = "empty_map";
 name = "Travel Scroll to Dark Auction";
 include("types/travel_scroll", this);

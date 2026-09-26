@@ -1,4 +1,3 @@
 meta {
-  id = MANDRAA;
   include("api_data/mandraa", this); 
 };

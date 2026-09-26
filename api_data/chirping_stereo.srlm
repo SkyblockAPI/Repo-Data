@@ -1,3 +1,4 @@
+id = "CHIRPING_STEREO";
 item = "paper";
 name = "Chirping Stereo";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/pests/chirping_stereo";

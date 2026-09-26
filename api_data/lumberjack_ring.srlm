@@ -1,3 +1,4 @@
+id = "LUMBERJACK_RING";
 item = "paper";
 name = "Lumberjack Ring";
 include("types/accessory", this);

@@ -1,4 +1,3 @@
 meta {
-  id = SPOOKY_HELMET;
   include("api_data/spooky_helmet", this); 
 };

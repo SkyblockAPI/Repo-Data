@@ -1,4 +1,3 @@
 meta {
-  id = GRASS;
   include("api_data/grass", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = IQ_POINT;
   include("api_data/iq_point", this); 
 };

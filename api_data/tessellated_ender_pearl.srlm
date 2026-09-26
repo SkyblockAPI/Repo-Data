@@ -1,3 +1,4 @@
+id = "TESSELLATED_ENDER_PEARL";
 item = "paper";
 name = "Tessellated Ender Pearl";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/tessalated_ender_pearl";

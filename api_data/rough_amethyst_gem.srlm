@@ -1,3 +1,4 @@
+id = "ROUGH_AMETHYST_GEM";
 item = "paper";
 name = "Rough Amethyst Gemstone";
 this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/amethyst/rough_amethyst_gem";

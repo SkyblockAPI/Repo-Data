@@ -1,3 +1,4 @@
+id = "INFERNAL_KUUDRA_CORE";
 item = "player_head";
 name = "Infernal Kuudra Core";
 include("types/accessory", this);

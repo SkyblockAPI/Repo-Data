@@ -1,3 +1,4 @@
+id = "CHICKEN_HEAD";
 item = "player_head";
 name = "Chicken Hat";
 include("types/helmet", this);

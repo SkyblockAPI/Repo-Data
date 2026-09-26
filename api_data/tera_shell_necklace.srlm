@@ -1,3 +1,4 @@
+id = "TERA_SHELL_NECKLACE";
 item = "player_head";
 name = "Tera Shell Necklace";
 include("types/necklace", this);

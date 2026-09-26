@@ -1,3 +1,4 @@
+id = "FIGHTING_BOOSTER";
 item = "paper";
 name = "Common Fighting Booster";
 include("types/booster", this);

@@ -1,4 +1,3 @@
 meta {
-  id = CADUCOUS_EXTRACT;
   include("api_data/caducous_extract", this); 
 };

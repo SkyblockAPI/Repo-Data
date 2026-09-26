@@ -1,4 +1,3 @@
 meta {
-  id = PORK;
   include("api_data/pork", this); 
 };

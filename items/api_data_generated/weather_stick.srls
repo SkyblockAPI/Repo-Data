@@ -1,4 +1,3 @@
 meta {
-  id = WEATHER_STICK;
   include("api_data/weather_stick", this); 
 };

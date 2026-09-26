@@ -1,4 +1,3 @@
 meta {
-  id = BREAD;
   include("api_data/bread", this); 
 };

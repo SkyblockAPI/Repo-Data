@@ -1,3 +1,4 @@
+id = "MITHRIL_BELT";
 item = "player_head";
 name = "Mithril Belt";
 include("types/belt", this);

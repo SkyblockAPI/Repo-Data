@@ -1,4 +1,3 @@
 meta {
-  id = GLASS_BOTTLE;
   include("api_data/glass_bottle", this); 
 };

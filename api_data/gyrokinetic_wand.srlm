@@ -1,3 +1,4 @@
+id = "GYROKINETIC_WAND";
 item = "blaze_rod";
 name = "Gyrokinetic Wand";
 include("types/wand", this);

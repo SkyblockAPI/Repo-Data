@@ -1,3 +1,4 @@
+id = "SPRUCE_FENCE_GATE";
 item = "spruce_fence_gate";
 name = "Spruce Fence Gate";
 rarity = "COMMON";

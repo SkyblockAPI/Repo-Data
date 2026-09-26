@@ -1,4 +1,3 @@
 meta {
-  id = FIERY_AURORA_HELMET;
   include("api_data/fiery_aurora_helmet", this); 
 };

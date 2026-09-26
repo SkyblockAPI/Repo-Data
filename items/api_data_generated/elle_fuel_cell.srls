@@ -1,4 +1,3 @@
 meta {
-  id = ELLE_FUEL_CELL;
   include("api_data/elle_fuel_cell", this); 
 };

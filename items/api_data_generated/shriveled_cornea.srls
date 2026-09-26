@@ -1,4 +1,3 @@
 meta {
-  id = SHRIVELED_CORNEA;
   include("api_data/shriveled_cornea", this); 
 };

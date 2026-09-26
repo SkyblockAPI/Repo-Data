@@ -1,4 +1,3 @@
 meta {
-  id = HAY_BLOCK;
   include("api_data/hay_block", this); 
 };

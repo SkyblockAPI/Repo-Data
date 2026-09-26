@@ -1,4 +1,3 @@
 meta {
-  id = RIFT_WIZARD_TOWER_TRAVEL_SCROLL;
   include("api_data/rift_wizard_tower_travel_scroll", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = VEILSHROOM_BRACELET;
   include("api_data/veilshroom_bracelet", this); 
 };

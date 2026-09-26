@@ -1,3 +1,4 @@
+id = "PUDDLE_JUMPER_HOOK";
 item = "paper";
 name = "Puddle Jumper Hook";
 include("types/fishing_rod_part", this);

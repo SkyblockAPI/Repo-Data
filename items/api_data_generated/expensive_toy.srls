@@ -1,4 +1,3 @@
 meta {
-  id = EXPENSIVE_TOY;
   include("api_data/expensive_toy", this); 
 };

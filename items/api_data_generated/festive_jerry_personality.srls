@@ -1,4 +1,3 @@
 meta {
-  id = FESTIVE_JERRY_PERSONALITY;
   include("api_data/festive_jerry_personality", this); 
 };

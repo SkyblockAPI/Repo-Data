@@ -1,3 +1,4 @@
+id = "FRESH_SPRING_WATER";
 item = "water_bucket";
 name = "Fresh Spring Water";
 rarity = "RARE";

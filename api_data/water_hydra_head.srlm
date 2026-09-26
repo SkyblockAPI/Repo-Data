@@ -1,3 +1,4 @@
+id = "WATER_HYDRA_HEAD";
 item = "player_head";
 name = "Water Hydra Head";
 include("types/helmet", this);

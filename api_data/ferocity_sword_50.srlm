@@ -1,3 +1,4 @@
+id = "FEROCITY_SWORD_50";
 item = "gold_sword";
 name = "Ferocity Sword 50";
 include("types/sword", this);

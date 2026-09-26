@@ -1,3 +1,4 @@
+id = "WARDING_TRINKET";
 item = "player_head";
 name = "Warding Trinket";
 include("types/accessory", this);

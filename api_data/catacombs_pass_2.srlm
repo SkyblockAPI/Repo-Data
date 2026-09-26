@@ -1,3 +1,4 @@
+id = "CATACOMBS_PASS_2";
 item = "player_head";
 name = "Catacombs Pass II";
 include("types/dungeon_pass", this);

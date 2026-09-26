@@ -1,4 +1,3 @@
 meta {
-  id = GOLDEN_BAIT;
   include("api_data/golden_bait", this); 
 };

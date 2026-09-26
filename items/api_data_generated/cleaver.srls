@@ -1,4 +1,3 @@
 meta {
-  id = CLEAVER;
   include("api_data/cleaver", this); 
 };

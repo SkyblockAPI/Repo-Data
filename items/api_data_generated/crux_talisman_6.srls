@@ -1,4 +1,3 @@
 meta {
-  id = CRUX_TALISMAN_6;
   include("api_data/crux_talisman_6", this); 
 };

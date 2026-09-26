@@ -1,3 +1,4 @@
+id = "WAND_OF_RESTORATION";
 item = "stick";
 name = "Wand of Restoration";
 include("types/wand", this);

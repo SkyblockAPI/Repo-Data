@@ -1,3 +1,4 @@
+id = "ARTIFACT_OF_SPACE";
 item = "player_head";
 name = "Artifact of Space";
 include("types/accessory", this);

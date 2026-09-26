@@ -1,3 +1,4 @@
+id = "BARREL_OF_RICHES";
 item = "player_head";
 name = "Barrel of Riches";
 include("types/pet_item", this);

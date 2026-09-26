@@ -1,4 +1,3 @@
 meta {
-  id = SALTY_SPRAYONATOR;
   include("api_data/salty_sprayonator", this); 
 };

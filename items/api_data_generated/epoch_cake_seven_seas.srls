@@ -1,4 +1,3 @@
 meta {
-  id = EPOCH_CAKE_SEVEN_SEAS;
   include("api_data/epoch_cake_seven_seas", this); 
 };

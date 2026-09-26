@@ -1,4 +1,3 @@
 meta {
-  id = CHEESEBITE;
   include("api_data/cheesebite", this); 
 };

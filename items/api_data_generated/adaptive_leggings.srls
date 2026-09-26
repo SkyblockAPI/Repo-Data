@@ -1,4 +1,3 @@
 meta {
-  id = ADAPTIVE_LEGGINGS;
   include("api_data/adaptive_leggings", this); 
 };

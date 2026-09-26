@@ -1,3 +1,4 @@
+id = "PESTHUNTERS_BELT";
 item = "player_head";
 name = "Pesthunter's Belt";
 include("types/belt", this);

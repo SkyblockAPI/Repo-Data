@@ -1,4 +1,3 @@
 meta {
-  id = GODSEED;
   include("api_data/godseed", this); 
 };

@@ -1,3 +1,4 @@
+id = "WET_WATER";
 item = "paper";
 name = "Wet Water";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/wet_water";

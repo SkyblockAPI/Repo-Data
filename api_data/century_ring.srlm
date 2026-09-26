@@ -1,3 +1,4 @@
+id = "CENTURY_RING";
 item = "player_head";
 name = "Ring of the Century";
 include("types/accessory", this);

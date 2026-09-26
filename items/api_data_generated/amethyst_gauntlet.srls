@@ -1,4 +1,3 @@
 meta {
-  id = AMETHYST_GAUNTLET;
   include("api_data/amethyst_gauntlet", this); 
 };

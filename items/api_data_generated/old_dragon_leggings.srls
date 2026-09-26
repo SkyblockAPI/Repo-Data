@@ -1,4 +1,3 @@
 meta {
-  id = OLD_DRAGON_LEGGINGS;
   include("api_data/old_dragon_leggings", this); 
 };

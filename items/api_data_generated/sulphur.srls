@@ -1,4 +1,3 @@
 meta {
-  id = SULPHUR;
   include("api_data/sulphur", this); 
 };

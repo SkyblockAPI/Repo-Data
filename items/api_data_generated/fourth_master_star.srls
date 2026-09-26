@@ -1,4 +1,3 @@
 meta {
-  id = FOURTH_MASTER_STAR;
   include("api_data/fourth_master_star", this); 
 };

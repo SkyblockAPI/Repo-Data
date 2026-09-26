@@ -1,4 +1,3 @@
 meta {
-  id = BACTE_FRAGMENT;
   include("api_data/bacte_fragment", this); 
 };

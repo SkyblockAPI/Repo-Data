@@ -1,3 +1,4 @@
+id = "COMMON_HOOK";
 item = "paper";
 name = "Common Hook";
 include("types/fishing_rod_part", this);

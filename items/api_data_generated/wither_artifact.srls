@@ -1,4 +1,3 @@
 meta {
-  id = WITHER_ARTIFACT;
   include("api_data/wither_artifact", this); 
 };

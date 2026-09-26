@@ -1,4 +1,3 @@
 meta {
-  id = ARACHNE_NECKLACE;
   include("api_data/arachne_necklace", this); 
 };

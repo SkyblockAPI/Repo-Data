@@ -1,4 +1,3 @@
 meta {
-  id = HEARTFIRE_DAGGER;
   include("api_data/heartfire_dagger", this); 
 };

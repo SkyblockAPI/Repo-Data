@@ -1,4 +1,3 @@
 meta {
-  id = SUPERB_CARROT_CANDY;
   include("api_data/superb_carrot_candy", this); 
 };

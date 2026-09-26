@@ -1,4 +1,3 @@
 meta {
-  id = GIFT_OF_LEARNING;
   include("api_data/gift_of_learning", this); 
 };

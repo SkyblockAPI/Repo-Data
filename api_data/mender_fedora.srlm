@@ -1,3 +1,4 @@
+id = "MENDER_FEDORA";
 item = "player_head";
 name = "Mender Fedora";
 include("types/helmet", this);

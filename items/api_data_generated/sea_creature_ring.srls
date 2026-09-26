@@ -1,4 +1,3 @@
 meta {
-  id = SEA_CREATURE_RING;
   include("api_data/sea_creature_ring", this); 
 };

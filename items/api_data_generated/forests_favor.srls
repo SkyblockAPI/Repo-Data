@@ -1,4 +1,3 @@
 meta {
-  id = FORESTS_FAVOR;
   include("api_data/forests_favor", this); 
 };

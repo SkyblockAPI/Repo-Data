@@ -1,3 +1,4 @@
+id = "KUUDRAS_LUNG";
 item = "player_head";
 name = "Kuudra's Lung";
 include("types/accessory", this);

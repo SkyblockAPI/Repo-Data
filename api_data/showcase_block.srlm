@@ -1,3 +1,4 @@
+id = "SHOWCASE_BLOCK";
 item = "glass";
 name = "Showcase Block";
 rarity = "UNCOMMON";

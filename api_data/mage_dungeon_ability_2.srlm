@@ -1,3 +1,4 @@
+id = "MAGE_DUNGEON_ABILITY_2";
 item = "prismarine_shard";
 name = "Guided Sheep";
 include("types/dungeon", this);

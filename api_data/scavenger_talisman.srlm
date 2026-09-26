@@ -1,3 +1,4 @@
+id = "SCAVENGER_TALISMAN";
 item = "player_head";
 name = "Scavenger Talisman";
 include("types/accessory", this);

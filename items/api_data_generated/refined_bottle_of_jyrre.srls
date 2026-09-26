@@ -1,4 +1,3 @@
 meta {
-  id = REFINED_BOTTLE_OF_JYRRE;
   include("api_data/refined_bottle_of_jyrre", this); 
 };

@@ -1,3 +1,4 @@
+id = "REINFORCED_NETTING";
 item = "paper";
 name = "Reinforced Netting";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/reinforced_netting";

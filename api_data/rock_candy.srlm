@@ -1,3 +1,4 @@
+id = "ROCK_CANDY";
 item = "player_head";
 name = "Rock Candy";
 include("types/reforge_stone", this);

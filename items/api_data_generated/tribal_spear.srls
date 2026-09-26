@@ -1,4 +1,3 @@
 meta {
-  id = TRIBAL_SPEAR;
   include("api_data/tribal_spear", this); 
 };

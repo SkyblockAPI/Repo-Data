@@ -1,4 +1,3 @@
 meta {
-  id = MIRRORED_STICK;
   include("api_data/mirrored_stick", this); 
 };

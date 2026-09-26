@@ -1,3 +1,4 @@
+id = "DEAD_CAT_FOOD";
 item = "cooked_fish";
 name = "Dead Cat Food";
 include("types/pet_item", this);

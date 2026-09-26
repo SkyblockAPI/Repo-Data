@@ -1,3 +1,4 @@
+id = "VELVET_TOP_HAT";
 item = "leather_helmet";
 name = "Velvet Top Hat";
 include("types/helmet", this);

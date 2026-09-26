@@ -1,3 +1,4 @@
+id = "GOLDEN_FRAGMENT";
 item = "player_head";
 name = "Golden Fragment";
 include("types/none", this);

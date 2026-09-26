@@ -1,4 +1,3 @@
 meta {
-  id = EXCEEDINGLY_COMFY_SNEAKERS;
   include("api_data/exceedingly_comfy_sneakers", this); 
 };

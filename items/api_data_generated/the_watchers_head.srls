@@ -1,4 +1,3 @@
 meta {
-  id = THE_WATCHERS_HEAD;
   include("api_data/the_watchers_head", this); 
 };

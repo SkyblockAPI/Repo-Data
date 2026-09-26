@@ -1,4 +1,3 @@
 meta {
-  id = STARLIGHT_CHESTPLATE;
   include("api_data/starlight_chestplate", this); 
 };

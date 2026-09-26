@@ -1,3 +1,4 @@
+id = "FROZEN_AMULET";
 item = "player_head";
 name = "Frozen Amulet";
 include("types/necklace", this);

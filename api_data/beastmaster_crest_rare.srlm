@@ -1,3 +1,4 @@
+id = "BEASTMASTER_CREST_RARE";
 item = "player_head";
 name = "Beastmaster Crest";
 include("types/accessory", this);

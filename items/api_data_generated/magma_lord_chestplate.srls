@@ -1,4 +1,3 @@
 meta {
-  id = MAGMA_LORD_CHESTPLATE;
   include("api_data/magma_lord_chestplate", this); 
 };

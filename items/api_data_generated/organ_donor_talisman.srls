@@ -1,4 +1,3 @@
 meta {
-  id = ORGAN_DONOR_TALISMAN;
   include("api_data/organ_donor_talisman", this); 
 };

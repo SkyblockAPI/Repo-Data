@@ -1,4 +1,3 @@
 meta {
-  id = ETHERWARP_CONDUIT;
   include("api_data/etherwarp_conduit", this); 
 };

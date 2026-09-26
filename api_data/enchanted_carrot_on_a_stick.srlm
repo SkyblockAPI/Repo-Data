@@ -1,3 +1,4 @@
+id = "ENCHANTED_CARROT_ON_A_STICK";
 item = "carrot_stick";
 name = "Enchanted Carrot on a Stick";
 rarity = "UNCOMMON";

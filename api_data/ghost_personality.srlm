@@ -1,3 +1,4 @@
+id = "GHOST_PERSONALITY";
 item = "player_head";
 name = "Ghost Minion Skin";
 include("types/cosmetic", this);

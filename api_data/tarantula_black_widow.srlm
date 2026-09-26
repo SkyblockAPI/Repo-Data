@@ -1,3 +1,4 @@
+id = "TARANTULA_BLACK_WIDOW";
 item = "player_head";
 name = "Black Widow Skin";
 include("types/cosmetic", this);

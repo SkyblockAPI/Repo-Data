@@ -1,3 +1,4 @@
+id = "MAWDUST_DAGGER";
 item = "iron_sword";
 name = "Twilight Dagger";
 include("types/sword", this);

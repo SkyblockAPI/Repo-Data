@@ -1,4 +1,3 @@
 meta {
-  id = BURNT_TEXTS;
   include("api_data/burnt_texts", this); 
 };

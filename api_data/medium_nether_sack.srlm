@@ -1,3 +1,4 @@
+id = "MEDIUM_NETHER_SACK";
 item = "player_head";
 name = "Medium Nether Sack";
 include("types/sack", this);

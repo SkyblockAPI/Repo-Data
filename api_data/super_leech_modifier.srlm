@@ -1,3 +1,4 @@
+id = "SUPER_LEECH_MODIFIER";
 item = "slime_block";
 name = "Super Leech Modifier";
 ::items::prototypes::ingredient::(this);

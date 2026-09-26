@@ -1,3 +1,4 @@
+id = "ENCHANTED_BOOK";
 item = "enchanted_book";
 name = "Enchanted Book";
 rarity = "COMMON";

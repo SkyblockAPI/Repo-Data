@@ -1,4 +1,3 @@
 meta {
-  id = STONE_BUTTON;
   include("api_data/stone_button", this); 
 };

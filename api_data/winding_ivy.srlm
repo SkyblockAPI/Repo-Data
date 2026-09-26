@@ -1,3 +1,4 @@
+id = "WINDING_IVY";
 item = "paper";
 name = "Winding Ivy";
 include("types/pet_item", this);

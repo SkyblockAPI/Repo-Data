@@ -1,4 +1,3 @@
 meta {
-  id = DWARVEN_OS_ORE_OATS;
   include("api_data/dwarven_os_ore_oats", this); 
 };

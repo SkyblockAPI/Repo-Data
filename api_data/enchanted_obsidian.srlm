@@ -1,3 +1,4 @@
+id = "ENCHANTED_OBSIDIAN";
 item = "obsidian";
 name = "Enchanted Obsidian";
 rarity = "UNCOMMON";

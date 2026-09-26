@@ -1,3 +1,4 @@
+id = "HONEYCOMB_RING";
 item = "paper";
 name = "Honeycomb Ring";
 include("types/accessory", this);

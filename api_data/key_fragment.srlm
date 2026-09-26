@@ -1,3 +1,4 @@
+id = "KEY_FRAGMENT";
 item = "iron_ingot";
 name = "Key Fragment";
 rarity = "COMMON";

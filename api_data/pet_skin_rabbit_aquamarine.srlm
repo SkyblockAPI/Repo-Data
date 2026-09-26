@@ -1,3 +1,4 @@
+id = "PET_SKIN_RABBIT_AQUAMARINE";
 item = "player_head";
 name = "AquamarineRabbit";
 include("types/cosmetic", this);

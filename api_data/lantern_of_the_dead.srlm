@@ -1,3 +1,4 @@
+id = "LANTERN_OF_THE_DEAD";
 item = "redstone_lamp_off";
 name = "Lantern of the Dead";
 rarity = "SPECIAL";

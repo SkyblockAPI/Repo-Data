@@ -1,4 +1,3 @@
 meta {
-  id = NEVER_MELT_ICE;
   include("api_data/never_melt_ice", this); 
 };

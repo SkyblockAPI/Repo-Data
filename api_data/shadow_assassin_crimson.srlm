@@ -1,3 +1,4 @@
+id = "SHADOW_ASSASSIN_CRIMSON";
 item = "player_head";
 name = "Crimson Skin";
 include("types/cosmetic", this);

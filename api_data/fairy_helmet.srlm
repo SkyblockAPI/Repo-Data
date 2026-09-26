@@ -1,3 +1,4 @@
+id = "FAIRY_HELMET";
 item = "leather_helmet";
 name = "Fairy's Fedora";
 include("types/helmet", this);

@@ -1,3 +1,4 @@
+id = "ENCHANTED_BROWN_MUSHROOM";
 item = "brown_mushroom";
 name = "Enchanted Brown Mushroom";
 rarity = "UNCOMMON";

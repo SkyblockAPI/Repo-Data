@@ -1,4 +1,3 @@
 meta {
-  id = ROUGH_ONYX_GEM;
   include("api_data/rough_onyx_gem", this); 
 };

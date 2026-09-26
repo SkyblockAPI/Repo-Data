@@ -1,3 +1,4 @@
+id = "COLLECTION_DISPLAY";
 item = "diamond_block";
 name = "Collection Display";
 include("types/cosmetic", this);

@@ -1,3 +1,4 @@
+id = "BANNER:7";
 item = "paper";
 name = "Light Gray Banner";
 this["minecraft:item_model"] = "minecraft:light_gray_banner";

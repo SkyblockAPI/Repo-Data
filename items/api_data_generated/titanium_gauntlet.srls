@@ -1,4 +1,3 @@
 meta {
-  id = TITANIUM_GAUNTLET;
   include("api_data/titanium_gauntlet", this); 
 };

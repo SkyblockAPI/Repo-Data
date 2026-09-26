@@ -1,3 +1,4 @@
+id = "RAZOR_SHARP_SHARK_TOOTH_NECKLACE";
 item = "player_head";
 name = "Razor-sharp Shark Tooth Necklace";
 include("types/accessory", this);

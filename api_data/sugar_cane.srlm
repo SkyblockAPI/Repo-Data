@@ -1,3 +1,4 @@
+id = "SUGAR_CANE";
 item = "sugar_cane";
 name = "Sugar Cane";
 rarity = "COMMON";

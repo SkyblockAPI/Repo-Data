@@ -1,3 +1,4 @@
+id = "GATEWAY_WAND";
 item = "paper";
 name = "Gateway Wand";
 include("types/wand", this);

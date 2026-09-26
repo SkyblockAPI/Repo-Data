@@ -1,3 +1,4 @@
+id = "SHRIVELED_BRACELET";
 item = "player_head";
 name = "Shriveled Bracelet";
 include("types/gloves", this);

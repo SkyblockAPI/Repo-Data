@@ -1,3 +1,4 @@
+id = "NOVA_SWORD";
 item = "gold_sword";
 name = "Sword of the Universe";
 include("types/sword", this);

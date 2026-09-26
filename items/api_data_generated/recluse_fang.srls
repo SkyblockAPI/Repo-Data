@@ -1,4 +1,3 @@
 meta {
-  id = RECLUSE_FANG;
   include("api_data/recluse_fang", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = LIGHT_BAIT;
   include("api_data/light_bait", this); 
 };

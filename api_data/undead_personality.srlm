@@ -1,3 +1,4 @@
+id = "UNDEAD_PERSONALITY";
 item = "player_head";
 name = "Undead Minion Skin";
 include("types/cosmetic", this);

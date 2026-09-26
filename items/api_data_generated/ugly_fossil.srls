@@ -1,4 +1,3 @@
 meta {
-  id = UGLY_FOSSIL;
   include("api_data/ugly_fossil", this); 
 };

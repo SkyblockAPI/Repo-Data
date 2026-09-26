@@ -1,4 +1,3 @@
 meta {
-  id = SMALL_PIG_EAR;
   include("api_data/small_pig_ear", this); 
 };

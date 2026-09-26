@@ -1,3 +1,4 @@
+id = "MITHRIL_DRILL_ENGINE";
 item = "paper";
 name = "Mithril-Plated Drill Engine";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/mithril_plated_drill_engine";

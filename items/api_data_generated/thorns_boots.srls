@@ -1,4 +1,3 @@
 meta {
-  id = THORNS_BOOTS;
   include("api_data/thorns_boots", this); 
 };

@@ -1,3 +1,4 @@
+id = "PET_SKIN_TIGER_TWILIGHT";
 item = "player_head";
 name = "TwilightTiger";
 include("types/cosmetic", this);

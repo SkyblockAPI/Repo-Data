@@ -1,4 +1,3 @@
 meta {
-  id = IMPLOSION_SCROLL;
   include("api_data/implosion_scroll", this); 
 };

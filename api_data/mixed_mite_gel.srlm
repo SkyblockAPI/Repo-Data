@@ -1,3 +1,4 @@
+id = "MIXED_MITE_GEL";
 item = "ink_sack";
 name = "Mixed Mite Gel";
 rarity = "MYTHIC";

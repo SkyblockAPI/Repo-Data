@@ -1,4 +1,3 @@
 meta {
-  id = DEAD_CAT_FOOD;
   include("api_data/dead_cat_food", this); 
 };

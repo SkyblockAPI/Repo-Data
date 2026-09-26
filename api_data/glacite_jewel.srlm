@@ -1,3 +1,4 @@
+id = "GLACITE_JEWEL";
 item = "paper";
 name = "Glacite Jewel";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/glacite_jewel";

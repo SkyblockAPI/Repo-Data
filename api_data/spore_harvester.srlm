@@ -1,3 +1,4 @@
+id = "SPORE_HARVESTER";
 item = "iron_axe";
 name = "Spore Harvester";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/spore_harvester";

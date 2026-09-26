@@ -1,3 +1,4 @@
+id = "MIMIC_FRAGMENT";
 item = "paper";
 name = "Mimic Fragment";
 include("types/dungeon", this);

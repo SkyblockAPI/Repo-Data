@@ -1,3 +1,4 @@
+id = "PUMPKIN_PERSONALITY";
 item = "player_head";
 name = "Pumpkin Minion Skin";
 include("types/cosmetic", this);

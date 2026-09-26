@@ -1,4 +1,3 @@
 meta {
-  id = RADIOACTIVE_VIAL;
   include("api_data/radioactive_vial", this); 
 };

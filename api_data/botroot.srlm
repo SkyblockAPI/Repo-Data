@@ -1,3 +1,4 @@
+id = "BOTROOT";
 item = "paper";
 name = "Botroot";
 this["minecraft:item_model"] = "minecraft:weeping_vines";

@@ -1,4 +1,3 @@
 meta {
-  id = VOIDLING_GENERATOR_11;
   include("api_data/voidling_generator_11", this); 
 };

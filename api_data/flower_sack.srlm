@@ -1,3 +1,4 @@
+id = "FLOWER_SACK";
 item = "player_head";
 name = "Flower Sack";
 include("types/sack", this);

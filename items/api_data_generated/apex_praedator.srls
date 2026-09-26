@@ -1,4 +1,3 @@
 meta {
-  id = APEX_PRAEDATOR;
   include("api_data/apex_praedator", this); 
 };

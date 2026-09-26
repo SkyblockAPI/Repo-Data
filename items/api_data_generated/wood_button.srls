@@ -1,4 +1,3 @@
 meta {
-  id = WOOD_BUTTON;
   include("api_data/wood_button", this); 
 };

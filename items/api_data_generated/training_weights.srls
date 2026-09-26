@@ -1,4 +1,3 @@
 meta {
-  id = TRAINING_WEIGHTS;
   include("api_data/training_weights", this); 
 };

@@ -1,3 +1,4 @@
+id = "COMPOST";
 item = "paper";
 name = "Compost";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/compost";

@@ -1,4 +1,3 @@
 meta {
-  id = ARROW_BUNDLE_MAGMA;
   include("api_data/arrow_bundle_magma", this); 
 };

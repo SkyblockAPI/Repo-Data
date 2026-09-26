@@ -1,3 +1,4 @@
+id = "LOCUST_LARVA";
 item = "paper";
 name = "Locust Larva";
 this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/finnegan/locust_larva";

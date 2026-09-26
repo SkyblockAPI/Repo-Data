@@ -1,3 +1,4 @@
+id = "ENCHANTED_POTATO";
 item = "potato_item";
 name = "Enchanted Potato";
 rarity = "UNCOMMON";

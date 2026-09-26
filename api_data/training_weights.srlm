@@ -1,3 +1,4 @@
+id = "TRAINING_WEIGHTS";
 item = "player_head";
 name = "Training Weights";
 include("types/dungeon", this);

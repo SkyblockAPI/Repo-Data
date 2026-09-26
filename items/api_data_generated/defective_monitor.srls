@@ -1,4 +1,3 @@
 meta {
-  id = DEFECTIVE_MONITOR;
   include("api_data/defective_monitor", this); 
 };

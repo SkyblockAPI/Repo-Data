@@ -1,3 +1,4 @@
+id = "PURPLE_EGG";
 item = "player_head";
 name = "Purple Egged Skin";
 include("types/cosmetic", this);

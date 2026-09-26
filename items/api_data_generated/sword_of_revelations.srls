@@ -1,4 +1,3 @@
 meta {
-  id = SWORD_OF_REVELATIONS;
   include("api_data/sword_of_revelations", this); 
 };

@@ -1,3 +1,4 @@
+id = "HOLY_ICE";
 item = "diamond";
 name = "Holy Ice";
 rarity = "RARE";

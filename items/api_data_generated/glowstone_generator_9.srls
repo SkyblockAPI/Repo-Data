@@ -1,4 +1,3 @@
 meta {
-  id = GLOWSTONE_GENERATOR_9;
   include("api_data/glowstone_generator_9", this); 
 };

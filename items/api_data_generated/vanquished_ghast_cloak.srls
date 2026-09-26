@@ -1,4 +1,3 @@
 meta {
-  id = VANQUISHED_GHAST_CLOAK;
   include("api_data/vanquished_ghast_cloak", this); 
 };

@@ -1,3 +1,4 @@
+id = "REFINED_TITANIUM_PICKAXE";
 item = "iron_pickaxe";
 name = "Polished Titanium Pickaxe";
 include("types/pickaxe", this);

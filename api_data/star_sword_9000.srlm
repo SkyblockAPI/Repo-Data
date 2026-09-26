@@ -1,3 +1,4 @@
+id = "STAR_SWORD_9000";
 item = "gold_sword";
 name = "Sword of the Stars 9000";
 include("types/sword", this);

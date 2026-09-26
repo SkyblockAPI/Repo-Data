@@ -1,3 +1,4 @@
+id = "FRESHLY_BAKED_TALISMAN";
 item = "player_head";
 name = "Freshly Baked Talisman";
 include("types/accessory", this);

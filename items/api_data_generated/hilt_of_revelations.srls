@@ -1,4 +1,3 @@
 meta {
-  id = HILT_OF_REVELATIONS;
   include("api_data/hilt_of_revelations", this); 
 };

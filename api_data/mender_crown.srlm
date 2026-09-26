@@ -1,3 +1,4 @@
+id = "MENDER_CROWN";
 item = "player_head";
 name = "Mender Crown";
 include("types/helmet", this);

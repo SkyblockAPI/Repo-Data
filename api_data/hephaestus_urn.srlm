@@ -1,3 +1,4 @@
+id = "HEPHAESTUS_URN";
 item = "player_head";
 name = "Hephaestus Urn";
 include("types/pet_item", this);

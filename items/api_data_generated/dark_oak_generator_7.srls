@@ -1,4 +1,3 @@
 meta {
-  id = DARK_OAK_GENERATOR_7;
   include("api_data/dark_oak_generator_7", this); 
 };

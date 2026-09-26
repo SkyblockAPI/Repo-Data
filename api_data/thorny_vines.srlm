@@ -1,3 +1,4 @@
+id = "THORNY_VINES";
 item = "vine";
 name = "Thorny Vines";
 rarity = "RARE";

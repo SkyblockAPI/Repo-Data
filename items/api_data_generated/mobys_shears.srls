@@ -1,4 +1,3 @@
 meta {
-  id = MOBYS_SHEARS;
   include("api_data/mobys_shears", this); 
 };

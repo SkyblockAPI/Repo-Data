@@ -1,3 +1,4 @@
+id = "STONE_BUTTON";
 item = "stone_button";
 name = "Stone Button";
 rarity = "COMMON";

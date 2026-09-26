@@ -1,4 +1,3 @@
 meta {
-  id = MITE_GEL;
   include("api_data/mite_gel", this); 
 };

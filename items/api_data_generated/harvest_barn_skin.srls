@@ -1,4 +1,3 @@
 meta {
-  id = HARVEST_BARN_SKIN;
   include("api_data/harvest_barn_skin", this); 
 };

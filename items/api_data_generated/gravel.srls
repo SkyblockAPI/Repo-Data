@@ -1,4 +1,3 @@
 meta {
-  id = GRAVEL;
   include("api_data/gravel", this); 
 };

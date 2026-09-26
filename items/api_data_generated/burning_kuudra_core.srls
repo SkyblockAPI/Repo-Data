@@ -1,4 +1,3 @@
 meta {
-  id = BURNING_KUUDRA_CORE;
   include("api_data/burning_kuudra_core", this); 
 };

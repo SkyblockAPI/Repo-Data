@@ -1,3 +1,4 @@
+id = "SOLAR_PANEL";
 item = "daylight_detector";
 name = "Solar Panel";
 rarity = "UNCOMMON";

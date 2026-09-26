@@ -1,4 +1,3 @@
 meta {
-  id = SKYMART_BROCHURE;
   include("api_data/skymart_brochure", this); 
 };

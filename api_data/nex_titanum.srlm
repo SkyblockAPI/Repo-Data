@@ -1,3 +1,4 @@
+id = "NEX_TITANUM";
 item = "gold_axe";
 name = "Prime Huntaxe - Nex Titanum";
 include("types/axe", this);

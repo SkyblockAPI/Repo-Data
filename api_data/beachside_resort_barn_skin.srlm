@@ -1,3 +1,4 @@
+id = "BEACHSIDE_RESORT_BARN_SKIN";
 item = "player_head";
 name = "Beachside Resort Barn Skin";
 include("types/cosmetic", this);

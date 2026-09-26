@@ -1,4 +1,3 @@
 meta {
-  id = CARNIVAL_SHOVEL;
   include("api_data/carnival_shovel", this); 
 };

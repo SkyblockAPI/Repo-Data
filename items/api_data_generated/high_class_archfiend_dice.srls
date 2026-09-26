@@ -1,4 +1,3 @@
 meta {
-  id = HIGH_CLASS_ARCHFIEND_DICE;
   include("api_data/high_class_archfiend_dice", this); 
 };

@@ -1,3 +1,4 @@
+id = "RAGNAROK_ABILITY";
 item = "bedrock";
 name = "Ragnarok";
 include("types/dungeon", this);

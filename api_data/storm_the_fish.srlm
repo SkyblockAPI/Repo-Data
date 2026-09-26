@@ -1,3 +1,4 @@
+id = "STORM_THE_FISH";
 item = "player_head";
 name = "Storm the Fish";
 include("types/dungeon", this);

@@ -1,3 +1,4 @@
+id = "FEAST_BURGER";
 item = "paper";
 name = "Feast Burger with a Side of Deepfries";
 include("types/consumable", this);

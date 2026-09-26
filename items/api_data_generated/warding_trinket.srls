@@ -1,4 +1,3 @@
 meta {
-  id = WARDING_TRINKET;
   include("api_data/warding_trinket", this); 
 };

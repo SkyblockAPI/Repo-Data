@@ -1,3 +1,4 @@
+id = "STOCK_OF_STONKS";
 item = "paper";
 name = "Stock of Stonks";
 rarity = "EPIC";

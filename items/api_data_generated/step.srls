@@ -1,4 +1,3 @@
 meta {
-  id = STEP;
   include("api_data/step", this); 
 };

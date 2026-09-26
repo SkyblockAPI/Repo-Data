@@ -1,4 +1,3 @@
 meta {
-  id = REFINED_MITHRIL;
   include("api_data/refined_mithril", this); 
 };

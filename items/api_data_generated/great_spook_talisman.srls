@@ -1,4 +1,3 @@
 meta {
-  id = GREAT_SPOOK_TALISMAN;
   include("api_data/great_spook_talisman", this); 
 };

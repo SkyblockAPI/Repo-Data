@@ -1,4 +1,3 @@
 meta {
-  id = CANCEL_PARKOUR_ITEM;
   include("api_data/cancel_parkour_item", this); 
 };

@@ -1,3 +1,4 @@
+id = "OVERGROWN_GRASS";
 item = "player_head";
 name = "Overgrown Grass";
 include("types/reforge_stone", this);

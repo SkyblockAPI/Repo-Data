@@ -1,4 +1,3 @@
 meta {
-  id = SCUTTLER_SHELL;
   include("api_data/scuttler_shell", this); 
 };

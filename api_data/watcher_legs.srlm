@@ -1,3 +1,4 @@
+id = "WATCHER_LEGS";
 item = "leather_leggings";
 name = "Watcher Leggings";
 rarity = "COMMON";

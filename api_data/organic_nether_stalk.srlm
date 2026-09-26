@@ -1,3 +1,4 @@
+id = "ORGANIC_NETHER_STALK";
 item = "nether_stalk";
 name = "Organic Nether Wart";
 rarity = "UNCOMMON";

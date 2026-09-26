@@ -1,4 +1,3 @@
 meta {
-  id = HOT_BAIT;
   include("api_data/hot_bait", this); 
 };

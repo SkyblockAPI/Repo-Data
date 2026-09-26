@@ -1,4 +1,3 @@
 meta {
-  id = CLAY_BALL;
   include("api_data/clay_ball", this); 
 };

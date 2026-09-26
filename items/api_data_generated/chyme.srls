@@ -1,4 +1,3 @@
 meta {
-  id = CHYME;
   include("api_data/chyme", this); 
 };

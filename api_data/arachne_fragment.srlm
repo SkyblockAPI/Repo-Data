@@ -1,3 +1,4 @@
+id = "ARACHNE_FRAGMENT";
 item = "paper";
 name = "Arachne Fragment";
 this["minecraft:item_model"] = "hypixel_skyblock:item/combat_1/arachne_fragment";

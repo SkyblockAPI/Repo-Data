@@ -1,4 +1,3 @@
 meta {
-  id = FISHING_GENERATOR_9;
   include("api_data/fishing_generator_9", this); 
 };

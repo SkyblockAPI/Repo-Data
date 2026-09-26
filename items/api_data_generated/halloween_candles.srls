@@ -1,4 +1,3 @@
 meta {
-  id = HALLOWEEN_CANDLES;
   include("api_data/halloween_candles", this); 
 };

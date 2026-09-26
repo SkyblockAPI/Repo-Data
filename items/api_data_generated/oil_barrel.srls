@@ -1,4 +1,3 @@
 meta {
-  id = OIL_BARREL;
   include("api_data/oil_barrel", this); 
 };

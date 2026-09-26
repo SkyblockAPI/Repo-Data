@@ -1,3 +1,4 @@
+id = "SHENS_REGALIA";
 item = "player_head";
 name = "Shen's Regalia";
 include("types/accessory", this);

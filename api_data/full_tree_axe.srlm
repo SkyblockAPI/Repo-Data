@@ -1,3 +1,4 @@
+id = "FULL_TREE_AXE";
 item = "diamond_axe";
 name = "Full-Tree Axe";
 include("types/axe", this);

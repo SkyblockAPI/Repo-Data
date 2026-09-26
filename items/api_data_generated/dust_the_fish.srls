@@ -1,4 +1,3 @@
 meta {
-  id = DUST_THE_FISH;
   include("api_data/dust_the_fish", this); 
 };

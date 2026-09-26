@@ -1,3 +1,4 @@
+id = "MIRIA_COUPON";
 item = "name_tag";
 name = "Miria's Coupon";
 rarity = "RARE";

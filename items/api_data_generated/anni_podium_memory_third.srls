@@ -1,4 +1,3 @@
 meta {
-  id = ANNI_PODIUM_MEMORY_THIRD;
   include("api_data/anni_podium_memory_third", this); 
 };

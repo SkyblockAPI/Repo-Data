@@ -1,3 +1,4 @@
+id = "GLOWING_MUSHROOM_CAVE_TRAVEL_SCROLL";
 item = "empty_map";
 name = "Travel Scroll to the Glowing Mushroom Cave";
 include("types/travel_scroll", this);

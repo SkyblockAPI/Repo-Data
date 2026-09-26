@@ -1,3 +1,4 @@
+id = "POLISHED_PUMPKIN";
 item = "paper";
 name = "Polished Pumpkin";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/polished_pumpkin";

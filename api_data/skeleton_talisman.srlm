@@ -1,3 +1,4 @@
+id = "SKELETON_TALISMAN";
 item = "skeleton_skull";
 name = "Skeleton Talisman";
 include("types/accessory", this);

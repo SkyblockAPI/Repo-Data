@@ -1,3 +1,4 @@
+id = "BAT_FIREWORK";
 item = "firework";
 name = "Bat Firework";
 rarity = "RARE";

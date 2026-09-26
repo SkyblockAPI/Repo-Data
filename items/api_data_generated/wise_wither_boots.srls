@@ -1,4 +1,3 @@
 meta {
-  id = WISE_WITHER_BOOTS;
   include("api_data/wise_wither_boots", this); 
 };

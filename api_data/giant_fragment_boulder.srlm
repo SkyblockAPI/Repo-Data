@@ -1,3 +1,4 @@
+id = "GIANT_FRAGMENT_BOULDER";
 item = "paper";
 name = "Jolly Pink Rock";
 include("types/dungeon", this);

@@ -1,3 +1,4 @@
+id = "INFINITE_SUPERBOOM_TNT";
 item = "tnt";
 name = "Infinityboom TNT";
 rarity = "EPIC";

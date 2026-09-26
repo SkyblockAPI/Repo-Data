@@ -1,4 +1,3 @@
 meta {
-  id = AMETHYST_POWER_SCROLL;
   include("api_data/amethyst_power_scroll", this); 
 };

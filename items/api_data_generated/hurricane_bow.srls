@@ -1,4 +1,3 @@
 meta {
-  id = HURRICANE_BOW;
   include("api_data/hurricane_bow", this); 
 };

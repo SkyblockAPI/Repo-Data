@@ -1,3 +1,4 @@
+id = "MAGMA_LORD_HELMET";
 item = "player_head";
 name = "Magma Lord Helmet";
 include("types/helmet", this);

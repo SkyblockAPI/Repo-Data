@@ -1,3 +1,4 @@
+id = "GARLIC_FLAVORED_GUMMY_BEAR";
 item = "player_head";
 name = "Perma-Jelled Garlic-Flavored Re-Heated Gummy Polar Bear";
 include("types/accessory", this);

@@ -1,4 +1,3 @@
 meta {
-  id = SUSPICIOUS_VIAL;
   include("api_data/suspicious_vial", this); 
 };

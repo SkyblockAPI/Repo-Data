@@ -1,3 +1,4 @@
+id = "CHOCO_RABBIT_PERSONALITY";
 item = "player_head";
 name = "Choco Rabbit Minion Skin";
 include("types/cosmetic", this);

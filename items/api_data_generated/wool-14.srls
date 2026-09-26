@@ -1,4 +1,3 @@
 meta {
-  id = WOOL:14;
   include("api_data/wool-14", this); 
 };

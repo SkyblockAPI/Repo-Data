@@ -1,4 +1,3 @@
 meta {
-  id = CAMPFIRE_TALISMAN_20;
   include("api_data/campfire_talisman_20", this); 
 };

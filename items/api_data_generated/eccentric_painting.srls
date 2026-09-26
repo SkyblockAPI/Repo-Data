@@ -1,4 +1,3 @@
 meta {
-  id = ECCENTRIC_PAINTING;
   include("api_data/eccentric_painting", this); 
 };

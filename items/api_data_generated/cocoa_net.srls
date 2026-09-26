@@ -1,4 +1,3 @@
 meta {
-  id = COCOA_NET;
   include("api_data/cocoa_net", this); 
 };

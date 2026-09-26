@@ -1,4 +1,3 @@
 meta {
-  id = ILLUSION_GLASS;
   include("api_data/illusion_glass", this); 
 };

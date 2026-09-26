@@ -1,4 +1,3 @@
 meta {
-  id = SHINY_PRISM;
   include("api_data/shiny_prism", this); 
 };

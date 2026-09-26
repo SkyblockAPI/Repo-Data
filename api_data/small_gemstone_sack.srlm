@@ -1,3 +1,4 @@
+id = "SMALL_GEMSTONE_SACK";
 item = "player_head";
 name = "Small Gemstone Sack";
 include("types/sack", this);

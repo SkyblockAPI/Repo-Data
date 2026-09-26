@@ -1,4 +1,3 @@
 meta {
-  id = DESK;
   include("api_data/desk", this); 
 };

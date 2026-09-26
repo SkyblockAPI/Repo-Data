@@ -1,4 +1,3 @@
 meta {
-  id = BUZZYBEES_FANTABULOUS_DISCO_DESTINATION;
   include("api_data/buzzybees_fantabulous_disco_destination", this); 
 };

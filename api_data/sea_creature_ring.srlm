@@ -1,3 +1,4 @@
+id = "SEA_CREATURE_RING";
 item = "player_head";
 name = "Sea Creature Ring";
 include("types/accessory", this);

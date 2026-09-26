@@ -1,4 +1,3 @@
 meta {
-  id = BURNING_CRIMSON_CHESTPLATE;
   include("api_data/burning_crimson_chestplate", this); 
 };

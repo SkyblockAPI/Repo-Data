@@ -1,3 +1,4 @@
+id = "PET_SKIN_MEGALODON_BULLHEAD";
 item = "player_head";
 name = "BullheadMegalodon";
 include("types/cosmetic", this);

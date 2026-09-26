@@ -1,4 +1,3 @@
 meta {
-  id = RING_OF_BROKEN_LOVE;
   include("api_data/ring_of_broken_love", this); 
 };

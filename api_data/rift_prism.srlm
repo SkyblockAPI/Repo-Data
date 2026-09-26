@@ -1,3 +1,4 @@
+id = "RIFT_PRISM";
 item = "player_head";
 name = "Rift Prism";
 include("types/accessory", this);

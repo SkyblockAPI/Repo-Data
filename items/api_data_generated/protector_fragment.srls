@@ -1,4 +1,3 @@
 meta {
-  id = PROTECTOR_FRAGMENT;
   include("api_data/protector_fragment", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = BIG_XTREE;
   include("api_data/big_xtree", this); 
 };

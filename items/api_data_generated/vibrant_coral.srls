@@ -1,4 +1,3 @@
 meta {
-  id = VIBRANT_CORAL;
   include("api_data/vibrant_coral", this); 
 };

@@ -1,3 +1,4 @@
+id = "PET_ITEM_VAMPIRE_FANG";
 item = "ghast_tear";
 name = "Vampire Fang";
 rarity = "MYTHIC";

@@ -1,4 +1,3 @@
 meta {
-  id = HIGHLITE;
   include("api_data/highlite", this); 
 };

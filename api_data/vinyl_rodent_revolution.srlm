@@ -1,3 +1,4 @@
+id = "VINYL_RODENT_REVOLUTION";
 item = "gold_record";
 name = "Rodent Revolution Vinyl";
 rarity = "UNCOMMON";

@@ -1,3 +1,4 @@
+id = "PET_ITEM_ALL_SKILLS_BOOST_RARE";
 item = "diamond";
 name = "All Skills Exp Boost";
 include("types/pet_item", this);

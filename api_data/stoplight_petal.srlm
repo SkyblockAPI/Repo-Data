@@ -1,3 +1,4 @@
+id = "STOPLIGHT_PETAL";
 item = "player_head";
 name = "Stoplight Petal";
 include("types/mutation", this);

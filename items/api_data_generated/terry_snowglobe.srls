@@ -1,4 +1,3 @@
 meta {
-  id = TERRY_SNOWGLOBE;
   include("api_data/terry_snowglobe", this); 
 };

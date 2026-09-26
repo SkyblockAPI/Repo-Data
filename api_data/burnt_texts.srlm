@@ -1,3 +1,4 @@
+id = "BURNT_TEXTS";
 item = "player_head";
 name = "Burnt Texts";
 include("types/pet_item", this);

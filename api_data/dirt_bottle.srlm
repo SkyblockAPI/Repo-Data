@@ -1,3 +1,4 @@
+id = "DIRT_BOTTLE";
 item = "player_head";
 name = "Dirt Bottle";
 include("types/reforge_stone", this);

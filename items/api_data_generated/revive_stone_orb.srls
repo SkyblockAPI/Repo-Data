@@ -1,4 +1,3 @@
 meta {
-  id = REVIVE_STONE_ORB;
   include("api_data/revive_stone_orb", this); 
 };

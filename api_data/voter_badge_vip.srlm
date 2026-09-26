@@ -1,3 +1,4 @@
+id = "VOTER_BADGE_VIP";
 item = "player_head";
 name = "VIP Voter's Badge";
 include("types/accessory", this);

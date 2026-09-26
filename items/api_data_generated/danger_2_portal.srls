@@ -1,4 +1,3 @@
 meta {
-  id = DANGER_2_PORTAL;
   include("api_data/danger_2_portal", this); 
 };

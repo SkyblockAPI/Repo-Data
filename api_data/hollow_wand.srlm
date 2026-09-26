@@ -1,3 +1,4 @@
+id = "HOLLOW_WAND";
 item = "feather";
 name = "Hollow Wand";
 include("types/wand", this);

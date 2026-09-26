@@ -1,4 +1,3 @@
 meta {
-  id = AUGER_ROD;
   include("api_data/auger_rod", this); 
 };

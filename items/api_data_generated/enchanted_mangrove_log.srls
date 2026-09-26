@@ -1,4 +1,3 @@
 meta {
-  id = ENCHANTED_MANGROVE_LOG;
   include("api_data/enchanted_mangrove_log", this); 
 };

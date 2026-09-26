@@ -1,4 +1,3 @@
 meta {
-  id = PIG_GENERATOR_9;
   include("api_data/pig_generator_9", this); 
 };

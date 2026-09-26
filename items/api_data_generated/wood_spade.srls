@@ -1,4 +1,3 @@
 meta {
-  id = WOOD_SPADE;
   include("api_data/wood_spade", this); 
 };

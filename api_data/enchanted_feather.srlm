@@ -1,3 +1,4 @@
+id = "ENCHANTED_FEATHER";
 item = "feather";
 name = "Enchanted Feather";
 rarity = "UNCOMMON";

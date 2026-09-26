@@ -1,3 +1,4 @@
+id = "PETRIFIED_STARFALL";
 item = "player_head";
 name = "Petrified Starfall";
 include("types/reforge_stone", this);

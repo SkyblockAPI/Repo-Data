@@ -1,3 +1,4 @@
+id = "DWARVEN_EMERALD_HAMMER";
 item = "wood_axe";
 name = "Scavenged Emerald Hammer";
 rarity = "SPECIAL";

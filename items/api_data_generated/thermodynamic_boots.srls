@@ -1,4 +1,3 @@
 meta {
-  id = THERMODYNAMIC_BOOTS;
   include("api_data/thermodynamic_boots", this); 
 };

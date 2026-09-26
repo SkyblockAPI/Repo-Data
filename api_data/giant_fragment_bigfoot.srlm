@@ -1,3 +1,4 @@
+id = "GIANT_FRAGMENT_BIGFOOT";
 item = "leash";
 name = "Bigfoot's Bola";
 include("types/dungeon", this);

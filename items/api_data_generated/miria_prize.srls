@@ -1,4 +1,3 @@
 meta {
-  id = MIRIA_PRIZE;
   include("api_data/miria_prize", this); 
 };

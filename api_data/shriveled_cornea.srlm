@@ -1,3 +1,4 @@
+id = "SHRIVELED_CORNEA";
 item = "player_head";
 name = "Shriveled Cornea";
 include("types/reforge_stone", this);

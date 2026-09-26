@@ -1,4 +1,3 @@
 meta {
-  id = CRAB;
   include("api_data/crab", this); 
 };

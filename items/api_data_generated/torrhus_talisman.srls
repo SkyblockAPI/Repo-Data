@@ -1,4 +1,3 @@
 meta {
-  id = TORRHUS_TALISMAN;
   include("api_data/torrhus_talisman", this); 
 };

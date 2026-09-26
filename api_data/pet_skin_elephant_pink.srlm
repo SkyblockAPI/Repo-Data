@@ -1,3 +1,4 @@
+id = "PET_SKIN_ELEPHANT_PINK";
 item = "player_head";
 name = "PinkElephant";
 include("types/cosmetic", this);

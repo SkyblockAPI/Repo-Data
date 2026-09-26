@@ -1,3 +1,4 @@
+id = "BERBERIS_BLOWGUN";
 item = "stick";
 name = "Berberis Blowgun";
 rarity = "RARE";

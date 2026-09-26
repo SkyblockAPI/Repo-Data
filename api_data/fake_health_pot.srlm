@@ -1,3 +1,4 @@
+id = "FAKE_HEALTH_POT";
 item = "potion";
 name = "Red Cross Potion";
 include("types/dungeon", this);

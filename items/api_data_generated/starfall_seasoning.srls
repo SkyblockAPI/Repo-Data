@@ -1,4 +1,3 @@
 meta {
-  id = STARFALL_SEASONING;
   include("api_data/starfall_seasoning", this); 
 };

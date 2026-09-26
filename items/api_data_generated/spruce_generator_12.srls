@@ -1,4 +1,3 @@
 meta {
-  id = SPRUCE_GENERATOR_12;
   include("api_data/spruce_generator_12", this); 
 };

@@ -1,3 +1,4 @@
+id = "SALMON_OPAL";
 item = "player_head";
 name = "Kaleidoscopic Mineral";
 include("types/reforge_stone", this);

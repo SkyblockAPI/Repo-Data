@@ -1,4 +1,3 @@
 meta {
-  id = GREAT_SPOOK_LEGGINGS;
   include("api_data/great_spook_leggings", this); 
 };

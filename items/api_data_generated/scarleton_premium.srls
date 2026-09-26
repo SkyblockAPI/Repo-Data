@@ -1,4 +1,3 @@
 meta {
-  id = SCARLETON_PREMIUM;
   include("api_data/scarleton_premium", this); 
 };

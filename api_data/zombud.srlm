@@ -1,3 +1,4 @@
+id = "ZOMBUD";
 item = "player_head";
 name = "Zombud";
 include("types/mutation", this);

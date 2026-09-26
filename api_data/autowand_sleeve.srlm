@@ -1,3 +1,4 @@
+id = "AUTOWAND_SLEEVE";
 item = "wood_spade";
 name = "Autowand Sleeve";
 rarity = "RARE";

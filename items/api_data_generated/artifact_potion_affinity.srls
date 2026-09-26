@@ -1,4 +1,3 @@
 meta {
-  id = ARTIFACT_POTION_AFFINITY;
   include("api_data/artifact_potion_affinity", this); 
 };

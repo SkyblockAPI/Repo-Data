@@ -1,4 +1,3 @@
 meta {
-  id = MOSSY_COBBLESTONE;
   include("api_data/mossy_cobblestone", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = BOUNCY_BOOTS;
   include("api_data/bouncy_boots", this); 
 };

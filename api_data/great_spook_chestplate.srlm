@@ -1,3 +1,4 @@
+id = "GREAT_SPOOK_CHESTPLATE";
 item = "leather_chestplate";
 name = "Great Spook Chestplate";
 include("types/chestplate", this);

@@ -1,3 +1,4 @@
+id = "MASTER_THESIS";
 item = "player_head";
 name = "Master's Thesis";
 include("types/accessory", this);

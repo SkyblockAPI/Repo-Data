@@ -1,3 +1,4 @@
+id = "NETHER_STALK_DISTILLATE";
 item = "paper";
 name = "Nether Wart Distillate";
 this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/blaze/minion/fuel/distillate/nether_wart_distillate";

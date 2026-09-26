@@ -1,4 +1,3 @@
 meta {
-  id = ENCHANTED_GUNPOWDER;
   include("api_data/enchanted_gunpowder", this); 
 };

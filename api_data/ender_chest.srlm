@@ -1,3 +1,4 @@
+id = "ENDER_CHEST";
 item = "ender_chest";
 name = "Ender Chest";
 rarity = "COMMON";

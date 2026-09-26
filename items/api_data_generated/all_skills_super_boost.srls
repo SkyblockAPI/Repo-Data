@@ -1,4 +1,3 @@
 meta {
-  id = ALL_SKILLS_SUPER_BOOST;
   include("api_data/all_skills_super_boost", this); 
 };

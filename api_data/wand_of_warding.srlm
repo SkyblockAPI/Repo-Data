@@ -1,3 +1,4 @@
+id = "WAND_OF_WARDING";
 item = "diamond";
 name = "%%aqua%%Warding Diamathame";
 rarity = "RARE";

@@ -1,4 +1,3 @@
 meta {
-  id = LEAVE_CHALLENGE_BUTTON;
   include("api_data/leave_challenge_button", this); 
 };

@@ -1,3 +1,4 @@
+id = "FARMING_WAND";
 item = "gold_hoe";
 name = "Wand of Farming";
 include("types/wand", this);

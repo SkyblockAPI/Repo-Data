@@ -1,4 +1,3 @@
 meta {
-  id = DITTO_BLOB;
   include("api_data/ditto_blob", this); 
 };

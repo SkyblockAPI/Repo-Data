@@ -1,3 +1,4 @@
+id = "CLOWNFISH_CLOAK";
 item = "player_head";
 name = "Tropical Cloak";
 include("types/cloak", this);

@@ -1,4 +1,3 @@
 meta {
-  id = REVENGE;
   include("api_data/revenge", this); 
 };

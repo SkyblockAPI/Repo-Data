@@ -1,4 +1,3 @@
 meta {
-  id = DO_NOT_EAT_SHROOM;
   include("api_data/do_not_eat_shroom", this); 
 };

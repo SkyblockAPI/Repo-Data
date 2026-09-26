@@ -1,3 +1,4 @@
+id = "FROZEN_SCYTHE";
 item = "iron_hoe";
 name = "Frozen Scythe";
 include("types/sword", this);

@@ -1,4 +1,3 @@
 meta {
-  id = INFERNO_VERTEX;
   include("api_data/inferno_vertex", this); 
 };

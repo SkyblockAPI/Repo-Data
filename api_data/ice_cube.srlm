@@ -1,3 +1,4 @@
+id = "ICE_CUBE";
 item = "packed_ice";
 name = "Ice Cube";
 rarity = "RARE";

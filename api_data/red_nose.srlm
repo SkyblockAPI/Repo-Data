@@ -1,3 +1,4 @@
+id = "RED_NOSE";
 item = "player_head";
 name = "Red Nose";
 include("types/reforge_stone", this);

@@ -1,4 +1,3 @@
 meta {
-  id = FROZEN_BLAZE_BOOTS;
   include("api_data/frozen_blaze_boots", this); 
 };

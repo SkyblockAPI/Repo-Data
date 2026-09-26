@@ -1,3 +1,4 @@
+id = "WEBBED_FOSSIL";
 item = "paper";
 name = "Webbed Fossil";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/fossils/webbed_fossil";

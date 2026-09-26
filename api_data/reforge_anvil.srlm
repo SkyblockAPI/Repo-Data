@@ -1,3 +1,4 @@
+id = "REFORGE_ANVIL";
 item = "anvil";
 name = "Reforge Anvil";
 rarity = "EPIC";

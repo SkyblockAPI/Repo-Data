@@ -1,4 +1,3 @@
 meta {
-  id = ICE_SPRAY_WAND;
   include("api_data/ice_spray_wand", this); 
 };

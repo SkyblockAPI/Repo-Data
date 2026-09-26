@@ -1,3 +1,4 @@
+id = "TOPAZ_POWER_SCROLL";
 item = "paper";
 name = "Topaz Power Scroll";
 this["minecraft:item_model"] = "minecraft:writable_book";

@@ -1,3 +1,4 @@
+id = "SOUL_CAMPFIRE_TALISMAN_20";
 item = "player_head";
 name = "Soul Campfire Scion Badge VIII";
 include("types/accessory", this);

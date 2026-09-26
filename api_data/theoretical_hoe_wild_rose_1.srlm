@@ -1,3 +1,4 @@
+id = "THEORETICAL_HOE_WILD_ROSE_1";
 item = "iron_hoe";
 name = "Wild Rose Cutter Mk. I";
 include("types/farming_tool", this);

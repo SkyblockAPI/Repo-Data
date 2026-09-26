@@ -1,4 +1,3 @@
 meta {
-  id = DESERT_ISLAND;
   include("api_data/desert_island", this); 
 };

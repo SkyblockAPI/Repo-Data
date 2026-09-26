@@ -1,3 +1,4 @@
+id = "ONYX_CRYSTAL";
 item = "paper";
 name = "Onyx Crystal";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/crystal/onyx_crystal";

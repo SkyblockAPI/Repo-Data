@@ -1,3 +1,4 @@
+id = "CRYSTAL_HOLLOWS_SACK";
 item = "player_head";
 name = "Crystal Hollows Sack";
 include("types/sack", this);

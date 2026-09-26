@@ -1,4 +1,3 @@
 meta {
-  id = FARM_ARMOR_LEGGINGS;
   include("api_data/farm_armor_leggings", this); 
 };

@@ -1,3 +1,4 @@
+id = "FILET_O_FORTUNE";
 item = "cooked_fish";
 name = "Filet O' Fortune";
 rarity = "RARE";

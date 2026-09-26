@@ -1,3 +1,4 @@
+id = "REVENANT_CATALYST";
 item = "paper";
 name = "Revenant Catalyst";
 this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/zombie/catalysts/revenant_catalyst";

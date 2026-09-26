@@ -1,4 +1,3 @@
 meta {
-  id = HELMET_OF_LIVE_RELOADING;
   include("api_data/helmet_of_live_reloading", this); 
 };

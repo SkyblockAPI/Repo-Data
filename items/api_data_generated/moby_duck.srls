@@ -1,4 +1,3 @@
 meta {
-  id = MOBY_DUCK;
   include("api_data/moby_duck", this); 
 };

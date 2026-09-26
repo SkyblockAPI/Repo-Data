@@ -1,3 +1,4 @@
+id = "RAW_FISH:3";
 item = "raw_fish";
 name = "Pufferfish";
 rarity = "COMMON";

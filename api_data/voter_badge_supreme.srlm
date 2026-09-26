@@ -1,3 +1,4 @@
+id = "VOTER_BADGE_SUPREME";
 item = "player_head";
 name = "Supreme Voter's Badge";
 include("types/accessory", this);

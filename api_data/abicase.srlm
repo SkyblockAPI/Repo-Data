@@ -1,3 +1,4 @@
+id = "ABICASE";
 item = "player_head";
 name = "Abicase";
 include("types/accessory", this);

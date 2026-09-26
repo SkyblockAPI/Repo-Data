@@ -1,4 +1,3 @@
 meta {
-  id = ECTOPLASM;
   include("api_data/ectoplasm", this); 
 };

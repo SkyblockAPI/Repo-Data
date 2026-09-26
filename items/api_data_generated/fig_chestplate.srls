@@ -1,4 +1,3 @@
 meta {
-  id = FIG_CHESTPLATE;
   include("api_data/fig_chestplate", this); 
 };

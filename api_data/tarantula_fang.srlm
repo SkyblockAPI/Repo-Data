@@ -1,3 +1,4 @@
+id = "TARANTULA_FANG";
 item = "stone_sword";
 name = "Tarantula Fang";
 include("types/sword", this);

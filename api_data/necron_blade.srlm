@@ -1,3 +1,4 @@
+id = "NECRON_BLADE";
 item = "iron_sword";
 name = "Necron's Blade (Unrefined)";
 include("types/sword", this);

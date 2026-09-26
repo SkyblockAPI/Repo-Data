@@ -1,3 +1,4 @@
+id = "MEDIUM_FISH_BOWL";
 item = "player_head";
 name = "Medium Fish Bowl";
 include("types/accessory", this);

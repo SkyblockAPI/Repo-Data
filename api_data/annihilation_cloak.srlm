@@ -1,3 +1,4 @@
+id = "ANNIHILATION_CLOAK";
 item = "player_head";
 name = "Annihilation Cloak";
 include("types/cloak", this);

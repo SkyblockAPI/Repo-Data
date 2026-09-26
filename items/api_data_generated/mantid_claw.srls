@@ -1,4 +1,3 @@
 meta {
-  id = MANTID_CLAW;
   include("api_data/mantid_claw", this); 
 };

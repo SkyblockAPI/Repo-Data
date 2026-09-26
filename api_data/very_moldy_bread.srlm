@@ -1,3 +1,4 @@
+id = "VERY_MOLDY_BREAD";
 item = "bread";
 name = "Very Moldy Bread";
 rarity = "LEGENDARY";

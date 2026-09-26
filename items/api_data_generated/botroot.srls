@@ -1,4 +1,3 @@
 meta {
-  id = BOTROOT;
   include("api_data/botroot", this); 
 };

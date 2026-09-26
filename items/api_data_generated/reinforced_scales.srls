@@ -1,4 +1,3 @@
 meta {
-  id = REINFORCED_SCALES;
   include("api_data/reinforced_scales", this); 
 };

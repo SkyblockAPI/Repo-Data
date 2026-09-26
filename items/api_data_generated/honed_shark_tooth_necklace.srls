@@ -1,4 +1,3 @@
 meta {
-  id = HONED_SHARK_TOOTH_NECKLACE;
   include("api_data/honed_shark_tooth_necklace", this); 
 };

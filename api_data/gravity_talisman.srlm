@@ -1,3 +1,4 @@
+id = "GRAVITY_TALISMAN";
 item = "player_head";
 name = "Gravity Talisman";
 include("types/accessory", this);

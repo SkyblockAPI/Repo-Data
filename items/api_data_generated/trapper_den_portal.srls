@@ -1,4 +1,3 @@
 meta {
-  id = TRAPPER_DEN_PORTAL;
   include("api_data/trapper_den_portal", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = CARROT_BENCH;
   include("api_data/carrot_bench", this); 
 };

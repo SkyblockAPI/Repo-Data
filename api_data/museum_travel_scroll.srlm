@@ -1,3 +1,4 @@
+id = "MUSEUM_TRAVEL_SCROLL";
 item = "empty_map";
 name = "Travel Scroll to Museum";
 include("types/travel_scroll", this);

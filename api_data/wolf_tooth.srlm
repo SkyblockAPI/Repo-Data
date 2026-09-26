@@ -1,3 +1,4 @@
+id = "WOLF_TOOTH";
 item = "ghast_tear";
 name = "Wolf Tooth";
 this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/wolf/wolf_tooth";

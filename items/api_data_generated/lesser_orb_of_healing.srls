@@ -1,4 +1,3 @@
 meta {
-  id = LESSER_ORB_OF_HEALING;
   include("api_data/lesser_orb_of_healing", this); 
 };

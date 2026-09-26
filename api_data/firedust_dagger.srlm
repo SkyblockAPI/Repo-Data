@@ -1,3 +1,4 @@
+id = "FIREDUST_DAGGER";
 item = "stone_sword";
 name = "Firedust Dagger";
 include("types/sword", this);

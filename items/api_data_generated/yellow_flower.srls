@@ -1,4 +1,3 @@
 meta {
-  id = YELLOW_FLOWER;
   include("api_data/yellow_flower", this); 
 };

@@ -1,3 +1,4 @@
+id = "SANDSTONE:1";
 item = "sandstone";
 name = "Chiseled Sandstone";
 rarity = "COMMON";

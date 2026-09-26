@@ -1,3 +1,4 @@
+id = "ENCHANTED_JACK_O_LANTERN";
 item = "player_head";
 name = "Lantern Helmet";
 include("types/helmet", this);

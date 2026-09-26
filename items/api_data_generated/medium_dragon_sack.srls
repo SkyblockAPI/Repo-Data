@@ -1,4 +1,3 @@
 meta {
-  id = MEDIUM_DRAGON_SACK;
   include("api_data/medium_dragon_sack", this); 
 };

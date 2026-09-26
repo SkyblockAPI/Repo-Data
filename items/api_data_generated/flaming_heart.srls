@@ -1,4 +1,3 @@
 meta {
-  id = FLAMING_HEART;
   include("api_data/flaming_heart", this); 
 };

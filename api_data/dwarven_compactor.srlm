@@ -1,3 +1,4 @@
+id = "DWARVEN_COMPACTOR";
 item = "dropper";
 name = "Dwarven Super Compactor";
 rarity = "RARE";

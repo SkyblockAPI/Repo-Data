@@ -1,3 +1,4 @@
+id = "MASTIFF_PUPPY";
 item = "player_head";
 name = "Puppy Skin";
 include("types/cosmetic", this);

@@ -1,4 +1,3 @@
 meta {
-  id = BBQ;
   include("api_data/bbq", this); 
 };

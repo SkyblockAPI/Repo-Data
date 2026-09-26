@@ -1,4 +1,3 @@
 meta {
-  id = CROPIE_TALISMAN;
   include("api_data/cropie_talisman", this); 
 };

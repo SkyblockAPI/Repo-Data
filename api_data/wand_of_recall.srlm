@@ -1,3 +1,4 @@
+id = "WAND_OF_RECALL";
 item = "iron_hoe";
 name = "Wand of Recall";
 include("types/wand", this);

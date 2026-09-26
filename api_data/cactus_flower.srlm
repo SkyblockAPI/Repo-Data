@@ -1,3 +1,4 @@
+id = "CACTUS_FLOWER";
 item = "paper";
 name = "Cactus Flower";
 this["minecraft:item_model"] = "minecraft:cactus_flower";

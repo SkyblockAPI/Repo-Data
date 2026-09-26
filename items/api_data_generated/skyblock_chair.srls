@@ -1,4 +1,3 @@
 meta {
-  id = SKYBLOCK_CHAIR;
   include("api_data/skyblock_chair", this); 
 };

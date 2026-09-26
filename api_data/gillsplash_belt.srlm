@@ -1,3 +1,4 @@
+id = "GILLSPLASH_BELT";
 item = "player_head";
 name = "Gillsplash Belt";
 include("types/belt", this);

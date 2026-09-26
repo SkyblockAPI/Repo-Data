@@ -1,3 +1,4 @@
+id = "PELT_BELT";
 item = "player_head";
 name = "Pelt Belt";
 include("types/belt", this);

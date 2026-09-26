@@ -1,3 +1,4 @@
+id = "PROTECTOR_FRAGMENT";
 item = "paper";
 name = "Protector Dragon Fragment";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/protector_dragon_fragment";

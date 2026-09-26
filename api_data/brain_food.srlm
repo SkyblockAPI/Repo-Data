@@ -1,3 +1,4 @@
+id = "BRAIN_FOOD";
 item = "player_head";
 name = "Brain Food";
 include("types/consumable", this);

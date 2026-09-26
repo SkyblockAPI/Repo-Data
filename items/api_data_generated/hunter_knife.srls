@@ -1,4 +1,3 @@
 meta {
-  id = HUNTER_KNIFE;
   include("api_data/hunter_knife", this); 
 };

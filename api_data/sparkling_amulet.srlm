@@ -1,3 +1,4 @@
+id = "SPARKLING_AMULET";
 item = "paper";
 name = "Sparkling Amulet";
 include("types/necklace", this);

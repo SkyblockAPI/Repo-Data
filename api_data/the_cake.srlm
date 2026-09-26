@@ -1,3 +1,4 @@
+id = "THE_CAKE";
 item = "cake";
 name = "The Cake";
 rarity = "SPECIAL";

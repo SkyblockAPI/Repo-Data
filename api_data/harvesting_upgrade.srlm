@@ -1,3 +1,4 @@
+id = "HARVESTING_UPGRADE";
 item = "iron_hoe";
 name = "Harvesting Upgrade";
 rarity = "UNCOMMON";

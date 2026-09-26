@@ -1,3 +1,4 @@
+id = "SEA_BRINE";
 item = "paper";
 name = "Sea Brine";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/sea_brine";

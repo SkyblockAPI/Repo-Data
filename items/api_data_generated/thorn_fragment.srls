@@ -1,4 +1,3 @@
 meta {
-  id = THORN_FRAGMENT;
   include("api_data/thorn_fragment", this); 
 };

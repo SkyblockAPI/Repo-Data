@@ -1,4 +1,3 @@
 meta {
-  id = PERFECT_ONYX_GEM;
   include("api_data/perfect_onyx_gem", this); 
 };

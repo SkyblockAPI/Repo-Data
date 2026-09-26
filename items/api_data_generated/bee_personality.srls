@@ -1,4 +1,3 @@
 meta {
-  id = BEE_PERSONALITY;
   include("api_data/bee_personality", this); 
 };

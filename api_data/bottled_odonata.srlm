@@ -1,3 +1,4 @@
+id = "BOTTLED_ODONATA";
 item = "exp_bottle";
 name = "Bottled Odonata";
 rarity = "RARE";

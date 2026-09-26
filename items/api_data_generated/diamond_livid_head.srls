@@ -1,4 +1,3 @@
 meta {
-  id = DIAMOND_LIVID_HEAD;
   include("api_data/diamond_livid_head", this); 
 };

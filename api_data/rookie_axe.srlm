@@ -1,3 +1,4 @@
+id = "ROOKIE_AXE";
 item = "stone_axe";
 name = "Rookie Foraging Axe";
 include("types/axe", this);

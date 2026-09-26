@@ -1,4 +1,3 @@
 meta {
-  id = HELIANTHUS_LEGGINGS;
   include("api_data/helianthus_leggings", this); 
 };

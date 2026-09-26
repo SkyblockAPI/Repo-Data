@@ -1,3 +1,4 @@
+id = "REVIVE_STONE_ORB";
 item = "player_head";
 name = "Revive Stone";
 include("types/dungeon", this);

@@ -1,3 +1,4 @@
+id = "CANCEL_PARKOUR_ITEM";
 item = "stained_clay";
 name = "Cancel Parkour";
 rarity = "COMMON";

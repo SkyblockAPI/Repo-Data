@@ -1,4 +1,3 @@
 meta {
-  id = VACCINE_TALISMAN;
   include("api_data/vaccine_talisman", this); 
 };

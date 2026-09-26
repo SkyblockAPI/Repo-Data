@@ -1,4 +1,3 @@
 meta {
-  id = ENCHANTED_UMBER;
   include("api_data/enchanted_umber", this); 
 };

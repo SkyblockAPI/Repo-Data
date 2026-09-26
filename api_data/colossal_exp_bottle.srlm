@@ -1,3 +1,4 @@
+id = "COLOSSAL_EXP_BOTTLE";
 item = "exp_bottle";
 name = "Colossal Experience Bottle";
 rarity = "EPIC";

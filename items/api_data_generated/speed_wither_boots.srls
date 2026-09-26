@@ -1,4 +1,3 @@
 meta {
-  id = SPEED_WITHER_BOOTS;
   include("api_data/speed_wither_boots", this); 
 };

@@ -1,3 +1,4 @@
+id = "DIVER_FRAGMENT";
 item = "paper";
 name = "Emperor's Skull";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/emperors_skull";

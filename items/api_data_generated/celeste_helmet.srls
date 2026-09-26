@@ -1,4 +1,3 @@
 meta {
-  id = CELESTE_HELMET;
   include("api_data/celeste_helmet", this); 
 };

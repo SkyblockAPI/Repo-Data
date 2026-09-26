@@ -1,4 +1,3 @@
 meta {
-  id = FROZEN_SCYTHE;
   include("api_data/frozen_scythe", this); 
 };

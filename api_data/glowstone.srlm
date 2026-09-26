@@ -1,3 +1,4 @@
+id = "GLOWSTONE";
 item = "glowstone";
 name = "Glowstone";
 rarity = "COMMON";

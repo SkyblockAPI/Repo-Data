@@ -1,3 +1,4 @@
+id = "MINECART";
 item = "minecart";
 name = "Minecart";
 rarity = "COMMON";

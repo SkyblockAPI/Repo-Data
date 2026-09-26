@@ -1,4 +1,3 @@
 meta {
-  id = BOBBIN_SCRIPTURES;
   include("api_data/bobbin_scriptures", this); 
 };

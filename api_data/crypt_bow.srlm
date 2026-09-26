@@ -1,3 +1,4 @@
+id = "CRYPT_BOW";
 item = "bow";
 name = "Soulstealer Bow";
 include("types/bow", this);

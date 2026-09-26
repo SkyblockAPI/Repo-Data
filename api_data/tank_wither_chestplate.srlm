@@ -1,3 +1,4 @@
+id = "TANK_WITHER_CHESTPLATE";
 item = "leather_chestplate";
 name = "Goldor's Chestplate";
 include("types/chestplate", this);

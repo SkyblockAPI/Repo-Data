@@ -1,4 +1,3 @@
 meta {
-  id = LUXURIOUS_SPOOL;
   include("api_data/luxurious_spool", this); 
 };

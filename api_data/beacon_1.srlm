@@ -1,3 +1,4 @@
+id = "BEACON_1";
 item = "beacon";
 name = "Beacon I";
 rarity = "RARE";

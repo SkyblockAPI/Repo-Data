@@ -1,4 +1,3 @@
 meta {
-  id = FALLEN_STAR_TRACKER;
   include("api_data/fallen_star_tracker", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = ENDER_BOW;
   include("api_data/ender_bow", this); 
 };

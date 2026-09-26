@@ -1,4 +1,3 @@
 meta {
-  id = ROGUE_SWORD;
   include("api_data/rogue_sword", this); 
 };

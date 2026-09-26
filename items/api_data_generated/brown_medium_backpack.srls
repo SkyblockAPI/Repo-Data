@@ -1,4 +1,3 @@
 meta {
-  id = BROWN_MEDIUM_BACKPACK;
   include("api_data/brown_medium_backpack", this); 
 };

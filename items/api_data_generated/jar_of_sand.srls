@@ -1,4 +1,3 @@
 meta {
-  id = JAR_OF_SAND;
   include("api_data/jar_of_sand", this); 
 };

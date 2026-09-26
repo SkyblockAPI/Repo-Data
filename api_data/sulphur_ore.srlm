@@ -1,3 +1,4 @@
+id = "SULPHUR_ORE";
 item = "glowstone_dust";
 name = "Sulphur";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/sulphur";

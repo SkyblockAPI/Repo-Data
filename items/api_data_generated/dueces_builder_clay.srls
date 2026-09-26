@@ -1,4 +1,3 @@
 meta {
-  id = DUECES_BUILDER_CLAY;
   include("api_data/dueces_builder_clay", this); 
 };

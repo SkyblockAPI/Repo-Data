@@ -1,4 +1,3 @@
 meta {
-  id = PEDESTAL;
   include("api_data/pedestal", this); 
 };

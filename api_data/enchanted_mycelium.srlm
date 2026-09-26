@@ -1,3 +1,4 @@
+id = "ENCHANTED_MYCELIUM";
 item = "mycel";
 name = "Enchanted Mycelium";
 rarity = "UNCOMMON";

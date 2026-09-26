@@ -1,4 +1,3 @@
 meta {
-  id = MEDIUM_SHELVES;
   include("api_data/medium_shelves", this); 
 };

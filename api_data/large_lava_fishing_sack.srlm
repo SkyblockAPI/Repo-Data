@@ -1,3 +1,4 @@
+id = "LARGE_LAVA_FISHING_SACK";
 item = "player_head";
 name = "Large Lava Fishing Sack";
 include("types/sack", this);

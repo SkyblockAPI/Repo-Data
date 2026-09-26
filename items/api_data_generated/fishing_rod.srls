@@ -1,4 +1,3 @@
 meta {
-  id = FISHING_ROD;
   include("api_data/fishing_rod", this); 
 };

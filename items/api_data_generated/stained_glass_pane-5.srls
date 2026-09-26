@@ -1,4 +1,3 @@
 meta {
-  id = STAINED_GLASS_PANE:5;
   include("api_data/stained_glass_pane-5", this); 
 };

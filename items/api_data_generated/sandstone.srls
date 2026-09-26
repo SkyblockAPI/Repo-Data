@@ -1,4 +1,3 @@
 meta {
-  id = SANDSTONE;
   include("api_data/sandstone", this); 
 };

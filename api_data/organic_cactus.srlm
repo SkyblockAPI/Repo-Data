@@ -1,3 +1,4 @@
+id = "ORGANIC_CACTUS";
 item = "cactus";
 name = "Organic Cactus";
 rarity = "UNCOMMON";

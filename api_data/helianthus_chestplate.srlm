@@ -1,3 +1,4 @@
+id = "HELIANTHUS_CHESTPLATE";
 item = "iron_chestplate";
 name = "Helianthus Chestplate";
 include("types/chestplate", this);

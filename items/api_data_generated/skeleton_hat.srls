@@ -1,4 +1,3 @@
 meta {
-  id = SKELETON_HAT;
   include("api_data/skeleton_hat", this); 
 };

@@ -1,3 +1,4 @@
+id = "ANITA_ARTIFACT";
 item = "player_head";
 name = "Anita's Artifact";
 include("types/accessory", this);

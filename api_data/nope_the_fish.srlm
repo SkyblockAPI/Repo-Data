@@ -1,3 +1,4 @@
+id = "NOPE_THE_FISH";
 item = "raw_fish";
 name = "Nope the Fish";
 rarity = "SPECIAL";

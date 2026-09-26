@@ -1,3 +1,4 @@
+id = "JERRY_NEW_YEAR_26";
 item = "player_head";
 name = "A Very Jerry New Year 2026";
 include("types/cosmetic", this);

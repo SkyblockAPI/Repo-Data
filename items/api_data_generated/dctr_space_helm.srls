@@ -1,4 +1,3 @@
 meta {
-  id = DCTR_SPACE_HELM;
   include("api_data/dctr_space_helm", this); 
 };

@@ -1,3 +1,4 @@
+id = "FARMING_2_TRAVEL_SCROLL";
 item = "empty_map";
 name = "Travel Scroll to Mushroom Island";
 include("types/travel_scroll", this);

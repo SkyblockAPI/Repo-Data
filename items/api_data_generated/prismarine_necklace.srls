@@ -1,4 +1,3 @@
 meta {
-  id = PRISMARINE_NECKLACE;
   include("api_data/prismarine_necklace", this); 
 };

@@ -1,3 +1,4 @@
+id = "MASTER_SKULL_TIER_7";
 item = "player_head";
 name = "Master Skull - Tier 7";
 include("types/accessory", this);

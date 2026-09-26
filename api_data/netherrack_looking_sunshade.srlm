@@ -1,3 +1,4 @@
+id = "NETHERRACK_LOOKING_SUNSHADE";
 item = "player_head";
 name = "Netherrack-Looking Sunshade";
 include("types/accessory", this);

@@ -1,3 +1,4 @@
+id = "DUNGEON_GREEN_SUPPORT_ORB";
 item = "player_head";
 name = "Support Orb";
 include("types/dungeon", this);

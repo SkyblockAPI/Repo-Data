@@ -1,4 +1,3 @@
 meta {
-  id = JERRYFLOWER;
   include("api_data/jerryflower", this); 
 };

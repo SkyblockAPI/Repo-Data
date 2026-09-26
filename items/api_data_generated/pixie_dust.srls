@@ -1,4 +1,3 @@
 meta {
-  id = PIXIE_DUST;
   include("api_data/pixie_dust", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = CELESTE_WAND;
   include("api_data/celeste_wand", this); 
 };

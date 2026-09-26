@@ -1,3 +1,4 @@
+id = "HOTSPOT_HOOK";
 item = "paper";
 name = "Hotspot Hook";
 include("types/fishing_rod_part", this);

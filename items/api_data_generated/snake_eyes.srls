@@ -1,4 +1,3 @@
 meta {
-  id = SNAKE_EYES;
   include("api_data/snake_eyes", this); 
 };

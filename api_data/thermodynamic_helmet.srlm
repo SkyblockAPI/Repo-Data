@@ -1,3 +1,4 @@
+id = "THERMODYNAMIC_HELMET";
 item = "player_head";
 name = "Thermodynamic Helmet";
 include("types/helmet", this);

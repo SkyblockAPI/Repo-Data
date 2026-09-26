@@ -1,3 +1,4 @@
+id = "BINGO_ARTIFACT";
 item = "player_head";
 name = "Bingo Artifact";
 include("types/accessory", this);

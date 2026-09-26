@@ -1,4 +1,3 @@
 meta {
-  id = CHAINMAIL_LEGGINGS;
   include("api_data/chainmail_leggings", this); 
 };

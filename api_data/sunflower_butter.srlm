@@ -1,3 +1,4 @@
+id = "SUNFLOWER_BUTTER";
 item = "player_head";
 name = "Sunflower Butter";
 include("types/reforge_stone", this);

@@ -1,4 +1,3 @@
 meta {
-  id = GLACITE_LANTERN;
   include("api_data/glacite_lantern", this); 
 };

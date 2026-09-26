@@ -1,3 +1,4 @@
+id = "PLASMA_BUCKET";
 item = "paper";
 name = "Plasma Bucket";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/plasma_bucket";

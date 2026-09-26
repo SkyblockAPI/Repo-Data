@@ -1,3 +1,4 @@
+id = "SPIKED_BAIT";
 item = "paper";
 name = "Spiked Bait";
 include("types/bait", this);

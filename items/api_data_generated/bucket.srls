@@ -1,4 +1,3 @@
 meta {
-  id = BUCKET;
   include("api_data/bucket", this); 
 };

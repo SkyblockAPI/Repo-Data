@@ -1,4 +1,3 @@
 meta {
-  id = TITANOBOA_SHED;
   include("api_data/titanoboa_shed", this); 
 };

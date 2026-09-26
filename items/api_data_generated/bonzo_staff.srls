@@ -1,4 +1,3 @@
 meta {
-  id = BONZO_STAFF;
   include("api_data/bonzo_staff", this); 
 };

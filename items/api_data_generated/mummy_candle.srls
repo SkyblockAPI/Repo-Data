@@ -1,4 +1,3 @@
 meta {
-  id = MUMMY_CANDLE;
   include("api_data/mummy_candle", this); 
 };

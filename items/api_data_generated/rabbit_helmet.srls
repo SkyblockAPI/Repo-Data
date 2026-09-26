@@ -1,4 +1,3 @@
 meta {
-  id = RABBIT_HELMET;
   include("api_data/rabbit_helmet", this); 
 };

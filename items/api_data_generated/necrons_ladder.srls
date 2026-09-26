@@ -1,4 +1,3 @@
 meta {
-  id = NECRONS_LADDER;
   include("api_data/necrons_ladder", this); 
 };

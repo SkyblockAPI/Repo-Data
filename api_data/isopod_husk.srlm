@@ -1,3 +1,4 @@
+id = "ISOPOD_HUSK";
 item = "paper";
 name = "Isopod Husk";
 include("types/consumable", this);

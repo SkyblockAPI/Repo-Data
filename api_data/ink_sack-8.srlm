@@ -1,3 +1,4 @@
+id = "INK_SACK:8";
 item = "ink_sack";
 name = "Gray Dye";
 rarity = "COMMON";

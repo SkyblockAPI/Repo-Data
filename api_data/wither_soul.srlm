@@ -1,3 +1,4 @@
+id = "WITHER_SOUL";
 item = "paper";
 name = "Wither Soul";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/wither_soul";

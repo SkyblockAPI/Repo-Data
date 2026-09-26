@@ -1,3 +1,4 @@
+id = "ARCHITECT_FIRST_DRAFT";
 item = "paper";
 name = "Architect's First Draft";
 include("types/dungeon", this);

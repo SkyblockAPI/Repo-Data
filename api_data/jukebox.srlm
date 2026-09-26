@@ -1,3 +1,4 @@
+id = "JUKEBOX";
 item = "jukebox";
 name = "Jukebox";
 rarity = "COMMON";

@@ -1,3 +1,4 @@
+id = "MIRRORED_SLIME_BALL";
 item = "slime_ball";
 name = "llabemilS";
 rarity = "COMMON";

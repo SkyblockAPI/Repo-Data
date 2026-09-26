@@ -1,3 +1,4 @@
+id = "SNORKELING_HELMET";
 item = "player_head";
 name = "Snorkeling Visor";
 include("types/helmet", this);

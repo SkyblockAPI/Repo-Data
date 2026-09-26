@@ -1,4 +1,3 @@
 meta {
-  id = LAVA_BUCKET;
   include("api_data/lava_bucket", this); 
 };

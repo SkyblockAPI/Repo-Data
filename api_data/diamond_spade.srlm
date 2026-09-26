@@ -1,3 +1,4 @@
+id = "DIAMOND_SPADE";
 item = "diamond_spade";
 name = "Diamond Shovel";
 include("types/spade", this);

@@ -1,4 +1,3 @@
 meta {
-  id = CARROT_GENERATOR_7;
   include("api_data/carrot_generator_7", this); 
 };

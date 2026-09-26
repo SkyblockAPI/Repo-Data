@@ -1,4 +1,3 @@
 meta {
-  id = COLD_ONES;
   include("api_data/cold_ones", this); 
 };

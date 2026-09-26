@@ -1,3 +1,4 @@
+id = "LUSH_RING";
 item = "player_head";
 name = "Lush Ring";
 include("types/accessory", this);

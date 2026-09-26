@@ -1,3 +1,4 @@
+id = "PEST_REPELLENT_MAX";
 item = "paper";
 name = "Pest Repellent MAX";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/pests/pest_repellent_max";

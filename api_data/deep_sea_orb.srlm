@@ -1,3 +1,4 @@
+id = "DEEP_SEA_ORB";
 item = "player_head";
 name = "Deep Sea Orb";
 include("types/reforge_stone", this);

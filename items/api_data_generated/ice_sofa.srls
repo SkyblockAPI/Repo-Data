@@ -1,4 +1,3 @@
 meta {
-  id = ICE_SOFA;
   include("api_data/ice_sofa", this); 
 };

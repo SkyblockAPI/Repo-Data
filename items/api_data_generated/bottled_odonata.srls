@@ -1,4 +1,3 @@
 meta {
-  id = BOTTLED_ODONATA;
   include("api_data/bottled_odonata", this); 
 };

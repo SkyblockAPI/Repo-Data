@@ -1,4 +1,3 @@
 meta {
-  id = POOCH_SWORD;
   include("api_data/pooch_sword", this); 
 };

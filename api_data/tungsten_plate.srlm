@@ -1,3 +1,4 @@
+id = "TUNGSTEN_PLATE";
 item = "paper";
 name = "Tungsten Plate";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/tungsten/tungsten_plate";

@@ -1,3 +1,4 @@
+id = "BURNING_KUUDRA_CORE";
 item = "player_head";
 name = "Burning Kuudra Core";
 include("types/accessory", this);

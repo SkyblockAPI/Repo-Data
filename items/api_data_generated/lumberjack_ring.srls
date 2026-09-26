@@ -1,4 +1,3 @@
 meta {
-  id = LUMBERJACK_RING;
   include("api_data/lumberjack_ring", this); 
 };

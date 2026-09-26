@@ -1,3 +1,4 @@
+id = "MIRRORED_BOW";
 item = "bow";
 name = "woB";
 include("types/bow", this);

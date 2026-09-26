@@ -1,4 +1,3 @@
 meta {
-  id = EPIC_KUUDRA_CHUNK;
   include("api_data/epic_kuudra_chunk", this); 
 };

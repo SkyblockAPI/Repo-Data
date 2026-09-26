@@ -1,4 +1,3 @@
 meta {
-  id = ARCHER_DUNGEON_ABILITY_2;
   include("api_data/archer_dungeon_ability_2", this); 
 };

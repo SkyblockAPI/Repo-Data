@@ -1,4 +1,3 @@
 meta {
-  id = CHRISTMAS_TREE;
   include("api_data/christmas_tree", this); 
 };

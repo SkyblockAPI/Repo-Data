@@ -1,4 +1,3 @@
 meta {
-  id = FESTIVE_SKELETON_PERSONALITY;
   include("api_data/festive_skeleton_personality", this); 
 };

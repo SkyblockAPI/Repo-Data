@@ -1,4 +1,3 @@
 meta {
-  id = PLOT_ERASER;
   include("api_data/plot_eraser", this); 
 };

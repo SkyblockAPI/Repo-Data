@@ -1,3 +1,4 @@
+id = "ENCHANTED_HARD_STONE";
 item = "stone";
 name = "Enchanted Hard Stone";
 rarity = "UNCOMMON";

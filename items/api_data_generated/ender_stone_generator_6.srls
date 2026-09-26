@@ -1,4 +1,3 @@
 meta {
-  id = ENDER_STONE_GENERATOR_6;
   include("api_data/ender_stone_generator_6", this); 
 };

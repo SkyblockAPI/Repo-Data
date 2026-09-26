@@ -1,4 +1,3 @@
 meta {
-  id = HOTSPOT_TONIC_MIXIN;
   include("api_data/hotspot_tonic_mixin", this); 
 };

@@ -1,3 +1,4 @@
+id = "PRESTIGE_CHOCOLATE_REALM";
 item = "player_head";
 name = "Prestige Chocolate Realm";
 include("types/accessory", this);

@@ -1,4 +1,3 @@
 meta {
-  id = HOE_OF_GREATEST_TILLING;
   include("api_data/hoe_of_greatest_tilling", this); 
 };

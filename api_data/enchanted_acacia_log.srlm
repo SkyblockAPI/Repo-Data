@@ -1,3 +1,4 @@
+id = "ENCHANTED_ACACIA_LOG";
 item = "log_2";
 name = "Enchanted Acacia Log";
 rarity = "UNCOMMON";

@@ -1,3 +1,4 @@
+id = "DANGER_1_TRAVEL_SCROLL";
 item = "empty_map";
 name = "Travel Scroll to Spider's Den";
 include("types/travel_scroll", this);

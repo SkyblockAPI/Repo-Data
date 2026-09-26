@@ -1,4 +1,3 @@
 meta {
-  id = GREY_GREATER_BACKPACK;
   include("api_data/grey_greater_backpack", this); 
 };

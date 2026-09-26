@@ -1,3 +1,4 @@
+id = "GUNTHESIZER_LICHEN";
 item = "ink_sack";
 name = "Gunthesizer Lichen";
 ::items::prototypes::ingredient::(this);

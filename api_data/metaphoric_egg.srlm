@@ -1,3 +1,4 @@
+id = "METAPHORIC_EGG";
 item = "egg";
 name = "Metaphoric Egg";
 ::items::prototypes::ingredient::(this);

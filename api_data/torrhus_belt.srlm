@@ -1,3 +1,4 @@
+id = "TORRHUS_BELT";
 item = "paper";
 name = "Torrhus Belt";
 include("types/belt", this);

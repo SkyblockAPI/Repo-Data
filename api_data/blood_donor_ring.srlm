@@ -1,3 +1,4 @@
+id = "BLOOD_DONOR_RING";
 item = "player_head";
 name = "Blood Donor Ring";
 include("types/accessory", this);

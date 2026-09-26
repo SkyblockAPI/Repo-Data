@@ -1,4 +1,3 @@
 meta {
-  id = FIREWORK;
   include("api_data/firework", this); 
 };

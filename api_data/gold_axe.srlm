@@ -1,3 +1,4 @@
+id = "GOLD_AXE";
 item = "gold_axe";
 name = "Golden Axe";
 include("types/axe", this);

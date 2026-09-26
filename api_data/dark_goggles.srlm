@@ -1,3 +1,4 @@
+id = "DARK_GOGGLES";
 item = "player_head";
 name = "Dark Goggles";
 include("types/helmet", this);

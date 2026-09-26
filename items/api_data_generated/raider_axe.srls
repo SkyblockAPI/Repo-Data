@@ -1,4 +1,3 @@
 meta {
-  id = RAIDER_AXE;
   include("api_data/raider_axe", this); 
 };

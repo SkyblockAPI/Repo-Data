@@ -1,3 +1,4 @@
+id = "FIRE_FLOWER_TOOL";
 item = "wood_hoe";
 name = "Fire Flower Tool";
 rarity = "UNCOMMON";

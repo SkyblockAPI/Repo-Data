@@ -1,4 +1,3 @@
 meta {
-  id = FULL_FAIRY_CONTROL;
   include("api_data/full_fairy_control", this); 
 };

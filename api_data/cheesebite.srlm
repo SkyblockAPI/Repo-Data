@@ -1,3 +1,4 @@
+id = "CHEESEBITE";
 item = "player_head";
 name = "Cheesebite";
 include("types/mutation", this);

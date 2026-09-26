@@ -1,4 +1,3 @@
 meta {
-  id = SMALL_FISH_BOWL;
   include("api_data/small_fish_bowl", this); 
 };

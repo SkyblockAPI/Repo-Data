@@ -1,4 +1,3 @@
 meta {
-  id = SOULS_REBOUND;
   include("api_data/souls_rebound", this); 
 };

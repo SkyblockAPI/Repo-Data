@@ -1,3 +1,4 @@
+id = "COMPACTOR";
 item = "dropper";
 name = "Compactor";
 ::items::prototypes::ingredient::(this);

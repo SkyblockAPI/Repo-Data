@@ -1,3 +1,4 @@
+id = "GRIZZLY_PAW";
 item = "player_head";
 name = "Grizzly Paw";
 include("types/accessory", this);

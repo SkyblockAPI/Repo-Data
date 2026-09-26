@@ -1,4 +1,3 @@
 meta {
-  id = INFINIDIRT_WAND;
   include("api_data/infinidirt_wand", this); 
 };

@@ -1,3 +1,4 @@
+id = "GAUNTLET_OF_CONTAGION";
 item = "player_head";
 name = "Gauntlet of Contagion";
 include("types/gloves", this);

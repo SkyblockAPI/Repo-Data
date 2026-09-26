@@ -1,3 +1,4 @@
+id = "GILLSPLASH_CLOAK";
 item = "player_head";
 name = "Gillsplash Cloak";
 include("types/cloak", this);

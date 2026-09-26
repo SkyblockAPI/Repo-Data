@@ -1,4 +1,3 @@
 meta {
-  id = STARLYN_PRIZE;
   include("api_data/starlyn_prize", this); 
 };

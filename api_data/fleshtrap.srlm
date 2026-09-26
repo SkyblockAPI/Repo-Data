@@ -1,3 +1,4 @@
+id = "FLESHTRAP";
 item = "player_head";
 name = "Fleshtrap";
 include("types/mutation", this);

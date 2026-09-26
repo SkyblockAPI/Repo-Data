@@ -1,3 +1,4 @@
+id = "TARANTULA_RING";
 item = "player_head";
 name = "Tarantula Ring";
 include("types/accessory", this);

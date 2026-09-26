@@ -1,3 +1,4 @@
+id = "MANGROVE_GEM";
 item = "player_head";
 name = "Mangrove Gem";
 include("types/reforge_stone", this);

@@ -1,4 +1,3 @@
 meta {
-  id = ENCHANTED_IRON_BLOCK;
   include("api_data/enchanted_iron_block", this); 
 };

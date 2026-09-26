@@ -1,3 +1,4 @@
+id = "FULL_JAW_FANGING_KIT";
 item = "ink_sack";
 name = "Full-Jaw Fanging Kit";
 include("types/reforge_stone", this);

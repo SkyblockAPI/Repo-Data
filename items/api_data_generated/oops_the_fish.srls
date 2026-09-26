@@ -1,4 +1,3 @@
 meta {
-  id = OOPS_THE_FISH;
   include("api_data/oops_the_fish", this); 
 };

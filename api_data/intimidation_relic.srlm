@@ -1,3 +1,4 @@
+id = "INTIMIDATION_RELIC";
 item = "player_head";
 name = "Intimidation Relic";
 include("types/accessory", this);

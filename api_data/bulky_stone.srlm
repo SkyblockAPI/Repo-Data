@@ -1,3 +1,4 @@
+id = "BULKY_STONE";
 item = "player_head";
 name = "Bulky Stone";
 include("types/reforge_stone", this);

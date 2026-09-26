@@ -1,4 +1,3 @@
 meta {
-  id = GIANT_SEAL_PLUSHIE;
   include("api_data/giant_seal_plushie", this); 
 };

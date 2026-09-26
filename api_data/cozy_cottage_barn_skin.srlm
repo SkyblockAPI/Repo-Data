@@ -1,3 +1,4 @@
+id = "COZY_COTTAGE_BARN_SKIN";
 item = "hay_block";
 name = "Cozy Cottage Barn Skin";
 include("types/cosmetic", this);

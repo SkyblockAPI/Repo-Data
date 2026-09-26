@@ -1,4 +1,3 @@
 meta {
-  id = ALL_IN_ALOE_FRAGMENT;
   include("api_data/all_in_aloe_fragment", this); 
 };

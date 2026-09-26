@@ -1,3 +1,4 @@
+id = "WOOL:1";
 item = "wool";
 name = "Orange Wool";
 rarity = "COMMON";

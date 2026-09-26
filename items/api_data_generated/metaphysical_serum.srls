@@ -1,4 +1,3 @@
 meta {
-  id = METAPHYSICAL_SERUM;
   include("api_data/metaphysical_serum", this); 
 };

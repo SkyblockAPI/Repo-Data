@@ -1,3 +1,4 @@
+id = "ALCHEMISTS_STAFF";
 item = "red_rose";
 name = "The Alchemist's Staff";
 include("types/wand", this);

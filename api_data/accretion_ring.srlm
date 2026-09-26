@@ -1,3 +1,4 @@
+id = "ACCRETION_RING";
 item = "paper";
 name = "Accretion Ring";
 include("types/accessory", this);

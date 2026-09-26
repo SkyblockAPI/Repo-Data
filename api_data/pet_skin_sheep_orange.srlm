@@ -1,3 +1,4 @@
+id = "PET_SKIN_SHEEP_ORANGE";
 item = "player_head";
 name = "OrangeSheep";
 include("types/cosmetic", this);

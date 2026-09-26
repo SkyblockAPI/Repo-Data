@@ -1,4 +1,3 @@
 meta {
-  id = FARMER_ROD;
   include("api_data/farmer_rod", this); 
 };

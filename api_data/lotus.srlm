@@ -1,3 +1,4 @@
+id = "LOTUS";
 item = "paper";
 name = "Lotus";
 this["minecraft:item_model"] = "hypixel_skyblock:item/collections/lotus/lotus";

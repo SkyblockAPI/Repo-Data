@@ -1,3 +1,4 @@
+id = "JACOBS_TICKET";
 item = "paper";
 name = "Jacob's Ticket";
 this["minecraft:item_model"] = "hypixel_skyblock:item/jacob/jacobs_ticket";

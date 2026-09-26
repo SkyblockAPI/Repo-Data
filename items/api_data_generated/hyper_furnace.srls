@@ -1,4 +1,3 @@
 meta {
-  id = HYPER_FURNACE;
   include("api_data/hyper_furnace", this); 
 };

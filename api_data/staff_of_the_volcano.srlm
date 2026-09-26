@@ -1,3 +1,4 @@
+id = "STAFF_OF_THE_VOLCANO";
 item = "wheat";
 name = "Staff of the Volcano";
 include("types/wand", this);

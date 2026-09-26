@@ -1,4 +1,3 @@
 meta {
-  id = EXTREMELY_MILD_ADHESIVE;
   include("api_data/extremely_mild_adhesive", this); 
 };

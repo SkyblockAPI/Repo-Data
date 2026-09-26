@@ -1,3 +1,4 @@
+id = "WEDDING_RING_9";
 item = "player_head";
 name = "Legendary Ring of Love";
 include("types/accessory", this);

@@ -1,4 +1,3 @@
 meta {
-  id = GHOUL_BUSTER;
   include("api_data/ghoul_buster", this); 
 };

@@ -1,3 +1,4 @@
+id = "PESTHUNTERS_CLOAK";
 item = "player_head";
 name = "Pesthunter's Cloak";
 include("types/cloak", this);

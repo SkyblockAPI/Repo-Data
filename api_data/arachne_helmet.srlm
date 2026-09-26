@@ -1,3 +1,4 @@
+id = "ARACHNE_HELMET";
 item = "player_head";
 name = "Arachne's Helmet";
 include("types/helmet", this);

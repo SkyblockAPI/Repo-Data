@@ -1,3 +1,4 @@
+id = "HYDRO_CAN_1000";
 item = "carrot_stick";
 name = "HydroCan™ 1000";
 include("types/watering_can", this);

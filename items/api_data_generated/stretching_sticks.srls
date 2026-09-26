@@ -1,4 +1,3 @@
 meta {
-  id = STRETCHING_STICKS;
   include("api_data/stretching_sticks", this); 
 };

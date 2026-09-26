@@ -1,4 +1,3 @@
 meta {
-  id = MATRIARCH_PARFUM;
   include("api_data/matriarch_parfum", this); 
 };

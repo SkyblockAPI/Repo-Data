@@ -1,3 +1,4 @@
+id = "LM_EGG_CAP";
 item = "monster_egg";
 name = "Living Metal Capspawn";
 this["minecraft:item_model"] = "minecraft:witch_spawn_egg";

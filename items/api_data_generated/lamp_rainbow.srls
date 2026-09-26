@@ -1,4 +1,3 @@
 meta {
-  id = LAMP_RAINBOW;
   include("api_data/lamp_rainbow", this); 
 };

@@ -1,3 +1,4 @@
+id = "ENCHANTED_HAY_BALE";
 item = "hay_block";
 name = "Enchanted Hay Bale";
 rarity = "RARE";

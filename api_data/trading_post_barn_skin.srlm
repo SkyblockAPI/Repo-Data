@@ -1,3 +1,4 @@
+id = "TRADING_POST_BARN_SKIN";
 item = "fence";
 name = "Trading Post Barn Skin";
 include("types/cosmetic", this);

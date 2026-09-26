@@ -1,3 +1,4 @@
+id = "ABIPHONE_XII_MEGA_COLOR";
 item = "paper";
 name = "Abiphone XII Amethyst";
 this["minecraft:item_model"] = "hypixel_skyblock:item/abiphones/xii/abiphone_xii_amethyst";

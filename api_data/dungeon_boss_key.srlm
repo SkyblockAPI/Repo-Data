@@ -1,3 +1,4 @@
+id = "DUNGEON_BOSS_KEY";
 item = "player_head";
 name = "Master Key";
 include("types/dungeon", this);

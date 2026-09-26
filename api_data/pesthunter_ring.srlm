@@ -1,3 +1,4 @@
+id = "PESTHUNTER_RING";
 item = "player_head";
 name = "Pesthunter Ring";
 include("types/accessory", this);

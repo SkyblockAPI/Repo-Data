@@ -1,3 +1,4 @@
+id = "FAKE_EMERALD_ALTAR";
 item = "emerald_block";
 name = "§aFake Emerald Altar";
 rarity = "UNCOMMON";

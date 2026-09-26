@@ -1,4 +1,3 @@
 meta {
-  id = BRONZE_SHIP_HELM;
   include("api_data/bronze_ship_helm", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = BEAUTIFALL_CABIN_BARN_SKIN;
   include("api_data/beautifall_cabin_barn_skin", this); 
 };

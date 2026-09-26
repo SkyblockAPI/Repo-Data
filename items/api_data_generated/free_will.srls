@@ -1,4 +1,3 @@
 meta {
-  id = FREE_WILL;
   include("api_data/free_will", this); 
 };

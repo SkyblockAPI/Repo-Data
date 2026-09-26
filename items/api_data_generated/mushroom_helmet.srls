@@ -1,4 +1,3 @@
 meta {
-  id = MUSHROOM_HELMET;
   include("api_data/mushroom_helmet", this); 
 };

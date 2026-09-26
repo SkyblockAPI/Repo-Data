@@ -1,3 +1,4 @@
+id = "FINWAVE_GLOVES";
 item = "player_head";
 name = "Finwave Gloves";
 include("types/gloves", this);

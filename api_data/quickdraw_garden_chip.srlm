@@ -1,3 +1,4 @@
+id = "QUICKDRAW_GARDEN_CHIP";
 item = "paper";
 name = "Quickdraw Chip";
 include("types/garden_chip", this);

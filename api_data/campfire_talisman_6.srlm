@@ -1,3 +1,4 @@
+id = "CAMPFIRE_TALISMAN_6";
 item = "player_head";
 name = "Campfire Adept Badge III";
 include("types/accessory", this);

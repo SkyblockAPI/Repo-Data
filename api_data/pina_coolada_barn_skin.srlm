@@ -1,3 +1,4 @@
+id = "PINA_COOLADA_BARN_SKIN";
 item = "player_head";
 name = "Pina Coolada Barn Skin";
 include("types/cosmetic", this);

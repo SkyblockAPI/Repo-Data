@@ -1,4 +1,3 @@
 meta {
-  id = ROUGH_CITRINE_GEM;
   include("api_data/rough_citrine_gem", this); 
 };

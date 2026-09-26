@@ -1,3 +1,4 @@
+id = "FIREWORK_ROCKET";
 item = "firework";
 name = "Firework Rocket";
 rarity = "COMMON";

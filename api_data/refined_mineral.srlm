@@ -1,3 +1,4 @@
+id = "REFINED_MINERAL";
 item = "ink_sack";
 name = "Refined Mineral";
 this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/cole/refined_mineral";

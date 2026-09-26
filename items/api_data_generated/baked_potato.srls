@@ -1,4 +1,3 @@
 meta {
-  id = BAKED_POTATO;
   include("api_data/baked_potato", this); 
 };

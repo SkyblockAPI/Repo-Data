@@ -1,4 +1,3 @@
 meta {
-  id = INK_SACK:5;
   include("api_data/ink_sack-5", this); 
 };

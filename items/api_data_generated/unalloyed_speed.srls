@@ -1,4 +1,3 @@
 meta {
-  id = UNALLOYED_SPEED;
   include("api_data/unalloyed_speed", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = SINSEEKER_SCYTHE;
   include("api_data/sinseeker_scythe", this); 
 };

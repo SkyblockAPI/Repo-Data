@@ -1,3 +1,4 @@
+id = "LOTUS_CROWN";
 item = "player_head";
 name = "Lotus Crown";
 include("types/pet_item", this);

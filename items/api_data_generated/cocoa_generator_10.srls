@@ -1,4 +1,3 @@
 meta {
-  id = COCOA_GENERATOR_10;
   include("api_data/cocoa_generator_10", this); 
 };

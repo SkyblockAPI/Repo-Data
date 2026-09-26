@@ -1,3 +1,4 @@
+id = "UMBERELLA";
 item = "player_head";
 name = "Umberella";
 include("types/deployable", this);

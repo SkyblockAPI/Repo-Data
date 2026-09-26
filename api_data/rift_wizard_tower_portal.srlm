@@ -1,3 +1,4 @@
+id = "RIFT_WIZARD_TOWER_PORTAL";
 item = "player_head";
 name = "Portal to The Rift";
 include("types/portal", this);

@@ -1,4 +1,3 @@
 meta {
-  id = SLICE_OF_STRAWBERRY_SHORTCAKE;
   include("api_data/slice_of_strawberry_shortcake", this); 
 };

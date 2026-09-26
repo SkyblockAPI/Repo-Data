@@ -1,4 +1,3 @@
 meta {
-  id = BOTTLED_MISCHIEF;
   include("api_data/bottled_mischief", this); 
 };

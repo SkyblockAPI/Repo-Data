@@ -1,3 +1,4 @@
+id = "ICE_SPRAY_WAND";
 item = "stick";
 name = "Ice Spray Wand";
 include("types/sword", this);

@@ -1,4 +1,3 @@
 meta {
-  id = HOLLOW_WAND;
   include("api_data/hollow_wand", this); 
 };

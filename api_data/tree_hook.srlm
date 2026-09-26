@@ -1,3 +1,4 @@
+id = "TREE_HOOK";
 item = "iron_hoe";
 name = "Tree Hook";
 rarity = "EPIC";

@@ -1,4 +1,3 @@
 meta {
-  id = END_CHESTPLATE;
   include("api_data/end_chestplate", this); 
 };

@@ -1,3 +1,4 @@
+id = "POWER_RELIC";
 item = "player_head";
 name = "Relic of Power";
 include("types/accessory", this);

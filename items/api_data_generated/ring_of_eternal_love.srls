@@ -1,4 +1,3 @@
 meta {
-  id = RING_OF_ETERNAL_LOVE;
   include("api_data/ring_of_eternal_love", this); 
 };

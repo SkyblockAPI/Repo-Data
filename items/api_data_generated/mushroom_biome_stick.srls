@@ -1,4 +1,3 @@
 meta {
-  id = MUSHROOM_BIOME_STICK;
   include("api_data/mushroom_biome_stick", this); 
 };

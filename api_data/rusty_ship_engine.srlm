@@ -1,3 +1,4 @@
+id = "RUSTY_SHIP_ENGINE";
 item = "paper";
 name = "Rusty Ship Engine";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/ship/rusty_ship_engine";

@@ -1,4 +1,3 @@
 meta {
-  id = FLEXBONE;
   include("api_data/flexbone", this); 
 };

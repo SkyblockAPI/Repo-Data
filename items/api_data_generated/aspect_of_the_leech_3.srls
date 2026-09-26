@@ -1,4 +1,3 @@
 meta {
-  id = ASPECT_OF_THE_LEECH_3;
   include("api_data/aspect_of_the_leech_3", this); 
 };

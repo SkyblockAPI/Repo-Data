@@ -1,3 +1,4 @@
+id = "FROZEN_BLAZE_ICICLE";
 item = "player_head";
 name = "Icicle Skin";
 include("types/cosmetic", this);

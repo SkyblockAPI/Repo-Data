@@ -1,4 +1,3 @@
 meta {
-  id = CLAY_GENERATOR_2;
   include("api_data/clay_generator_2", this); 
 };

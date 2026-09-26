@@ -1,4 +1,3 @@
 meta {
-  id = WHEAT_GENERATOR_2;
   include("api_data/wheat_generator_2", this); 
 };

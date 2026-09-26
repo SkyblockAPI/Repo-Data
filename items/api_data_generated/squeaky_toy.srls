@@ -1,4 +1,3 @@
 meta {
-  id = SQUEAKY_TOY;
   include("api_data/squeaky_toy", this); 
 };

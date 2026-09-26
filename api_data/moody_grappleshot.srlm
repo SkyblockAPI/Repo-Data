@@ -1,3 +1,4 @@
+id = "MOODY_GRAPPLESHOT";
 item = "tripwire_hook";
 name = "Moody Grappleshot";
 rarity = "EPIC";

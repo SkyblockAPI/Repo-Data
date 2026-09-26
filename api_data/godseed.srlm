@@ -1,3 +1,4 @@
+id = "GODSEED";
 item = "player_head";
 name = "Godseed";
 include("types/mutation", this);

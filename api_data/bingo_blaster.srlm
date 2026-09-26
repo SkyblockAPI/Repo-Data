@@ -1,3 +1,4 @@
+id = "BINGO_BLASTER";
 item = "paper";
 name = "Bingo Blaster";
 include("types/wand", this);

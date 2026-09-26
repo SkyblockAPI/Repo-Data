@@ -1,3 +1,4 @@
+id = "DIAMOND_BLOCK";
 item = "diamond_block";
 name = "Block of Diamond";
 rarity = "COMMON";

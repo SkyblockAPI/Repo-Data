@@ -1,3 +1,4 @@
+id = "HAPPY_MASK";
 item = "player_head";
 name = "Happy Mask";
 include("types/helmet", this);

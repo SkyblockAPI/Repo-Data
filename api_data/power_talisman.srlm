@@ -1,3 +1,4 @@
+id = "POWER_TALISMAN";
 item = "player_head";
 name = "Talisman of Power";
 include("types/accessory", this);

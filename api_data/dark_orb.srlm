@@ -1,3 +1,4 @@
+id = "DARK_ORB";
 item = "player_head";
 name = "Dark Orb";
 include("types/reforge_stone", this);

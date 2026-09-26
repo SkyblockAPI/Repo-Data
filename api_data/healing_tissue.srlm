@@ -1,3 +1,4 @@
+id = "HEALING_TISSUE";
 item = "rotten_flesh";
 name = "Healing Tissue";
 include("types/dungeon", this);

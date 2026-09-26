@@ -1,4 +1,3 @@
 meta {
-  id = STUFFED_CHILI_PEPPER;
   include("api_data/stuffed_chili_pepper", this); 
 };

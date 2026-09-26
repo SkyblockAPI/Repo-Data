@@ -1,3 +1,4 @@
+id = "WITCH_ARTIFACT";
 item = "player_head";
 name = "Witch's Artifact";
 include("types/accessory", this);

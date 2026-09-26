@@ -1,3 +1,4 @@
+id = "SMOOTH_CHOCOLATE_BAR";
 item = "player_head";
 name = "Smooth Chocolate Bar";
 include("types/accessory", this);

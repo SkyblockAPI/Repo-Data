@@ -1,4 +1,3 @@
 meta {
-  id = IRON_BLOCK;
   include("api_data/iron_block", this); 
 };

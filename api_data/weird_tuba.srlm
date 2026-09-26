@@ -1,3 +1,4 @@
+id = "WEIRD_TUBA";
 item = "paper";
 name = "Weird Tuba";
 this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/wolf/weird_tuba";

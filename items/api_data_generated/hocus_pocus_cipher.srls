@@ -1,4 +1,3 @@
 meta {
-  id = HOCUS_POCUS_CIPHER;
   include("api_data/hocus_pocus_cipher", this); 
 };

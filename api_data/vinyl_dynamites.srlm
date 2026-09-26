@@ -1,3 +1,4 @@
+id = "VINYL_DYNAMITES";
 item = "record_9";
 name = "DynaMITES Vinyl";
 rarity = "UNCOMMON";

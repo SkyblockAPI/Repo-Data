@@ -1,3 +1,4 @@
+id = "MAGMA_CHUNK";
 item = "paper";
 name = "Magma Chunk";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/magma_chunk";

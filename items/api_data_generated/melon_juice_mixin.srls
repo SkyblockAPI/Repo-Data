@@ -1,4 +1,3 @@
 meta {
-  id = MELON_JUICE_MIXIN;
   include("api_data/melon_juice_mixin", this); 
 };

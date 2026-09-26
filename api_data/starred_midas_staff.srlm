@@ -1,3 +1,4 @@
+id = "STARRED_MIDAS_STAFF";
 item = "gold_spade";
 name = "Midas Staff";
 include("types/sword", this);

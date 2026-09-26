@@ -1,4 +1,3 @@
 meta {
-  id = GENERATOR_UPGRADE_STONE_TARANTULA_12;
   include("api_data/generator_upgrade_stone_tarantula_12", this); 
 };

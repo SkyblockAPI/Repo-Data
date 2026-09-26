@@ -1,3 +1,4 @@
+id = "LARVA_SILK";
 item = "string";
 name = "Larva Silk";
 rarity = "UNCOMMON";

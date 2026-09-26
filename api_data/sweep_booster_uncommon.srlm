@@ -1,3 +1,4 @@
+id = "SWEEP_BOOSTER_UNCOMMON";
 item = "paper";
 name = "Uncommon Sweep Booster Upgrade";
 include("types/booster", this);

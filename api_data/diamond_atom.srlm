@@ -1,3 +1,4 @@
+id = "DIAMOND_ATOM";
 item = "player_head";
 name = "Diamond Atom";
 include("types/reforge_stone", this);

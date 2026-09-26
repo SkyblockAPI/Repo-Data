@@ -1,4 +1,3 @@
 meta {
-  id = FERMENTO_LEGGINGS;
   include("api_data/fermento_leggings", this); 
 };

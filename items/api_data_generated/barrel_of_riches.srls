@@ -1,4 +1,3 @@
 meta {
-  id = BARREL_OF_RICHES;
   include("api_data/barrel_of_riches", this); 
 };

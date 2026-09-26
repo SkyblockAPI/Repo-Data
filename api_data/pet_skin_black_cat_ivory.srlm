@@ -1,3 +1,4 @@
+id = "PET_SKIN_BLACK_CAT_IVORY";
 item = "player_head";
 name = "IvoryBlack Cat";
 include("types/cosmetic", this);

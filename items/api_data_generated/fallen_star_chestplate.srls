@@ -1,4 +1,3 @@
 meta {
-  id = FALLEN_STAR_CHESTPLATE;
   include("api_data/fallen_star_chestplate", this); 
 };

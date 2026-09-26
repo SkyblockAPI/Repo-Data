@@ -1,3 +1,4 @@
+id = "ENCHANTED_RED_SAND";
 item = "sand";
 name = "Enchanted Red Sand";
 rarity = "UNCOMMON";

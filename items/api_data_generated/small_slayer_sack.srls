@@ -1,4 +1,3 @@
 meta {
-  id = SMALL_SLAYER_SACK;
   include("api_data/small_slayer_sack", this); 
 };

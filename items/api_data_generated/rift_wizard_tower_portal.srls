@@ -1,4 +1,3 @@
 meta {
-  id = RIFT_WIZARD_TOWER_PORTAL;
   include("api_data/rift_wizard_tower_portal", this); 
 };

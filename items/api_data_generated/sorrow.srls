@@ -1,4 +1,3 @@
 meta {
-  id = SORROW;
   include("api_data/sorrow", this); 
 };

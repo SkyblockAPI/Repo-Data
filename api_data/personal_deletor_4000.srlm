@@ -1,3 +1,4 @@
+id = "PERSONAL_DELETOR_4000";
 item = "dispenser";
 name = "Personal Deletor 4000";
 include("types/accessory", this);

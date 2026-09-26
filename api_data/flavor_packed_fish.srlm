@@ -1,3 +1,4 @@
+id = "FLAVOR_PACKED_FISH";
 item = "raw_fish";
 name = "Flavor-packed Fish";
 rarity = "SPECIAL";

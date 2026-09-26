@@ -1,3 +1,4 @@
+id = "SILVERTWIST_KARAMBIT";
 item = "iron_sword";
 name = "Silver-Twist Karambit";
 include("types/sword", this);

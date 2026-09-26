@@ -1,3 +1,4 @@
+id = "WEDDING_RING_0";
 item = "gold_nugget";
 name = "§eShiny Yellow Rock";
 include("types/accessory", this);

@@ -1,4 +1,3 @@
 meta {
-  id = CHEAP_TUXEDO_BOOTS;
   include("api_data/cheap_tuxedo_boots", this); 
 };

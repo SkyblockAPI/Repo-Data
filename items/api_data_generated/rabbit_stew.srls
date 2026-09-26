@@ -1,4 +1,3 @@
 meta {
-  id = RABBIT_STEW;
   include("api_data/rabbit_stew", this); 
 };

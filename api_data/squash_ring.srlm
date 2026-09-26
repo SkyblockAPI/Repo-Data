@@ -1,3 +1,4 @@
+id = "SQUASH_RING";
 item = "player_head";
 name = "Squash Ring";
 include("types/accessory", this);

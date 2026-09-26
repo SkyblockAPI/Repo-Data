@@ -1,4 +1,3 @@
 meta {
-  id = BASKET_OF_SEEDS;
   include("api_data/basket_of_seeds", this); 
 };

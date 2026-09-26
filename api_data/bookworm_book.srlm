@@ -1,3 +1,4 @@
+id = "BOOKWORM_BOOK";
 item = "book";
 name = "Bookworm's Favorite Book";
 rarity = "RARE";

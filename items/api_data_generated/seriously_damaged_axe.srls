@@ -1,4 +1,3 @@
 meta {
-  id = SERIOUSLY_DAMAGED_AXE;
   include("api_data/seriously_damaged_axe", this); 
 };

@@ -1,3 +1,4 @@
+id = "RING_OF_SPACE";
 item = "player_head";
 name = "Ring of Space";
 include("types/accessory", this);

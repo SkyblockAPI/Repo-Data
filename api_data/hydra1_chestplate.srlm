@@ -1,3 +1,4 @@
+id = "HYDRA1_CHESTPLATE";
 item = "leather_chestplate";
 name = "Water Hydra Chestplate";
 include("types/chestplate", this);

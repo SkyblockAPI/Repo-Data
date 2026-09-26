@@ -1,3 +1,4 @@
+id = "ARTIFACT_POTION_AFFINITY";
 item = "player_head";
 name = "Potion Affinity Artifact";
 include("types/accessory", this);

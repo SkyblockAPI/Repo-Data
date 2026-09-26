@@ -1,4 +1,3 @@
 meta {
-  id = SUPER_HEAVY_BOOTS;
   include("api_data/super_heavy_boots", this); 
 };

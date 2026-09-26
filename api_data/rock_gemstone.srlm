@@ -1,3 +1,4 @@
+id = "ROCK_GEMSTONE";
 item = "player_head";
 name = "Dwarven Geode";
 include("types/reforge_stone", this);

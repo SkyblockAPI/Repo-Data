@@ -1,4 +1,3 @@
 meta {
-  id = FRIED_FEATHER;
   include("api_data/fried_feather", this); 
 };

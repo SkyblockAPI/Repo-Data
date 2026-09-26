@@ -1,3 +1,4 @@
+id = "THEORETICAL_HOE_POTATO_1";
 item = "iron_hoe";
 name = "Pythagorean Potato Shovel Mk. I";
 include("types/farming_tool", this);

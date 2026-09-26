@@ -1,3 +1,4 @@
+id = "ACACIA_BIRDHOUSE";
 item = "player_head";
 name = "Acacia Birdhouse";
 include("types/reforge_stone", this);

@@ -1,4 +1,3 @@
 meta {
-  id = WIZARD_PORTAL_MEMENTO;
   include("api_data/wizard_portal_memento", this); 
 };

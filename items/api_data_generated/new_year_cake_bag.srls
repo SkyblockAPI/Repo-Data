@@ -1,4 +1,3 @@
 meta {
-  id = NEW_YEAR_CAKE_BAG;
   include("api_data/new_year_cake_bag", this); 
 };

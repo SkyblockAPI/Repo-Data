@@ -1,3 +1,4 @@
+id = "AGATHA_COUPON";
 item = "name_tag";
 name = "Agatha's Coupon";
 rarity = "UNCOMMON";

@@ -1,3 +1,4 @@
+id = "HYPERCHARGE_GARDEN_CHIP";
 item = "paper";
 name = "Hypercharge Chip";
 include("types/garden_chip", this);

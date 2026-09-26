@@ -1,3 +1,4 @@
+id = "RESPIRATION_ARTIFACT";
 item = "player_head";
 name = "Respiration Artifact";
 include("types/accessory", this);

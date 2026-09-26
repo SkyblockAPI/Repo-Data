@@ -1,4 +1,3 @@
 meta {
-  id = TRICK_OR_TREAT_BAG;
   include("api_data/trick_or_treat_bag", this); 
 };

@@ -1,3 +1,4 @@
+id = "HEALER_DUNGEON_ABILITY_3";
 item = "player_head";
 name = "Revive Self";
 include("types/dungeon", this);

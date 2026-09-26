@@ -1,4 +1,3 @@
 meta {
-  id = NANSORB_ARROW;
   include("api_data/nansorb_arrow", this); 
 };

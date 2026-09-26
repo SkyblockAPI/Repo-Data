@@ -1,3 +1,4 @@
+id = "BINGO_HEIRLOOM";
 item = "player_head";
 name = "Bingo Heirloom";
 include("types/accessory", this);

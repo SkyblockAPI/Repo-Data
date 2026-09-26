@@ -1,3 +1,4 @@
+id = "DARK_QUEENS_SOUL_DROP";
 item = "clay_ball";
 name = "Dark Queen's Soul";
 ::items::prototypes::ingredient::(this);

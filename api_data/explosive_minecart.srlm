@@ -1,3 +1,4 @@
+id = "EXPLOSIVE_MINECART";
 item = "explosive_minecart";
 name = "Minecart with TNT";
 rarity = "COMMON";

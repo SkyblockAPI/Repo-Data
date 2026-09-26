@@ -1,3 +1,4 @@
+id = "BEGINNER_HUSBANDRY_SACK";
 item = "player_head";
 name = "Beginner Husbandry Sack";
 include("types/sack", this);

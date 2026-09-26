@@ -1,4 +1,3 @@
 meta {
-  id = FANCY_FLOWER_POT;
   include("api_data/fancy_flower_pot", this); 
 };

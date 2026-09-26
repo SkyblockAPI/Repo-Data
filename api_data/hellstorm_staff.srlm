@@ -1,3 +1,4 @@
+id = "HELLSTORM_STAFF";
 item = "redstone_torch_on";
 name = "Hellstorm Wand";
 include("types/wand", this);

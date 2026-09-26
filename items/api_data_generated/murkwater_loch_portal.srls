@@ -1,4 +1,3 @@
 meta {
-  id = MURKWATER_LOCH_PORTAL;
   include("api_data/murkwater_loch_portal", this); 
 };

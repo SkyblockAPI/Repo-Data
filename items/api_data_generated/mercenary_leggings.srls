@@ -1,4 +1,3 @@
 meta {
-  id = MERCENARY_LEGGINGS;
   include("api_data/mercenary_leggings", this); 
 };

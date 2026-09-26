@@ -1,4 +1,3 @@
 meta {
-  id = GUNTHER_SNEAKERS;
   include("api_data/gunther_sneakers", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = HOPPER_MINECART;
   include("api_data/hopper_minecart", this); 
 };

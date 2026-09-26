@@ -1,3 +1,4 @@
+id = "LUMBERJACK_ARTIFACT";
 item = "paper";
 name = "Lumberjack Artifact";
 include("types/accessory", this);

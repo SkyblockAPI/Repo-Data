@@ -1,3 +1,4 @@
+id = "MITHRIL_PLATE";
 item = "paper";
 name = "Mithril Plate";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/mithril_plate";

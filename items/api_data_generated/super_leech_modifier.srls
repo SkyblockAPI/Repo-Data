@@ -1,4 +1,3 @@
 meta {
-  id = SUPER_LEECH_MODIFIER;
   include("api_data/super_leech_modifier", this); 
 };

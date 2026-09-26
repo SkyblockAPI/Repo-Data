@@ -1,4 +1,3 @@
 meta {
-  id = CORRUPTED_NETHER_STAR;
   include("api_data/corrupted_nether_star", this); 
 };

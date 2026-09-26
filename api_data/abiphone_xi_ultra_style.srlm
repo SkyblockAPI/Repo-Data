@@ -1,3 +1,4 @@
+id = "ABIPHONE_XI_ULTRA_STYLE";
 item = "paper";
 name = "Abiphone XI Green";
 this["minecraft:item_model"] = "hypixel_skyblock:item/abiphones/xi/abiphone_xi_green";

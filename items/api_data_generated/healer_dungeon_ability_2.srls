@@ -1,4 +1,3 @@
 meta {
-  id = HEALER_DUNGEON_ABILITY_2;
   include("api_data/healer_dungeon_ability_2", this); 
 };

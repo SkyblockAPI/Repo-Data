@@ -1,3 +1,4 @@
+id = "REAPER_MASK";
 item = "player_head";
 name = "Reaper Mask";
 include("types/helmet", this);

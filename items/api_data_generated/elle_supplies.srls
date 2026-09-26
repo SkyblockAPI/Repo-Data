@@ -1,4 +1,3 @@
 meta {
-  id = ELLE_SUPPLIES;
   include("api_data/elle_supplies", this); 
 };

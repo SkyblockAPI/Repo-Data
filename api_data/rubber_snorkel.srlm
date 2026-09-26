@@ -1,3 +1,4 @@
+id = "RUBBER_SNORKEL";
 item = "paper";
 name = "Rubber Snorkel";
 include("types/pet_item", this);

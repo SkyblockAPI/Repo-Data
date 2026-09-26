@@ -1,4 +1,3 @@
 meta {
-  id = HAMMOCK;
   include("api_data/hammock", this); 
 };

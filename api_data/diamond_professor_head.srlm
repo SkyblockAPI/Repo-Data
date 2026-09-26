@@ -1,3 +1,4 @@
+id = "DIAMOND_PROFESSOR_HEAD";
 item = "player_head";
 name = "Diamond Professor Head";
 include("types/helmet", this);

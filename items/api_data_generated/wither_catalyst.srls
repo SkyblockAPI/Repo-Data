@@ -1,4 +1,3 @@
 meta {
-  id = WITHER_CATALYST;
   include("api_data/wither_catalyst", this); 
 };

@@ -1,3 +1,4 @@
+id = "ATOMINIZER";
 item = "player_head";
 name = "Atominizer";
 include("types/none", this);

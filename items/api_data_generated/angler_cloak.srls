@@ -1,4 +1,3 @@
 meta {
-  id = ANGLER_CLOAK;
   include("api_data/angler_cloak", this); 
 };

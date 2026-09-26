@@ -1,4 +1,3 @@
 meta {
-  id = ATTRIBUTE_SHARD;
   include("api_data/attribute_shard", this); 
 };

@@ -1,3 +1,4 @@
+id = "WISH_ULTIMATE";
 item = "player_head";
 name = "Wish";
 include("types/dungeon", this);

@@ -1,4 +1,3 @@
 meta {
-  id = GROWTH_BOOTS;
   include("api_data/growth_boots", this); 
 };

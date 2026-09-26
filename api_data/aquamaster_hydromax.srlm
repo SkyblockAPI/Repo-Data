@@ -1,3 +1,4 @@
+id = "AQUAMASTER_HYDROMAX";
 item = "carrot_stick";
 name = "AquaMaster™ Hydromax";
 include("types/watering_can", this);

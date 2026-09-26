@@ -1,3 +1,4 @@
+id = "RUSTY_ANCHOR";
 item = "player_head";
 name = "Rusty Anchor";
 include("types/reforge_stone", this);

@@ -1,4 +1,3 @@
 meta {
-  id = SEA_CREATURE_TALISMAN;
   include("api_data/sea_creature_talisman", this); 
 };

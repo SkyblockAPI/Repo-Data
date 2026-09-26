@@ -1,4 +1,3 @@
 meta {
-  id = FAIRY_FLUTE;
   include("api_data/fairy_flute", this); 
 };

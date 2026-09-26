@@ -1,4 +1,3 @@
 meta {
-  id = GHAST_BOOTS;
   include("api_data/ghast_boots", this); 
 };

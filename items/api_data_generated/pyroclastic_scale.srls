@@ -1,4 +1,3 @@
 meta {
-  id = PYROCLASTIC_SCALE;
   include("api_data/pyroclastic_scale", this); 
 };

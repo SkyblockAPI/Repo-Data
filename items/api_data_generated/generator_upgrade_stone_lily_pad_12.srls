@@ -1,4 +1,3 @@
 meta {
-  id = GENERATOR_UPGRADE_STONE_LILY_PAD_12;
   include("api_data/generator_upgrade_stone_lily_pad_12", this); 
 };

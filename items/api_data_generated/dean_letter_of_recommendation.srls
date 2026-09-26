@@ -1,4 +1,3 @@
 meta {
-  id = DEAN_LETTER_OF_RECOMMENDATION;
   include("api_data/dean_letter_of_recommendation", this); 
 };

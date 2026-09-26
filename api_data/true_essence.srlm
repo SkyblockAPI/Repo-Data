@@ -1,3 +1,4 @@
+id = "TRUE_ESSENCE";
 item = "ink_sack";
 name = "True Essence";
 rarity = "COMMON";

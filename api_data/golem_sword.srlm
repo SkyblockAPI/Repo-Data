@@ -1,3 +1,4 @@
+id = "GOLEM_SWORD";
 item = "iron_sword";
 name = "Golem Sword";
 include("types/sword", this);

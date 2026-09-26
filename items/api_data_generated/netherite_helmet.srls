@@ -1,4 +1,3 @@
 meta {
-  id = NETHERITE_HELMET;
   include("api_data/netherite_helmet", this); 
 };

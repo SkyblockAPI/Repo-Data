@@ -1,4 +1,3 @@
 meta {
-  id = KISMET_FEATHER;
   include("api_data/kismet_feather", this); 
 };

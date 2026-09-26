@@ -1,4 +1,3 @@
 meta {
-  id = CORRUPTED_BAIT;
   include("api_data/corrupted_bait", this); 
 };

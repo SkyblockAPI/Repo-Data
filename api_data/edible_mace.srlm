@@ -1,3 +1,4 @@
+id = "EDIBLE_MACE";
 item = "mutton";
 name = "Edible Mace";
 include("types/sword", this);

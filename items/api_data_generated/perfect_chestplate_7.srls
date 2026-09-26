@@ -1,4 +1,3 @@
 meta {
-  id = PERFECT_CHESTPLATE_7;
   include("api_data/perfect_chestplate_7", this); 
 };

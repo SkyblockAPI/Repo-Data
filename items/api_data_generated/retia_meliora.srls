@@ -1,4 +1,3 @@
 meta {
-  id = RETIA_MELIORA;
   include("api_data/retia_meliora", this); 
 };

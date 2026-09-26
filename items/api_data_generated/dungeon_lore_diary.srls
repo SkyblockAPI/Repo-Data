@@ -1,4 +1,3 @@
 meta {
-  id = DUNGEON_LORE_DIARY;
   include("api_data/dungeon_lore_diary", this); 
 };

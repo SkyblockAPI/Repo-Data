@@ -1,3 +1,4 @@
+id = "MUTATED_BLAZE_ASHES";
 item = "paper";
 name = "Mutated Blaze Ashes";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/mutated_blaze_ashes";

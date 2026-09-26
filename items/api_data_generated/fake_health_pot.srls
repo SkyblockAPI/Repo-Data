@@ -1,4 +1,3 @@
 meta {
-  id = FAKE_HEALTH_POT;
   include("api_data/fake_health_pot", this); 
 };

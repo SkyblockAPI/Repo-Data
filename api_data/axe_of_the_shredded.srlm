@@ -1,3 +1,4 @@
+id = "AXE_OF_THE_SHREDDED";
 item = "diamond_sword";
 name = "Halberd of the Shredded";
 include("types/sword", this);

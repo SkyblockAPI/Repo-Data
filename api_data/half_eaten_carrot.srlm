@@ -1,3 +1,4 @@
+id = "HALF_EATEN_CARROT";
 item = "carrot_item";
 name = "Half-Eaten Carrot";
 rarity = "COMMON";

@@ -1,3 +1,4 @@
+id = "ENCHANTED_INK_SACK";
 item = "ink_sack";
 name = "Enchanted Ink Sac";
 rarity = "UNCOMMON";

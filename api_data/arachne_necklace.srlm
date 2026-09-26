@@ -1,3 +1,4 @@
+id = "ARACHNE_NECKLACE";
 item = "player_head";
 name = "Arachne's Necklace";
 include("types/necklace", this);

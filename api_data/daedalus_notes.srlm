@@ -1,3 +1,4 @@
+id = "DAEDALUS_NOTES";
 item = "book";
 name = "Daedalus' Notes";
 include("types/reforge_stone", this);

@@ -1,3 +1,4 @@
+id = "DIAMONITE";
 item = "player_head";
 name = "Diamonite";
 include("types/reforge_stone", this);

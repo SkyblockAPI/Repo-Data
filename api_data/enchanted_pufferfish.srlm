@@ -1,3 +1,4 @@
+id = "ENCHANTED_PUFFERFISH";
 item = "raw_fish";
 name = "Enchanted Pufferfish";
 rarity = "UNCOMMON";

@@ -1,3 +1,4 @@
+id = "NECRONS_LADDER";
 item = "ladder";
 name = "Necron's Ladder";
 rarity = "RARE";

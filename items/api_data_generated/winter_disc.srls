@@ -1,4 +1,3 @@
 meta {
-  id = WINTER_DISC;
   include("api_data/winter_disc", this); 
 };

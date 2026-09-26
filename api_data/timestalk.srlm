@@ -1,3 +1,4 @@
+id = "TIMESTALK";
 item = "player_head";
 name = "Timestalk";
 include("types/mutation", this);

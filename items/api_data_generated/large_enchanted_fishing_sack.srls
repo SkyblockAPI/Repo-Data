@@ -1,4 +1,3 @@
 meta {
-  id = LARGE_ENCHANTED_FISHING_SACK;
   include("api_data/large_enchanted_fishing_sack", this); 
 };

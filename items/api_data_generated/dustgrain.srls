@@ -1,4 +1,3 @@
 meta {
-  id = DUSTGRAIN;
   include("api_data/dustgrain", this); 
 };

@@ -1,3 +1,4 @@
+id = "MURKWATER_TRAVEL_SCROLL";
 item = "empty_map";
 name = "Travel Scroll to Murkwater Loch";
 include("types/travel_scroll", this);

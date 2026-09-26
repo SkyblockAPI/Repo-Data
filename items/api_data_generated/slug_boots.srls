@@ -1,4 +1,3 @@
 meta {
-  id = SLUG_BOOTS;
   include("api_data/slug_boots", this); 
 };

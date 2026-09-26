@@ -1,4 +1,3 @@
 meta {
-  id = OXFORD_SHOES;
   include("api_data/oxford_shoes", this); 
 };

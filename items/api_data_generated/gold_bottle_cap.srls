@@ -1,4 +1,3 @@
 meta {
-  id = GOLD_BOTTLE_CAP;
   include("api_data/gold_bottle_cap", this); 
 };

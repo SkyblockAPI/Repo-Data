@@ -1,4 +1,3 @@
 meta {
-  id = GENERATOR_UPGRADE_STONE_DARK_OAK_12;
   include("api_data/generator_upgrade_stone_dark_oak_12", this); 
 };

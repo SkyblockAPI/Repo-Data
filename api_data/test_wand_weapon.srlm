@@ -1,3 +1,4 @@
+id = "TEST_WAND_WEAPON";
 item = "stick";
 name = "Test Rift Wand";
 include("types/wand", this);

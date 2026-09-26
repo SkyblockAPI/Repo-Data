@@ -1,3 +1,4 @@
+id = "DO_NOT_EAT_SHROOM";
 item = "player_head";
 name = "Do-not-eat-shroom";
 include("types/mutation", this);

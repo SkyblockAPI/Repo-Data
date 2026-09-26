@@ -1,3 +1,4 @@
+id = "ENDERMAN_MASK";
 item = "player_head";
 name = "Enderman Mask";
 include("types/helmet", this);

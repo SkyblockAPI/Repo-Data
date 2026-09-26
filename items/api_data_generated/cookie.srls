@@ -1,4 +1,3 @@
 meta {
-  id = COOKIE;
   include("api_data/cookie", this); 
 };

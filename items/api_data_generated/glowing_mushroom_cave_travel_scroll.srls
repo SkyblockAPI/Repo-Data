@@ -1,4 +1,3 @@
 meta {
-  id = GLOWING_MUSHROOM_CAVE_TRAVEL_SCROLL;
   include("api_data/glowing_mushroom_cave_travel_scroll", this); 
 };

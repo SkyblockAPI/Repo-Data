@@ -1,3 +1,4 @@
+id = "LARVA_HOOK";
 item = "tripwire_hook";
 name = "Larva Hook";
 rarity = "UNCOMMON";

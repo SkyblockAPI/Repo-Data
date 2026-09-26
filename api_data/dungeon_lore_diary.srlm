@@ -1,3 +1,4 @@
+id = "DUNGEON_LORE_DIARY";
 item = "book";
 name = "Dungeon Journal";
 include("types/dungeon", this);

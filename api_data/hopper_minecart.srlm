@@ -1,3 +1,4 @@
+id = "HOPPER_MINECART";
 item = "hopper_minecart";
 name = "Minecart with Hopper";
 rarity = "COMMON";

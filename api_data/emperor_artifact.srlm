@@ -1,3 +1,4 @@
+id = "EMPEROR_ARTIFACT";
 item = "player_head";
 name = "Emperor's Artifact";
 include("types/accessory", this);

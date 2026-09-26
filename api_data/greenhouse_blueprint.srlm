@@ -1,3 +1,4 @@
+id = "GREENHOUSE_BLUEPRINT";
 item = "paper";
 name = "Greenhouse Blueprint";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/greenhouse/greenhouse_blueprint";

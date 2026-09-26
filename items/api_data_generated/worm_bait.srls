@@ -1,4 +1,3 @@
 meta {
-  id = WORM_BAIT;
   include("api_data/worm_bait", this); 
 };

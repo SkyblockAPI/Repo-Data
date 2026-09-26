@@ -1,3 +1,4 @@
+id = "MOBYS_SHEARS";
 item = "shears";
 name = "Moby's Shears";
 include("types/shears", this);

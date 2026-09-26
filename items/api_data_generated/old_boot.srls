@@ -1,4 +1,3 @@
 meta {
-  id = OLD_BOOT;
   include("api_data/old_boot", this); 
 };

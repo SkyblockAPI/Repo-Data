@@ -1,4 +1,3 @@
 meta {
-  id = MITHRIL_NECKLACE;
   include("api_data/mithril_necklace", this); 
 };

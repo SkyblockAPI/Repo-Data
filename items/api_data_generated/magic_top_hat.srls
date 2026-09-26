@@ -1,4 +1,3 @@
 meta {
-  id = MAGIC_TOP_HAT;
   include("api_data/magic_top_hat", this); 
 };

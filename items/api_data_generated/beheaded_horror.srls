@@ -1,4 +1,3 @@
 meta {
-  id = BEHEADED_HORROR;
   include("api_data/beheaded_horror", this); 
 };

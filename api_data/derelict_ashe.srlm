@@ -1,3 +1,4 @@
+id = "DERELICT_ASHE";
 item = "sulphur";
 name = "Derelict Ashe";
 this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/blaze/tokens/derelict_ashe";

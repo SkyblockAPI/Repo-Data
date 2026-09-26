@@ -1,3 +1,4 @@
+id = "MYCEL";
 item = "mycel";
 name = "Mycelium";
 rarity = "COMMON";

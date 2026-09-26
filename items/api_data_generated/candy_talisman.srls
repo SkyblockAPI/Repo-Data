@@ -1,4 +1,3 @@
 meta {
-  id = CANDY_TALISMAN;
   include("api_data/candy_talisman", this); 
 };

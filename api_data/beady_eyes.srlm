@@ -1,3 +1,4 @@
+id = "BEADY_EYES";
 item = "player_head";
 name = "Beady Eyes";
 include("types/reforge_stone", this);

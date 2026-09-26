@@ -1,4 +1,3 @@
 meta {
-  id = BAYOU_TRAVEL_SCROLL;
   include("api_data/bayou_travel_scroll", this); 
 };

@@ -1,3 +1,4 @@
+id = "LARGE_FISH_BOWL";
 item = "player_head";
 name = "Large Fish Bowl";
 include("types/accessory", this);

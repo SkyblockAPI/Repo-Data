@@ -1,4 +1,3 @@
 meta {
-  id = HOLIDAY_TRAIN;
   include("api_data/holiday_train", this); 
 };

@@ -1,3 +1,4 @@
+id = "DWARVEN_METAL_DETECTOR";
 item = "iron_hoe";
 name = "Metal Detector";
 rarity = "SPECIAL";

@@ -1,3 +1,4 @@
+id = "SULPHUR_BOW";
 item = "bow";
 name = "Sulphur Bow";
 include("types/bow", this);

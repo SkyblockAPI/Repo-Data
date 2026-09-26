@@ -1,3 +1,4 @@
+id = "NUTCRACKER_HELMET";
 item = "player_head";
 name = "Nutcracker Helmet";
 include("types/helmet", this);

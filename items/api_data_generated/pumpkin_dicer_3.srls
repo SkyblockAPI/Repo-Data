@@ -1,4 +1,3 @@
 meta {
-  id = PUMPKIN_DICER_3;
   include("api_data/pumpkin_dicer_3", this); 
 };

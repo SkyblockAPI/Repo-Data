@@ -1,3 +1,4 @@
+id = "REDSTONE_ORE";
 item = "redstone_ore";
 name = "Redstone Ore";
 rarity = "UNCOMMON";

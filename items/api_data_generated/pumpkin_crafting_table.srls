@@ -1,4 +1,3 @@
 meta {
-  id = PUMPKIN_CRAFTING_TABLE;
   include("api_data/pumpkin_crafting_table", this); 
 };

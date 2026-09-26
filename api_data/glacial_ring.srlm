@@ -1,3 +1,4 @@
+id = "GLACIAL_RING";
 item = "player_head";
 name = "Glacial Ring";
 include("types/accessory", this);

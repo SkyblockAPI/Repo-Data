@@ -1,3 +1,4 @@
+id = "LARGE_EVENTS_SACK";
 item = "player_head";
 name = "Events Sack";
 include("types/sack", this);

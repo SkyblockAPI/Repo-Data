@@ -1,4 +1,3 @@
 meta {
-  id = AURORA_HELMET;
   include("api_data/aurora_helmet", this); 
 };

@@ -1,3 +1,4 @@
+id = "DEFUSE_KIT";
 item = "shears";
 name = "Defuse Kit";
 include("types/dungeon", this);

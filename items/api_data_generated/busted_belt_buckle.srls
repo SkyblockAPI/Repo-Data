@@ -1,4 +1,3 @@
 meta {
-  id = BUSTED_BELT_BUCKLE;
   include("api_data/busted_belt_buckle", this); 
 };

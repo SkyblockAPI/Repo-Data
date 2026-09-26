@@ -1,3 +1,4 @@
+id = "SEARED_ESCARGOT";
 item = "paper";
 name = "Seared Escargot";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/seared_escargot";

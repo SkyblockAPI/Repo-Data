@@ -1,3 +1,4 @@
+id = "BLUERTOOTH_RING";
 item = "player_head";
 name = "Bluertooth Ring";
 include("types/accessory", this);

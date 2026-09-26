@@ -1,4 +1,3 @@
 meta {
-  id = HALF_EATEN_CARROT;
   include("api_data/half_eaten_carrot", this); 
 };

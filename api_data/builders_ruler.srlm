@@ -1,3 +1,4 @@
+id = "BUILDERS_RULER";
 item = "paper";
 name = "Builder's Ruler";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/builders_ruler";

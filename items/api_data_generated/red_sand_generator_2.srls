@@ -1,4 +1,3 @@
 meta {
-  id = RED_SAND_GENERATOR_2;
   include("api_data/red_sand_generator_2", this); 
 };

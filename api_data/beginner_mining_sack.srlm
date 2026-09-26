@@ -1,3 +1,4 @@
+id = "BEGINNER_MINING_SACK";
 item = "player_head";
 name = "Beginner Mining Sack";
 include("types/sack", this);

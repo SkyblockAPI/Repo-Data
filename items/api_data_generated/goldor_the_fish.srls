@@ -1,4 +1,3 @@
 meta {
-  id = GOLDOR_THE_FISH;
   include("api_data/goldor_the_fish", this); 
 };

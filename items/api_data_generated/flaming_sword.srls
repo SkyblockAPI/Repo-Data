@@ -1,4 +1,3 @@
 meta {
-  id = FLAMING_SWORD;
   include("api_data/flaming_sword", this); 
 };

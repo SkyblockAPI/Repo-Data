@@ -1,4 +1,3 @@
 meta {
-  id = BURNING_HOLLOW_HELMET;
   include("api_data/burning_hollow_helmet", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = CACTUS_KNIFE;
   include("api_data/cactus_knife", this); 
 };

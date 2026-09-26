@@ -1,3 +1,4 @@
+id = "MINING_CORE";
 item = "firework_charge";
 name = "Mining Core";
 rarity = "COMMON";

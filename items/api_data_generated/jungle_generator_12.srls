@@ -1,4 +1,3 @@
 meta {
-  id = JUNGLE_GENERATOR_12;
   include("api_data/jungle_generator_12", this); 
 };

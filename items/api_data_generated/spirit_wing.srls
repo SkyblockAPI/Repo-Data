@@ -1,4 +1,3 @@
 meta {
-  id = SPIRIT_WING;
   include("api_data/spirit_wing", this); 
 };

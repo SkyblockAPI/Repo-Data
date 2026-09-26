@@ -1,3 +1,4 @@
+id = "NECROMANCER_LORD_HELMET";
 item = "player_head";
 name = "Necromancer Lord Helmet";
 include("types/helmet", this);

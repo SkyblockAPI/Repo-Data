@@ -1,4 +1,3 @@
 meta {
-  id = POTTED_CACTUS;
   include("api_data/potted_cactus", this); 
 };

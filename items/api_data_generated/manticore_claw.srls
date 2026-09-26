@@ -1,4 +1,3 @@
 meta {
-  id = MANTICORE_CLAW;
   include("api_data/manticore_claw", this); 
 };

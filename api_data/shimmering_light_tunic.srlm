@@ -1,3 +1,4 @@
+id = "SHIMMERING_LIGHT_TUNIC";
 item = "leather_chestplate";
 name = "Shimmering Light Tunic";
 include("types/chestplate", this);

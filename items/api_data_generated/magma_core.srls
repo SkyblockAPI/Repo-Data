@@ -1,4 +1,3 @@
 meta {
-  id = MAGMA_CORE;
   include("api_data/magma_core", this); 
 };

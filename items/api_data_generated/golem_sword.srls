@@ -1,4 +1,3 @@
 meta {
-  id = GOLEM_SWORD;
   include("api_data/golem_sword", this); 
 };

@@ -1,3 +1,4 @@
+id = "INFLATABLE_JERRY";
 item = "monster_egg";
 name = "Inflatable Jerry";
 include("types/dungeon", this);

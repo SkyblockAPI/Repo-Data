@@ -1,3 +1,4 @@
+id = "MOONLIGHT_CRYSTAL";
 item = "player_head";
 name = "Moonlight Crystal";
 include("types/accessory", this);

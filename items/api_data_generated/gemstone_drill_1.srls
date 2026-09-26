@@ -1,4 +1,3 @@
 meta {
-  id = GEMSTONE_DRILL_1;
   include("api_data/gemstone_drill_1", this); 
 };

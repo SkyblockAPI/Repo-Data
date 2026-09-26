@@ -1,4 +1,3 @@
 meta {
-  id = INFLATABLE_JERRY;
   include("api_data/inflatable_jerry", this); 
 };

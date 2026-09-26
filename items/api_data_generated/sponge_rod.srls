@@ -1,4 +1,3 @@
 meta {
-  id = SPONGE_ROD;
   include("api_data/sponge_rod", this); 
 };

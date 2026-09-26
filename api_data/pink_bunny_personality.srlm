@@ -1,3 +1,4 @@
+id = "PINK_BUNNY_PERSONALITY";
 item = "player_head";
 name = "Pink Bunny Minion Skin";
 include("types/cosmetic", this);

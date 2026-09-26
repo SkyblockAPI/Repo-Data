@@ -1,4 +1,3 @@
 meta {
-  id = PARK_JUNGLE_TRAVEL_SCROLL;
   include("api_data/park_jungle_travel_scroll", this); 
 };

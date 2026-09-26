@@ -1,3 +1,4 @@
+id = "STONE_PLATE";
 item = "stone_plate";
 name = "Stone Pressure Plate";
 rarity = "COMMON";

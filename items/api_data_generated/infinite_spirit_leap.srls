@@ -1,4 +1,3 @@
 meta {
-  id = INFINITE_SPIRIT_LEAP;
   include("api_data/infinite_spirit_leap", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = REVENANT_VISCERA;
   include("api_data/revenant_viscera", this); 
 };

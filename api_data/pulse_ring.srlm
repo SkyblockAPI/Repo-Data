@@ -1,3 +1,4 @@
+id = "PULSE_RING";
 item = "player_head";
 name = "Pulse Ring";
 include("types/accessory", this);

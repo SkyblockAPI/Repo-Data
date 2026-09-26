@@ -1,3 +1,4 @@
+id = "FLAMING_FIST";
 item = "player_head";
 name = "Flaming Fist";
 include("types/gloves", this);

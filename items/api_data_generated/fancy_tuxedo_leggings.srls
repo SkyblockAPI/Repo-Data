@@ -1,4 +1,3 @@
 meta {
-  id = FANCY_TUXEDO_LEGGINGS;
   include("api_data/fancy_tuxedo_leggings", this); 
 };

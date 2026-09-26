@@ -1,4 +1,3 @@
 meta {
-  id = ROUGH_JADE_GEM;
   include("api_data/rough_jade_gem", this); 
 };

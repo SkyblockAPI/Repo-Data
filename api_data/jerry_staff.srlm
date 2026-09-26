@@ -1,3 +1,4 @@
+id = "JERRY_STAFF";
 item = "gold_barding";
 name = "Jerry-chine Gun";
 include("types/sword", this);

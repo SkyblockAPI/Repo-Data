@@ -1,3 +1,4 @@
+id = "ORGANIC_MUSHROOM";
 item = "red_mushroom";
 name = "Organic Mushroom";
 rarity = "UNCOMMON";

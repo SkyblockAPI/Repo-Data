@@ -1,4 +1,3 @@
 meta {
-  id = UPGRADE_STONE_SUBZERO;
   include("api_data/upgrade_stone_subzero", this); 
 };

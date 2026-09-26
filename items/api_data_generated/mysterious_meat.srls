@@ -1,4 +1,3 @@
 meta {
-  id = MYSTERIOUS_MEAT;
   include("api_data/mysterious_meat", this); 
 };

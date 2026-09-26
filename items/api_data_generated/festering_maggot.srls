@@ -1,4 +1,3 @@
 meta {
-  id = FESTERING_MAGGOT;
   include("api_data/festering_maggot", this); 
 };

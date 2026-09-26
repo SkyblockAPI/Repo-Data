@@ -1,3 +1,4 @@
+id = "HELIX_CHOPPER";
 item = "stone_axe";
 name = "Helix Chopper";
 include("types/axe", this);

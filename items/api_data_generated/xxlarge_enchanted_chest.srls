@@ -1,4 +1,3 @@
 meta {
-  id = XXLARGE_ENCHANTED_CHEST;
   include("api_data/xxlarge_enchanted_chest", this); 
 };

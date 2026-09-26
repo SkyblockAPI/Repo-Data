@@ -1,4 +1,3 @@
 meta {
-  id = TREASURE_RING;
   include("api_data/treasure_ring", this); 
 };

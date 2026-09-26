@@ -1,3 +1,4 @@
+id = "FARM_ARMOR_CHESTPLATE";
 item = "leather_chestplate";
 name = "Haymaker Chestplate";
 include("types/chestplate", this);

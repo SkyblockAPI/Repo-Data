@@ -1,3 +1,4 @@
+id = "COALROOT";
 item = "player_head";
 name = "Coalroot";
 include("types/mutation", this);

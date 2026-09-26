@@ -1,3 +1,4 @@
+id = "SAPPHIRE_CLOAK";
 item = "player_head";
 name = "Sapphire Cloak";
 include("types/cloak", this);

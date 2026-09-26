@@ -1,4 +1,3 @@
 meta {
-  id = HEAVY_HELMET;
   include("api_data/heavy_helmet", this); 
 };

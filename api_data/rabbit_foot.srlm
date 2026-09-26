@@ -1,3 +1,4 @@
+id = "RABBIT_FOOT";
 item = "rabbit_foot";
 name = "Rabbit's Foot";
 rarity = "COMMON";

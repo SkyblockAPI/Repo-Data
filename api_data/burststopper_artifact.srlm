@@ -1,3 +1,4 @@
+id = "BURSTSTOPPER_ARTIFACT";
 item = "player_head";
 name = "Burststopper Artifact";
 include("types/accessory", this);

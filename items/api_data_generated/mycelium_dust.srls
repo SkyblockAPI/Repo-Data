@@ -1,4 +1,3 @@
 meta {
-  id = MYCELIUM_DUST;
   include("api_data/mycelium_dust", this); 
 };

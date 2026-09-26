@@ -1,3 +1,4 @@
+id = "DUNGEON_TRAP";
 item = "iron_plate";
 name = "Trap";
 include("types/dungeon", this);

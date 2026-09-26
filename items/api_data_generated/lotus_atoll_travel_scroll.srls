@@ -1,4 +1,3 @@
 meta {
-  id = LOTUS_ATOLL_TRAVEL_SCROLL;
   include("api_data/lotus_atoll_travel_scroll", this); 
 };

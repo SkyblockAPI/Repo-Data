@@ -1,3 +1,4 @@
+id = "GRINCH_PERSONALITY";
 item = "player_head";
 name = "Grinch Minion Skin";
 include("types/cosmetic", this);

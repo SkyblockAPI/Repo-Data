@@ -1,3 +1,4 @@
+id = "VIAL_OF_SPRING_WATER";
 item = "paper";
 name = "Vial of Spring Water";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/vial_of_spring_water";

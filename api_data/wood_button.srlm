@@ -1,3 +1,4 @@
+id = "WOOD_BUTTON";
 item = "wood_button";
 name = "Wooden Button";
 rarity = "COMMON";

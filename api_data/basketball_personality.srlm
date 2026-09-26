@@ -1,3 +1,4 @@
+id = "BASKETBALL_PERSONALITY";
 item = "player_head";
 name = "Basketball Minion Skin";
 include("types/cosmetic", this);

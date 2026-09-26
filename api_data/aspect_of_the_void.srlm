@@ -1,3 +1,4 @@
+id = "ASPECT_OF_THE_VOID";
 item = "diamond_spade";
 name = "Aspect of the Void";
 include("types/sword", this);

@@ -1,3 +1,4 @@
+id = "MOONGLADE_TALISMAN";
 item = "player_head";
 name = "Moonglade Talisman";
 include("types/accessory", this);

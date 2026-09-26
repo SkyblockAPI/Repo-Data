@@ -1,3 +1,4 @@
+id = "THUNDER_SHARDS";
 item = "paper";
 name = "Thunder Fragment";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/thunder_fragment";

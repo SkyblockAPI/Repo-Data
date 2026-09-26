@@ -1,3 +1,4 @@
+id = "THE_PRIMORDIAL";
 item = "player_head";
 name = "The Primordial";
 include("types/belt", this);

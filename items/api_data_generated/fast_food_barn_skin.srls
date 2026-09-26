@@ -1,4 +1,3 @@
 meta {
-  id = FAST_FOOD_BARN_SKIN;
   include("api_data/fast_food_barn_skin", this); 
 };

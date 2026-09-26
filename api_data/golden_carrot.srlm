@@ -1,3 +1,4 @@
+id = "GOLDEN_CARROT";
 item = "golden_carrot";
 name = "Golden Carrot";
 rarity = "COMMON";

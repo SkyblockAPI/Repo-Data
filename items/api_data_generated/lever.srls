@@ -1,4 +1,3 @@
 meta {
-  id = LEVER;
   include("api_data/lever", this); 
 };

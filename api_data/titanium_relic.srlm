@@ -1,3 +1,4 @@
+id = "TITANIUM_RELIC";
 item = "player_head";
 name = "Titanium Relic";
 include("types/accessory", this);

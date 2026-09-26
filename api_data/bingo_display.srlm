@@ -1,3 +1,4 @@
+id = "BINGO_DISPLAY";
 item = "coal_block";
 name = "Bingo Display";
 include("types/cosmetic", this);

@@ -1,4 +1,3 @@
 meta {
-  id = DIVER_PUFFER;
   include("api_data/diver_puffer", this); 
 };

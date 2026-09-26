@@ -1,3 +1,4 @@
+id = "MANGROVE_GRIPPERS";
 item = "player_head";
 name = "Mangrove Grippers";
 include("types/gloves", this);

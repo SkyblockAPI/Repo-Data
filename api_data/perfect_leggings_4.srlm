@@ -1,3 +1,4 @@
+id = "PERFECT_LEGGINGS_4";
 item = "diamond_leggings";
 name = "Perfect Leggings - Tier IV";
 include("types/leggings", this);

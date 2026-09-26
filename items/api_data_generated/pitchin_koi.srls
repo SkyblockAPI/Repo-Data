@@ -1,4 +1,3 @@
 meta {
-  id = PITCHIN_KOI;
   include("api_data/pitchin_koi", this); 
 };

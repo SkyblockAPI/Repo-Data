@@ -1,4 +1,3 @@
 meta {
-  id = WITHERBLOOM;
   include("api_data/witherbloom", this); 
 };

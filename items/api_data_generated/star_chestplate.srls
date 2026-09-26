@@ -1,4 +1,3 @@
 meta {
-  id = STAR_CHESTPLATE;
   include("api_data/star_chestplate", this); 
 };

@@ -1,3 +1,4 @@
+id = "GRILLED_PORK";
 item = "grilled_pork";
 name = "Cooked Porkchop";
 rarity = "COMMON";

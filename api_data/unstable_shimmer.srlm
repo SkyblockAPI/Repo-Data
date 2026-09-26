@@ -1,3 +1,4 @@
+id = "UNSTABLE_SHIMMER";
 item = "player_head";
 name = "Shimmer Skin";
 include("types/cosmetic", this);

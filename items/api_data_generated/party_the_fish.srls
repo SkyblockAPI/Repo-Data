@@ -1,4 +1,3 @@
 meta {
-  id = PARTY_THE_FISH;
   include("api_data/party_the_fish", this); 
 };

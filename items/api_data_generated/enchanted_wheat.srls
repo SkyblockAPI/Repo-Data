@@ -1,4 +1,3 @@
 meta {
-  id = ENCHANTED_WHEAT;
   include("api_data/enchanted_wheat", this); 
 };

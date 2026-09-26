@@ -1,3 +1,4 @@
+id = "INK_WAND";
 item = "stick";
 name = "Ink Wand";
 include("types/sword", this);

@@ -1,3 +1,4 @@
+id = "WATER_HYACINTH";
 item = "paper";
 name = "Water Hyacinth";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/enchantmentupgrades/water_hyacinth";

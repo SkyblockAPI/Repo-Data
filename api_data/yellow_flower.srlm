@@ -1,3 +1,4 @@
+id = "YELLOW_FLOWER";
 item = "yellow_flower";
 name = "Dandelion";
 rarity = "COMMON";

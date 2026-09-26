@@ -1,4 +1,3 @@
 meta {
-  id = DEEPTERROR_MIXIN;
   include("api_data/deepterror_mixin", this); 
 };

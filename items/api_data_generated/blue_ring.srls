@@ -1,4 +1,3 @@
 meta {
-  id = BLUE_RING;
   include("api_data/blue_ring", this); 
 };

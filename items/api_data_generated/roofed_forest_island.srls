@@ -1,4 +1,3 @@
 meta {
-  id = ROOFED_FOREST_ISLAND;
   include("api_data/roofed_forest_island", this); 
 };

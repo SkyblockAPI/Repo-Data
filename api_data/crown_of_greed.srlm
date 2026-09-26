@@ -1,3 +1,4 @@
+id = "CROWN_OF_GREED";
 item = "gold_helmet";
 name = "Crown of Greed";
 include("types/helmet", this);

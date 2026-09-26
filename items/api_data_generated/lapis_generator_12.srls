@@ -1,4 +1,3 @@
 meta {
-  id = LAPIS_GENERATOR_12;
   include("api_data/lapis_generator_12", this); 
 };

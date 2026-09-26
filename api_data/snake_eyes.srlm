@@ -1,3 +1,4 @@
+id = "SNAKE_EYES";
 item = "player_head";
 name = "Snake Eyes";
 include("types/pet_item", this);

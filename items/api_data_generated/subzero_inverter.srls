@@ -1,4 +1,3 @@
 meta {
-  id = SUBZERO_INVERTER;
   include("api_data/subzero_inverter", this); 
 };

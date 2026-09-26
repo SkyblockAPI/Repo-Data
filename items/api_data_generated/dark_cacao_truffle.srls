@@ -1,4 +1,3 @@
 meta {
-  id = DARK_CACAO_TRUFFLE;
   include("api_data/dark_cacao_truffle", this); 
 };

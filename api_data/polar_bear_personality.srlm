@@ -1,3 +1,4 @@
+id = "POLAR_BEAR_PERSONALITY";
 item = "player_head";
 name = "Polar Bear Minion Skin";
 include("types/cosmetic", this);

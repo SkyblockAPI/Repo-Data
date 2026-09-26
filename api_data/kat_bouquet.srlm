@@ -1,3 +1,4 @@
+id = "KAT_BOUQUET";
 item = "double_plant";
 name = "Kat Bouquet";
 rarity = "SPECIAL";

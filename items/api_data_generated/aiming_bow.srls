@@ -1,4 +1,3 @@
 meta {
-  id = AIMING_BOW;
   include("api_data/aiming_bow", this); 
 };

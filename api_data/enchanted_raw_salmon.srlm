@@ -1,3 +1,4 @@
+id = "ENCHANTED_RAW_SALMON";
 item = "raw_fish";
 name = "Enchanted Raw Salmon";
 rarity = "UNCOMMON";

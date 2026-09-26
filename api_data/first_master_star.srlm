@@ -1,3 +1,4 @@
+id = "FIRST_MASTER_STAR";
 item = "player_head";
 name = "First Master Star";
 include("types/dungeon", this);

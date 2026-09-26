@@ -1,3 +1,4 @@
+id = "IRON_DOOR";
 item = "iron_door";
 name = "Iron Door";
 rarity = "COMMON";

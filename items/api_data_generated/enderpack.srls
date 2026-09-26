@@ -1,4 +1,3 @@
 meta {
-  id = ENDERPACK;
   include("api_data/enderpack", this); 
 };

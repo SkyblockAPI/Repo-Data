@@ -1,4 +1,3 @@
 meta {
-  id = GRIFFIN_UPGRADE_STONE_UNCOMMON;
   include("api_data/griffin_upgrade_stone_uncommon", this); 
 };

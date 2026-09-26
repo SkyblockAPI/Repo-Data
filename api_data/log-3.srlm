@@ -1,3 +1,4 @@
+id = "LOG:3";
 item = "log";
 name = "Jungle Log";
 rarity = "COMMON";

@@ -1,3 +1,4 @@
+id = "BIRCH_FENCE";
 item = "birch_fence";
 name = "Birch Fence";
 rarity = "COMMON";

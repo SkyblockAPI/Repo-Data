@@ -1,4 +1,3 @@
 meta {
-  id = POEM_OF_INFINITE_LOVE;
   include("api_data/poem_of_infinite_love", this); 
 };

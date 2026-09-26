@@ -1,3 +1,4 @@
+id = "HALLOWED_SKULL";
 item = "paper";
 name = "Hallowed Skull";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/hallowed_skull";

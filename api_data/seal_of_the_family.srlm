@@ -1,3 +1,4 @@
+id = "SEAL_OF_THE_FAMILY";
 item = "player_head";
 name = "Seal of the Family";
 include("types/accessory", this);

@@ -1,3 +1,4 @@
+id = "FIGSTONE_AXE";
 item = "stone_axe";
 name = "Figstone Splitter";
 include("types/axe", this);

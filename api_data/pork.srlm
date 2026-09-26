@@ -1,3 +1,4 @@
+id = "PORK";
 item = "pork";
 name = "Raw Porkchop";
 rarity = "COMMON";

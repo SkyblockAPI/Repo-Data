@@ -1,3 +1,4 @@
+id = "QUARTZ";
 item = "quartz";
 name = "Nether Quartz";
 rarity = "COMMON";

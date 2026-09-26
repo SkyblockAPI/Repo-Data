@@ -1,3 +1,4 @@
+id = "HORSEZOOKA";
 item = "powered_minecart";
 name = "Horsezooka";
 rarity = "EPIC";

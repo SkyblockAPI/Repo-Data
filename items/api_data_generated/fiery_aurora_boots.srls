@@ -1,4 +1,3 @@
 meta {
-  id = FIERY_AURORA_BOOTS;
   include("api_data/fiery_aurora_boots", this); 
 };

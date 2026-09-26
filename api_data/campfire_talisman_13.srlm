@@ -1,3 +1,4 @@
+id = "CAMPFIRE_TALISMAN_13";
 item = "player_head";
 name = "Campfire Scion Badge I";
 include("types/accessory", this);

@@ -1,3 +1,4 @@
+id = "TARANTULA_CATALYST";
 item = "paper";
 name = "Tarantula Catalyst";
 this["minecraft:item_model"] = "hypixel_skyblock:item/combat_1/tarantula_catalyst";

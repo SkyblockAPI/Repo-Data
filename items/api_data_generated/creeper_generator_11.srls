@@ -1,4 +1,3 @@
 meta {
-  id = CREEPER_GENERATOR_11;
   include("api_data/creeper_generator_11", this); 
 };

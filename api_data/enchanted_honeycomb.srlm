@@ -1,3 +1,4 @@
+id = "ENCHANTED_HONEYCOMB";
 item = "paper";
 name = "Enchanted Honeycomb";
 this["minecraft:item_model"] = "minecraft:honeycomb";

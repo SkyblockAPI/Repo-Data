@@ -1,4 +1,3 @@
 meta {
-  id = JUICY_NOZZLE;
   include("api_data/juicy_nozzle", this); 
 };

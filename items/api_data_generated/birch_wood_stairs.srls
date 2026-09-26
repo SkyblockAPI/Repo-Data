@@ -1,4 +1,3 @@
 meta {
-  id = BIRCH_WOOD_STAIRS;
   include("api_data/birch_wood_stairs", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = REFINED_MINERAL;
   include("api_data/refined_mineral", this); 
 };

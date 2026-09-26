@@ -1,4 +1,3 @@
 meta {
-  id = RETIA_BASICA;
   include("api_data/retia_basica", this); 
 };

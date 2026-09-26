@@ -1,3 +1,4 @@
+id = "FINWAVE_CLOAK";
 item = "player_head";
 name = "Finwave Cloak";
 include("types/cloak", this);

@@ -1,3 +1,4 @@
+id = "GLOWING_MUSHROOM_CAVE_PORTAL";
 item = "player_head";
 name = "Portal to the Glowing Mushroom Cave";
 include("types/portal", this);

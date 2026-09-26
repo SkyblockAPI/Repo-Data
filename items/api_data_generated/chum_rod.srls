@@ -1,4 +1,3 @@
 meta {
-  id = CHUM_ROD;
   include("api_data/chum_rod", this); 
 };

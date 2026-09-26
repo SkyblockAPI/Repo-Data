@@ -1,3 +1,4 @@
+id = "MAGIC_JELLYBEAN";
 item = "player_head";
 name = "Magic Jellybean";
 include("types/mutation", this);

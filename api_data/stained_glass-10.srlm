@@ -1,3 +1,4 @@
+id = "STAINED_GLASS:10";
 item = "stained_glass";
 name = "Purple Stained Glass";
 rarity = "COMMON";

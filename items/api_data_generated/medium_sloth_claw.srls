@@ -1,4 +1,3 @@
 meta {
-  id = MEDIUM_SLOTH_CLAW;
   include("api_data/medium_sloth_claw", this); 
 };

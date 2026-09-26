@@ -1,3 +1,4 @@
+id = "SLIME_BLOCK";
 item = "slime_block";
 name = "Slime Block";
 rarity = "COMMON";

@@ -1,3 +1,4 @@
+id = "GLACITE";
 item = "packed_ice";
 name = "Glacite";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/glacite/glacite";

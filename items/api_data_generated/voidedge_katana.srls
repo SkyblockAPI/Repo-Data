@@ -1,4 +1,3 @@
 meta {
-  id = VOIDEDGE_KATANA;
   include("api_data/voidedge_katana", this); 
 };

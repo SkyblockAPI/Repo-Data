@@ -1,3 +1,4 @@
+id = "TINY_DANCER";
 item = "player_head";
 name = "Tiny Dancer";
 include("types/accessory", this);

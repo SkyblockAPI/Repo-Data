@@ -1,4 +1,3 @@
 meta {
-  id = UNSTABLE_BABY;
   include("api_data/unstable_baby", this); 
 };

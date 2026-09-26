@@ -1,3 +1,4 @@
+id = "RESPIRATION_RING";
 item = "player_head";
 name = "Respiration Ring";
 include("types/accessory", this);

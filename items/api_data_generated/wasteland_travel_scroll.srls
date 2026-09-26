@@ -1,4 +1,3 @@
 meta {
-  id = WASTELAND_TRAVEL_SCROLL;
   include("api_data/wasteland_travel_scroll", this); 
 };

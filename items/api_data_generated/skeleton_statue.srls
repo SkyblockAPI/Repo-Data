@@ -1,4 +1,3 @@
 meta {
-  id = SKELETON_STATUE;
   include("api_data/skeleton_statue", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = REMOTE_TIME_CHAMBER_REMOTE;
   include("api_data/remote_time_chamber_remote", this); 
 };

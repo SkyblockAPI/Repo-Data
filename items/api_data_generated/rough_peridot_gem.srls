@@ -1,4 +1,3 @@
 meta {
-  id = ROUGH_PERIDOT_GEM;
   include("api_data/rough_peridot_gem", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = ICHTHYIC_BELT;
   include("api_data/ichthyic_belt", this); 
 };

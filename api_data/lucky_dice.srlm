@@ -1,3 +1,4 @@
+id = "LUCKY_DICE";
 item = "player_head";
 name = "Lucky Dice";
 include("types/reforge_stone", this);

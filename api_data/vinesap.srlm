@@ -1,3 +1,4 @@
+id = "VINESAP";
 item = "paper";
 name = "Vinesap";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/vinesap";

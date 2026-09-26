@@ -1,3 +1,4 @@
+id = "SEAL_RING";
 item = "player_head";
 name = "Seal Ring";
 include("types/accessory", this);

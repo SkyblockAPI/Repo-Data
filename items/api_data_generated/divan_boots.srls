@@ -1,4 +1,3 @@
 meta {
-  id = DIVAN_BOOTS;
   include("api_data/divan_boots", this); 
 };

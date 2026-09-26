@@ -1,3 +1,4 @@
+id = "MECHAMIND_GARDEN_CHIP";
 item = "paper";
 name = "Mechamind Chip";
 include("types/garden_chip", this);

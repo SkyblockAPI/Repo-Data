@@ -1,4 +1,3 @@
 meta {
-  id = GIANT_WITCH_CAULDRON;
   include("api_data/giant_witch_cauldron", this); 
 };

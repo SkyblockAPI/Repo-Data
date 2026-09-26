@@ -1,4 +1,3 @@
 meta {
-  id = NURSE_SHARK_TOOTH;
   include("api_data/nurse_shark_tooth", this); 
 };

@@ -1,3 +1,4 @@
+id = "OLD_LEATHER_BOOT";
 item = "paper";
 name = "Old Leather Boot";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/junk/old_leather_boot";

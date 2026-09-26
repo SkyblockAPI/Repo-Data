@@ -1,4 +1,3 @@
 meta {
-  id = GHOST_BOOK;
   include("api_data/ghost_book", this); 
 };

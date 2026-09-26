@@ -1,3 +1,4 @@
+id = "SMOOTH_BRICK:3";
 item = "smooth_brick";
 name = "Chiseled Stone Bricks";
 rarity = "COMMON";

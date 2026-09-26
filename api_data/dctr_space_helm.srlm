@@ -1,3 +1,4 @@
+id = "DCTR_SPACE_HELM";
 item = "stained_glass";
 name = "Space Helmet";
 include("types/helmet", this);

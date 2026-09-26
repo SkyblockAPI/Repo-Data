@@ -1,4 +1,3 @@
 meta {
-  id = TALISMAN_ENRICHMENT_CRITICAL_DAMAGE;
   include("api_data/talisman_enrichment_critical_damage", this); 
 };

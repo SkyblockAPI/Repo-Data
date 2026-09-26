@@ -1,4 +1,3 @@
 meta {
-  id = SPONGE_SINKER;
   include("api_data/sponge_sinker", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = BRAIN_FOOD;
   include("api_data/brain_food", this); 
 };

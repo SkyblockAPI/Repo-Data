@@ -1,4 +1,3 @@
 meta {
-  id = ICE_GENERATOR_4;
   include("api_data/ice_generator_4", this); 
 };

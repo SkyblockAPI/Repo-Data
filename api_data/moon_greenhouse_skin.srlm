@@ -1,3 +1,4 @@
+id = "MOON_GREENHOUSE_SKIN";
 item = "ender_stone";
 name = "Moon Greenhouse Skin";
 include("types/cosmetic", this);

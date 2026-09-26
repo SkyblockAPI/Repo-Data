@@ -1,4 +1,3 @@
 meta {
-  id = EMERALD_GENERATOR_12;
   include("api_data/emerald_generator_12", this); 
 };

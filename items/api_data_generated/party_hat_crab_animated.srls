@@ -1,4 +1,3 @@
 meta {
-  id = PARTY_HAT_CRAB_ANIMATED;
   include("api_data/party_hat_crab_animated", this); 
 };

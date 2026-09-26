@@ -1,3 +1,4 @@
+id = "PESTHUNTER_BADGE";
 item = "player_head";
 name = "Pesthunter Badge";
 include("types/accessory", this);

@@ -1,3 +1,4 @@
+id = "SKELETON_MASTER_CHESTPLATE";
 item = "leather_chestplate";
 name = "Skeleton Master Chestplate";
 include("types/chestplate", this);

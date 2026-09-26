@@ -1,4 +1,3 @@
 meta {
-  id = FATEFUL_STINGER;
   include("api_data/fateful_stinger", this); 
 };

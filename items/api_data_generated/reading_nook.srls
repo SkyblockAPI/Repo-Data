@@ -1,4 +1,3 @@
 meta {
-  id = READING_NOOK;
   include("api_data/reading_nook", this); 
 };

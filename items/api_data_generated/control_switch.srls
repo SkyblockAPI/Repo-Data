@@ -1,4 +1,3 @@
 meta {
-  id = CONTROL_SWITCH;
   include("api_data/control_switch", this); 
 };

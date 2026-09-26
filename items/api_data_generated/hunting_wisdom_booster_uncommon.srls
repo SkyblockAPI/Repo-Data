@@ -1,4 +1,3 @@
 meta {
-  id = HUNTING_WISDOM_BOOSTER_UNCOMMON;
   include("api_data/hunting_wisdom_booster_uncommon", this); 
 };

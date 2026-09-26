@@ -1,4 +1,3 @@
 meta {
-  id = GOBLIN_BOOTS;
   include("api_data/goblin_boots", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = DIVAN_HELMET;
   include("api_data/divan_helmet", this); 
 };

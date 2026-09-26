@@ -1,4 +1,3 @@
 meta {
-  id = RAGNAROCK_AXE;
   include("api_data/ragnarock_axe", this); 
 };

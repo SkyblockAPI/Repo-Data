@@ -1,3 +1,4 @@
+id = "ENCHANTED_REDSTONE_BLOCK";
 item = "redstone_block";
 name = "Enchanted Redstone Block";
 rarity = "RARE";

@@ -1,3 +1,4 @@
+id = "DUNGEON_DECOY";
 item = "monster_egg";
 name = "Decoy";
 include("types/dungeon", this);

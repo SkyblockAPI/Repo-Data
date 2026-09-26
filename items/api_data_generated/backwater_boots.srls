@@ -1,4 +1,3 @@
 meta {
-  id = BACKWATER_BOOTS;
   include("api_data/backwater_boots", this); 
 };

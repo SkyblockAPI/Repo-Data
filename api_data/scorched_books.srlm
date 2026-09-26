@@ -1,3 +1,4 @@
+id = "SCORCHED_BOOKS";
 item = "player_head";
 name = "Scorched Books";
 include("types/reforge_stone", this);

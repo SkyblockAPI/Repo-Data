@@ -1,4 +1,3 @@
 meta {
-  id = PRICELESS_THE_FISH;
   include("api_data/priceless_the_fish", this); 
 };

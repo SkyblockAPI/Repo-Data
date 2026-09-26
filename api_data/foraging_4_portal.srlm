@@ -1,3 +1,4 @@
+id = "FORAGING_4_PORTAL";
 item = "player_head";
 name = "Portal to Savanna Woodland";
 include("types/portal", this);

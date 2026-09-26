@@ -1,4 +1,3 @@
 meta {
-  id = DINING_TABLE;
   include("api_data/dining_table", this); 
 };

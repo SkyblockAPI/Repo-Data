@@ -1,3 +1,4 @@
+id = "NANSORB_ARROW";
 item = "arrow";
 name = "Nansorb Arrow";
 include("types/arrow", this);

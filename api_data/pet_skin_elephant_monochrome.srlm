@@ -1,3 +1,4 @@
+id = "PET_SKIN_ELEPHANT_MONOCHROME";
 item = "player_head";
 name = "MonochromeElephant";
 include("types/cosmetic", this);

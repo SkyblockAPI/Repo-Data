@@ -1,3 +1,4 @@
+id = "FRESHLY_BAKED_ARTIFACT";
 item = "player_head";
 name = "Freshly Baked Artifact";
 include("types/accessory", this);

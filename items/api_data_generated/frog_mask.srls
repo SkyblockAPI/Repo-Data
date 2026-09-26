@@ -1,4 +1,3 @@
 meta {
-  id = FROG_MASK;
   include("api_data/frog_mask", this); 
 };

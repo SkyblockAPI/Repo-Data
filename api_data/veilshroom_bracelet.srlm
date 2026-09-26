@@ -1,3 +1,4 @@
+id = "VEILSHROOM_BRACELET";
 item = "paper";
 name = "Veilshroom Bracelet";
 include("types/bracelet", this);

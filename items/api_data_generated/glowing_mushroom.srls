@@ -1,4 +1,3 @@
 meta {
-  id = GLOWING_MUSHROOM;
   include("api_data/glowing_mushroom", this); 
 };

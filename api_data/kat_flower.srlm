@@ -1,3 +1,4 @@
+id = "KAT_FLOWER";
 item = "red_rose";
 name = "Kat Flower";
 rarity = "SPECIAL";

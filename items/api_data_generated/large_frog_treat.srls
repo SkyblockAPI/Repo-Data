@@ -1,4 +1,3 @@
 meta {
-  id = LARGE_FROG_TREAT;
   include("api_data/large_frog_treat", this); 
 };

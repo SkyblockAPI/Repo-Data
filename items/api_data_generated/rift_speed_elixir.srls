@@ -1,4 +1,3 @@
 meta {
-  id = RIFT_SPEED_ELIXIR;
   include("api_data/rift_speed_elixir", this); 
 };

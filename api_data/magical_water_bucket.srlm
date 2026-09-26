@@ -1,3 +1,4 @@
+id = "MAGICAL_WATER_BUCKET";
 item = "water_bucket";
 name = "Magical Water Bucket";
 rarity = "COMMON";

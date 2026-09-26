@@ -1,4 +1,3 @@
 meta {
-  id = COPPER;
   include("api_data/copper", this); 
 };

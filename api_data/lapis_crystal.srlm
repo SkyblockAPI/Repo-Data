@@ -1,3 +1,4 @@
+id = "LAPIS_CRYSTAL";
 item = "player_head";
 name = "Lapis Crystal";
 include("types/reforge_stone", this);

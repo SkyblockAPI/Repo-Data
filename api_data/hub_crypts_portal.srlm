@@ -1,3 +1,4 @@
+id = "HUB_CRYPTS_PORTAL";
 item = "player_head";
 name = "Portal to the Hub Crypts";
 include("types/portal", this);

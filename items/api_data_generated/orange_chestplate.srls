@@ -1,4 +1,3 @@
 meta {
-  id = ORANGE_CHESTPLATE;
   include("api_data/orange_chestplate", this); 
 };

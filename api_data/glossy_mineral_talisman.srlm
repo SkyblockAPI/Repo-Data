@@ -1,3 +1,4 @@
+id = "GLOSSY_MINERAL_TALISMAN";
 item = "player_head";
 name = "Glossy Mineral Talisman";
 include("types/accessory", this);

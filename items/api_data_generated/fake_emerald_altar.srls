@@ -1,4 +1,3 @@
 meta {
-  id = FAKE_EMERALD_ALTAR;
   include("api_data/fake_emerald_altar", this); 
 };

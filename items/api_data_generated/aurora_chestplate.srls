@@ -1,4 +1,3 @@
 meta {
-  id = AURORA_CHESTPLATE;
   include("api_data/aurora_chestplate", this); 
 };

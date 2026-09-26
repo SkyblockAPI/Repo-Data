@@ -1,4 +1,3 @@
 meta {
-  id = ZOMBIE_TALISMAN;
   include("api_data/zombie_talisman", this); 
 };

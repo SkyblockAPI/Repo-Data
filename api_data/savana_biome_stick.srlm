@@ -1,3 +1,4 @@
+id = "SAVANA_BIOME_STICK";
 item = "stick";
 name = "Savanna Biome Stick";
 rarity = "COMMON";

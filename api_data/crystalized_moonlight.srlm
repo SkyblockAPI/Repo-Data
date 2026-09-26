@@ -1,3 +1,4 @@
+id = "CRYSTALIZED_MOONLIGHT";
 item = "paper";
 name = "Crystalized Moonlight";
 this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/finnegan/crystalized_moonlight";

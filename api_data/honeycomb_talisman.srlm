@@ -1,3 +1,4 @@
+id = "HONEYCOMB_TALISMAN";
 item = "paper";
 name = "Honeycomb Talisman";
 include("types/accessory", this);

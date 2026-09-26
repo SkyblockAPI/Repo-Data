@@ -1,4 +1,3 @@
 meta {
-  id = FUNNY_BONE;
   include("api_data/funny_bone", this); 
 };

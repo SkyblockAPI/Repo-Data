@@ -1,4 +1,3 @@
 meta {
-  id = TITAN_LINE;
   include("api_data/titan_line", this); 
 };

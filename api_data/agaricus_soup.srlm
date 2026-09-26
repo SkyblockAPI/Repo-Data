@@ -1,3 +1,4 @@
+id = "AGARICUS_SOUP";
 item = "rabbit_stew";
 name = "Agaricus Soup";
 rarity = "UNCOMMON";

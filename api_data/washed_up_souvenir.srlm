@@ -1,3 +1,4 @@
+id = "WASHED_UP_SOUVENIR";
 item = "player_head";
 name = "Washed-up Souvenir";
 include("types/pet_item", this);

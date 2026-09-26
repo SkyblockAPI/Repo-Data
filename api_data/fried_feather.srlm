@@ -1,3 +1,4 @@
+id = "FRIED_FEATHER";
 item = "feather";
 name = "Fried Feather";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/fried_feather";

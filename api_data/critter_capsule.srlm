@@ -1,3 +1,4 @@
+id = "CRITTER_CAPSULE";
 item = "paper";
 name = "Critter Capsule";
 include("types/capsule", this);

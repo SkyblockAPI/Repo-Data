@@ -1,3 +1,4 @@
+id = "INTIMIDATION_RING";
 item = "player_head";
 name = "Intimidation Ring";
 include("types/accessory", this);

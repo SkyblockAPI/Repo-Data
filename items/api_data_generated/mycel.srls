@@ -1,4 +1,3 @@
 meta {
-  id = MYCEL;
   include("api_data/mycel", this); 
 };

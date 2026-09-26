@@ -1,4 +1,3 @@
 meta {
-  id = ICE_CHAIR;
   include("api_data/ice_chair", this); 
 };

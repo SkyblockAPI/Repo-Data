@@ -1,4 +1,3 @@
 meta {
-  id = SNOW_SUIT_LEGGINGS;
   include("api_data/snow_suit_leggings", this); 
 };

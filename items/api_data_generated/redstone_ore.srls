@@ -1,4 +1,3 @@
 meta {
-  id = REDSTONE_ORE;
   include("api_data/redstone_ore", this); 
 };

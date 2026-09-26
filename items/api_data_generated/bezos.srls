@@ -1,4 +1,3 @@
 meta {
-  id = BEZOS;
   include("api_data/bezos", this); 
 };

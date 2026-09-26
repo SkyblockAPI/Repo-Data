@@ -1,4 +1,3 @@
 meta {
-  id = FINWAVE_BELT;
   include("api_data/finwave_belt", this); 
 };

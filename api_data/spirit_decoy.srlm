@@ -1,3 +1,4 @@
+id = "SPIRIT_DECOY";
 item = "player_head";
 name = "Spirit Stone";
 include("types/reforge_stone", this);

@@ -1,3 +1,4 @@
+id = "VISITORS_GRATITUDE";
 item = "paper";
 name = "Visitors' Gratitude";
 this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/finnegan/visitors_gratitude";

@@ -1,3 +1,4 @@
+id = "PERSONAL_COMPACTOR_4000";
 item = "dropper";
 name = "Personal Compactor 4000";
 include("types/accessory", this);

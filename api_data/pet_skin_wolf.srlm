@@ -1,3 +1,4 @@
+id = "PET_SKIN_WOLF";
 item = "player_head";
 name = "DarkWolf";
 include("types/cosmetic", this);

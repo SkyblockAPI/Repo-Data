@@ -1,4 +1,3 @@
 meta {
-  id = DEEP_OCEAN_BIOME_STICK;
   include("api_data/deep_ocean_biome_stick", this); 
 };

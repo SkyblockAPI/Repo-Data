@@ -1,4 +1,3 @@
 meta {
-  id = ENCHANTED_JACK_O_LANTERN;
   include("api_data/enchanted_jack_o_lantern", this); 
 };

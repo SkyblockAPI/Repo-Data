@@ -1,4 +1,3 @@
 meta {
-  id = WOOD_PICKAXE;
   include("api_data/wood_pickaxe", this); 
 };

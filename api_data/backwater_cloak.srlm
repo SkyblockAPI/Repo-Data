@@ -1,3 +1,4 @@
+id = "BACKWATER_CLOAK";
 item = "player_head";
 name = "Backwater Cloak";
 include("types/cloak", this);

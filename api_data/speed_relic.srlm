@@ -1,3 +1,4 @@
+id = "SPEED_RELIC";
 item = "player_head";
 name = "Speed Relic";
 include("types/accessory", this);

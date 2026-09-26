@@ -1,4 +1,3 @@
 meta {
-  id = LIME_MEDIUM_BACKPACK;
   include("api_data/lime_medium_backpack", this); 
 };

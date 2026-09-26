@@ -1,3 +1,4 @@
+id = "MUTANT_NETHER_STALK";
 item = "paper";
 name = "Mutant Nether Wart";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/mutant_nether_wart";

@@ -1,3 +1,4 @@
+id = "REDSTONE_TIPPED_ARROW";
 item = "arrow";
 name = "Redstone-tipped Arrow";
 include("types/arrow", this);

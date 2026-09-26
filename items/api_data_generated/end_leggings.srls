@@ -1,4 +1,3 @@
 meta {
-  id = END_LEGGINGS;
   include("api_data/end_leggings", this); 
 };

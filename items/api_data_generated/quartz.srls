@@ -1,4 +1,3 @@
 meta {
-  id = QUARTZ;
   include("api_data/quartz", this); 
 };

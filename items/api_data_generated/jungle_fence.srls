@@ -1,4 +1,3 @@
 meta {
-  id = JUNGLE_FENCE;
   include("api_data/jungle_fence", this); 
 };

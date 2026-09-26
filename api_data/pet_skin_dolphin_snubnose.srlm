@@ -1,3 +1,4 @@
+id = "PET_SKIN_DOLPHIN_SNUBNOSE";
 item = "player_head";
 name = "SnubfinDolphin";
 include("types/cosmetic", this);

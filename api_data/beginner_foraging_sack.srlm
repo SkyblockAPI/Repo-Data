@@ -1,3 +1,4 @@
+id = "BEGINNER_FORAGING_SACK";
 item = "player_head";
 name = "Beginner Foraging Sack";
 include("types/sack", this);

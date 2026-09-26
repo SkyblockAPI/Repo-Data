@@ -1,4 +1,3 @@
 meta {
-  id = COTTON_CANDY;
   include("api_data/cotton_candy", this); 
 };

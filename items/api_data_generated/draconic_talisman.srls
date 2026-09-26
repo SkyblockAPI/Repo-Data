@@ -1,4 +1,3 @@
 meta {
-  id = DRACONIC_TALISMAN;
   include("api_data/draconic_talisman", this); 
 };

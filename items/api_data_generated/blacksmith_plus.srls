@@ -1,4 +1,3 @@
 meta {
-  id = BLACKSMITH_PLUS;
   include("api_data/blacksmith_plus", this); 
 };

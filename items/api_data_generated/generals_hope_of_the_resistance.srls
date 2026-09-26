@@ -1,4 +1,3 @@
 meta {
-  id = GENERALS_HOPE_OF_THE_RESISTANCE;
   include("api_data/generals_hope_of_the_resistance", this); 
 };

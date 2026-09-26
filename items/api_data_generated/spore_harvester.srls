@@ -1,4 +1,3 @@
 meta {
-  id = SPORE_HARVESTER;
   include("api_data/spore_harvester", this); 
 };

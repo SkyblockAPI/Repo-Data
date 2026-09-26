@@ -1,3 +1,4 @@
+id = "BRINE_TONIC";
 item = "paper";
 name = "Brine Tonic";
 include("types/salt", this);

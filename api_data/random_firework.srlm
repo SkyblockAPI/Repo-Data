@@ -1,3 +1,4 @@
+id = "RANDOM_FIREWORK";
 item = "firework";
 name = "Random Firework";
 rarity = "RARE";

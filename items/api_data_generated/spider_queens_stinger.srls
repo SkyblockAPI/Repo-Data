@@ -1,4 +1,3 @@
 meta {
-  id = SPIDER_QUEENS_STINGER;
   include("api_data/spider_queens_stinger", this); 
 };

@@ -1,3 +1,4 @@
+id = "TERMINATOR";
 item = "bow";
 name = "Terminator";
 include("types/bow", this);

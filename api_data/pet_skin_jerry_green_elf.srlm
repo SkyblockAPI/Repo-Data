@@ -1,3 +1,4 @@
+id = "PET_SKIN_JERRY_GREEN_ELF";
 item = "player_head";
 name = "Green ElfJerry";
 include("types/cosmetic", this);

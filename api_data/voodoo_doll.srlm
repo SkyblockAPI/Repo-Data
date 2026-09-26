@@ -1,3 +1,4 @@
+id = "VOODOO_DOLL";
 item = "raw_fish";
 name = "Voodoo Doll";
 rarity = "RARE";

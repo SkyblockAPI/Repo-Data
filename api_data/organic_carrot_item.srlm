@@ -1,3 +1,4 @@
+id = "ORGANIC_CARROT_ITEM";
 item = "carrot_item";
 name = "Organic Carrot";
 rarity = "UNCOMMON";

@@ -1,4 +1,3 @@
 meta {
-  id = RAW_CHICKEN;
   include("api_data/raw_chicken", this); 
 };

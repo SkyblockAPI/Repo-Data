@@ -1,3 +1,4 @@
+id = "PINK_DONUT_PERSONALITY";
 item = "player_head";
 name = "Pink Donut Minion Skin";
 include("types/cosmetic", this);

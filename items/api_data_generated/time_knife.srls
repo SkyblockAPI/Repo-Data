@@ -1,4 +1,3 @@
 meta {
-  id = TIME_KNIFE;
   include("api_data/time_knife", this); 
 };

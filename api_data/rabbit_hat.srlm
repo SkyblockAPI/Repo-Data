@@ -1,3 +1,4 @@
+id = "RABBIT_HAT";
 item = "player_head";
 name = "Rabbit Hat";
 include("types/helmet", this);

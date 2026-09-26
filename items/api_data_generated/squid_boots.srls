@@ -1,4 +1,3 @@
 meta {
-  id = SQUID_BOOTS;
   include("api_data/squid_boots", this); 
 };

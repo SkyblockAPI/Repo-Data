@@ -1,4 +1,3 @@
 meta {
-  id = GARLAND;
   include("api_data/garland", this); 
 };

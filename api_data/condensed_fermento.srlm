@@ -1,3 +1,4 @@
+id = "CONDENSED_FERMENTO";
 item = "paper";
 name = "Condensed Fermento";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/condensed_fermento";

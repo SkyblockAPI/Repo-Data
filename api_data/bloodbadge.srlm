@@ -1,3 +1,4 @@
+id = "BLOODBADGE";
 item = "ink_sack";
 name = "Bloodbadge";
 rarity = "RARE";

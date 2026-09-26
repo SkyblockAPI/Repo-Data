@@ -1,3 +1,4 @@
+id = "MAGE_DUNGEON_ABILITY_3";
 item = "blaze_powder";
 name = "Fireball";
 include("types/dungeon", this);

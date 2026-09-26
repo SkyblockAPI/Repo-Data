@@ -1,3 +1,4 @@
+id = "BATTLE_DISC";
 item = "gold_record";
 name = "Battle Disc";
 rarity = "RARE";

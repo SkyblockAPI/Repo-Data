@@ -1,4 +1,3 @@
 meta {
-  id = LAST_BREATH;
   include("api_data/last_breath", this); 
 };

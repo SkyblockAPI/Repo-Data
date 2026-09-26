@@ -1,3 +1,4 @@
+id = "TACTICIAN_MURDER_WEAPON";
 item = "stone_sword";
 name = "Tactician's Murder Weapon";
 include("types/sword", this);

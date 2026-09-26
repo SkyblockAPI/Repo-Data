@@ -1,4 +1,3 @@
 meta {
-  id = FENCE;
   include("api_data/fence", this); 
 };

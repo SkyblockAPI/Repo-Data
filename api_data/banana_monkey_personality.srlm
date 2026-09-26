@@ -1,3 +1,4 @@
+id = "BANANA_MONKEY_PERSONALITY";
 item = "player_head";
 name = "Banana Monkey Minion Skin";
 include("types/cosmetic", this);

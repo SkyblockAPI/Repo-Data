@@ -1,3 +1,4 @@
+id = "HAY_BLOCK";
 item = "hay_block";
 name = "Hay Bale";
 rarity = "COMMON";

@@ -1,3 +1,4 @@
+id = "CAKE_SOUL";
 item = "ink_sack";
 name = "Cake Soul";
 rarity = "MYTHIC";

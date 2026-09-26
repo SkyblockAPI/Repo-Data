@@ -1,4 +1,3 @@
 meta {
-  id = PINK_DONUT_PERSONALITY;
   include("api_data/pink_donut_personality", this); 
 };

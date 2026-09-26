@@ -1,3 +1,4 @@
+id = "STUDENT_STUDIES";
 item = "player_head";
 name = "Student's Studies";
 include("types/accessory", this);

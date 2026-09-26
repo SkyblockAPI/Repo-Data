@@ -1,4 +1,3 @@
 meta {
-  id = ELEANOR_TUNIC;
   include("api_data/eleanor_tunic", this); 
 };

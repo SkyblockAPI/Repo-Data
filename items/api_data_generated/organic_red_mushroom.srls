@@ -1,4 +1,3 @@
 meta {
-  id = ORGANIC_RED_MUSHROOM;
   include("api_data/organic_red_mushroom", this); 
 };

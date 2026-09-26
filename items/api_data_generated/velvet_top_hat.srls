@@ -1,4 +1,3 @@
 meta {
-  id = VELVET_TOP_HAT;
   include("api_data/velvet_top_hat", this); 
 };

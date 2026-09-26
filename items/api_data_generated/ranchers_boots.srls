@@ -1,4 +1,3 @@
 meta {
-  id = RANCHERS_BOOTS;
   include("api_data/ranchers_boots", this); 
 };

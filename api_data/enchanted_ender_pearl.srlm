@@ -1,3 +1,4 @@
+id = "ENCHANTED_ENDER_PEARL";
 item = "ender_pearl";
 name = "Enchanted Ender Pearl";
 rarity = "UNCOMMON";

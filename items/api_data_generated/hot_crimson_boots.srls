@@ -1,4 +1,3 @@
 meta {
-  id = HOT_CRIMSON_BOOTS;
   include("api_data/hot_crimson_boots", this); 
 };

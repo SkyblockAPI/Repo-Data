@@ -1,4 +1,3 @@
 meta {
-  id = FOSSIL_THE_FISH;
   include("api_data/fossil_the_fish", this); 
 };

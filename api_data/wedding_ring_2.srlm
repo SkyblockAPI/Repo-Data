@@ -1,3 +1,4 @@
+id = "WEDDING_RING_2";
 item = "player_head";
 name = "Mediocre Ring of Love";
 include("types/accessory", this);

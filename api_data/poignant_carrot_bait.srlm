@@ -1,3 +1,4 @@
+id = "POIGNANT_CARROT_BAIT";
 item = "paper";
 name = "Poignant Carrot Bait";
 include("types/none", this);

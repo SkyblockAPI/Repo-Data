@@ -1,3 +1,4 @@
+id = "CARROT_STICK";
 item = "carrot_stick";
 name = "Carrot on a Stick";
 rarity = "COMMON";

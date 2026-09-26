@@ -1,3 +1,4 @@
+id = "PILE_OF_CASH";
 item = "player_head";
 name = "Giant pile of Cash";
 include("types/dungeon", this);

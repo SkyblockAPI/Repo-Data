@@ -1,3 +1,4 @@
+id = "NULL_SPHERE";
 item = "paper";
 name = "Null Sphere";
 this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/enderman/null_sphere";

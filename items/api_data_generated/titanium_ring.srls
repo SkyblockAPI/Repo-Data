@@ -1,4 +1,3 @@
 meta {
-  id = TITANIUM_RING;
   include("api_data/titanium_ring", this); 
 };

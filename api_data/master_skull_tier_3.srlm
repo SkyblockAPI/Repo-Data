@@ -1,3 +1,4 @@
+id = "MASTER_SKULL_TIER_3";
 item = "player_head";
 name = "Master Skull - Tier 3";
 include("types/accessory", this);

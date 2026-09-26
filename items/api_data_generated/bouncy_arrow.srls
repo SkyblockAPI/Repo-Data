@@ -1,4 +1,3 @@
 meta {
-  id = BOUNCY_ARROW;
   include("api_data/bouncy_arrow", this); 
 };

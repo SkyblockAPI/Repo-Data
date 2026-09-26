@@ -1,3 +1,4 @@
+id = "CASTLE_OF_STONE";
 item = "bedrock";
 name = "Castle of Stone";
 include("types/dungeon", this);

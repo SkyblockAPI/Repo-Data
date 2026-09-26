@@ -1,3 +1,4 @@
+id = "BALLOON_SNAKE";
 item = "player_head";
 name = "Balloon Snake";
 include("types/necklace", this);

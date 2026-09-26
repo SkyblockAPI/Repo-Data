@@ -1,3 +1,4 @@
+id = "PROMISING_AXE";
 item = "iron_axe";
 name = "Promising Axe";
 include("types/axe", this);

@@ -1,3 +1,4 @@
+id = "NULLIFIED_METAL";
 item = "carpet";
 name = "Nullified Metal";
 ::items::prototypes::ingredient::(this);

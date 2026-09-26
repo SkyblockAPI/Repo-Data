@@ -1,3 +1,4 @@
+id = "BARRIER";
 item = "paper";
 name = "Barrier";
 this["minecraft:item_model"] = "minecraft:barrier";

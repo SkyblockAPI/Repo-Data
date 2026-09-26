@@ -1,4 +1,3 @@
 meta {
-  id = PEST_TRAP;
   include("api_data/pest_trap", this); 
 };

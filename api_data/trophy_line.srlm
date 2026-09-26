@@ -1,3 +1,4 @@
+id = "TROPHY_LINE";
 item = "paper";
 name = "Trophy Line";
 include("types/fishing_rod_part", this);

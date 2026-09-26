@@ -1,3 +1,4 @@
+id = "DIAMOND_NECRON_HEAD";
 item = "player_head";
 name = "Diamond Necron Head";
 include("types/helmet", this);

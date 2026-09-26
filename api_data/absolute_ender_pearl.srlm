@@ -1,3 +1,4 @@
+id = "ABSOLUTE_ENDER_PEARL";
 item = "paper";
 name = "Absolute Ender Pearl";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/absolute_ender_pearl";

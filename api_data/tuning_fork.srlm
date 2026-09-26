@@ -1,3 +1,4 @@
+id = "TUNING_FORK";
 item = "birch_fence";
 name = "Tuning Fork";
 rarity = "RARE";

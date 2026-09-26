@@ -1,3 +1,4 @@
+id = "MANA_FLUX_POWER_ORB";
 item = "player_head";
 name = "Mana Flux Power Orb";
 include("types/deployable", this);

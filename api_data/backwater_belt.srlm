@@ -1,3 +1,4 @@
+id = "BACKWATER_BELT";
 item = "player_head";
 name = "Backwater Belt";
 include("types/belt", this);

@@ -1,3 +1,4 @@
+id = "GOLDEN_DANTE_STATUE";
 item = "player_head";
 name = "Golden Dante Statue";
 include("types/cosmetic", this);

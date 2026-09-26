@@ -1,3 +1,4 @@
+id = "LARGE_MUTATIONS_SACK";
 item = "player_head";
 name = "Large Mutations Sack";
 include("types/sack", this);

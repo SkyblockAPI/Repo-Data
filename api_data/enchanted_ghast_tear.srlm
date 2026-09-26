@@ -1,3 +1,4 @@
+id = "ENCHANTED_GHAST_TEAR";
 item = "ghast_tear";
 name = "Enchanted Ghast Tear";
 rarity = "UNCOMMON";

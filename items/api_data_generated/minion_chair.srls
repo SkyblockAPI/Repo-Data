@@ -1,4 +1,3 @@
 meta {
-  id = MINION_CHAIR;
   include("api_data/minion_chair", this); 
 };

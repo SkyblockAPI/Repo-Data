@@ -1,3 +1,4 @@
+id = "GEMSTONE_POWDER_TIER_1";
 item = "ink_sack";
 name = "X Gemstone Powder";
 rarity = "RARE";

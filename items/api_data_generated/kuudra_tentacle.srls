@@ -1,4 +1,3 @@
 meta {
-  id = KUUDRA_TENTACLE;
   include("api_data/kuudra_tentacle", this); 
 };

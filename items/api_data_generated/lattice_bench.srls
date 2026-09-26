@@ -1,4 +1,3 @@
 meta {
-  id = LATTICE_BENCH;
   include("api_data/lattice_bench", this); 
 };

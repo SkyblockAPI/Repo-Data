@@ -1,4 +1,3 @@
 meta {
-  id = GLOSSY_MINERAL_BOOTS;
   include("api_data/glossy_mineral_boots", this); 
 };

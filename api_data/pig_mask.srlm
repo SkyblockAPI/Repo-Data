@@ -1,3 +1,4 @@
+id = "PIG_MASK";
 item = "player_head";
 name = "Pig Mask";
 include("types/helmet", this);

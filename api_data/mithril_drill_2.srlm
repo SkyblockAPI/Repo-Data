@@ -1,3 +1,4 @@
+id = "MITHRIL_DRILL_2";
 item = "diamond_pickaxe";
 name = "Mithril Drill SX-R326";
 include("types/drill", this);

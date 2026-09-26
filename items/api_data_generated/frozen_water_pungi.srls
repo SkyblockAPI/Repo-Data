@@ -1,4 +1,3 @@
 meta {
-  id = FROZEN_WATER_PUNGI;
   include("api_data/frozen_water_pungi", this); 
 };

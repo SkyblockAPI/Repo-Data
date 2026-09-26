@@ -1,3 +1,4 @@
+id = "SOULFLOW_BATTERY";
 item = "player_head";
 name = "Soulflow Battery";
 include("types/accessory", this);

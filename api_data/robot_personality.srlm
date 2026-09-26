@@ -1,3 +1,4 @@
+id = "ROBOT_PERSONALITY";
 item = "player_head";
 name = "Robot Minion Skin";
 include("types/cosmetic", this);

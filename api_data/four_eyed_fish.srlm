@@ -1,3 +1,4 @@
+id = "FOUR_EYED_FISH";
 item = "player_head";
 name = "Four-Eyed Fish";
 include("types/pet_item", this);

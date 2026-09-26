@@ -1,4 +1,3 @@
 meta {
-  id = NETHER_ISLAND;
   include("api_data/nether_island", this); 
 };

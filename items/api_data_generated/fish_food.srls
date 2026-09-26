@@ -1,4 +1,3 @@
 meta {
-  id = FISH_FOOD;
   include("api_data/fish_food", this); 
 };

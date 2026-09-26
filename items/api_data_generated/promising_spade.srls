@@ -1,4 +1,3 @@
 meta {
-  id = PROMISING_SPADE;
   include("api_data/promising_spade", this); 
 };

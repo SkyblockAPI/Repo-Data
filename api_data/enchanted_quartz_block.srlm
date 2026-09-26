@@ -1,3 +1,4 @@
+id = "ENCHANTED_QUARTZ_BLOCK";
 item = "quartz_block";
 name = "Enchanted Quartz Block";
 rarity = "RARE";

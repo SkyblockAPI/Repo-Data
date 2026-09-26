@@ -1,4 +1,3 @@
 meta {
-  id = FUN_SIZED_POT_OF_HONEYCOMB;
   include("api_data/fun_sized_pot_of_honeycomb", this); 
 };

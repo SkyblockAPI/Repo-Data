@@ -1,3 +1,4 @@
+id = "NOTE_BLOCK";
 item = "note_block";
 name = "Noteblock";
 rarity = "COMMON";

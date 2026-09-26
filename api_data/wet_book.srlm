@@ -1,3 +1,4 @@
+id = "WET_BOOK";
 item = "book";
 name = "Wet Book";
 rarity = "EPIC";

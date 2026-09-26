@@ -1,3 +1,4 @@
+id = "SHARK_FIN";
 item = "prismarine_shard";
 name = "Shark Fin";
 this["minecraft:item_model"] = "hypixel_skyblock:item/community_center/mayor/marina/shark_fin";

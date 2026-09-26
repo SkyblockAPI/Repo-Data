@@ -1,3 +1,4 @@
+id = "MAGMA_ARROW";
 item = "arrow";
 name = "Magma Arrow";
 include("types/arrow", this);

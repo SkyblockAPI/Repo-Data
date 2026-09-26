@@ -1,4 +1,3 @@
 meta {
-  id = MENDER_CROWN;
   include("api_data/mender_crown", this); 
 };

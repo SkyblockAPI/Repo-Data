@@ -1,3 +1,4 @@
+id = "FOOTPRINT_FOSSIL";
 item = "paper";
 name = "Footprint Fossil";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/fossils/footprint_fossil";

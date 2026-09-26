@@ -1,4 +1,3 @@
 meta {
-  id = KAT_BOUQUET;
   include("api_data/kat_bouquet", this); 
 };

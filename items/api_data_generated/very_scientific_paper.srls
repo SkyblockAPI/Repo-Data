@@ -1,4 +1,3 @@
 meta {
-  id = VERY_SCIENTIFIC_PAPER;
   include("api_data/very_scientific_paper", this); 
 };

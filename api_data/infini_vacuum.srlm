@@ -1,3 +1,4 @@
+id = "INFINI_VACUUM";
 item = "paper";
 name = "InfiniVacuum™";
 include("types/vacuum", this);

@@ -1,4 +1,3 @@
 meta {
-  id = WARM_WIZARD_FACE;
   include("api_data/warm_wizard_face", this); 
 };

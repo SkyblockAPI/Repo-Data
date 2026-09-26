@@ -1,3 +1,4 @@
+id = "LUSH_LILY_PAD";
 item = "water_lily";
 name = "Lush Lily Pad";
 rarity = "SPECIAL";

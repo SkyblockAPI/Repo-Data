@@ -1,4 +1,3 @@
 meta {
-  id = BLASTBERRY;
   include("api_data/blastberry", this); 
 };

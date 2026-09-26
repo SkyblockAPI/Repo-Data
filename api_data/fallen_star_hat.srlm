@@ -1,3 +1,4 @@
+id = "FALLEN_STAR_HAT";
 item = "player_head";
 name = "Fallen Star Helmet";
 include("types/helmet", this);

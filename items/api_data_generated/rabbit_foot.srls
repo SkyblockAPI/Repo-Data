@@ -1,4 +1,3 @@
 meta {
-  id = RABBIT_FOOT;
   include("api_data/rabbit_foot", this); 
 };

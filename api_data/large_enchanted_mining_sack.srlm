@@ -1,3 +1,4 @@
+id = "LARGE_ENCHANTED_MINING_SACK";
 item = "player_head";
 name = "Large Enchanted Mining Sack";
 include("types/sack", this);

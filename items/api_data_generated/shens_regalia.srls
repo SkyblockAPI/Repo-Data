@@ -1,4 +1,3 @@
 meta {
-  id = SHENS_REGALIA;
   include("api_data/shens_regalia", this); 
 };

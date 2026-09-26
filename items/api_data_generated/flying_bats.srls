@@ -1,4 +1,3 @@
 meta {
-  id = FLYING_BATS;
   include("api_data/flying_bats", this); 
 };

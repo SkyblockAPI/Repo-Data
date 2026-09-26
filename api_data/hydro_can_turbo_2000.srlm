@@ -1,3 +1,4 @@
+id = "HYDRO_CAN_TURBO_2000";
 item = "carrot_stick";
 name = "HydroCan™ Turbo 2000";
 include("types/watering_can", this);

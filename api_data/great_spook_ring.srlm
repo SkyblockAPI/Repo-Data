@@ -1,3 +1,4 @@
+id = "GREAT_SPOOK_RING";
 item = "player_head";
 name = "Great Spook Ring";
 include("types/accessory", this);

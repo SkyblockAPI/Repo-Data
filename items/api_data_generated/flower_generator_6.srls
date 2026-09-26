@@ -1,4 +1,3 @@
 meta {
-  id = FLOWER_GENERATOR_6;
   include("api_data/flower_generator_6", this); 
 };

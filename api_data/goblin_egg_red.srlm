@@ -1,3 +1,4 @@
+id = "GOBLIN_EGG_RED";
 item = "paper";
 name = "Red Goblin Egg";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/mining_3/goblins/eggs/red_goblin_egg";

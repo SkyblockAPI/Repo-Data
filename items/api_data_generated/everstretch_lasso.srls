@@ -1,4 +1,3 @@
 meta {
-  id = EVERSTRETCH_LASSO;
   include("api_data/everstretch_lasso", this); 
 };

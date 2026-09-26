@@ -1,4 +1,3 @@
 meta {
-  id = STAFF_OF_THE_RISING_MOON;
   include("api_data/staff_of_the_rising_moon", this); 
 };

@@ -1,3 +1,4 @@
+id = "TOP_OF_SPIDERS_DEN_PORTAL";
 item = "player_head";
 name = "Portal to the Top of the Nest";
 include("types/portal", this);

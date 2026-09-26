@@ -1,4 +1,3 @@
 meta {
-  id = GLACITE;
   include("api_data/glacite", this); 
 };

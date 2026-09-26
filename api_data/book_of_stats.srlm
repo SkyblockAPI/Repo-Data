@@ -1,3 +1,4 @@
+id = "BOOK_OF_STATS";
 item = "book";
 name = "Book of Stats";
 include("types/cosmetic", this);

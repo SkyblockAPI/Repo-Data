@@ -1,3 +1,4 @@
+id = "SPIDER_EYE";
 item = "spider_eye";
 name = "Spider Eye";
 rarity = "COMMON";

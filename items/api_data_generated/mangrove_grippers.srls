@@ -1,4 +1,3 @@
 meta {
-  id = MANGROVE_GRIPPERS;
   include("api_data/mangrove_grippers", this); 
 };

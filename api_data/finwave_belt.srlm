@@ -1,3 +1,4 @@
+id = "FINWAVE_BELT";
 item = "player_head";
 name = "Finwave Belt";
 include("types/belt", this);

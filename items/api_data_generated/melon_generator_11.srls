@@ -1,4 +1,3 @@
 meta {
-  id = MELON_GENERATOR_11;
   include("api_data/melon_generator_11", this); 
 };

@@ -1,3 +1,4 @@
+id = "SHADOW_ASSASSIN_ADMIRAL";
 item = "player_head";
 name = "Admiral Skin";
 include("types/cosmetic", this);

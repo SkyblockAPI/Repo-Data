@@ -1,4 +1,3 @@
 meta {
-  id = WIZARD_WAND;
   include("api_data/wizard_wand", this); 
 };

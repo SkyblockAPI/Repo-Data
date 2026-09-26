@@ -1,4 +1,3 @@
 meta {
-  id = QUICKDRAW_GARDEN_CHIP;
   include("api_data/quickdraw_garden_chip", this); 
 };

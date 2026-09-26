@@ -1,3 +1,4 @@
+id = "MEDIUM_SLOTH_CLAW";
 item = "paper";
 name = "Medium Sloth Claw";
 include("types/pet_item", this);

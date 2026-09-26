@@ -1,4 +1,3 @@
 meta {
-  id = FLAME_BREAKER_BOOTS;
   include("api_data/flame_breaker_boots", this); 
 };

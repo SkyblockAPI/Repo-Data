@@ -1,4 +1,3 @@
 meta {
-  id = MUSHROOM_GENERATOR_6;
   include("api_data/mushroom_generator_6", this); 
 };

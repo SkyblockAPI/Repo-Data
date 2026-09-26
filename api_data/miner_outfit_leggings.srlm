@@ -1,3 +1,4 @@
+id = "MINER_OUTFIT_LEGGINGS";
 item = "leather_leggings";
 name = "Prospecting Leggings";
 include("types/leggings", this);

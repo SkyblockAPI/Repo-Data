@@ -1,3 +1,4 @@
+id = "CROPIE_TALISMAN";
 item = "player_head";
 name = "Cropie Talisman";
 include("types/accessory", this);

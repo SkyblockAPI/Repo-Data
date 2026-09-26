@@ -1,3 +1,4 @@
+id = "REKINDLED_EMBER_BOOTS";
 item = "chainmail_boots";
 name = "Rekindled Ember Boots";
 include("types/boots", this);

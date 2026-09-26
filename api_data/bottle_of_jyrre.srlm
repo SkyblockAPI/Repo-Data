@@ -1,3 +1,4 @@
+id = "BOTTLE_OF_JYRRE";
 item = "potion";
 name = "§cLost Bottle of Jyrre";
 rarity = "COMMON";

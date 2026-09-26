@@ -1,4 +1,3 @@
 meta {
-  id = LAVA_WATER_ORB;
   include("api_data/lava_water_orb", this); 
 };

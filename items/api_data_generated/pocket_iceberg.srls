@@ -1,4 +1,3 @@
 meta {
-  id = POCKET_ICEBERG;
   include("api_data/pocket_iceberg", this); 
 };

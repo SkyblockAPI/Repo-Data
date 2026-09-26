@@ -1,3 +1,4 @@
+id = "GIANT_FLESH";
 item = "player_head";
 name = "Giant Flesh";
 include("types/dungeon", this);

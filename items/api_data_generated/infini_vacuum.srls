@@ -1,4 +1,3 @@
 meta {
-  id = INFINI_VACUUM;
   include("api_data/infini_vacuum", this); 
 };

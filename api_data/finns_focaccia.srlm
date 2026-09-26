@@ -1,3 +1,4 @@
+id = "FINNS_FOCACCIA";
 item = "bread";
 name = "Finn's Focaccia";
 rarity = "UNCOMMON";

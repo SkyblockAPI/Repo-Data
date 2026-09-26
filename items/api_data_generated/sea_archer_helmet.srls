@@ -1,4 +1,3 @@
 meta {
-  id = SEA_ARCHER_HELMET;
   include("api_data/sea_archer_helmet", this); 
 };

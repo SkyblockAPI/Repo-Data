@@ -1,4 +1,3 @@
 meta {
-  id = FIG_HELMET;
   include("api_data/fig_helmet", this); 
 };

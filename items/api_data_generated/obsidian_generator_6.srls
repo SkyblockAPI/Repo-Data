@@ -1,4 +1,3 @@
 meta {
-  id = OBSIDIAN_GENERATOR_6;
   include("api_data/obsidian_generator_6", this); 
 };

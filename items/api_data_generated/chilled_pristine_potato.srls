@@ -1,4 +1,3 @@
 meta {
-  id = CHILLED_PRISTINE_POTATO;
   include("api_data/chilled_pristine_potato", this); 
 };

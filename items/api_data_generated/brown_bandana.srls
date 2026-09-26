@@ -1,4 +1,3 @@
 meta {
-  id = BROWN_BANDANA;
   include("api_data/brown_bandana", this); 
 };

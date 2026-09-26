@@ -1,4 +1,3 @@
 meta {
-  id = MYTHOS_CLOAK;
   include("api_data/mythos_cloak", this); 
 };

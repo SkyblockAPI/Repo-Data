@@ -1,3 +1,4 @@
+id = "VAMPIRE_DENTIST_RELIC";
 item = "player_head";
 name = "Vampire Dentist Relic";
 include("types/accessory", this);

@@ -1,3 +1,4 @@
+id = "ETERNAL_CRYSTAL";
 item = "nether_star";
 name = "Eternal Crystal";
 include("types/accessory", this);

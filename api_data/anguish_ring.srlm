@@ -1,3 +1,4 @@
+id = "ANGUISH_RING";
 item = "player_head";
 name = "Anguish Ring";
 include("types/accessory", this);

@@ -1,3 +1,4 @@
+id = "PERFECT_HELMET_11";
 item = "diamond_helmet";
 name = "Perfect Helmet - Tier XI";
 include("types/helmet", this);

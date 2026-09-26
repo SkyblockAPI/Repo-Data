@@ -1,4 +1,3 @@
 meta {
-  id = PERFECT_FORGE;
   include("api_data/perfect_forge", this); 
 };

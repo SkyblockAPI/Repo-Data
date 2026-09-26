@@ -1,3 +1,4 @@
+id = "ORGANIC_WHEAT";
 item = "wheat";
 name = "Organic Wheat";
 rarity = "UNCOMMON";

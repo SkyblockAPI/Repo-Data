@@ -1,4 +1,3 @@
 meta {
-  id = GRIZZLY_PAW;
   include("api_data/grizzly_paw", this); 
 };

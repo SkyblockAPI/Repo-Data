@@ -1,4 +1,3 @@
 meta {
-  id = MAGMA_CUBE_GENERATOR_4;
   include("api_data/magma_cube_generator_4", this); 
 };

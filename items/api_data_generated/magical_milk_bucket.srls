@@ -1,4 +1,3 @@
 meta {
-  id = MAGICAL_MILK_BUCKET;
   include("api_data/magical_milk_bucket", this); 
 };

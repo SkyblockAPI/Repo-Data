@@ -1,3 +1,4 @@
+id = "CANCEL_WIZARDMAN_RACE_ITEM";
 item = "stained_clay";
 name = "Cancel Trial";
 rarity = "COMMON";

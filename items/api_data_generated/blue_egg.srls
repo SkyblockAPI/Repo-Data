@@ -1,4 +1,3 @@
 meta {
-  id = BLUE_EGG;
   include("api_data/blue_egg", this); 
 };

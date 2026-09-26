@@ -1,3 +1,4 @@
+id = "NIBBLE_CHOCOLATE_STICK";
 item = "player_head";
 name = "Nibble Chocolate Stick";
 include("types/accessory", this);

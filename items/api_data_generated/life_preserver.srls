@@ -1,4 +1,3 @@
 meta {
-  id = LIFE_PRESERVER;
   include("api_data/life_preserver", this); 
 };

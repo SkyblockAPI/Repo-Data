@@ -1,3 +1,4 @@
+id = "DRACONIC_RING";
 item = "player_head";
 name = "Draconic Ring";
 include("types/accessory", this);

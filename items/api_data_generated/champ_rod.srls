@@ -1,4 +1,3 @@
 meta {
-  id = CHAMP_ROD;
   include("api_data/champ_rod", this); 
 };

@@ -1,3 +1,4 @@
+id = "HOE_OF_GREATER_TILLING";
 item = "iron_hoe";
 name = "Hoe of Greater Tilling";
 this["minecraft:item_model"] = "hypixel_skyblock:item/jacob/hoe_of_greater_tilling";

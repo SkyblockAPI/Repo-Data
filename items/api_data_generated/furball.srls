@@ -1,4 +1,3 @@
 meta {
-  id = FURBALL;
   include("api_data/furball", this); 
 };

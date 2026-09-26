@@ -1,3 +1,4 @@
+id = "FINE_ONYX_GEM";
 item = "paper";
 name = "Fine Onyx Gemstone";
 this["minecraft:item_model"] = "hypixel_skyblock:item/collections/gemstone/onyx/fine_onyx_gem";

@@ -1,3 +1,4 @@
+id = "CRUDE_GABAGOOL_DISTILLATE";
 item = "paper";
 name = "Gabagool Distillate";
 this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/blaze/minion/fuel/distillate/gabagool_distillate";

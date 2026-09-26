@@ -1,4 +1,3 @@
 meta {
-  id = VAMPIRE_MASK;
   include("api_data/vampire_mask", this); 
 };

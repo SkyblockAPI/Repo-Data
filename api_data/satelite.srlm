@@ -1,3 +1,4 @@
+id = "SATELITE";
 item = "player_head";
 name = "Satelite";
 include("types/accessory", this);

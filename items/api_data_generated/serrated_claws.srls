@@ -1,4 +1,3 @@
 meta {
-  id = SERRATED_CLAWS;
   include("api_data/serrated_claws", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = DIAMOND_SPADE;
   include("api_data/diamond_spade", this); 
 };

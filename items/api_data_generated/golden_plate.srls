@@ -1,4 +1,3 @@
 meta {
-  id = GOLDEN_PLATE;
   include("api_data/golden_plate", this); 
 };

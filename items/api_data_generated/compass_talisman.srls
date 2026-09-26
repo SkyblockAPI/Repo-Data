@@ -1,4 +1,3 @@
 meta {
-  id = COMPASS_TALISMAN;
   include("api_data/compass_talisman", this); 
 };

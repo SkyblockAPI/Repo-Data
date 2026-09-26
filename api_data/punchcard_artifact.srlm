@@ -1,3 +1,4 @@
+id = "PUNCHCARD_ARTIFACT";
 item = "player_head";
 name = "Punchcard Artifact";
 include("types/accessory", this);

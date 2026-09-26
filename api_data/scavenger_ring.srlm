@@ -1,3 +1,4 @@
+id = "SCAVENGER_RING";
 item = "player_head";
 name = "Scavenger Ring";
 include("types/accessory", this);

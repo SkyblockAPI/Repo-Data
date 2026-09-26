@@ -1,4 +1,3 @@
 meta {
-  id = BAT_TALISMAN;
   include("api_data/bat_talisman", this); 
 };

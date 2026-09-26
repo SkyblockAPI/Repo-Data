@@ -1,4 +1,3 @@
 meta {
-  id = COBBLESTONE_STAIRS;
   include("api_data/cobblestone_stairs", this); 
 };

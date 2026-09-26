@@ -1,3 +1,4 @@
+id = "HARDENED_WOOD";
 item = "player_head";
 name = "Hardened Wood";
 include("types/reforge_stone", this);

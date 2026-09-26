@@ -1,4 +1,3 @@
 meta {
-  id = FINE_AMBER_GEM;
   include("api_data/fine_amber_gem", this); 
 };

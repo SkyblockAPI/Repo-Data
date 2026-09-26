@@ -1,3 +1,4 @@
+id = "DWARF_TURTLE_SHELMET";
 item = "player_head";
 name = "Dwarf Turtle Shelmet";
 include("types/pet_item", this);

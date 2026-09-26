@@ -1,3 +1,4 @@
+id = "JACOBUS_REGISTER";
 item = "player_head";
 name = "Jacobus Register";
 include("types/accessory", this);

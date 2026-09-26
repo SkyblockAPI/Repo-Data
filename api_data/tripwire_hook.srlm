@@ -1,3 +1,4 @@
+id = "TRIPWIRE_HOOK";
 item = "tripwire_hook";
 name = "Tripwire Hook";
 rarity = "COMMON";

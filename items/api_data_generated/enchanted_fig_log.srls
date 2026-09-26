@@ -1,4 +1,3 @@
 meta {
-  id = ENCHANTED_FIG_LOG;
   include("api_data/enchanted_fig_log", this); 
 };

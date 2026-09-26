@@ -1,3 +1,4 @@
+id = "REKINDLED_EMBER_HELMET";
 item = "player_head";
 name = "Rekindled Ember Helmet";
 include("types/helmet", this);

@@ -1,4 +1,3 @@
 meta {
-  id = GHAST_HEAD;
   include("api_data/ghast_head", this); 
 };

@@ -1,3 +1,4 @@
+id = "ROYAL_COMPASS";
 item = "paper";
 name = "Royal Compass";
 this["minecraft:item_model"] = "hypixel_skyblock:item/glacite/uncategorized/royal_compass";

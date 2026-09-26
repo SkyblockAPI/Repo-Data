@@ -1,4 +1,3 @@
 meta {
-  id = DUNGEON_HAMMER;
   include("api_data/dungeon_hammer", this); 
 };

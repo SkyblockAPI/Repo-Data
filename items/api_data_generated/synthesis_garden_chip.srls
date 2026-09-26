@@ -1,4 +1,3 @@
 meta {
-  id = SYNTHESIS_GARDEN_CHIP;
   include("api_data/synthesis_garden_chip", this); 
 };

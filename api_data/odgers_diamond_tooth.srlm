@@ -1,3 +1,4 @@
+id = "ODGERS_DIAMOND_TOOTH";
 item = "player_head";
 name = "Odger's Diamond Tooth";
 include("types/accessory", this);

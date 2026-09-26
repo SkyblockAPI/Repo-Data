@@ -1,4 +1,3 @@
 meta {
-  id = ALLIGATOR_SKIN;
   include("api_data/alligator_skin", this); 
 };

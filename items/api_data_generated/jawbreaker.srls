@@ -1,4 +1,3 @@
 meta {
-  id = JAWBREAKER;
   include("api_data/jawbreaker", this); 
 };

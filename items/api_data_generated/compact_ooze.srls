@@ -1,4 +1,3 @@
 meta {
-  id = COMPACT_OOZE;
   include("api_data/compact_ooze", this); 
 };

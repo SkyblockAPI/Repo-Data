@@ -1,3 +1,4 @@
+id = "TOWN_HALL_BARN_SKIN";
 item = "gold_block";
 name = "Town Hall Barn Skin";
 include("types/cosmetic", this);

@@ -1,3 +1,4 @@
+id = "ENCHANTED_BLAZE_ROD";
 item = "blaze_rod";
 name = "Enchanted Blaze Rod";
 rarity = "RARE";

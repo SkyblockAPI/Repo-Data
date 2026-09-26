@@ -1,4 +1,3 @@
 meta {
-  id = PESTHUNTERS_GLOVES;
   include("api_data/pesthunters_gloves", this); 
 };

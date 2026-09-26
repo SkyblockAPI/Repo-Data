@@ -1,3 +1,4 @@
+id = "MUSHROOM_BIOME_STICK";
 item = "stick";
 name = "Mushroom Biome Stick";
 rarity = "COMMON";

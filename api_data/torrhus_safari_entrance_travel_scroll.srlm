@@ -1,3 +1,4 @@
+id = "TORRHUS_SAFARI_ENTRANCE_TRAVEL_SCROLL";
 item = "empty_map";
 name = "Travel Scroll to Critter Safari Entrance";
 include("types/travel_scroll", this);

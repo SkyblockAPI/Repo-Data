@@ -1,3 +1,4 @@
+id = "RETIA_BASICA";
 item = "paper";
 name = "Small Huntrap";
 include("types/trap", this);

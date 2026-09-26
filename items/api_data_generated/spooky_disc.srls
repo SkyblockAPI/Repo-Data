@@ -1,4 +1,3 @@
 meta {
-  id = SPOOKY_DISC;
   include("api_data/spooky_disc", this); 
 };

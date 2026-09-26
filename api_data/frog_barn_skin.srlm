@@ -1,3 +1,4 @@
+id = "FROG_BARN_SKIN";
 item = "player_head";
 name = "Frog Barn Skin";
 include("types/cosmetic", this);

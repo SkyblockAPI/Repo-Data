@@ -1,3 +1,4 @@
+id = "GLACITE_HELMET";
 item = "packed_ice";
 name = "Glacite Helmet";
 include("types/helmet", this);

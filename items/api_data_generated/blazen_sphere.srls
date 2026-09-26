@@ -1,4 +1,3 @@
 meta {
-  id = BLAZEN_SPHERE;
   include("api_data/blazen_sphere", this); 
 };

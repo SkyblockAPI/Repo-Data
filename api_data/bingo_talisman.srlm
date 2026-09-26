@@ -1,3 +1,4 @@
+id = "BINGO_TALISMAN";
 item = "player_head";
 name = "Bingo Talisman";
 include("types/accessory", this);

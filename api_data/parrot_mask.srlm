@@ -1,3 +1,4 @@
+id = "PARROT_MASK";
 item = "player_head";
 name = "Parrot Mask";
 include("types/carnival_mask", this);

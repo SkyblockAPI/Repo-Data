@@ -1,4 +1,3 @@
 meta {
-  id = PRESTIGE_CHOCOLATE_REALM;
   include("api_data/prestige_chocolate_realm", this); 
 };

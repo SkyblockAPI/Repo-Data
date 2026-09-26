@@ -1,3 +1,4 @@
+id = "STAINED_GLASS_PANE:5";
 item = "stained_glass_pane";
 name = "Lime Stained Glass Pane";
 rarity = "COMMON";

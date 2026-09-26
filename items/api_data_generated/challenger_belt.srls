@@ -1,4 +1,3 @@
 meta {
-  id = CHALLENGER_BELT;
   include("api_data/challenger_belt", this); 
 };

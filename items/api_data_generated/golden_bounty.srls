@@ -1,4 +1,3 @@
 meta {
-  id = GOLDEN_BOUNTY;
   include("api_data/golden_bounty", this); 
 };

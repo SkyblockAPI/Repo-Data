@@ -1,3 +1,4 @@
+id = "DEAD_BUSH";
 item = "dead_bush";
 name = "Dead Bush";
 rarity = "COMMON";

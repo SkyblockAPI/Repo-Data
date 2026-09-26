@@ -1,4 +1,3 @@
 meta {
-  id = WILTED_BERBERIS_BUNCH;
   include("api_data/wilted_berberis_bunch", this); 
 };

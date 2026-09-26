@@ -1,4 +1,3 @@
 meta {
-  id = TARANTULA_FANG;
   include("api_data/tarantula_fang", this); 
 };

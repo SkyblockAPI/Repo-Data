@@ -1,3 +1,4 @@
+id = "WHIPPED_MAGMA_CREAM";
 item = "paper";
 name = "Whipped Magma Cream";
 this["minecraft:item_model"] = "hypixel_skyblock:item/slayer/blaze/whipped_magma_cream";

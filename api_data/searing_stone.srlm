@@ -1,3 +1,4 @@
+id = "SEARING_STONE";
 item = "player_head";
 name = "Searing Stone";
 include("types/reforge_stone", this);

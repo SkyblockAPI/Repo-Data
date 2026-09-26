@@ -1,4 +1,3 @@
 meta {
-  id = FIGHTING_BOOSTER;
   include("api_data/fighting_booster", this); 
 };

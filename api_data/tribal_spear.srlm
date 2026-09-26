@@ -1,3 +1,4 @@
+id = "TRIBAL_SPEAR";
 item = "stick";
 name = "Tribal Spear";
 include("types/sword", this);

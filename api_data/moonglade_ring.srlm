@@ -1,3 +1,4 @@
+id = "MOONGLADE_RING";
 item = "player_head";
 name = "Moonglade Ring";
 include("types/accessory", this);

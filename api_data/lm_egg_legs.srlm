@@ -1,3 +1,4 @@
+id = "LM_EGG_LEGS";
 item = "monster_egg";
 name = "Living Metal Pantspawn";
 this["minecraft:item_model"] = "minecraft:cave_spider_spawn_egg";

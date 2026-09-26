@@ -1,3 +1,4 @@
+id = "CLOWNFISH_PERSONALITY";
 item = "player_head";
 name = "Tropical Fish Minion Skin";
 include("types/cosmetic", this);

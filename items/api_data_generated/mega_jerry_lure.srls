@@ -1,4 +1,3 @@
 meta {
-  id = MEGA_JERRY_LURE;
   include("api_data/mega_jerry_lure", this); 
 };

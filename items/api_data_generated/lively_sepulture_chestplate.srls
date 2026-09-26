@@ -1,4 +1,3 @@
 meta {
-  id = LIVELY_SEPULTURE_CHESTPLATE;
   include("api_data/lively_sepulture_chestplate", this); 
 };

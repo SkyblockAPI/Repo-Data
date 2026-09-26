@@ -1,3 +1,4 @@
+id = "CASTLE_BARN_SKIN";
 item = "cobblestone";
 name = "Castle Barn Skin";
 include("types/cosmetic", this);

@@ -1,4 +1,3 @@
 meta {
-  id = MINION_EXPANDER;
   include("api_data/minion_expander", this); 
 };

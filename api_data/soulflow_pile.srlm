@@ -1,3 +1,4 @@
+id = "SOULFLOW_PILE";
 item = "player_head";
 name = "Soulflow Pile";
 include("types/accessory", this);

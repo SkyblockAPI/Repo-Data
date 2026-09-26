@@ -1,4 +1,3 @@
 meta {
-  id = FRESH_SPRING_WATER;
   include("api_data/fresh_spring_water", this); 
 };

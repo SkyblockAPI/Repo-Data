@@ -1,3 +1,4 @@
+id = "POISONOUS_POTATO";
 item = "poisonous_potato";
 name = "Poisonous Potato";
 rarity = "COMMON";

@@ -1,4 +1,3 @@
 meta {
-  id = BREWING_STAND_ITEM;
   include("api_data/brewing_stand_item", this); 
 };

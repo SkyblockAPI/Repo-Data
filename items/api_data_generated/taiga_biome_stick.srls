@@ -1,4 +1,3 @@
 meta {
-  id = TAIGA_BIOME_STICK;
   include("api_data/taiga_biome_stick", this); 
 };

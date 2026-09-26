@@ -1,3 +1,4 @@
+id = "SPEED_WITHER_LEGGINGS";
 item = "leather_leggings";
 name = "Maxor's Leggings";
 include("types/leggings", this);

@@ -1,4 +1,3 @@
 meta {
-  id = BROKEN_RADAR;
   include("api_data/broken_radar", this); 
 };

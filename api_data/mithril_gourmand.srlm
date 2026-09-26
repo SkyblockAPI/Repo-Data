@@ -1,3 +1,4 @@
+id = "MITHRIL_GOURMAND";
 item = "paper";
 name = "Tasty Mithril";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/tasty_mithril";

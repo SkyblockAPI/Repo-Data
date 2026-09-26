@@ -1,3 +1,4 @@
+id = "TORRHUS_CANYON_TRAVEL_SCROLL";
 item = "empty_map";
 name = "Travel Scroll to Torrhus Canyon";
 include("types/travel_scroll", this);

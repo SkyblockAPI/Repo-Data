@@ -1,4 +1,3 @@
 meta {
-  id = STAR_HELMET;
   include("api_data/star_helmet", this); 
 };

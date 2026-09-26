@@ -1,3 +1,4 @@
+id = "PET_SKIN_ROCK_THINKING";
 item = "player_head";
 name = "ThinkingRock";
 include("types/cosmetic", this);

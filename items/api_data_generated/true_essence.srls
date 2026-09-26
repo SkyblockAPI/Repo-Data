@@ -1,4 +1,3 @@
 meta {
-  id = TRUE_ESSENCE;
   include("api_data/true_essence", this); 
 };

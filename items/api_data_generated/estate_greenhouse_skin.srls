@@ -1,4 +1,3 @@
 meta {
-  id = ESTATE_GREENHOUSE_SKIN;
   include("api_data/estate_greenhouse_skin", this); 
 };

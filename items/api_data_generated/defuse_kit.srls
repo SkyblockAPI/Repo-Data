@@ -1,4 +1,3 @@
 meta {
-  id = DEFUSE_KIT;
   include("api_data/defuse_kit", this); 
 };

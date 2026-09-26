@@ -1,3 +1,4 @@
+id = "SILENT_PEARL";
 item = "ender_pearl";
 name = "Silent Pearl";
 rarity = "UNCOMMON";

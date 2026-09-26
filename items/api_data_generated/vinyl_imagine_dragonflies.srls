@@ -1,4 +1,3 @@
 meta {
-  id = VINYL_IMAGINE_DRAGONFLIES;
   include("api_data/vinyl_imagine_dragonflies", this); 
 };

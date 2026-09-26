@@ -1,3 +1,4 @@
+id = "ENCHANTED_GUNPOWDER";
 item = "sulphur";
 name = "Enchanted Gunpowder";
 rarity = "UNCOMMON";

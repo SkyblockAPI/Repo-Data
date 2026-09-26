@@ -1,4 +1,3 @@
 meta {
-  id = BLAZE_HELMET;
   include("api_data/blaze_helmet", this); 
 };

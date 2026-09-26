@@ -1,3 +1,4 @@
+id = "BRIDGE_EGG";
 item = "egg";
 name = "Bridge Egg";
 rarity = "COMMON";

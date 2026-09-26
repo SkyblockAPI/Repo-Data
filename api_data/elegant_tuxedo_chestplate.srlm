@@ -1,3 +1,4 @@
+id = "ELEGANT_TUXEDO_CHESTPLATE";
 item = "leather_chestplate";
 name = "Elegant Tuxedo Jacket";
 include("types/chestplate", this);

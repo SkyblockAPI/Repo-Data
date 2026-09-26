@@ -1,4 +1,3 @@
 meta {
-  id = BANDAGED_MITHRIL_PICKAXE;
   include("api_data/bandaged_mithril_pickaxe", this); 
 };

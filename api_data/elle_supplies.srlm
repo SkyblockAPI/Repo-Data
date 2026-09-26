@@ -1,3 +1,4 @@
+id = "ELLE_SUPPLIES";
 item = "chest";
 name = "%%green%%Elle's Supplies";
 rarity = "COMMON";

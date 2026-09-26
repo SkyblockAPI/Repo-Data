@@ -1,3 +1,4 @@
+id = "KUUDRA_MANDIBLE";
 item = "player_head";
 name = "Kuudra Mandible";
 include("types/reforge_stone", this);

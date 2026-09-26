@@ -1,4 +1,3 @@
 meta {
-  id = SUNFLOWER_GENERATOR_12;
   include("api_data/sunflower_generator_12", this); 
 };

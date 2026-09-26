@@ -1,3 +1,4 @@
+id = "SOULS_REBOUND";
 item = "bow";
 name = "Souls Rebound";
 include("types/bow", this);

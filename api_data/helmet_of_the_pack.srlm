@@ -1,3 +1,4 @@
+id = "HELMET_OF_THE_PACK";
 item = "leather_helmet";
 name = "Helmet of the Pack";
 include("types/helmet", this);

@@ -1,3 +1,4 @@
+id = "GAZING_PEARL";
 item = "paper";
 name = "Gazing Pearl";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/gazing_pearl";

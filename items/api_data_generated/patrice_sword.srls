@@ -1,4 +1,3 @@
 meta {
-  id = PATRICE_SWORD;
   include("api_data/patrice_sword", this); 
 };

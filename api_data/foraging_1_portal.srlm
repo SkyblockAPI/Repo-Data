@@ -1,3 +1,4 @@
+id = "FORAGING_1_PORTAL";
 item = "player_head";
 name = "Portal to Birch Park";
 include("types/portal", this);

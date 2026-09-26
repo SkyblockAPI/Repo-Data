@@ -1,4 +1,3 @@
 meta {
-  id = GUARDIAN_CHESTPLATE;
   include("api_data/guardian_chestplate", this); 
 };

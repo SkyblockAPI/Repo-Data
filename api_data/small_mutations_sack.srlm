@@ -1,3 +1,4 @@
+id = "SMALL_MUTATIONS_SACK";
 item = "player_head";
 name = "Small Mutations Sack";
 include("types/sack", this);

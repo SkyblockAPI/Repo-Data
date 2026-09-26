@@ -1,4 +1,3 @@
 meta {
-  id = SPIDER_RING;
   include("api_data/spider_ring", this); 
 };

@@ -1,3 +1,4 @@
+id = "APOTHEJERRY_PERSONALITY";
 item = "player_head";
 name = "Apothejerry Minion Skin";
 include("types/cosmetic", this);

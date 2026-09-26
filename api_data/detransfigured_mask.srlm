@@ -1,3 +1,4 @@
+id = "DETRANSFIGURED_MASK";
 item = "player_head";
 name = "Used Detransfigured Face";
 include("types/helmet", this);

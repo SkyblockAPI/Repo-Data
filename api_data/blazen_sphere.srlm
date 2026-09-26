@@ -1,3 +1,4 @@
+id = "BLAZEN_SPHERE";
 item = "player_head";
 name = "Blazen Sphere";
 include("types/reforge_stone", this);

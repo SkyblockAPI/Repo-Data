@@ -1,4 +1,3 @@
 meta {
-  id = STONE:2;
   include("api_data/stone-2", this); 
 };

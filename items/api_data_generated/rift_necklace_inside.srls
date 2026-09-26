@@ -1,4 +1,3 @@
 meta {
-  id = RIFT_NECKLACE_INSIDE;
   include("api_data/rift_necklace_inside", this); 
 };

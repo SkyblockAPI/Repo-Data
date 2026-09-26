@@ -1,4 +1,3 @@
 meta {
-  id = NECROMANCER_BROOCH;
   include("api_data/necromancer_brooch", this); 
 };

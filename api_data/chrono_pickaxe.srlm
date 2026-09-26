@@ -1,3 +1,4 @@
+id = "CHRONO_PICKAXE";
 item = "iron_pickaxe";
 name = "Chrono Pickaxe";
 include("types/sword", this);

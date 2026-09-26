@@ -1,3 +1,4 @@
+id = "DITTO_BLOB";
 item = "player_head";
 name = "Ditto Blob";
 include("types/cosmetic", this);

@@ -1,4 +1,3 @@
 meta {
-  id = JADE_POWER_SCROLL;
   include("api_data/jade_power_scroll", this); 
 };

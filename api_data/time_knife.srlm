@@ -1,3 +1,4 @@
+id = "TIME_KNIFE";
 item = "nether_star";
 name = "Time Shuriken";
 include("types/sword", this);

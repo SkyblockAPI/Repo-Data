@@ -1,3 +1,4 @@
+id = "CORRUPTED_FRAGMENT";
 item = "paper";
 name = "Corrupted Fragment";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/corrupted_fragment";

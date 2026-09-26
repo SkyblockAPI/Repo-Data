@@ -1,3 +1,4 @@
+id = "REAPER_ORB";
 item = "player_head";
 name = "Reaper Orb";
 include("types/accessory", this);

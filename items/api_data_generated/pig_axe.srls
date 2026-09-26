@@ -1,4 +1,3 @@
 meta {
-  id = PIG_AXE;
   include("api_data/pig_axe", this); 
 };

@@ -1,3 +1,4 @@
+id = "DETECTOR_RAIL";
 item = "detector_rail";
 name = "Detector Rail";
 rarity = "COMMON";

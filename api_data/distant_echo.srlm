@@ -1,3 +1,4 @@
+id = "DISTANT_ECHO";
 item = "paper";
 name = "Distant Echo";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_3/enchantmentupgrades/distant_echo";

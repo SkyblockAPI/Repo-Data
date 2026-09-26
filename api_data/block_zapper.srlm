@@ -1,3 +1,4 @@
+id = "BLOCK_ZAPPER";
 item = "flint";
 name = "Block Zapper";
 rarity = "EPIC";

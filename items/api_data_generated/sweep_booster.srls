@@ -1,4 +1,3 @@
 meta {
-  id = SWEEP_BOOSTER;
   include("api_data/sweep_booster", this); 
 };

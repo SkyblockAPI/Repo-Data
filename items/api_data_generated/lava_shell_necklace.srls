@@ -1,4 +1,3 @@
 meta {
-  id = LAVA_SHELL_NECKLACE;
   include("api_data/lava_shell_necklace", this); 
 };

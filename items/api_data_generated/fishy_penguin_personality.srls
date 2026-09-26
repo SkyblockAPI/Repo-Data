@@ -1,4 +1,3 @@
 meta {
-  id = FISHY_PENGUIN_PERSONALITY;
   include("api_data/fishy_penguin_personality", this); 
 };

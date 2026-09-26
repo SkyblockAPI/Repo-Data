@@ -1,3 +1,4 @@
+id = "BUDGET_HOPPER";
 item = "hopper";
 name = "Budget Hopper";
 rarity = "UNCOMMON";

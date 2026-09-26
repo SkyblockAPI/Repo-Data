@@ -1,4 +1,3 @@
 meta {
-  id = TOY_BOX;
   include("api_data/toy_box", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = ANGUISH_TALISMAN;
   include("api_data/anguish_talisman", this); 
 };

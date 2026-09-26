@@ -1,3 +1,4 @@
+id = "BLOOMING_THORNS";
 item = "paper";
 name = "Blooming Thorns";
 include("types/reforge_stone", this);

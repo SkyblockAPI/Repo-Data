@@ -1,4 +1,3 @@
 meta {
-  id = LARGE_DUNGEON_SACK;
   include("api_data/large_dungeon_sack", this); 
 };

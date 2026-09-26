@@ -1,4 +1,3 @@
 meta {
-  id = YACHT_BARN_SKIN;
   include("api_data/yacht_barn_skin", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = DUNGEON_GOLDEN_KEY;
   include("api_data/dungeon_golden_key", this); 
 };

@@ -1,3 +1,4 @@
+id = "INFERNAL_HOLLOW_HELMET";
 item = "player_head";
 name = "Infernal Hollow Helmet";
 include("types/helmet", this);

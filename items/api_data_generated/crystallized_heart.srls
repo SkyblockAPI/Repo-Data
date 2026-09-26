@@ -1,4 +1,3 @@
 meta {
-  id = CRYSTALLIZED_HEART;
   include("api_data/crystallized_heart", this); 
 };

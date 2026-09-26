@@ -1,3 +1,4 @@
+id = "TACTICAL_INSERTION";
 item = "blaze_rod";
 name = "Tactical Insertion";
 rarity = "EPIC";

@@ -1,3 +1,4 @@
+id = "BINGO_RING";
 item = "player_head";
 name = "Bingo Ring";
 include("types/accessory", this);

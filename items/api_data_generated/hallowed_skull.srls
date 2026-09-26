@@ -1,4 +1,3 @@
 meta {
-  id = HALLOWED_SKULL;
   include("api_data/hallowed_skull", this); 
 };

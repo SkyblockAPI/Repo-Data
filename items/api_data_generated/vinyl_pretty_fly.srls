@@ -1,4 +1,3 @@
 meta {
-  id = VINYL_PRETTY_FLY;
   include("api_data/vinyl_pretty_fly", this); 
 };

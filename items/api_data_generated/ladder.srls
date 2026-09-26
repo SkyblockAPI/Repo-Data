@@ -1,4 +1,3 @@
 meta {
-  id = LADDER;
   include("api_data/ladder", this); 
 };

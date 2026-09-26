@@ -1,4 +1,3 @@
 meta {
-  id = UNCOMMON_KUUDRA_CHUNK;
   include("api_data/uncommon_kuudra_chunk", this); 
 };

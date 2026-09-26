@@ -1,4 +1,3 @@
 meta {
-  id = LONELILY;
   include("api_data/lonelily", this); 
 };

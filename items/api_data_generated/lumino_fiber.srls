@@ -1,4 +1,3 @@
 meta {
-  id = LUMINO_FIBER;
   include("api_data/lumino_fiber", this); 
 };

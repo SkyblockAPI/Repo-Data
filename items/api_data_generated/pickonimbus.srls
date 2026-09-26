@@ -1,4 +1,3 @@
 meta {
-  id = PICKONIMBUS;
   include("api_data/pickonimbus", this); 
 };

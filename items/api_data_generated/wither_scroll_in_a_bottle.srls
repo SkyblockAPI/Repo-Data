@@ -1,4 +1,3 @@
 meta {
-  id = WITHER_SCROLL_IN_A_BOTTLE;
   include("api_data/wither_scroll_in_a_bottle", this); 
 };

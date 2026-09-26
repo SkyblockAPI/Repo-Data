@@ -1,3 +1,4 @@
+id = "RIFTWART_ROOTS";
 item = "nether_stalk";
 name = "Riftwart Roots";
 rarity = "UNCOMMON";

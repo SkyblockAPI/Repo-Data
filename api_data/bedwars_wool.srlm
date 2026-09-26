@@ -1,3 +1,4 @@
+id = "BEDWARS_WOOL";
 item = "wool";
 name = "Tree-like Wool";
 rarity = "COMMON";

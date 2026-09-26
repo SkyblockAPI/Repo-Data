@@ -1,3 +1,4 @@
+id = "DEAD_CAT_DETECTOR";
 item = "red_rose";
 name = "Cat Detector";
 rarity = "RARE";

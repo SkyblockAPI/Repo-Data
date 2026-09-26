@@ -1,3 +1,4 @@
+id = "ENTROPY_SUPPRESSOR";
 item = "player_head";
 name = "Entropy Suppressor";
 include("types/reforge_stone", this);

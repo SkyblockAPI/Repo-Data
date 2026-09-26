@@ -1,3 +1,4 @@
+id = "SADAN_BROOCH";
 item = "player_head";
 name = "Sadan's Brooch";
 include("types/reforge_stone", this);

@@ -1,3 +1,4 @@
+id = "ORGAN_DONOR_TALISMAN";
 item = "player_head";
 name = "Organ Donor Talisman";
 include("types/accessory", this);

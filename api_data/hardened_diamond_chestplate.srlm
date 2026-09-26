@@ -1,3 +1,4 @@
+id = "HARDENED_DIAMOND_CHESTPLATE";
 item = "diamond_chestplate";
 name = "Hardened Diamond Chestplate";
 include("types/chestplate", this);

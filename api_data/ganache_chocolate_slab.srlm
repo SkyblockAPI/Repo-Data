@@ -1,3 +1,4 @@
+id = "GANACHE_CHOCOLATE_SLAB";
 item = "player_head";
 name = "Ganache Chocolate Slab";
 include("types/accessory", this);

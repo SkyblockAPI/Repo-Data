@@ -1,4 +1,3 @@
 meta {
-  id = BURNING_TERROR_LEGGINGS;
   include("api_data/burning_terror_leggings", this); 
 };

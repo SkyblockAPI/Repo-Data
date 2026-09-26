@@ -1,3 +1,4 @@
+id = "WASTELAND_PORTAL";
 item = "player_head";
 name = "Portal to The Wasteland";
 include("types/portal", this);

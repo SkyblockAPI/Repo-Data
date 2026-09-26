@@ -1,4 +1,3 @@
 meta {
-  id = ROYAL_JELLY;
   include("api_data/royal_jelly", this); 
 };

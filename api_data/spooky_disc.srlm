@@ -1,3 +1,4 @@
+id = "SPOOKY_DISC";
 item = "green_record";
 name = "Spooky Disc";
 rarity = "RARE";

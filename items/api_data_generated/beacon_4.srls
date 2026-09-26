@@ -1,4 +1,3 @@
 meta {
-  id = BEACON_4;
   include("api_data/beacon_4", this); 
 };

@@ -1,3 +1,4 @@
+id = "GINGERBREAD_PERSONALITY";
 item = "player_head";
 name = "Gingerbread Man Minion Skin";
 include("types/cosmetic", this);

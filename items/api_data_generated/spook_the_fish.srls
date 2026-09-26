@@ -1,4 +1,3 @@
 meta {
-  id = SPOOK_THE_FISH;
   include("api_data/spook_the_fish", this); 
 };

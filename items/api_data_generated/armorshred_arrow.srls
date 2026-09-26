@@ -1,4 +1,3 @@
 meta {
-  id = ARMORSHRED_ARROW;
   include("api_data/armorshred_arrow", this); 
 };

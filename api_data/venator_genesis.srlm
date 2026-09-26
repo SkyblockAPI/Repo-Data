@@ -1,3 +1,4 @@
+id = "VENATOR_GENESIS";
 item = "gold_axe";
 name = "Worn Huntaxe - Genesis";
 include("types/axe", this);

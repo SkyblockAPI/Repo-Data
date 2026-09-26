@@ -1,3 +1,4 @@
+id = "PESTHUNTER_RELIC";
 item = "player_head";
 name = "Pesthunter Relic";
 include("types/accessory", this);

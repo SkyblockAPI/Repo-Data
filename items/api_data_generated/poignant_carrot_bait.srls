@@ -1,4 +1,3 @@
 meta {
-  id = POIGNANT_CARROT_BAIT;
   include("api_data/poignant_carrot_bait", this); 
 };

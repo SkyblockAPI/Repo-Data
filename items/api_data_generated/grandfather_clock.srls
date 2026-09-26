@@ -1,4 +1,3 @@
 meta {
-  id = GRANDFATHER_CLOCK;
   include("api_data/grandfather_clock", this); 
 };

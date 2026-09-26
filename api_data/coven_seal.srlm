@@ -1,3 +1,4 @@
+id = "COVEN_SEAL";
 item = "nether_stalk";
 name = "Coven Seal";
 rarity = "UNCOMMON";

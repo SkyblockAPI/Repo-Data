@@ -1,3 +1,4 @@
+id = "GLACIAL_TALISMAN";
 item = "player_head";
 name = "Glacial Talisman";
 include("types/accessory", this);

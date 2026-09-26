@@ -1,3 +1,4 @@
+id = "INTIMIDATION_TALISMAN";
 item = "player_head";
 name = "Intimidation Talisman";
 include("types/accessory", this);

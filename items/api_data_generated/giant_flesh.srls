@@ -1,4 +1,3 @@
 meta {
-  id = GIANT_FLESH;
   include("api_data/giant_flesh", this); 
 };

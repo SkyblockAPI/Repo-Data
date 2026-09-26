@@ -1,3 +1,4 @@
+id = "EXPERIMENT_THE_FISH";
 item = "raw_fish";
 name = "Experiment the Fish";
 rarity = "SPECIAL";

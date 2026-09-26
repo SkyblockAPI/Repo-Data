@@ -1,3 +1,4 @@
+id = "GLACITE_LANTERN";
 item = "player_head";
 name = "Glacite Lantern";
 include("types/deployable", this);

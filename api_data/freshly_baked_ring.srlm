@@ -1,3 +1,4 @@
+id = "FRESHLY_BAKED_RING";
 item = "player_head";
 name = "Freshly Baked Ring";
 include("types/accessory", this);

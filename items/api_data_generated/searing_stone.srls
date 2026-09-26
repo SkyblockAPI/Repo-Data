@@ -1,4 +1,3 @@
 meta {
-  id = SEARING_STONE;
   include("api_data/searing_stone", this); 
 };

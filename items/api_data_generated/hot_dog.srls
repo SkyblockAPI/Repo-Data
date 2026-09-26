@@ -1,4 +1,3 @@
 meta {
-  id = HOT_DOG;
   include("api_data/hot_dog", this); 
 };

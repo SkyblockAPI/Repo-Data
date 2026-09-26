@@ -1,3 +1,4 @@
+id = "WIZARD_TOWER_PORTAL";
 item = "player_head";
 name = "Portal to The Wizard Tower";
 include("types/portal", this);

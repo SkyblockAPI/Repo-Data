@@ -1,4 +1,3 @@
 meta {
-  id = AUTOPET_RULES_2;
   include("api_data/autopet_rules_2", this); 
 };

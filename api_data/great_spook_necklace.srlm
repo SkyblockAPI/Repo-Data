@@ -1,3 +1,4 @@
+id = "GREAT_SPOOK_NECKLACE";
 item = "player_head";
 name = "Great Spook Necklace";
 include("types/necklace", this);

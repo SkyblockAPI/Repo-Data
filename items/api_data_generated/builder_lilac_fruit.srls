@@ -1,4 +1,3 @@
 meta {
-  id = BUILDER_LILAC_FRUIT;
   include("api_data/builder_lilac_fruit", this); 
 };

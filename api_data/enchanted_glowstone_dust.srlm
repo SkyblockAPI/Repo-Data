@@ -1,3 +1,4 @@
+id = "ENCHANTED_GLOWSTONE_DUST";
 item = "glowstone_dust";
 name = "Enchanted Glowstone Dust";
 rarity = "UNCOMMON";

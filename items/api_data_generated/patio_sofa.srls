@@ -1,4 +1,3 @@
 meta {
-  id = PATIO_SOFA;
   include("api_data/patio_sofa", this); 
 };

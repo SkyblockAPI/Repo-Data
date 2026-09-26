@@ -1,4 +1,3 @@
 meta {
-  id = SLOTH_PERSONALITY;
   include("api_data/sloth_personality", this); 
 };

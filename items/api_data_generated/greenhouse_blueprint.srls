@@ -1,4 +1,3 @@
 meta {
-  id = GREENHOUSE_BLUEPRINT;
   include("api_data/greenhouse_blueprint", this); 
 };

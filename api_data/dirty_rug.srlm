@@ -1,3 +1,4 @@
+id = "DIRTY_RUG";
 item = "leather";
 name = "Dirty Rug";
 rarity = "RARE";

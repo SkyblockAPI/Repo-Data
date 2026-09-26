@@ -1,3 +1,4 @@
+id = "SALT_CUBE";
 item = "player_head";
 name = "Salt Cube";
 include("types/reforge_stone", this);

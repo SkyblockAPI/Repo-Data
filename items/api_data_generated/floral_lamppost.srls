@@ -1,4 +1,3 @@
 meta {
-  id = FLORAL_LAMPPOST;
   include("api_data/floral_lamppost", this); 
 };

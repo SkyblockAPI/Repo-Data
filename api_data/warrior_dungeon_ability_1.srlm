@@ -1,3 +1,4 @@
+id = "WARRIOR_DUNGEON_ABILITY_1";
 item = "player_head";
 name = "Strength Potion";
 include("types/dungeon", this);

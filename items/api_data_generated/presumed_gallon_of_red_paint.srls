@@ -1,4 +1,3 @@
 meta {
-  id = PRESUMED_GALLON_OF_RED_PAINT;
   include("api_data/presumed_gallon_of_red_paint", this); 
 };

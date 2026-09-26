@@ -1,3 +1,4 @@
+id = "SOWLEDGE_GARDEN_CHIP";
 item = "paper";
 name = "Sowledge Chip";
 include("types/garden_chip", this);

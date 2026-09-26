@@ -1,3 +1,4 @@
+id = "RUNIC_STAFF";
 item = "blaze_rod";
 name = "Aurora Staff";
 include("types/sword", this);

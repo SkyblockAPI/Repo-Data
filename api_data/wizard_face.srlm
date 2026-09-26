@@ -1,3 +1,4 @@
+id = "WIZARD_FACE";
 item = "player_head";
 name = "Wizard Face";
 include("types/helmet", this);

@@ -1,4 +1,3 @@
 meta {
-  id = ZORROS_CAPE;
   include("api_data/zorros_cape", this); 
 };

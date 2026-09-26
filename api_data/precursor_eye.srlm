@@ -1,3 +1,4 @@
+id = "PRECURSOR_EYE";
 item = "player_head";
 name = "Precursor Eye";
 include("types/helmet", this);

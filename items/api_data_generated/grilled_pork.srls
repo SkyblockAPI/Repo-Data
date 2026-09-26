@@ -1,4 +1,3 @@
 meta {
-  id = GRILLED_PORK;
   include("api_data/grilled_pork", this); 
 };

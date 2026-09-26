@@ -1,4 +1,3 @@
 meta {
-  id = DROPPER;
   include("api_data/dropper", this); 
 };

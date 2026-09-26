@@ -1,4 +1,3 @@
 meta {
-  id = CRYPT_SKULL_KEY;
   include("api_data/crypt_skull_key", this); 
 };

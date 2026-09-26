@@ -1,4 +1,3 @@
 meta {
-  id = DEEP_ROOT;
   include("api_data/deep_root", this); 
 };

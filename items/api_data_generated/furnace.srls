@@ -1,4 +1,3 @@
 meta {
-  id = FURNACE;
   include("api_data/furnace", this); 
 };

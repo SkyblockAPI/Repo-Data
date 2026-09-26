@@ -1,3 +1,4 @@
+id = "TAIGA_BIOME_STICK";
 item = "stick";
 name = "Taiga Biome Stick";
 rarity = "COMMON";

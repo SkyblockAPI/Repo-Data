@@ -1,3 +1,4 @@
+id = "FEL_SKULL";
 item = "player_head";
 name = "Fel Skull";
 include("types/dungeon", this);

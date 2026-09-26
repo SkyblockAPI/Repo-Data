@@ -1,4 +1,3 @@
 meta {
-  id = SNOW_HOWITZER;
   include("api_data/snow_howitzer", this); 
 };

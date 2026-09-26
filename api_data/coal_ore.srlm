@@ -1,3 +1,4 @@
+id = "COAL_ORE";
 item = "coal_ore";
 name = "Coal Ore";
 rarity = "COMMON";

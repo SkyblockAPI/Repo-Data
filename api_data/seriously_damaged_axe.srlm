@@ -1,3 +1,4 @@
+id = "SERIOUSLY_DAMAGED_AXE";
 item = "wood_axe";
 name = "Seriously Damaged Axe";
 include("types/axe", this);

@@ -1,3 +1,4 @@
+id = "ENCHANTED_JUNGLE_LOG";
 item = "log";
 name = "Enchanted Jungle Log";
 rarity = "UNCOMMON";

@@ -1,3 +1,4 @@
+id = "AUTO_SMELTER";
 item = "furnace";
 name = "Auto Smelter";
 rarity = "COMMON";

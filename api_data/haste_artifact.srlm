@@ -1,3 +1,4 @@
+id = "HASTE_ARTIFACT";
 item = "player_head";
 name = "Haste Artifact";
 include("types/accessory", this);

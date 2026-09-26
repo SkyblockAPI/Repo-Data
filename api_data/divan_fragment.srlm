@@ -1,3 +1,4 @@
+id = "DIVAN_FRAGMENT";
 item = "paper";
 name = "Divan Fragment";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/divan_fragment";

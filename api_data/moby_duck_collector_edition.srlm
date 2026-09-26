@@ -1,3 +1,4 @@
+id = "MOBY_DUCK_COLLECTOR_EDITION";
 item = "book";
 name = "Moby-Duck: Collector's Edition";
 rarity = "EPIC";

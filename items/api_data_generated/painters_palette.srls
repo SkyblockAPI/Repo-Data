@@ -1,4 +1,3 @@
 meta {
-  id = PAINTERS_PALETTE;
   include("api_data/painters_palette", this); 
 };

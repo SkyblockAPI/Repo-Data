@@ -1,3 +1,4 @@
+id = "BLESSED_FRUIT";
 item = "player_head";
 name = "Blessed Fruit";
 include("types/reforge_stone", this);

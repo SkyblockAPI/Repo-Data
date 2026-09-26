@@ -1,3 +1,4 @@
+id = "ENDSTONE_ROSE";
 item = "red_rose";
 name = "End Stone Rose";
 rarity = "RARE";

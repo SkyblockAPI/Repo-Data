@@ -1,3 +1,4 @@
+id = "PIGGY_BANK";
 item = "player_head";
 name = "Piggy Bank";
 include("types/accessory", this);

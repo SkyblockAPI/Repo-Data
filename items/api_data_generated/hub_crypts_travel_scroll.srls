@@ -1,4 +1,3 @@
 meta {
-  id = HUB_CRYPTS_TRAVEL_SCROLL;
   include("api_data/hub_crypts_travel_scroll", this); 
 };

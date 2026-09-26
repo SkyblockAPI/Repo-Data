@@ -1,4 +1,3 @@
 meta {
-  id = PERFECT_BOOTS_7;
   include("api_data/perfect_boots_7", this); 
 };

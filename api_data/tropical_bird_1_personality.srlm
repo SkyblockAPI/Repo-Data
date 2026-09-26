@@ -1,3 +1,4 @@
+id = "TROPICAL_BIRD_1_PERSONALITY";
 item = "player_head";
 name = "Hyacinth Tropical Bird Minion Skin";
 include("types/cosmetic", this);

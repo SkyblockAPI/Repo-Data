@@ -1,3 +1,4 @@
+id = "HEPHAESTUS_REMEDIES";
 item = "player_head";
 name = "Hephaestus Remedies";
 include("types/pet_item", this);

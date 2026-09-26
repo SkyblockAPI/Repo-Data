@@ -1,4 +1,3 @@
 meta {
-  id = KUUDRAS_LUNG;
   include("api_data/kuudras_lung", this); 
 };

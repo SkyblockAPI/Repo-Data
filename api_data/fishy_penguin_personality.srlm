@@ -1,3 +1,4 @@
+id = "FISHY_PENGUIN_PERSONALITY";
 item = "player_head";
 name = "Fishy Penguin Minion Skin";
 include("types/cosmetic", this);

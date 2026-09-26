@@ -1,4 +1,3 @@
 meta {
-  id = GLOWY_CHUM_BAIT;
   include("api_data/glowy_chum_bait", this); 
 };

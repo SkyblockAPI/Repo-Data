@@ -1,3 +1,4 @@
+id = "FAST_FOOD_BARN_SKIN";
 item = "player_head";
 name = "Fast Food Barn Skin";
 include("types/cosmetic", this);

@@ -1,3 +1,4 @@
+id = "SPARKLING_PODIUM";
 item = "paper";
 name = "Sparkling Podium";
 this["minecraft:item_model"] = "hypixel_skyblock:item/furniture/sparkling_podium";

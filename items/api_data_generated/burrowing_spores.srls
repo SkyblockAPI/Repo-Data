@@ -1,4 +1,3 @@
 meta {
-  id = BURROWING_SPORES;
   include("api_data/burrowing_spores", this); 
 };

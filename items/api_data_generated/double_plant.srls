@@ -1,4 +1,3 @@
 meta {
-  id = DOUBLE_PLANT;
   include("api_data/double_plant", this); 
 };

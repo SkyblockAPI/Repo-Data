@@ -1,3 +1,4 @@
+id = "PANDORAS_BOX";
 item = "player_head";
 name = "Pandora's Box";
 include("types/accessory", this);

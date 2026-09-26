@@ -1,3 +1,4 @@
+id = "GLOWSTONE_GAUNTLET";
 item = "player_head";
 name = "Glowstone Gauntlet";
 include("types/gloves", this);

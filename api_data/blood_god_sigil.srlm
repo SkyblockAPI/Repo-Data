@@ -1,3 +1,4 @@
+id = "BLOOD_GOD_SIGIL";
 item = "player_head";
 name = "Blood God Sigil";
 include("types/accessory", this);

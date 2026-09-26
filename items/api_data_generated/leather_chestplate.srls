@@ -1,4 +1,3 @@
 meta {
-  id = LEATHER_CHESTPLATE;
   include("api_data/leather_chestplate", this); 
 };

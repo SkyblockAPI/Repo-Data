@@ -1,4 +1,3 @@
 meta {
-  id = FROZEN_BAUBLE;
   include("api_data/frozen_bauble", this); 
 };

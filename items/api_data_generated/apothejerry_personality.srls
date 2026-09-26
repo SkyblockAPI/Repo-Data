@@ -1,4 +1,3 @@
 meta {
-  id = APOTHEJERRY_PERSONALITY;
   include("api_data/apothejerry_personality", this); 
 };

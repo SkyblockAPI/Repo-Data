@@ -1,4 +1,3 @@
 meta {
-  id = GOBLIN_EGG_RED;
   include("api_data/goblin_egg_red", this); 
 };

@@ -1,3 +1,4 @@
+id = "HUB_WIZARD_TOWER_TRAVEL_SCROLL";
 item = "empty_map";
 name = "Travel Scroll to the Wizard Tower";
 include("types/travel_scroll", this);

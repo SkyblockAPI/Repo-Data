@@ -1,4 +1,3 @@
 meta {
-  id = WRIGGLEWORM;
   include("api_data/wriggleworm", this); 
 };

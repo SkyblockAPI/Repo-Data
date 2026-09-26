@@ -1,3 +1,4 @@
+id = "BROKEN_HANDLE";
 item = "stick";
 name = "Broken Handle";
 rarity = "RARE";

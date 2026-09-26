@@ -1,4 +1,3 @@
 meta {
-  id = ROUGH_JASPER_GEM;
   include("api_data/rough_jasper_gem", this); 
 };

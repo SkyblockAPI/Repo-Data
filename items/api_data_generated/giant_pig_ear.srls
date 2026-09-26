@@ -1,4 +1,3 @@
 meta {
-  id = GIANT_PIG_EAR;
   include("api_data/giant_pig_ear", this); 
 };

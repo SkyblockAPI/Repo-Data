@@ -1,3 +1,4 @@
+id = "LAVA_SHELL_NECKLACE";
 item = "player_head";
 name = "Lava Shell Necklace";
 include("types/necklace", this);

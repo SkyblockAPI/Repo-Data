@@ -1,4 +1,3 @@
 meta {
-  id = ANNI_PODIUM_MEME_RUNNERUP;
   include("api_data/anni_podium_meme_runnerup", this); 
 };

@@ -1,4 +1,3 @@
 meta {
-  id = PRISMARINE:1;
   include("api_data/prismarine-1", this); 
 };

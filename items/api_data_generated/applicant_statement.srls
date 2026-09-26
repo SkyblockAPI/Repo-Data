@@ -1,4 +1,3 @@
 meta {
-  id = APPLICANT_STATEMENT;
   include("api_data/applicant_statement", this); 
 };

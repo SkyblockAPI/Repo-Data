@@ -1,4 +1,3 @@
 meta {
-  id = SHIMMERING_LIGHT_TROUSERS;
   include("api_data/shimmering_light_trousers", this); 
 };

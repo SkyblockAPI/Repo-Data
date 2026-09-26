@@ -1,4 +1,3 @@
 meta {
-  id = DAY_SAVER;
   include("api_data/day_saver", this); 
 };

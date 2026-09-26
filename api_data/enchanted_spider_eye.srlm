@@ -1,3 +1,4 @@
+id = "ENCHANTED_SPIDER_EYE";
 item = "spider_eye";
 name = "Enchanted Spider Eye";
 rarity = "UNCOMMON";

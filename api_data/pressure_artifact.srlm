@@ -1,3 +1,4 @@
+id = "PRESSURE_ARTIFACT";
 item = "player_head";
 name = "Pressure Artifact";
 include("types/accessory", this);

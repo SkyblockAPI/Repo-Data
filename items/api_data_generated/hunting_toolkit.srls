@@ -1,4 +1,3 @@
 meta {
-  id = HUNTING_TOOLKIT;
   include("api_data/hunting_toolkit", this); 
 };

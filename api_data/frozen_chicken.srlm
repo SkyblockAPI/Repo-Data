@@ -1,3 +1,4 @@
+id = "FROZEN_CHICKEN";
 item = "player_head";
 name = "Frozen Chicken";
 include("types/accessory", this);

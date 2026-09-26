@@ -1,3 +1,4 @@
+id = "MINER_OUTFIT_CHESTPLATE";
 item = "leather_chestplate";
 name = "Prospecting Chestplate";
 include("types/chestplate", this);

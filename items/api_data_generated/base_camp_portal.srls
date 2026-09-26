@@ -1,4 +1,3 @@
 meta {
-  id = BASE_CAMP_PORTAL;
   include("api_data/base_camp_portal", this); 
 };

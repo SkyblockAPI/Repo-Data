@@ -1,3 +1,4 @@
+id = "CHORUS_FRUIT";
 item = "player_head";
 name = "Chorus Fruit";
 include("types/mutation", this);

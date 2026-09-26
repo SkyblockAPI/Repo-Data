@@ -1,4 +1,3 @@
 meta {
-  id = BERBERIS_FUEL_INJECTOR;
   include("api_data/berberis_fuel_injector", this); 
 };

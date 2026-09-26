@@ -1,4 +1,3 @@
 meta {
-  id = NETHER_WARTS_GENERATOR_7;
   include("api_data/nether_warts_generator_7", this); 
 };

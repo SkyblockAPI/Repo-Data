@@ -1,4 +1,3 @@
 meta {
-  id = GLACITE_PALACE_GREENHOUSE_SKIN;
   include("api_data/glacite_palace_greenhouse_skin", this); 
 };

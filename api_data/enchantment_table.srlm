@@ -1,3 +1,4 @@
+id = "ENCHANTMENT_TABLE";
 item = "enchantment_table";
 name = "Enchantment Table";
 rarity = "COMMON";

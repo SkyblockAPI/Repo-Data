@@ -1,3 +1,4 @@
+id = "REFINED_DIAMOND";
 item = "paper";
 name = "Refined Diamond";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/refined_diamond";

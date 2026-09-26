@@ -1,4 +1,3 @@
 meta {
-  id = WAND_OF_STRENGTH;
   include("api_data/wand_of_strength", this); 
 };

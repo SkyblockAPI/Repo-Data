@@ -1,4 +1,3 @@
 meta {
-  id = THEORETICAL_HOE_WARTS_1;
   include("api_data/theoretical_hoe_warts_1", this); 
 };

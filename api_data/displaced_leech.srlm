@@ -1,3 +1,4 @@
+id = "DISPLACED_LEECH";
 item = "player_head";
 name = "Displaced Leech";
 include("types/reforge_stone", this);

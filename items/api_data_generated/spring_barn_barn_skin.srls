@@ -1,4 +1,3 @@
 meta {
-  id = SPRING_BARN_BARN_SKIN;
   include("api_data/spring_barn_barn_skin", this); 
 };

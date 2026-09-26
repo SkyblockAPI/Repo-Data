@@ -1,4 +1,3 @@
 meta {
-  id = ASHWREATH;
   include("api_data/ashwreath", this); 
 };

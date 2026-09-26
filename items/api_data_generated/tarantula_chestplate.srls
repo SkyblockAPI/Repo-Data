@@ -1,4 +1,3 @@
 meta {
-  id = TARANTULA_CHESTPLATE;
   include("api_data/tarantula_chestplate", this); 
 };

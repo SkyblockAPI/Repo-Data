@@ -1,3 +1,4 @@
+id = "MEDIUM_POCKET_BLACK_HOLE";
 item = "player_head";
 name = "Medium Pocket Black Hole";
 include("types/deployable", this);

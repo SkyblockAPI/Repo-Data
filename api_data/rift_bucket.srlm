@@ -1,3 +1,4 @@
+id = "RIFT_BUCKET";
 item = "water_bucket";
 name = "Plumber's Bucket";
 rarity = "UNCOMMON";

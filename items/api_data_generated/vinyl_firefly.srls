@@ -1,4 +1,3 @@
 meta {
-  id = VINYL_FIREFLY;
   include("api_data/vinyl_firefly", this); 
 };

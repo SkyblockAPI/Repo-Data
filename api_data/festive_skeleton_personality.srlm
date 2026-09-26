@@ -1,3 +1,4 @@
+id = "FESTIVE_SKELETON_PERSONALITY";
 item = "player_head";
 name = "Festive Skeleton Minion Skin";
 include("types/cosmetic", this);

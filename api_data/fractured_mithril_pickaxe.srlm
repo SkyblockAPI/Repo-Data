@@ -1,3 +1,4 @@
+id = "FRACTURED_MITHRIL_PICKAXE";
 item = "stone_pickaxe";
 name = "Fractured Mithril Pickaxe";
 include("types/pickaxe", this);

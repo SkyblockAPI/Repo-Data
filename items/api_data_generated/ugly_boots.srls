@@ -1,4 +1,3 @@
 meta {
-  id = UGLY_BOOTS;
   include("api_data/ugly_boots", this); 
 };

@@ -1,3 +1,4 @@
+id = "NOT_DEADGEHOG_MASK";
 item = "player_head";
 name = "Not-Dead-Gehog Mask";
 include("types/helmet", this);

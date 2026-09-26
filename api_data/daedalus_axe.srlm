@@ -1,3 +1,4 @@
+id = "DAEDALUS_AXE";
 item = "gold_sword";
 name = "Daedalus Blade";
 include("types/sword", this);

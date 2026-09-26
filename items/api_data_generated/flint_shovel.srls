@@ -1,4 +1,3 @@
 meta {
-  id = FLINT_SHOVEL;
   include("api_data/flint_shovel", this); 
 };

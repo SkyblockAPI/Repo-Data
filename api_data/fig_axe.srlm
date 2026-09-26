@@ -1,3 +1,4 @@
+id = "FIG_AXE";
 item = "wood_axe";
 name = "Fig Hew";
 include("types/axe", this);

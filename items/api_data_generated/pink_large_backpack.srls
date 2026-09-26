@@ -1,4 +1,3 @@
 meta {
-  id = PINK_LARGE_BACKPACK;
   include("api_data/pink_large_backpack", this); 
 };

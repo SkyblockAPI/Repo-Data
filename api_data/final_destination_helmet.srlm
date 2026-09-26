@@ -1,3 +1,4 @@
+id = "FINAL_DESTINATION_HELMET";
 item = "player_head";
 name = "Final Destination Helmet";
 include("types/helmet", this);

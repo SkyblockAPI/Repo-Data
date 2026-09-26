@@ -1,3 +1,4 @@
+id = "FROGCOIN";
 item = "paper";
 name = "Frogcoin";
 this["minecraft:item_model"] = "hypixel_skyblock:item/fishing/misc/frogcoin";

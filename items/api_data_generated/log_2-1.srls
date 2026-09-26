@@ -1,4 +1,3 @@
 meta {
-  id = LOG_2:1;
   include("api_data/log_2-1", this); 
 };

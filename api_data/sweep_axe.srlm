@@ -1,3 +1,4 @@
+id = "SWEEP_AXE";
 item = "iron_axe";
 name = "Sweep Axe";
 include("types/axe", this);

@@ -1,4 +1,3 @@
 meta {
-  id = PARKOUR_POINT;
   include("api_data/parkour_point", this); 
 };

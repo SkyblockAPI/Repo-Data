@@ -1,3 +1,4 @@
+id = "ROTTEN_FLESH";
 item = "rotten_flesh";
 name = "Rotten Flesh";
 rarity = "COMMON";

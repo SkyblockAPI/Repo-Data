@@ -1,4 +1,3 @@
 meta {
-  id = SKELETON_GRUNT_CHESTPLATE;
   include("api_data/skeleton_grunt_chestplate", this); 
 };

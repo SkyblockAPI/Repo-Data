@@ -1,4 +1,3 @@
 meta {
-  id = ENCHANTED_MYCELIUM;
   include("api_data/enchanted_mycelium", this); 
 };

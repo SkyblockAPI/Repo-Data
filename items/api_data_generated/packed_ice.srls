@@ -1,4 +1,3 @@
 meta {
-  id = PACKED_ICE;
   include("api_data/packed_ice", this); 
 };

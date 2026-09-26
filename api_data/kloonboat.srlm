@@ -1,3 +1,4 @@
+id = "KLOONBOAT";
 item = "boat";
 name = "Kloonboat";
 rarity = "SPECIAL";

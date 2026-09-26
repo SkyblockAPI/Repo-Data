@@ -1,3 +1,4 @@
+id = "PLASMAFLUX_POWER_ORB";
 item = "player_head";
 name = "Plasmaflux Power Orb";
 include("types/deployable", this);

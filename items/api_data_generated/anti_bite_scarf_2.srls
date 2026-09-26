@@ -1,4 +1,3 @@
 meta {
-  id = ANTI_BITE_SCARF_2;
   include("api_data/anti_bite_scarf_2", this); 
 };

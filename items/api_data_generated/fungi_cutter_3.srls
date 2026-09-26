@@ -1,4 +1,3 @@
 meta {
-  id = FUNGI_CUTTER_3;
   include("api_data/fungi_cutter_3", this); 
 };

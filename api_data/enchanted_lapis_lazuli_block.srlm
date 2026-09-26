@@ -1,3 +1,4 @@
+id = "ENCHANTED_LAPIS_LAZULI_BLOCK";
 item = "lapis_block";
 name = "Enchanted Lapis Lazuli Block";
 rarity = "RARE";

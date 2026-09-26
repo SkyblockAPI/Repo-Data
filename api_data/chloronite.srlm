@@ -1,3 +1,4 @@
+id = "CHLORONITE";
 item = "player_head";
 name = "Chloronite";
 include("types/mutation", this);

@@ -1,3 +1,4 @@
+id = "FILLED_ROSEWATER_FLASK";
 item = "paper";
 name = "Filled Rosewater Flask";
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/garden/greenhouse/wild_rose/filled_rosewater_flask";

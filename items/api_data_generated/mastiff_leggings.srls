@@ -1,4 +1,3 @@
 meta {
-  id = MASTIFF_LEGGINGS;
   include("api_data/mastiff_leggings", this); 
 };

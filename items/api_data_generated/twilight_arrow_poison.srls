@@ -1,4 +1,3 @@
 meta {
-  id = TWILIGHT_ARROW_POISON;
   include("api_data/twilight_arrow_poison", this); 
 };

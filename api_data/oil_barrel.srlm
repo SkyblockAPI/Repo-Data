@@ -1,3 +1,4 @@
+id = "OIL_BARREL";
 item = "paper";
 name = "Oil Barrel";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/oil_barrel";

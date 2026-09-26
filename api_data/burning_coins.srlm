@@ -1,3 +1,4 @@
+id = "BURNING_COINS";
 item = "player_head";
 name = "Coins on Fire!";
 include("types/memento", this);

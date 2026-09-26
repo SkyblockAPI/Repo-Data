@@ -1,3 +1,4 @@
+id = "GLEAMING_CRYSTAL";
 item = "player_head";
 name = "Gleaming Crystal";
 include("types/reforge_stone", this);

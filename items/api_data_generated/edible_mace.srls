@@ -1,4 +1,3 @@
 meta {
-  id = EDIBLE_MACE;
   include("api_data/edible_mace", this); 
 };

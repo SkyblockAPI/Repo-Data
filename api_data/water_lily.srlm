@@ -1,3 +1,4 @@
+id = "WATER_LILY";
 item = "water_lily";
 name = "Lily Pad";
 rarity = "COMMON";

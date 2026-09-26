@@ -1,4 +1,3 @@
 meta {
-  id = FORAGING_5_PORTAL;
   include("api_data/foraging_5_portal", this); 
 };

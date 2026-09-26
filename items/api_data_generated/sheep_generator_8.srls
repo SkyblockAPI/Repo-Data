@@ -1,4 +1,3 @@
 meta {
-  id = SHEEP_GENERATOR_8;
   include("api_data/sheep_generator_8", this); 
 };

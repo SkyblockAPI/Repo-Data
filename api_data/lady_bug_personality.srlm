@@ -1,3 +1,4 @@
+id = "LADY_BUG_PERSONALITY";
 item = "player_head";
 name = "Lady Bug Minion Skin";
 include("types/cosmetic", this);

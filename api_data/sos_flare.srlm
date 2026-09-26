@@ -1,3 +1,4 @@
+id = "SOS_FLARE";
 item = "firework";
 name = "SOS Flare";
 include("types/deployable", this);

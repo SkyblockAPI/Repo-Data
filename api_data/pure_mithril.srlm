@@ -1,3 +1,4 @@
+id = "PURE_MITHRIL";
 item = "player_head";
 name = "Pure Mithril";
 include("types/reforge_stone", this);

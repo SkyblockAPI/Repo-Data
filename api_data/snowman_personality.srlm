@@ -1,3 +1,4 @@
+id = "SNOWMAN_PERSONALITY";
 item = "player_head";
 name = "Snowman Minion Skin";
 include("types/cosmetic", this);

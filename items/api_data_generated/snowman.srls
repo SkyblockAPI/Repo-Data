@@ -1,4 +1,3 @@
 meta {
-  id = SNOWMAN;
   include("api_data/snowman", this); 
 };

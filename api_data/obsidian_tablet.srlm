@@ -1,3 +1,4 @@
+id = "OBSIDIAN_TABLET";
 item = "player_head";
 name = "Obsidian Tablet";
 include("types/reforge_stone", this);

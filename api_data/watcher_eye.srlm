@@ -1,3 +1,4 @@
+id = "WATCHER_EYE";
 item = "player_head";
 name = "Watcher Eye";
 include("types/helmet", this);

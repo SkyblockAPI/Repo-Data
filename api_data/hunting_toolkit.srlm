@@ -1,3 +1,4 @@
+id = "HUNTING_TOOLKIT";
 item = "paper";
 name = "Hunting Toolkit";
 include("types/none", this);

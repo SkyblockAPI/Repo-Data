@@ -1,3 +1,4 @@
+id = "DRILL_ENGINE";
 item = "paper";
 name = "Drill Motor";
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/drill_motor";

@@ -1,3 +1,4 @@
+id = "MELON_DICER_3";
 item = "gold_axe";
 name = "Melon Dicer Mk. III";
 include("types/farming_tool", this);
