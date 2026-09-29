@@ -1,6 +1,6 @@
 include("item/footer/reforge");
 ::item::footer::requirements::(this);
 include("item/footer/unused_gemstones");
-include("item/footer/rift_transferable");
 include("item/footer/soulbound");
+include("item/footer/rift_transferable");
 include("item/footer/rarity");
