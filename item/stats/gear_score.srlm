@@ -38,7 +38,7 @@ in_dungeon_gear_score = total_gear_score;
 for (stat : Objects.entries(stats)) {
   gear_score_per_point = static_data.stats[stat.key];
   if (!gear_score_per_point) {
-    print("MISSING STAT", stat.key);
+    print("Missing stat:", stat.key);
     continue;
   };
   total_gear_score += gear_score_per_point * stat.value;
@@ -51,12 +51,9 @@ for (stat : Objects.entries(dungeon_stats)) {
   in_dungeon_gear_score += gear_score_per_point * stat.value;
 }
 
-print(stats);
 
 stack.lore.add({text: "Gear Score: ", color: "gray", extra: [
   {text: String.unformatted(Math.round(Math.clamp(total_gear_score, 0, 5000))), color: "pink"},
   " ",
   {text: "(" + String.unformatted(Math.round(Math.clamp(in_dungeon_gear_score, 0, 5000))) + ")", color: "dark_gray"}
 ]});
-
-print(total_gear_score, in_dungeon_gear_score);

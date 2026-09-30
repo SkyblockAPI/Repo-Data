@@ -11,7 +11,6 @@ include("stat_calc/calculate", {
     data,
     ...this
 });
-print(stats);
 
 include("item/name");
 include("item/headers");
