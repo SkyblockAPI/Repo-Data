@@ -1,8 +1,8 @@
 id = "SHADOW_ASSASSIN_HELMET";
 item = "player_head";
 name = "Shadow Assassin Helmet";
-include("types/helmet", this);
 include("types/dungeon", this);
+include("types/helmet", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTYxOTM0NjY3MzMxNCwKICAicHJvZmlsZUlkIiA6ICJiMGQ3MzJmZTAwZjc0MDdlOWU3Zjc0NjMwMWNkOThjYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPUHBscyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMWFhMTRkZTljMTU4ZDM1MTM5NDljODVjYWJiOWUzNzg0OGI5ODRlYzNmYjViNDRhMzIxOWY0ZmI1OGEwMGRhIgogICAgfQogIH0KfQ==";
 rarity = "EPIC";
 stats = {
@@ -19,3 +19,4 @@ gem_slots = [
     "id": "JASPER_0"
   }
 ];
+base_gear_score = 25;

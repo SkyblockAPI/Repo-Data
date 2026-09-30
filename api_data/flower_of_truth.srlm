@@ -1,8 +1,8 @@
 id = "FLOWER_OF_TRUTH";
 item = "paper";
 name = "Flower of Truth";
-include("types/sword", this);
 include("types/dungeon", this);
+include("types/sword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/flower_of_truth";
 rarity = "LEGENDARY";
 stats = {

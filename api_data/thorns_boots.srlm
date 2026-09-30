@@ -1,8 +1,8 @@
 id = "THORNS_BOOTS";
 item = "leather_boots";
 name = "Spirit Boots";
-include("types/boots", this);
 include("types/dungeon", this);
+include("types/boots", this);
 rarity = "EPIC";
 stats = {
   walk_speed: 25,
@@ -12,3 +12,4 @@ stats = {
   intelligence: 50
 };
 requirements.dungeon_completetion.catacombs = 4;
+base_gear_score = 30;

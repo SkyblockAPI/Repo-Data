@@ -1,8 +1,8 @@
 id = "CRYPT_BOW";
 item = "bow";
 name = "Soulstealer Bow";
-include("types/bow", this);
 include("types/dungeon", this);
+include("types/bow", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/soulstealer_bow";
 rarity = "RARE";
 requirements.dungeons.catacombs = 5;

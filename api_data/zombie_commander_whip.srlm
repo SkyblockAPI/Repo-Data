@@ -1,8 +1,8 @@
 id = "ZOMBIE_COMMANDER_WHIP";
 item = "fishing_rod";
 name = "Zombie Commander Whip";
-include("types/sword", this);
 include("types/dungeon", this);
+include("types/sword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/zombie_commander_whip";
 rarity = "EPIC";
 stats = {
@@ -10,3 +10,4 @@ stats = {
   strength: 5
 };
 requirements.dungeons.catacombs = 18;
+base_gear_score = 40;

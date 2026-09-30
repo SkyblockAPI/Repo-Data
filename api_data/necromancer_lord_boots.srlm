@@ -1,8 +1,8 @@
 id = "NECROMANCER_LORD_BOOTS";
 item = "leather_boots";
 name = "Necromancer Lord Boots";
-include("types/boots", this);
 include("types/dungeon", this);
+include("types/boots", this);
 rarity = "LEGENDARY";
 stats = {
   defense: 150,
@@ -16,3 +16,4 @@ gem_slots = [
     "id": "COMBAT_0"
   }
 ];
+base_gear_score = 25;

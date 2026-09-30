@@ -1,9 +1,17 @@
 |stats, meta|
-if ("stats" !in meta) return;
+if ("tiered_stats" in meta) {
+  item_tier = if ("item_tier" in data) {
+    data.item_tier
+  } else 0;
 
-stat_entries = Objects.entries(meta.stats);
+  for (tiered_stat : Objects.entries(meta.tiered_stats)) {
+    stats[String.lowercase(tiered_stat.key)] = tiered_stat.value[item_tier];
+  };
+} else if ("stats" in meta) {
+  stat_entries = Objects.entries(meta.stats);
 
-for (i = 0; (i < stat_entries.length); i+=1) {
-  entry_kv = stat_entries[i];
-  stats[String.lowercase(entry_kv.key)] = entry_kv.value;
+  for (i = 0; (i < stat_entries.length); i+=1) {
+    entry_kv = stat_entries[i];
+    stats[String.lowercase(entry_kv.key)] = entry_kv.value;
+  }
 }

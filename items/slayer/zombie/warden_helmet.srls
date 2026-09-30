@@ -9,11 +9,11 @@ meta {
         color: "gray",
         text: "Halves your ",
         extra: [
-          ::format::plus_stat::(25, "speed"),
+          ::format::plus_stat::(25, "walk_speed"),
           " but grants ",
           {text: "+20%" , color: "red"},
           " base weapon damage for every ",
-          ::format::plus_stat::(25, "speed"),
+          ::format::plus_stat::(25, "walk_speed"),
           ".",
         ]
       }

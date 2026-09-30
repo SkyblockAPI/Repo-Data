@@ -1,8 +1,8 @@
 id = "SHADOW_ASSASSIN_BOOTS";
 item = "leather_boots";
 name = "Shadow Assassin Boots";
-include("types/boots", this);
 include("types/dungeon", this);
+include("types/boots", this);
 rarity = "EPIC";
 stats = {
   walk_speed: 7,
@@ -18,3 +18,4 @@ gem_slots = [
     "id": "JASPER_0"
   }
 ];
+base_gear_score = 25;

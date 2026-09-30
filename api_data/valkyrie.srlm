@@ -1,8 +1,8 @@
 id = "VALKYRIE";
 item = "iron_sword";
 name = "Valkyrie";
-include("types/sword", this);
 include("types/dungeon", this);
+include("types/sword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/valkyrie";
 rarity = "LEGENDARY";
 stats = {

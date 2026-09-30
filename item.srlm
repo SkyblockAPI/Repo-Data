@@ -2,10 +2,16 @@ lore = call("utils/meta_or_default", { field: "lore", default: {} });
 bonus_stats = {};
 extra_stats = {};
 dungeon_stats = {};
+
+is_dungeon_item = meta.categories.contains("dungeon_item") || ("dungeon_item" in data && (data.dungeon_item == 1));
+
 include("stat_calc/calculate", {
     stats,
+    is_dungeon_item,
+    data,
     ...this
 });
+print(stats);
 
 include("item/name");
 include("item/headers");

@@ -1,11 +1,12 @@
 id = "CRYPT_WITHERLORD_BOOTS";
 item = "leather_boots";
 name = "Crypt Witherlord Boots";
-include("types/boots", this);
 include("types/dungeon", this);
+include("types/boots", this);
 rarity = "EPIC";
 stats = {
   walk_speed: 5,
   defense: 65
 };
 requirements.dungeons.catacombs = 18;
+base_gear_score = 10;

@@ -1,11 +1,12 @@
 id = "SUPER_HEAVY_CHESTPLATE";
 item = "leather_chestplate";
 name = "Super Heavy Chestplate";
-include("types/chestplate", this);
 include("types/dungeon", this);
+include("types/chestplate", this);
 rarity = "EPIC";
 requirements.dungeons.catacombs = 15;
 tiered_stats = {
   walk_speed: [-10, -10, -10, -10, -10, -10, -10, -10, -10, -10],
   defense: [112, 124, 139, 154, 171, 190, 211, 234, 261, 290]
 };
+base_gear_score = 10;

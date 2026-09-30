@@ -21,15 +21,15 @@ until_next = match (level) {
     9 -> "3m",
 };
 
-crit_chance_format = call("format/stat/combat/crit_chance");
+critical_chance_format = call("format/stat/combat/critical_chance");
 
 description = [{
   text: "Gain ",
   extra: [
     {text: String.uFormatted(combat_xp_bonus) + "%", color: "lime"},
     " extra Combat XP. Grants ",
-    {text: String.formatted(crit_chancce_bonus), color: crit_chance_format.color},
-    crit_chance_format
+    {text: String.formatted(crit_chancce_bonus), color: critical_chance_format.color},
+    critical_chance_format
   ],
   color: "gray"
 }];
@@ -45,6 +45,6 @@ return {
     level,
     description,
     stat_bonus: {
-      crit_chance: crit_chancce_bonus
+      critical_chance: crit_chancce_bonus
     }
 };

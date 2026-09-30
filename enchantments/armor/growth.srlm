@@ -1,0 +1,24 @@
+static {
+    levels: 1..7,
+    name: "Growth",
+    wrap_override: 35
+};
+
+health_bonus = 15 * level;
+
+description = {
+    text: "Grants ",
+    extra: [
+      ::format::plus_stat::(health_bonus, "health"),
+      "."
+    ],
+    color: "gray"
+};
+
+return {
+    level,
+    description,
+    stat_bonus: {
+      health: health_bonus
+    }
+};

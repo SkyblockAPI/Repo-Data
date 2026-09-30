@@ -76,7 +76,7 @@ script {
     stack.lore.add(call("format/stat/hunting/pull"));
     stack.lore.add(call("format/stat/hunting/hunter_fortune"));
     stack.lore.add(call("format/stat/combat/intelligence"));
-    stack.lore.add(call("format/stat/combat/crit_chance"));
+    stack.lore.add(call("format/stat/combat/critical_chance"));
     stack.lore.add(call("format/stat/combat/defense"));
     stack.lore.add(call("format/stat/combat/damage"));
     stack.lore.add(call("format/stat/combat/mending"));

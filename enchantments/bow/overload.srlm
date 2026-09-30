@@ -8,7 +8,7 @@ percentage = 10 * level;
 crit_percent = 1 * level;
 
 critical_damage_format = call("format/stat/combat/critical_damage");
-crit_chance_format = call("format/stat/combat/crit_chance");
+critical_chance_format = call("format/stat/combat/critical_chance");
 
 return {
   level,
@@ -19,11 +19,11 @@ return {
       " by ",
       {text: String.uFormatted(crit_percent) + "%", color: "lime"},
       " and ",
-      crit_chance_format,
+      critical_chance_format,
       " by ",
       {text: String.uFormatted(crit_percent) + "%", color: "lime"},
       ". Having a Critical chance above ",
-      {text: "100%", color: crit_chance_format.color},
+      {text: "100%", color: critical_chance_format.color},
       " grants a chance to perform a Mega Critical Hit dealing ",
       {text: String.uFormatted(percentage) + "%", color: critical_damage_format.color},
       " extra damage."
@@ -31,7 +31,7 @@ return {
     color: "gray"
   },
   stat_bonus: {
-    crit_chance: crit_percent,
+    critical_chance: crit_percent,
     critical_damage: crit_percent
   }
 };

@@ -1,8 +1,8 @@
 id = "ZOMBIE_SOLDIER_CUTLASS";
 item = "iron_sword";
 name = "Zombie Soldier Cutlass";
-include("types/sword", this);
 include("types/dungeon", this);
+include("types/sword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/zombie_soldier_cutlass";
 rarity = "RARE";
 requirements.dungeons.catacombs = 5;
@@ -11,3 +11,4 @@ tiered_stats = {
   attack_speed: [100, 100, 100, 100, 100, 100, 100, 100, 100, 100],
   strength: [26, 28, 30, 32, 35, 37, 40, 43, 47, 50]
 };
+base_gear_score = 5;

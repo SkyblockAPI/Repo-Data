@@ -1,8 +1,8 @@
 id = "HYPERION";
 item = "iron_sword";
 name = "Hyperion";
-include("types/sword", this);
 include("types/dungeon", this);
+include("types/sword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/hyperion";
 rarity = "LEGENDARY";
 stats = {

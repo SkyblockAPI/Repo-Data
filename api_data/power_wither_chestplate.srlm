@@ -1,8 +1,8 @@
 id = "POWER_WITHER_CHESTPLATE";
 item = "leather_chestplate";
 name = "Necron's Chestplate";
-include("types/chestplate", this);
 include("types/dungeon", this);
+include("types/chestplate", this);
 rarity = "LEGENDARY";
 stats = {
   defense: 140,
@@ -22,3 +22,4 @@ gem_slots = [
     "id": "COMBAT_0"
   }
 ];
+base_gear_score = 25;

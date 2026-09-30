@@ -1,5 +1,6 @@
 ::stats::prototype::base::{
     name: "Crit Chance",
+    stat: "critical_chance",
     color: "blue",
     suffix: "%",
     ...this

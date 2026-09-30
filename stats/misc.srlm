@@ -1,4 +1,4 @@
-::stats::misc::speed::(this);
+::stats::misc::walk_speed::(this);
 ::stats::misc::magic_find::(this);
 ::stats::misc::pet_luck::(this);
 ::stats::misc::heat_resistance::(this);

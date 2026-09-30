@@ -1,8 +1,8 @@
 id = "ADAPTIVE_BOOTS";
 item = "leather_boots";
 name = "Adaptive Boots";
-include("types/boots", this);
 include("types/dungeon", this);
+include("types/boots", this);
 rarity = "EPIC";
 stats = {
   defense: 45,
@@ -18,3 +18,4 @@ gem_slots = [
     "id": "DEFENSIVE_0"
   }
 ];
+base_gear_score = 50;

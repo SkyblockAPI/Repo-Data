@@ -1,8 +1,8 @@
 id = "WITHER_CLOAK";
 item = "stone_sword";
 name = "Wither Cloak Sword";
-include("types/sword", this);
 include("types/dungeon", this);
+include("types/sword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/wither_cloak_sword";
 rarity = "EPIC";
 stats = {
@@ -11,3 +11,4 @@ stats = {
   strength: 135
 };
 requirements.dungeon_completetion.catacombs = 7;
+base_gear_score = 50;

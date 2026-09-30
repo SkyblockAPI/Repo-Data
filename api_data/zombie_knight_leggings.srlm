@@ -1,8 +1,8 @@
 id = "ZOMBIE_KNIGHT_LEGGINGS";
 item = "gold_leggings";
 name = "Zombie Knight Leggings";
-include("types/leggings", this);
 include("types/dungeon", this);
+include("types/leggings", this);
 rarity = "EPIC";
 requirements.dungeons.catacombs = 14;
 tiered_stats = {
@@ -10,3 +10,4 @@ tiered_stats = {
   defense: [85, 92, 101, 109, 119, 130, 142, 155, 169, 184],
   strength: [15, 16, 18, 19, 21, 23, 25, 27, 30, 33]
 };
+base_gear_score = 10;

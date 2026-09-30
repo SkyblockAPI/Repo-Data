@@ -1,8 +1,8 @@
 id = "SKELETOR_LEGGINGS";
 item = "chainmail_leggings";
 name = "Skeletor Leggings";
-include("types/leggings", this);
 include("types/dungeon", this);
+include("types/leggings", this);
 rarity = "EPIC";
 requirements.dungeons.catacombs = 15;
 tiered_stats = {
@@ -11,3 +11,4 @@ tiered_stats = {
   critical_damage: [20, 22, 24, 26, 28, 31, 33, 36, 40, 43],
   critical_chance: [2, 2, 2, 2, 2, 3, 3, 3, 3, 4]
 };
+base_gear_score = 10;

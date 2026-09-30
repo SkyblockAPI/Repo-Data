@@ -19,7 +19,7 @@ meta {
         { color: "gray", text: "Shoots ", extra: [{ color: "aqua", text: "3 "}, "arrows at once."]},
         { color: "gray", text: "Can damage endermen." },
         "",
-        { color: "red", text: "Divides your ", extra: [::format::stat::combat::crit_chance::(), " by 4!"]}
+        { color: "red", text: "Divides your ", extra: [::format::stat::combat::critical_chance::(), " by 4!"]}
     ];
 
     abilities = [

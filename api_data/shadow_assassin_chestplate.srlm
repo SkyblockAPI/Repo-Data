@@ -1,8 +1,8 @@
 id = "SHADOW_ASSASSIN_CHESTPLATE";
 item = "leather_chestplate";
 name = "Shadow Assassin Chestplate";
-include("types/chestplate", this);
 include("types/dungeon", this);
+include("types/chestplate", this);
 rarity = "EPIC";
 stats = {
   walk_speed: 7,
@@ -18,3 +18,4 @@ gem_slots = [
     "id": "JASPER_0"
   }
 ];
+base_gear_score = 25;

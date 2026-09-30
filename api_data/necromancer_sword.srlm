@@ -1,8 +1,8 @@
 id = "NECROMANCER_SWORD";
 item = "iron_sword";
 name = "Necromancer Sword";
-include("types/sword", this);
 include("types/dungeon", this);
+include("types/sword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/necromancers_sword";
 rarity = "LEGENDARY";
 stats = {
@@ -11,3 +11,4 @@ stats = {
   strength: 125
 };
 requirements.dungeon_completetion.catacombs = 6;
+base_gear_score = 50;

@@ -1,8 +1,8 @@
 id = "POWER_WITHER_BOOTS";
 item = "leather_boots";
 name = "Necron's Boots";
-include("types/boots", this);
 include("types/dungeon", this);
+include("types/boots", this);
 rarity = "LEGENDARY";
 stats = {
   defense: 85,
@@ -22,3 +22,4 @@ gem_slots = [
     "id": "COMBAT_0"
   }
 ];
+base_gear_score = 25;

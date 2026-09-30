@@ -1,8 +1,8 @@
 id = "SKELETOR_HELMET";
 item = "player_head";
 name = "Skeletor Helmet";
-include("types/helmet", this);
 include("types/dungeon", this);
+include("types/helmet", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTY5NTQyMTcwMTc5OSwKICAicHJvZmlsZUlkIiA6ICJhMzdlOGYyM2MyMTk0NjJiYjY3ZWUxY2I5OTM2YWY2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEb29yYWxleSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84OWQwNzRhZDliOTk3MTg3OWViMzI1YmRkZmYzNjc1ZjcyMjQ4NTZiZDZkNTY5ZmM4ZDQ4M2MxMzNkNzMwMDVkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=";
 rarity = "EPIC";
 requirements.dungeons.catacombs = 15;
@@ -12,3 +12,4 @@ tiered_stats = {
   critical_damage: [20, 22, 23, 25, 28, 30, 33, 36, 39, 42],
   critical_chance: [2, 2, 2, 2, 2, 3, 3, 3, 3, 4]
 };
+base_gear_score = 10;

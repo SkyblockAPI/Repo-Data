@@ -1,8 +1,8 @@
 id = "WISE_WITHER_LEGGINGS";
 item = "leather_leggings";
 name = "Storm's Leggings";
-include("types/leggings", this);
 include("types/dungeon", this);
+include("types/leggings", this);
 rarity = "LEGENDARY";
 stats = {
   defense: 105,
@@ -20,3 +20,4 @@ gem_slots = [
     "id": "COMBAT_0"
   }
 ];
+base_gear_score = 25;

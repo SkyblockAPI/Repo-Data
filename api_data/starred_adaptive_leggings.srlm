@@ -1,8 +1,8 @@
 id = "STARRED_ADAPTIVE_LEGGINGS";
 item = "leather_leggings";
 name = "Adaptive Leggings";
-include("types/leggings", this);
 include("types/dungeon", this);
+include("types/leggings", this);
 rarity = "EPIC";
 stats = {
   defense: 75,
@@ -18,3 +18,4 @@ gem_slots = [
     "id": "COMBAT_0"
   }
 ];
+base_gear_score = 50;

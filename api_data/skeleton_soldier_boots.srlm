@@ -1,8 +1,8 @@
 id = "SKELETON_SOLDIER_BOOTS";
 item = "leather_boots";
 name = "Skeleton Soldier Boots";
-include("types/boots", this);
 include("types/dungeon", this);
+include("types/boots", this);
 rarity = "EPIC";
 requirements.dungeons.catacombs = 9;
 tiered_stats = {
@@ -11,3 +11,4 @@ tiered_stats = {
   critical_damage: [17, 18, 20, 21, 23, 25, 27, 30, 32, 35],
   critical_chance: [2, 2, 2, 2, 3, 3, 3, 3, 4, 4]
 };
+base_gear_score = 10;

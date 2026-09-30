@@ -1,8 +1,8 @@
 id = "SPEED_WITHER_HELMET";
 item = "player_head";
 name = "Maxor's Helmet";
-include("types/helmet", this);
 include("types/dungeon", this);
+include("types/helmet", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTYwNTYyMzMwNDc1OCwKICAicHJvZmlsZUlkIiA6ICI0ZDcwNDg2ZjUwOTI0ZDMzODZiYmZjOWMxMmJhYjRhZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaXJGYWJpb3pzY2hlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RiZmIwZWQ1OTU5MTkwZDQxNWU3MjZhMTVmMjk4NDAwN2E2N2E1ZmQ0ZWE1NjcxZDBkNjc2ZjlmNjQxYjViYWMiCiAgICB9CiAgfQp9";
 rarity = "LEGENDARY";
 stats = {
@@ -23,3 +23,4 @@ gem_slots = [
     "id": "COMBAT_1"
   }
 ];
+base_gear_score = 25;

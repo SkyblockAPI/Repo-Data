@@ -1,8 +1,8 @@
 id = "SKELETON_LORD_BOW";
 item = "bow";
 name = "Skeleton Lord Bow";
-include("types/bow", this);
 include("types/dungeon", this);
+include("types/bow", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/broken/broken_bow";
 rarity = "EPIC";
 requirements.dungeons.catacombs = 30;

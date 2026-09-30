@@ -16,27 +16,27 @@ static {
   ],
   stats: {
     common: {
-      speed: 1,
+      walk_speed: 1,
       farming_fortune: 1
     },
     uncommon: {
-      speed: 2,
+      walk_speed: 2,
       farming_fortune: 2
     },
     rare: {
-      speed: 3,
+      walk_speed: 3,
       farming_fortune: 3
     },
     epic: {
-      speed: 5,
+      walk_speed: 5,
       farming_fortune: 5
     },
     legendary: {
-      speed: 8,
+      walk_speed: 8,
       farming_fortune: 7
     },
     mythic: {
-      speed: 13,
+      walk_speed: 13,
       farming_fortune: 10
     },
   }

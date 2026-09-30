@@ -1,11 +1,12 @@
 id = "CRYPT_WITHERLORD_HELMET";
 item = "leather_helmet";
 name = "Crypt Witherlord Helmet";
-include("types/helmet", this);
 include("types/dungeon", this);
+include("types/helmet", this);
 rarity = "EPIC";
 requirements.dungeons.catacombs = 18;
 tiered_stats = {
   walk_speed: [5, 6],
   defense: [70, 80]
 };
+base_gear_score = 10;

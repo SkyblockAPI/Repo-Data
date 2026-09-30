@@ -1,8 +1,8 @@
 id = "SPEED_WITHER_CHESTPLATE";
 item = "leather_chestplate";
 name = "Maxor's Chestplate";
-include("types/chestplate", this);
 include("types/dungeon", this);
+include("types/chestplate", this);
 rarity = "LEGENDARY";
 stats = {
   walk_speed: 30,
@@ -22,3 +22,4 @@ gem_slots = [
     "id": "COMBAT_1"
   }
 ];
+base_gear_score = 25;

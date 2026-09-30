@@ -1,8 +1,8 @@
 id = "NECRON_BLADE";
 item = "iron_sword";
 name = "Necron's Blade (Unrefined)";
-include("types/sword", this);
 include("types/dungeon", this);
+include("types/sword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/necrons_blade";
 rarity = "LEGENDARY";
 stats = {

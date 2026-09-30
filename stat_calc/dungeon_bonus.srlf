@@ -1,9 +1,12 @@
 |bonus_stats, stats, data|
 # Dungeon Item Stats
-if (("dungeon_item" !in data || (data.dungeon_item == 0)) && !meta.categories.contains("dungeon")) return;
-
+if (!is_dungeon_item) return;
+print("meow");
 not_affected_by_cata_level = [
-  "magic_find", "true_defense", "crit_chance", "attack_speed", "ferocity", "ability_damage"
+  "magic_find", "true_defense", "critical_chance", "attack_speed", "ferocity", "ability_damage", "health_regen"
+];
+not_affected_by_stars = [
+  "health_regen"
 ];
 
 dungeon_level_bonus_lut = static("stat_calc/dungeon_level_lut");
@@ -15,9 +18,16 @@ total_star_count = if ("upgrade_level" in data) {
 for (stat_entry : Objects.entries(stats)) {
   stat = stat_entry.key;
 
-  stats[stat] *= 1 + ((total_star_count * 0.1) + if (not_affected_by_cata_level.contains(stat)) {
-    0
-  } else {
-    dungeon_level_bonus
-  } + 0.05);
+  stats[stat] *= 1 + (
+    if (not_affected_by_stars.contains(stat)) {
+      0
+    } else {
+      (total_star_count * 0.1)
+    } + 
+    if (not_affected_by_cata_level.contains(stat)) {
+      0
+    } else {
+      dungeon_level_bonus
+    } + 0.05
+  );
 }

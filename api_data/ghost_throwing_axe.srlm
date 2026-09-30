@@ -1,6 +1,6 @@
 id = "GHOST_THROWING_AXE";
 item = "iron_axe";
 name = "Ghost Axe";
-include("types/axe", this);
 include("types/dungeon", this);
+include("types/axe", this);
 rarity = "UNCOMMON";

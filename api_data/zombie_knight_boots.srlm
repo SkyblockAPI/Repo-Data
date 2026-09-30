@@ -1,8 +1,8 @@
 id = "ZOMBIE_KNIGHT_BOOTS";
 item = "gold_boots";
 name = "Zombie Knight Boots";
-include("types/boots", this);
 include("types/dungeon", this);
+include("types/boots", this);
 rarity = "EPIC";
 requirements.dungeons.catacombs = 14;
 tiered_stats = {
@@ -10,3 +10,4 @@ tiered_stats = {
   defense: [46, 50, 55, 60, 65, 71, 78, 84, 92, 100],
   strength: [10, 11, 12, 13, 14, 15, 17, 18, 20, 22]
 };
+base_gear_score = 10;

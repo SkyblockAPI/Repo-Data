@@ -1,8 +1,8 @@
 id = "BOUQUET_OF_LIES";
 item = "double_plant";
 name = "Bouquet of Lies";
-include("types/sword", this);
 include("types/dungeon", this);
+include("types/sword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/dungeons/bouqet_of_lies";
 rarity = "LEGENDARY";
 stats = {

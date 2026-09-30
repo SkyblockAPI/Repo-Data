@@ -3,7 +3,7 @@
 ::stats::combat::true_defense::(this);
 ::stats::combat::damage::(this);
 ::stats::combat::strength::(this);
-::stats::combat::crit_chance::(this);
+::stats::combat::critical_chance::(this);
 ::stats::combat::critical_damage::(this);
 ::stats::combat::attack_speed::(this);
 ::stats::combat::ferocity::(this);

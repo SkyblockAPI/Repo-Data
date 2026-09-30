@@ -1,8 +1,8 @@
 id = "GIANTS_SWORD";
 item = "iron_sword";
 name = "Giant's Sword";
-include("types/longsword", this);
 include("types/dungeon", this);
+include("types/longsword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/giants_sword";
 rarity = "LEGENDARY";
 stats = {
@@ -21,3 +21,4 @@ gem_slots = [
     "id": "JASPER_1"
   }
 ];
+base_gear_score = 100;

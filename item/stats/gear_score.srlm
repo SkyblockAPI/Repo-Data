@@ -1,0 +1,62 @@
+static {
+  stats: {
+    health: 1,
+    defense: 2,
+    strength: 1,
+    intelligence: 0.5,
+    damage: 1,
+    ferocity: 1,
+    critical_chance: 2,
+    critical_damage: 0.8,
+    ability_damage: 1,
+    attack_speed: 2,
+    magic_find: 1,
+  },
+  enchantments: {
+    thorns: 2,
+    sharpness: 2,
+    critical: 2
+  }
+};
+
+total_gear_score = 0;
+
+if ("base_gear_score" in meta) {
+  total_gear_score += meta.base_gear_score;
+}
+
+if ("enchantments" in data) {
+  for (enchantment : Objects.entries(data.enchantments)) {
+    gear_score_per_point = static_data.enchantments[enchantment.key];
+    if (!gear_score_per_point) continue;
+    total_gear_score += gear_score_per_point * enchantment.value;
+  }
+}
+
+in_dungeon_gear_score = total_gear_score;
+
+for (stat : Objects.entries(stats)) {
+  gear_score_per_point = static_data.stats[stat.key];
+  if (!gear_score_per_point) {
+    print("MISSING STAT", stat.key);
+    continue;
+  };
+  total_gear_score += gear_score_per_point * stat.value;
+}
+
+
+for (stat : Objects.entries(dungeon_stats)) {
+  gear_score_per_point = static_data.stats[stat.key];
+  if (!gear_score_per_point) continue;
+  in_dungeon_gear_score += gear_score_per_point * stat.value;
+}
+
+print(stats);
+
+stack.lore.add({text: "Gear Score: ", color: "gray", extra: [
+  {text: String.unformatted(Math.round(Math.clamp(total_gear_score, 0, 5000))), color: "pink"},
+  " ",
+  {text: "(" + String.unformatted(Math.round(Math.clamp(in_dungeon_gear_score, 0, 5000))) + ")", color: "dark_gray"}
+]});
+
+print(total_gear_score, in_dungeon_gear_score);

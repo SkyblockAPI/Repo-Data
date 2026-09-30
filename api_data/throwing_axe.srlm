@@ -1,8 +1,8 @@
 id = "THROWING_AXE";
 item = "gold_axe";
 name = "Throwing Axe";
-include("types/axe", this);
 include("types/dungeon", this);
+include("types/axe", this);
 rarity = "ADMIN";
 stats = {
   damage: 120,

@@ -1,8 +1,8 @@
 id = "HEALING_CIRCLE_ITEM";
 item = "stick";
 name = "Healing Circle";
-include("types/sword", this);
 include("types/dungeon", this);
+include("types/sword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/broken/broken_wand";
 rarity = "RARE";
 stats = {

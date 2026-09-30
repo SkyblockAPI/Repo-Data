@@ -1,8 +1,8 @@
 id = "STONE_CHESTPLATE";
 item = "leather_chestplate";
 name = "Stone Chestplate";
-include("types/chestplate", this);
 include("types/dungeon", this);
+include("types/chestplate", this);
 rarity = "RARE";
 stats = {
   defense: 130

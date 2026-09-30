@@ -1,8 +1,8 @@
 id = "STARRED_ICE_SPRAY_WAND";
 item = "stick";
 name = "Ice Spray Wand";
-include("types/sword", this);
 include("types/dungeon", this);
+include("types/sword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/winter/weapons/ice_spray_wand";
 rarity = "RARE";
 requirements.dungeons.catacombs = 20;
@@ -17,3 +17,4 @@ tiered_stats = {
   weapon_ability_damage: [19000],
   intelligence: [135, 147, 160, 175, 190, 206, 224, 244, 265, 290]
 };
+base_gear_score = 20;

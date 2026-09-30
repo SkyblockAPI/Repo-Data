@@ -1,8 +1,8 @@
 id = "SNIPER_BOW";
 item = "bow";
 name = "Sniper Bow";
-include("types/bow", this);
 include("types/dungeon", this);
+include("types/bow", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/sniper_bow";
 rarity = "RARE";
 requirements.dungeons.catacombs = 10;

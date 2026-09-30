@@ -1,8 +1,8 @@
 id = "CUTLASS";
 item = "iron_sword";
 name = "Cutlass";
-include("types/sword", this);
 include("types/dungeon", this);
+include("types/sword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/broken/broken_sword";
 rarity = "LEGENDARY";
 stats = {

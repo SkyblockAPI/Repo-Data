@@ -1,8 +1,8 @@
 id = "ADAPTIVE_CHESTPLATE";
 item = "leather_chestplate";
 name = "Adaptive Chestplate";
-include("types/chestplate", this);
 include("types/dungeon", this);
+include("types/chestplate", this);
 rarity = "EPIC";
 stats = {
   defense: 85,
@@ -18,3 +18,4 @@ gem_slots = [
     "id": "DEFENSIVE_0"
   }
 ];
+base_gear_score = 50;

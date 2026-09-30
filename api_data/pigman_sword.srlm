@@ -13,3 +13,4 @@ stats = {
   intelligence: 300
 };
 requirements.dungeons.catacombs = 18;
+base_gear_score = 30;

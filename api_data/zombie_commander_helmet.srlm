@@ -1,8 +1,8 @@
 id = "ZOMBIE_COMMANDER_HELMET";
 item = "leather_helmet";
 name = "Zombie Commander Helmet";
-include("types/helmet", this);
 include("types/dungeon", this);
+include("types/helmet", this);
 rarity = "EPIC";
 requirements.dungeons.catacombs = 18;
 tiered_stats = {
@@ -11,3 +11,4 @@ tiered_stats = {
   strength: [8, 10, 11, 12, 13, 14, 16, 17, 19, 22],
   intelligence: [4, 5, 5, 6, 7, 7, 8, 8, 10, 11]
 };
+base_gear_score = 40;

@@ -1,8 +1,8 @@
 id = "ZOMBIE_LORD_BOOTS";
 item = "leather_boots";
 name = "Zombie Lord Boots";
-include("types/boots", this);
 include("types/dungeon", this);
+include("types/boots", this);
 rarity = "EPIC";
 requirements.dungeons.catacombs = 25;
 tiered_stats = {
@@ -11,3 +11,4 @@ tiered_stats = {
   strength: [7, 8, 9, 10, 11, 12, 13, 14, 16, 18],
   intelligence: [7, 8, 9, 10, 11, 12, 13, 14, 16, 18]
 };
+base_gear_score = 25;

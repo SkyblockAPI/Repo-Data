@@ -1,8 +1,8 @@
 id = "CRYPT_WITHERLORD_SWORD";
 item = "diamond_sword";
 name = "Crypt Witherlord Sword";
-include("types/sword", this);
 include("types/dungeon", this);
+include("types/sword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/broken/broken_sword";
 rarity = "EPIC";
 requirements.dungeons.catacombs = 18;

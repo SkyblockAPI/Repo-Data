@@ -1,7 +1,7 @@
 id = "ARCHER_DUNGEON_ABILITY_3";
 item = "bow";
 name = "Healing Bow";
-include("types/bow", this);
 include("types/dungeon", this);
+include("types/bow", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/broken/broken_bow";
 rarity = "RARE";

@@ -2,6 +2,10 @@
 if ("stats" in this) {
     stack.lore.beginSection();
 
+    if (is_dungeon_item) {
+        include("item/stats/gear_score");
+    };
+
     include("stats/rift");
     include("stats/combat");
     include("stats/mining");

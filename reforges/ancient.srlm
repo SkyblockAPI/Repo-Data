@@ -23,7 +23,7 @@ static {
       health: 7,
       defense: 7,
       strength: 35,
-      crit_chance: 15,
+      critical_chance: 15,
       intelligence: 25
     },
   },

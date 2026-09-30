@@ -1,11 +1,12 @@
 id = "BOUNCY_BOOTS";
 item = "leather_boots";
 name = "Bouncy Boots";
-include("types/boots", this);
 include("types/dungeon", this);
+include("types/boots", this);
 rarity = "RARE";
 requirements.dungeons.catacombs = 12;
 tiered_stats = {
   health: [55, 62, 69, 77, 86, 97, 108, 122, 136, 153],
   critical_chance: [5, 5, 6, 6, 7, 7, 8, 8, 9, 10]
 };
+base_gear_score = 10;

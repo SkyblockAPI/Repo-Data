@@ -1,8 +1,8 @@
 id = "DUNGEON_HAMMER";
 item = "iron_axe";
 name = "Hammer";
-include("types/axe", this);
 include("types/dungeon", this);
+include("types/axe", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/foraging_2/axes/sweep_axe";
 rarity = "ADMIN";
 stats = {

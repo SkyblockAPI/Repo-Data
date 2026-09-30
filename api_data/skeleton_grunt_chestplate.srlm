@@ -1,8 +1,8 @@
 id = "SKELETON_GRUNT_CHESTPLATE";
 item = "leather_chestplate";
 name = "Skeleton Grunt Chestplate";
-include("types/chestplate", this);
 include("types/dungeon", this);
+include("types/chestplate", this);
 rarity = "EPIC";
 requirements.dungeons.catacombs = 1;
 tiered_stats = {
@@ -10,3 +10,4 @@ tiered_stats = {
   health: [33, 36, 38, 41, 43, 46, 50, 52, 56, 60],
   critical_damage: [15, 16, 18, 19, 21, 23, 24, 27, 29, 32]
 };
+base_gear_score = 5;

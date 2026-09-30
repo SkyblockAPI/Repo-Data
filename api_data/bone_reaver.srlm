@@ -1,8 +1,8 @@
 id = "BONE_REAVER";
 item = "iron_sword";
 name = "Bone Reaver";
-include("types/longsword", this);
 include("types/dungeon", this);
+include("types/longsword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/dungeons/bone_reaver";
 rarity = "EPIC";
 stats = {

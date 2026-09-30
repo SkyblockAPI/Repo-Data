@@ -1,8 +1,8 @@
 id = "DIAMOND_LIVID_HEAD";
 item = "player_head";
 name = "Diamond Livid Head";
-include("types/helmet", this);
 include("types/dungeon", this);
+include("types/helmet", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MjYwNzEwMCwKICAicHJvZmlsZUlkIiA6ICIzMjNiYjlkYzkwZWU0Nzk5YjUxYzE3NjRmZDRhNjI3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOcGllIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkyNjhlMzY1MDVmMTMxMjM4NGViMzZlZDQ3N2Y0YzIwNTM1NzZjNjAwNThmZDI2YmVkZTI0ZDkwY2I0Y2Y3YmYiCiAgICB9CiAgfQp9";
 rarity = "SPECIAL";
 stats = {

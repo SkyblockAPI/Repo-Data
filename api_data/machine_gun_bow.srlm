@@ -1,8 +1,8 @@
 id = "MACHINE_GUN_BOW";
 item = "bow";
 name = "Machine Gun Shortbow";
-include("types/bow", this);
 include("types/dungeon", this);
+include("types/bow", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/machine_gun_shortbow";
 rarity = "RARE";
 requirements.dungeons.catacombs = 2;

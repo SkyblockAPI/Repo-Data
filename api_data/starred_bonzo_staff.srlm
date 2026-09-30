@@ -1,8 +1,8 @@
 id = "STARRED_BONZO_STAFF";
 item = "blaze_rod";
 name = "Bonzo's Staff";
-include("types/sword", this);
 include("types/dungeon", this);
+include("types/sword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/island_relevant/dungeons/bonzos_staff_fragged";
 rarity = "RARE";
 stats = {

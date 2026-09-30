@@ -1,8 +1,8 @@
 id = "STARRED_SHADOW_FURY";
 item = "diamond_sword";
 name = "Shadow Fury";
-include("types/sword", this);
 include("types/dungeon", this);
+include("types/sword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/shadow_fury_fragged";
 rarity = "LEGENDARY";
 stats = {
@@ -22,3 +22,4 @@ gem_slots = [
     "id": "COMBAT_0"
   }
 ];
+base_gear_score = 100;

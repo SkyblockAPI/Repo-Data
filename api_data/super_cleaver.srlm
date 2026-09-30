@@ -1,8 +1,8 @@
 id = "SUPER_CLEAVER";
 item = "gold_sword";
 name = "Super Cleaver";
-include("types/sword", this);
 include("types/dungeon", this);
+include("types/sword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/super_cleaver";
 rarity = "RARE";
 stats = {

@@ -1,8 +1,8 @@
 id = "LIVID_DAGGER";
 item = "iron_sword";
 name = "Livid Dagger";
-include("types/sword", this);
 include("types/dungeon", this);
+include("types/sword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/livid_dagger";
 rarity = "LEGENDARY";
 stats = {
@@ -19,3 +19,4 @@ gem_slots = [
     "id": "JASPER_0"
   }
 ];
+base_gear_score = 75;

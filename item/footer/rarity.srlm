@@ -8,7 +8,7 @@ rarity = Rarity.stack();
 footer += rarity;
 
 if ("category" in meta) {
-    if (data.dungeon_item) {
+    if (is_dungeon_item) {
         footer += " DUNGEON";
     };
     footer += " " + String.uppercase(meta.category);

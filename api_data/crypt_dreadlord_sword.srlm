@@ -1,8 +1,8 @@
 id = "CRYPT_DREADLORD_SWORD";
 item = "iron_sword";
 name = "Dreadlord Sword";
-include("types/sword", this);
 include("types/dungeon", this);
+include("types/sword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/dreadlord_sword";
 rarity = "RARE";
 requirements.dungeons.catacombs = 3;

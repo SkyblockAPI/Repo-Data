@@ -1,8 +1,8 @@
 id = "GOLD_PROFESSOR_HEAD";
 item = "player_head";
 name = "Golden Professor Head";
-include("types/helmet", this);
 include("types/dungeon", this);
+include("types/helmet", this);
 skin = "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NDE3MzE2NSwKICAicHJvZmlsZUlkIiA6ICI3MThiZmYxOTQxN2U0MjNiYjFjMDY0OGMzN2UxYmMwMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbGFja0VuZXJneVBUIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY4Y2EwM2Q3OGQxNTdkZjM0ZThjNDI4ODFmZjU3ZWE4OTgxODM2N2U0MGUyODhkYTdmOGI0MWNjYTVjMWQ0MDYiCiAgICB9CiAgfQp9";
 rarity = "SPECIAL";
 stats = {

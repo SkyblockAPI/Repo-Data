@@ -5,7 +5,7 @@ static {
   breaking_power: "",
   cold: "",
   cold_resistance: "",
-  crit_chance: "",
+  critical_chance: "",
   critical_damage: "",
   defense: "",
   double_hook_chance: "",

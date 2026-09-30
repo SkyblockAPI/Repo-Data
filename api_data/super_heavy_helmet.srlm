@@ -1,11 +1,12 @@
 id = "SUPER_HEAVY_HELMET";
 item = "leather_helmet";
 name = "Super Heavy Helmet";
-include("types/helmet", this);
 include("types/dungeon", this);
+include("types/helmet", this);
 rarity = "EPIC";
 requirements.dungeons.catacombs = 15;
 tiered_stats = {
   walk_speed: [-10, -10, -10, -10, -10, -10, -10, -10, -10, -10],
   defense: [70, 78, 86, 96, 106, 118, 131, 146, 162, 180]
 };
+base_gear_score = 10;

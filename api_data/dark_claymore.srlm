@@ -1,8 +1,8 @@
 id = "DARK_CLAYMORE";
 item = "stone_sword";
 name = "Dark Claymore";
-include("types/longsword", this);
 include("types/dungeon", this);
+include("types/longsword", this);
 this["minecraft:item_model"] = "hypixel_skyblock:item/uncategorized/dark_claymore";
 rarity = "LEGENDARY";
 stats = {
