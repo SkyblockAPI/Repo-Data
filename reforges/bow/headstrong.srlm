@@ -1,0 +1,34 @@
+static {
+  name: "Headstong",
+  stats: {
+    common: {
+    },
+    uncommon: {
+    },
+    rare: {
+    },
+    epic: {
+    },
+    legendary: {
+      strength: 23,
+      critical_chance: 15,
+      critical_damage: 42
+    },
+    mythic: {
+    }
+  },
+  description: [
+    {
+      color: "blue",
+      text: "Headstrong Bonus"
+    },
+    {
+      color: "gray",
+      text: "Deal ",
+      extra: [
+        {text: "+8%", color: "lime"},
+        " extra damage when arrows hit the head of a mob."
+      ]
+    }
+  ]
+};

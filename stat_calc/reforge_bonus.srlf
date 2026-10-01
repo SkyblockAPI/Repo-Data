@@ -1,7 +1,11 @@
 |bonus_stats, stats, data|
 if ("modifier" !in data) return;
 
-reforge_data = static("reforges/"+data.modifier);
+reforge_data = call("reforges/reforges", {
+    type: data.modifier
+});
+
+if (!reforge_data) return;
 
 all_reforge_stats = reforge_data.stats;
 

@@ -1,0 +1,11 @@
+|profile, type, default?|
+
+default = if (default) { default } else { 0 };
+
+profile_value = ::utils::get_path::{instance: profile, path: ["catacombs", type]};
+
+if (profile_value) {
+    return profile_value;
+} else {
+    return default;
+}

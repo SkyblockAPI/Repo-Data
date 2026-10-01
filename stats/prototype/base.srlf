@@ -38,16 +38,18 @@ if (bonus_stats[stat]) {
 };
 
 if (dungeon_stats[stat]) {
-  dungeon_extra = [
-    " ",
-    "(",
-    String.formatted(dungeon_stats[stat])
-  ];
-  if (suffix) {
-    dungeon_extra += suffix;
-  };
-  dungeon_extra += ")";
-  extra.add({extra: dungeon_extra, color: "dark_gray"});
+  if (dungeon_stats[stat] > 0) {
+    dungeon_extra = [
+      " ",
+      "(",
+      String.formatted(dungeon_stats[stat])
+    ];
+    if (suffix) {
+      dungeon_extra += suffix;
+    };
+    dungeon_extra += ")";
+    extra.add({extra: dungeon_extra, color: "dark_gray"});
+  }
 }
 
 stack.lore.add({

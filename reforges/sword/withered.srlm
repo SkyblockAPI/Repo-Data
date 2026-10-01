@@ -1,0 +1,47 @@
+static {
+  name: "Withered",
+  description: [
+    {
+      text: "Withered Bonus",
+      color: "blue"
+    },
+    {
+      text: "Grants ",
+      extra: [
+        { text: "+1", color: "lime" },
+        " ",
+        call("format/stat/combat/strength"),
+        " per ",
+        { text: "Catacombs", color: "red"},
+        " level."
+      ],
+      color: "gray"
+    }
+  ],
+  description_wrap: 25,
+  stats: {
+    common: {
+      strength: 60,
+    },
+    uncommon: {
+      strength: 75,
+    },
+    rare: {
+      strength: 90,
+    },
+    epic: {
+      strength: 110,
+    },
+    legendary: {
+      strength: 135,
+    },
+    mythic: {
+      strength: 170,
+    },
+  },
+  specific_stats: |this| {
+    return {
+      strength: ::profile::skill_level::(this.profile, "catacombs")
+    }
+  }
+};

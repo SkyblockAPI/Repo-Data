@@ -2,10 +2,10 @@
 if ("tiered_stats" in meta) {
   item_tier = if ("item_tier" in data) {
     data.item_tier
-  } else 0;
+  } else 1;
 
   for (tiered_stat : Objects.entries(meta.tiered_stats)) {
-    stats[String.lowercase(tiered_stat.key)] = tiered_stat.value[item_tier];
+    stats[String.lowercase(tiered_stat.key)] = tiered_stat.value[Math.clamp(item_tier - 1, 0, tiered_stat.value.length - 1)];
   };
 } else if ("stats" in meta) {
   stat_entries = Objects.entries(meta.stats);

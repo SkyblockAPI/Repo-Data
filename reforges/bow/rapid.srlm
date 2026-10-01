@@ -1,0 +1,19 @@
+static {
+  name: "Rapid",
+  stats: {
+    common: {
+    },
+    uncommon: {
+    },
+    rare: {
+      strength: 4,
+      critical_damage: 55
+    },
+    epic: {
+    },
+    legendary: {
+    },
+    mythic: {
+    }
+  },
+};

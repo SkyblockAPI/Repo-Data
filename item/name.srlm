@@ -1,5 +1,7 @@
 reforge_name = if ("modifier" in data) {
-  reforge_data = static("reforges/"+data.modifier);
+  reforge_data = call("reforges/reforges", {
+    type: data.modifier
+  });
   (reforge_data.name + " ")
 } else {
   ""

@@ -1,0 +1,23 @@
+static {
+    levels: 1..4,
+    name: "Thorns",
+    wrap_override: 35
+};
+
+damage_rebound = 3 * level;
+
+description = {
+    text: "Grants a ",
+    extra: [
+      {color: "lime", text: "50%"},
+      " chance to rebound ",
+      {color: "lime", text: String.uFormatted(damage_rebound) + "%"},
+      " damage dealt back at the attacker."
+    ],
+    color: "gray"
+};
+
+return {
+    level,
+    description,
+};

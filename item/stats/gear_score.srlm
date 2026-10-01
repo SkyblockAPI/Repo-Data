@@ -15,7 +15,15 @@ static {
   enchantments: {
     thorns: 2,
     sharpness: 2,
-    critical: 2
+    critical: 2,
+
+    # these are all guesses 🥺
+    infinite_quiver: 1,
+    power: 2,
+    snipe: 2,
+    piercing: 1,
+    chance: 2,
+    ultimate_soul_eater: 3
   }
 };
 

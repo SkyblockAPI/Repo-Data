@@ -1,0 +1,19 @@
+static {
+  name: "Deadly",
+  stats: {
+    common: {
+    },
+    uncommon: {
+    },
+    rare: {
+      critical_chance: 16,
+      critical_damage: 18
+    },
+    epic: {
+    },
+    legendary: {
+    },
+    mythic: {
+    }
+  }
+};

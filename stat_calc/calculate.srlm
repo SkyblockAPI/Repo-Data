@@ -2,6 +2,7 @@
 if (is_dungeon_item) ::stat_calc::init_base::{ stats: dungeon_stats, meta };
 
 for (entry : [
+    "bsb_bonus", 
     "star_bonus",
     "enchant_bonus",
     "dpc_bonus",
@@ -11,7 +12,8 @@ for (entry : [
     "aop_bonus",
     "ffd_bonus",
     "reforge_bonus",
-    "booster_bonus"
+    "booster_bonus",
+    "apply_rounding",
 ]) {
     ::stat_calc::<entry>::{
         extra_stats,
@@ -23,6 +25,7 @@ for (entry : [
 }
 if (is_dungeon_item) {
     for (entry : [
+        "bsb_bonus",
         "enchant_bonus",
         "dpc_bonus",
         "polarvoid_bonus",
@@ -32,6 +35,7 @@ if (is_dungeon_item) {
         "ffd_bonus",
         "reforge_bonus",
         "booster_bonus",
+        "apply_rounding",
         "dungeon_bonus"
     ]) {
         ::stat_calc::<entry>::{

@@ -1,0 +1,7 @@
+|stats|
+
+for (stat_entry : Objects.entries(stats)) {
+  stat = stat_entry.key;
+
+  stats[stat] = Math.ceil(stat_entry.value);
+}

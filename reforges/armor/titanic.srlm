@@ -1,0 +1,29 @@
+static {
+  name: "Titanic",
+  stats: {
+    common: {
+      health: 10,
+      defense: 10
+    },
+    uncommon: {
+      health: 15,
+      defense: 15
+    },
+    rare: {
+      health: 20,
+      defense: 20
+    },
+    epic: {
+      health: 25,
+      defense: 25
+    },
+    legendary: {
+      health: 35,
+      defense: 35
+    },
+    mythic: {
+      health: 50,
+      defense: 50
+    }
+  },
+};

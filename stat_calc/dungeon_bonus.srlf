@@ -3,10 +3,10 @@
 if (!is_dungeon_item) return;
 
 not_affected_by_cata_level = [
-  "magic_find", "true_defense", "critical_chance", "attack_speed", "ferocity", "ability_damage", "health_regen"
+  "magic_find", "true_defense", "critical_chance", "attack_speed", "ferocity", "ability_damage", "health_regen", "swing_range",
 ];
 not_affected_by_stars = [
-  "health_regen"
+  "health_regen", "swing_range"
 ];
 
 dungeon_level_bonus_lut = static("stat_calc/dungeon_level_lut");
@@ -15,6 +15,13 @@ dungeon_level_bonus = dungeon_level_bonus_lut.bonuses[Math.clamp(::profile::skil
 total_star_count = if ("upgrade_level" in data) {
   Math.clamp(data.upgrade_level, 0, 5)
 } else 0;
+
+medallion_bonus = 0;
+
+if (::profile::catacombs::(this.profile, "has_medallion", false)) {
+  medallion_bonus = Math.clamp(1 + Math.floor(Math.log10(::profile::catacombs::(this.profile, "secret_count", 0))), 0, 5) / 100;
+}
+
 for (stat_entry : Objects.entries(stats)) {
   stat = stat_entry.key;
 
@@ -28,6 +35,6 @@ for (stat_entry : Objects.entries(stats)) {
       0
     } else {
       dungeon_level_bonus
-    } + 0.05
+    } + medallion_bonus
   );
 }

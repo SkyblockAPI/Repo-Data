@@ -4,7 +4,9 @@ if ("modifier" !in data) {
     });
     return;
 };
-reforge = static("reforges/" + data.modifier);
+reforge = call("reforges/reforges", {
+  type: data.modifier
+});
 
 if ("description" in reforge) {
     reforge_wrap_length = if ("description_wrap" !in reforge) {

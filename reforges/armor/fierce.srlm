@@ -1,0 +1,35 @@
+static {
+  name: "Fierce",
+  stats: {
+    common: {
+      strength: 2,
+      critical_chance: 2,
+      critical_damage: 4
+    },
+    uncommon: {
+      strength: 4,
+      critical_chance: 3,
+      critical_damage: 7
+    },
+    rare: {
+      strength: 2,
+      critical_chance: 2,
+      critical_damage: 4
+    },
+    epic: {
+      strength: 2,
+      critical_chance: 2,
+      critical_damage: 4
+    },
+    legendary: {
+      strength: 10,
+      critical_chance: 6,
+      critical_damage: 18
+    },
+    mythic: {
+      strength: 2,
+      critical_chance: 2,
+      critical_damage: 4
+    }
+  },
+};

@@ -1,0 +1,24 @@
+static eval {
+  subdirs = dirs("reforges/");
+  result = {};
+
+  for (subdir : subdirs) {
+    submodules = list("reforges/" + subdir + "/");
+    for (submodule : submodules) {
+      result[submodule] = subdir;
+    };
+  };
+
+  result
+};
+
+folder_map = static("reforges/reforges");
+
+path = if (folder_map[type]) {
+  (folder_map[type] + "/")
+} else {
+  print("Could not find reforge " + type + ".");
+  return;
+} + type;
+
+return static("reforges/" + path);

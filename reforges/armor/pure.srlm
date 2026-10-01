@@ -1,0 +1,25 @@
+static {
+  name: "Pure",
+  stats: {
+    common: {
+    },
+    uncommon: {
+    },
+    rare: {
+    },
+    epic: {
+    },
+    legendary: {
+      strength: 8,
+      critical_chance: 10,
+      critical_damage: 8,
+      attack_speed: 4,
+      health: 8,
+      defense: 8,
+      walk_speed: 1,
+      intelligence: 8
+    },
+    mythic: {
+    }
+  },
+};
