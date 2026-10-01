@@ -5,6 +5,5 @@ if ("baseStatBoostPercentage" !in data) return;
 
 for (stat_entry : Objects.entries(stats)) {
   stat = stat_entry.key;
-  print(stat, stat_entry.value);
   stats[stat] *= 1 + (data.baseStatBoostPercentage / 100);
 }
