@@ -220,7 +220,7 @@ e41edab1cb66ec2e119c6fe66e283781d82c2a49983623b584fa66128a6e8582  ./item/footer/
 d4ada8d065b59707376525f68e9ff24318536f47e2ad62af9c8c9a4dad9ba302  ./item/stats/boosters.srlm
 adca9e4957375e8a1a73c5da54f5809c48cd3372bce2606337ad6a85224a80cd  ./item/stats/gem_slots.srlm
 8790d7792c61df44a2bf95ea78837e82cdf7e6f34e5d4c73f796330669f241ef  ./item/stats/accessory_power.srlm
-70dbd42a285bcd4d18f7e8e5d9a5e5f36fef48b01358a93ef6910af5dd2e8db4  ./item/stats/gear_score.srlm
+56458bc65d0500c2e961945be3dfee7967f0b55091e101e1fd280088c90cdcfe  ./item/stats/gear_score.srlm
 0235aac5a4a8eb439b9e20dae24a4041c563522ce2df6155f0ec8a1efa532742  ./item/stats/shot_cooldown.srlm
 6c3d1537397528c4b5e85c8052f58e98f969680208323f963b3d59953c60919d  ./item/headers.srlm
 d963b93564cf31afa9318025baa0c57cf0276f78150870dd89886652cafdc493  ./item/footer.srlm
