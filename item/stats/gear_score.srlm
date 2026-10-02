@@ -61,7 +61,7 @@ for (stat : Objects.entries(dungeon_stats)) {
 
 
 stack.lore.add({text: "Gear Score: ", color: "gray", extra: [
-  {text: String.unformatted(Math.round(Math.clamp(total_gear_score, 0, 5000))), color: "pink"},
+  {text: String.uFormattedI(Math.round(Math.clamp(total_gear_score, 0, 5000))), color: "pink"},
   " ",
-  {text: "(" + String.unformatted(Math.round(Math.clamp(in_dungeon_gear_score, 0, 5000))) + ")", color: "dark_gray"}
+  {text: "(" + String.uFormattedI(Math.round(Math.clamp(in_dungeon_gear_score, 0, 5000))) + ")", color: "dark_gray"}
 ]});
