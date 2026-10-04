@@ -1,4 +1,4 @@
 {
   color: "purple",
-  icon: ::format::stat_icon::("defence")
+  icon: ::format::stat_icon::("defense")
 }

@@ -55,14 +55,38 @@ call("utils/meta_or_optional", { field: "gem_slots", ...this }).ifPresent(| gem_
 
     slot_gem = if (has_data_gem) data.gems[slot_key + "_gem"];
     if (!slot_gem) slot_gem = slot_type;
-
-    slot_text.add(" ");
-    slot_text.addAll(call("gem_slots/slot", {
+    slot_text.add(call("gem_slots/slot", {
       tier: String.lowercase(slot_tier),
       gem: String.lowercase(slot_gem),
       type: String.lowercase(slot_type)
     }));
   };
   if (slot_text.length == 0) return;
-  stack.lore.add({text: "Gemstones:", color: "gray", extra: slot_text});
+
+  if (slot_text.length < 5) {
+    final_slot_text = [];
+    for (slot : slot_text) {
+      final_slot_text.add(" ");
+      final_slot_text.addAll(slot);
+    };
+    stack.lore.add({text: "Gemstones:", color: "gray", extra: final_slot_text});
+  } else if (slot_text.length < 10) {
+    stack.lore.add({text: "Gemstones:", color: "gray"});
+    final_slot_text = [];
+    for (slot : slot_text) {
+      final_slot_text.add(" ");
+      final_slot_text.addAll(slot);
+    };
+    stack.lore.add({color: "gray", extra: final_slot_text});
+  } else {
+    stack.lore.add({text: "Gemstones:", color: "gray"});
+    for (line : slot_text.chunked(5)) {
+      final_slot_text = [];
+      for (slot : line) {
+        final_slot_text.add(" ");
+        final_slot_text.addAll(slot);
+      };
+      stack.lore.add({color: "gray", extra: final_slot_text});
+    };
+  };
 });
